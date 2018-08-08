@@ -1,0 +1,7954 @@
+	{
+
+		"fable [fabl] n.f.": {
+			"lingala": [{
+				"lisapo": {
+					"def": "lisoló lya makanifosi",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"récit, histoire imaginaire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fabricant, ante [fab{ikA), A)t] n.": {
+			"lingala": [{
+				"mokeli, mosáli": {
+					"def": "moto óyo akelí tô asáli elÔ¡k¡",
+					"ex": "mosáli sapáto, mokeli bikótó, k¡d¡ní"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui fabrique"
+			],
+			"ex": [
+				"un fabricant de chaussures"
+			]
+		},
+
+		"fabrication [fab{ikasjç)] n.f.": {
+			"lingala": [{
+				"bokeli, bosáli": {
+					"def": "ekela ya kokela tô ya kosála",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de fabriquer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fabriquer [fab{ike] v.tr.": {
+			"lingala": [{
+				"kokela, kosála": {
+					"def": "kotonga elÔ¡k¡",
+					"ex": "kokela tô kosála ekótó tô sapáto"
+				}
+			}],
+			"def": [
+				"faire, façonner, confectionner, construire"
+			],
+			"ex": [
+				"fabriquer des chaussures"
+			]
+		},
+
+		"fabulateur, trice [fabylatœ{, t{is] adj. et n.": {
+			"lingala": [{
+				"-a lisoló": {
+					"def": "eye ezalí sé lisoló mpámba",
+					"ex": "lisapo"
+				}
+			}],
+			"def": [
+				"qui est relatif à la fabulation, qui a tendance à la fabulation"
+			],
+			"ex": [
+				"un récit fabulateur"
+			]
+		},
+
+		"fabulation [fabylasjç)] n.f.": {
+			"lingala": [{
+				"lisapo, lisoló": {
+					"def": "lisoló liye lizalí sé likanisi kási limÔ¡nÔ¡ní bó lya sÊ¡lÔ¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"récit imaginaire présenté comme réel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fabuler [fabyle] v.intr.": {
+			"lingala": [{
+				"kosapa, kosolola, kobÔ¥t¥ (lisoló)": {
+					"def": "kolakisa bó ya sÊ¡lÔ¡makambo maye mazalí sé makanisi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"présenter comme réels des faits imaginaires, inventer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fabuleux, euse [fabylø, øz] adj.": {
+			"lingala": [{
+				"-a kokámwa": {
+					"def": "eye ekokámwisa",
+					"ex": "nkÔ¡nz¡ tô libakú lya kokámwa"
+				}
+			}],
+			"def": [
+				"étonnant, fantastique, incroyable, hors du commun"
+			],
+			"ex": [
+				"une chance fabuleuse"
+			]
+		},
+
+		"fabuliste [fabylist] n.": {
+			"lingala": [{
+				"mosapi": {
+					"def": "moto tô mokomi wa masapo",
+					"ex": "La Fontaine azalí mosapi monÔ¥n¥"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"auteur qui compose des fables"
+			],
+			"ex": [
+				"La Fontaine est un grand fabuliste"
+			]
+		},
+
+		"façade [fasad] n.f.": {
+			"lingala": [{
+				"efelo ya libosó": {
+					"def": "efelo ya ndáko eye etálání na balabála",
+					"ex": "efelo ya libosó ya magazíni"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"côté d’une maison donnant sur la rue"
+			],
+			"ex": [
+				"façade d’un magasin"
+			]
+		},
+
+		"face [fas] n.f.": {
+			"lingala": [{
+				"elongi": {
+					"def": "eténi ezwámí o bosó ya motó mwa moto",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"partie antérieure de la tête de l’homme, visage, figure"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"face-à-face [fasafas] n.m.": {
+			"lingala": [{
+				"ntembe": {
+					"def": "bowélani ya bato bábalé libosó lya bato baíké",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"débat, discussion entre deux personnalités devant un vaste public"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facétie [fasesi] n.f.": {
+			"lingala": [{
+				"ndingyá, lisÔ¥b¡, lís¥kí": {
+					"def": "lisoló lya bos¥ki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"plaisanterie, farce"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facette [fasEt] n.f.": {
+			"lingala": [{
+				"mwâ elongi": {
+					"def": "elongi ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite face"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fâcher [fASe] I v.tr.": {
+			"lingala": [{
+				"kolémwisa, kosilikisa, kodasukisa, kongalisa": {
+					"def": "koyókisa nkándá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mettre en colère, irriter"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fâcherie [faS{i] n.f.": {
+			"lingala": [{
+				"matáta, mak¥lÔ¥l¥, boswáni": {
+					"def": "bozángi boyókani",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"brouille, mésentente, désaccord"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fâcheusement [fASøzmA)] adv": {
+			"lingala": [{
+				"na nkándá": {
+					"def": "na loléngé la nkándá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière fâcheuse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fâcheux, euse [fASø, øz] adj.": {
+			"lingala": [{
+				"-a nkándá": {
+					"def": "eye ezalí kosepelisa tÔ¥, eye ekopésa nkándá",
+					"ex": "nsango ya nkándá"
+				}
+			}],
+			"def": [
+				"qui dérange, déplaisant, malheureux"
+			],
+			"ex": [
+				"une fâcheuse nouvelle"
+			]
+		},
+
+		"fâché, ée [fASe] adj.": {
+			"lingala": [{
+				"-a kolémwa, -a kosilika, -a kot¡mb¡k¡, -a kodasuka": {
+					"def": "óyo azalí na nkándá",
+					"ex": "kosilika na moto, kot¡mb¡k¡ na moto, kolémwa na moto"
+				}
+			}],
+			"def": [
+				"mécontent, irrité"
+			],
+			"ex": [
+				"être fâché contre qqn"
+			]
+		},
+
+		"facial, ale, als ou aux [fasjal, o] adj.": {
+			"lingala": [{
+				"-a elongi": {
+					"def": "eye etálí elongi",
+					"ex": "motungá mwa elongi"
+				}
+			}],
+			"def": [
+				"qui a rapport à la face"
+			],
+			"ex": [
+				"un muscle facial"
+			]
+		},
+
+		"faciès [fasjEs] n.m.": {
+			"lingala": [{
+				"elongi": {
+					"def": "loléngé la elongi",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"aspect, forme du visage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facile [fasil] adj.": {
+			"lingala": [{
+				"-a p¥t¥, -a bol¥mbú, p¥t¥p¥t¥": {
+					"def": "eye ezalí makási tÔ¥tô eséngaka mosálá míngi tÊ¥ tÉo mpé esálemaka ntángo na mpási",
+					"ex": "mosála mwa p¥t¥"
+				}
+			}],
+			"def": [
+				"qui se fait sans difficulté, sans effort, aisé"
+			],
+			"ex": [
+				"un exercice facile"
+			]
+		},
+
+		"facilement [fasilmA)] adv.": {
+			"lingala": [{
+				"na bol¥mbú": {
+					"def": "ntángo na mpási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avec facilité, sans difficulté, aisément"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facilité [fasilite] n.f.": {
+			"lingala": [{
+				"bol¥mbú, p¥t¥p¥t¥": {
+					"def": "ezalela ya elÔ¡k¡ tô likambo liye likosálemaka ntángo na mpási tô kpÔ¡kÔ¡sÔ¡",
+					"ex": "mosálá mwa mpási tÔ¥"
+				}
+			}],
+			"def": [
+				"qualité d’une chose facile, aisance"
+			],
+			"ex": [
+				"facilité d’un travail"
+			]
+		},
+
+		"faciliter [fasilite] v.tr.": {
+			"lingala": [{
+				"kol¥mbisa": {
+					"def": "kokútola bokási ya, kokómisa p¥t¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre facile, plus facile"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"façon [fasç)] n.f.": {
+			"lingala": [{
+				"loléngé, motíndo": {
+					"def": "ezalela ya elÔ¡k¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"manière"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"façonner [fasçne] v.tr.": {
+			"lingala": [{
+				"kosála, kokela, koyema": {
+					"def": "kopésa elÔ¡k¡ loléngé ekokí kozala",
+					"ex": "kosála ekeko, koyema ekeko"
+				}
+			}],
+			"def": [
+				"donner une forme à"
+			],
+			"ex": [
+				"façonner une statue"
+			]
+		},
+
+		"facteur, trice [faktœ{, t{is] n": {
+			"lingala": [{
+				"mokaboli mikandá": {
+					"def": "moto óyo akokabolaka mikandá",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui distribue le courrier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"factieux, euse [faksjø, øz] adj.": {
+			"lingala": [{
+				"kimpumbúlu": {
+					"def": "moto óyo akotyáka mobúlú na mbóka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui fomente des troubles dans un pays"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faction [faksjç)] n.f.": {
+			"lingala": [{
+				"lingómbá mobúlú": {
+					"def": "lingómbá tô partí eye ezalí kokÔ¡tisa mobúlú na mbóka yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"parti qui fomente des troubles dans un pays"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facture [fakty{] n.f.": {
+			"lingala": [{
+				"fakitíli": {
+					"def": "lokásá ezalí na motúya ya masandísi tô ya mosálá mosálámí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"document indiquant le prix d’une marchandise ou d’un service"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facturer [fakty{e] v.tr.": {
+			"lingala": [{
+				"kofakitilé": {
+					"def": "kosála fakitíli",
+					"ex": "kofakitilé masandídi"
+				}
+			}],
+			"def": [
+				"établir la facture de"
+			],
+			"ex": [
+				"facturer une marchandise"
+			]
+		},
+
+		"facturier [fakty{je] n.m.": {
+			"lingala": [{
+				"búku ya fakitíli": {
+					"def": "búku wápi bakokomaka fakitíli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"livre dans lequel on enregistre les factures"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"facultatif, ive [fakyltatif, iv] adj.": {
+			"lingala": [{
+				"-a kosála tô kobóya": {
+					"def": "eye moto akokí kosála tô kobóya kosála",
+					"ex": "mosálá mwa kosála tô kobóya"
+				}
+			}],
+			"def": [
+				"qu’on peut faire ou non"
+			],
+			"ex": [
+				"un devoir facultatif"
+			]
+		},
+
+		"faculté [fakylte] n.f.": {
+			"lingala": [{
+				"likokí, nguyá": {
+					"def": "elÔ¡k¡ moto akokí kosála",
+					"ex": "likokí likási lya mosálá"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"disposition naturelle d’un individu, aptitude, don"
+			],
+			"ex": [
+				"une grande faculté de travail"
+			]
+		},
+
+		"fadaise [fadEz] n.f.": {
+			"lingala": [{
+				"bozóba": {
+					"def": "maloba mazángí ntína",
+					"ex": "koyóka bozóba"
+				}
+			}],
+			"def": [
+				"parole ou plaisanterie sotte; baliverne, niaiserie, sornette"
+			],
+			"ex": [
+				"écouter des fadaises"
+			]
+		},
+
+		"fade [fad] adj.": {
+			"lingala": [{
+				"mpíy¡, sábó, gbutu, malíli": {
+					"def": "eye ezángí bot¥tú tô el¥ngi",
+					"ex": "masanga sábó, súpú mpíy¡"
+				}
+			}],
+			"def": [
+				"qui n’a pas de goût, qui manque de saveur, insipide"
+			],
+			"ex": [
+				"une boisson, une sauce fade"
+			]
+		},
+
+		"fadeur [fadœ{] n.f.": {
+			"lingala": [{
+				"mpíy¡, malíli": {
+					"def": "bozángi bot¥tú, bozángi el¥ngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manque de goût, de saveur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fagot [fago] n.m.": {
+			"lingala": [{
+				"ebólo, ebimba, libóké": {
+					"def": "mopiko mwa nkóni bakangí nsinga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"tas de bois ficellé"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fagoter [fagote] v.tr.": {
+			"lingala": [{
+				"kolínga, kotíya ebólo": {
+					"def": "kotíya esíka yÉ¡kÔ¡tô kokangisa libóké",
+					"ex": "kolínga nkóni libóké"
+				}
+			}],
+			"def": [
+				"mettre en fagot"
+			],
+			"ex": [
+				"fagoter du bois"
+			]
+		},
+
+		"faible [fEbl] adj. et n.": {
+			"lingala": [{
+				"-taú": {
+					"def": "óyo azángí bokási, eye ezángi bokási, óyo azalí motaú, eye ezalí p¥t¥",
+					"ex": "moyékoli motaú, kokabola bataú na ba mpíko"
+				}
+			}],
+			"def": [
+				"qui n’est pas fort, qui manque de force, de solidité"
+			],
+			"ex": [
+				"un élève faible, séparer les faibles et les forts"
+			]
+		},
+
+		"faiblement [fEbl´mA)] adv.": {
+			"lingala": [{
+				"na malÔ¥mb¥": {
+					"def": "na loléngé la malÔ¥mb¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière faible"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faiblesse [fEblEs] n.f.": {
+			"lingala": [{
+				"botaú, p¥t¥p¥t¥": {
+					"def": "bozángi makási, bozángi mpíko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manque de force, de solidité, insuffisance"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faiblir [febli{] v.intr. ": {
+			"lingala": [{
+				"kol¥mb¥": {
+					"def": "kobúngisa bokási, kokóma motaú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"perdre de sa force, devenir faible"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faiblissant, ante [feblisA), A)t] adj.": {
+			"lingala": [{
+				"-a kol¥mb¥, (e)-kómá motaú": {
+					"def": "eye ezalí kol¥mb¥, eye ezalí kokóma motaú",
+					"ex": "mpaka akómá motaú"
+				}
+			}],
+			"def": [
+				"qui devient faible"
+			],
+			"ex": [
+				"un vieillard faiblissant"
+			]
+		},
+
+		"faillible [fajibl] adj.": {
+			"lingala": [{
+				"-a kobúnga, -a komíkósa": {
+					"def": "óyo akokí kobúnga tô komíkósa",
+					"ex": "moto nyÔ¡ns¡ akobúngaka, moto nyÔ¡ns¡ akomíkósaka"
+				}
+			}],
+			"def": [
+				"qui peut se tromper"
+			],
+			"ex": [
+				"tout homme est faillible"
+			]
+		},
+
+		"faillite [fajit] n.f.": {
+			"lingala": [{
+				"bokpéi/bokwéi": {
+					"def": "bobúngisi nkita íns¡",
+					"ex": "kokpá/kokwéya"
+				}
+			}],
+			"def": [
+				"échec total, ruine"
+			],
+			"ex": [
+				"tomber en faillite"
+			]
+		},
+
+		"faim [fE)] n.f.": {
+			"lingala": [{
+				"nzala": {
+					"def": "mpósa ya kolíya",
+					"ex": "koyóka nzala"
+				}
+			}],
+			"def": [
+				"envie de manger"
+			],
+			"ex": [
+				"avoir faim"
+			]
+		},
+
+		"fainéanter [fEneA)te] v.intr.": {
+			"lingala": [{
+				"kozala g¡igÔ¡i": {
+					"def": "koyéba mosálá mÉ¡kÔ¡tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"vivre en fainéant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fainéantise [fEneA))tiz] n.f.": {
+			"lingala": [{
+				"g¡igÔ¡i, bog¡igÔ¡i, boséndé": {
+					"def": "bozángi bokási na mosálá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"paresse, nonchalance, indolence"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fainéant, ante [fEneA), A)t] adj. et n.": {
+			"lingala": [{
+				"g¡igÔ¡i, -a boséndé": {
+					"def": "moto alingí mosálá tÔ¥, óyo alingí mosálá tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui ne veut rien faire, qui ne veut pas travailler, paresseux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faire [fE{] v.tr.": {
+			"lingala": [{
+				"kokela, kosála": {
+					"def": "kobimisa elÔ¡k¡",
+					"ex": "kosála mosálá"
+				}
+			}],
+			"def": [
+				"créer, produire"
+			],
+			"ex": [
+				"faire un travail"
+			]
+		},
+
+		"faire-part [fE{pa{] n.m.": {
+			"lingala": [{
+				"lokásá-eyébisa": {
+					"def": "mokandá moye mozalí koyébisa sango tô likambo",
+					"ex": "lokásá-eyébisa mbótámá, lokásá-eyébisa libála, lokásá-eyébisa liwá"
+				}
+			}],
+			"def": [
+				"lettre par laquelle on annonce un événement"
+			],
+			"ex": [
+				"un faire-part de naissance, de mariage, de décès"
+			]
+		},
+
+		"faisable [f´zabl] adj.": {
+			"lingala": [{
+				"-a kosálema": {
+					"def": "eye ekokí kosálema",
+					"ex": "mosálá mwa kosálema"
+				}
+			}],
+			"def": [
+				"qui peut être fait"
+			],
+			"ex": [
+				"un travail faisable"
+			]
+		},
+
+		"faisandage [f´zA)daZ] n.m.": {
+			"lingala": [{
+				"bop¡lú": {
+					"def": "ekela ya kokómisa elÔ¡k¡ ep¡lú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de faisander"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faisander [f´zA)de] v.tr.": {
+			"lingala": [{
+				"kop¡lisa": {
+					"def": "kotíka nyama ébanda kobéba (kop¡l¡) mpÊ¡ ya kopésa yangó el¥ngi esúsu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"soumettre une viande à un commencement de décomposition pour lui faire prendre du fumet"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faisceau [fEso] n.m.": {
+			"lingala": [{
+				"ebimba, ebólo, libóké": {
+					"def": "lisangá lya bilÔ¡k¡ bilaí bikangání esíká yÉ¡kÔ¡",
+					"ex": "ebólo ya nkóni, ebimba ya nd¥l¥"
+				}
+			}],
+			"def": [
+				"assemblage de choses longues liées ensemble"
+			],
+			"ex": [
+				"faisceau de brindilles, de pailles"
+			]
+		},
+
+		"fait [fE] n.m": {
+			"lingala": [{
+				"ekela, mosálá": {
+					"def": "ekela ya kosála",
+					"ex": "ekela ya kolela"
+				}
+			}],
+			"def": [
+				"action de faire"
+			],
+			"ex": [
+				"le fait de pleurer"
+			]
+		},
+
+		"faîte [fEt] n.m.": {
+			"lingala": [{
+				"nsÔ¡ngÔ¥": {
+					"def": "elembo elútí likoló",
+					"ex": "nsÔ¡ngÔ¥ya ndáko"
+				}
+			}],
+			"def": [
+				"le point le plus élevé, sommet"
+			],
+			"ex": [
+				"le faîte d’une maison"
+			]
+		},
+
+		"fait, faite [fE, fEt] adj.": {
+			"lingala": [{
+				"(e)-sálémí, (e)-kelámí": {
+					"def": "eye esálémí tô ekelámí",
+					"ex": "mosálá mosálémí malámu"
+				}
+			}],
+			"def": [
+				"fabriqué, réalisé, exécuté"
+			],
+			"ex": [
+				"un travail bien fait"
+			]
+		},
+
+		"falaise [falEz] n.f.": {
+			"lingala": [{
+				"libóngó ngbí, falÔ¥s¥": {
+					"def": "libóngó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"côte abrupte, raide"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fallacieusement [falasjøzmA)] adv.": {
+			"lingala": [{
+				"na lokutá, na bokósi": {
+					"def": "na loléngé la lokutá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière fallacieuse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fallacieux, euse [falasjø, øz] adj.": {
+			"lingala": [{
+				"-a lokutá, -a kokósa": {
+					"def": "eye ezalí lokutá",
+					"ex": "elaká ya lokutá"
+				}
+			}],
+			"def": [
+				"trompeur, mensonger"
+			],
+			"ex": [
+				"une promesse fallacieuse"
+			]
+		},
+
+		"falsifier [falsifje] v.tr.": {
+			"lingala": [{
+				"kokósa, kobébisa": {
+					"def": "kobóngola likambo na nkó mpÊ¡ ya koluka kokósa",
+					"ex": "kobébisa likambo, kobébisa víno"
+				}
+			}],
+			"def": [
+				"modifier volontairement dans le but de tromper, dénaturer"
+			],
+			"ex": [
+				"falsifier un résultat, un vin"
+			]
+		},
+
+		"famélique [famelik] adj.": {
+			"lingala": [{
+				"-a kokÔ¡nd¡": {
+					"def": "eye ezalí ya kokÔ¡nd¡",
+					"ex": "elongi ya kokÔ¡nd¡"
+				}
+			}],
+			"def": [
+				"maigre"
+			],
+			"ex": [
+				"un visage famélique"
+			]
+		},
+
+		"fameux, euse [famø, øz] adj.": {
+			"lingala": [{
+				"-a koyébana, (e)-yébáná": {
+					"def": "eye eyébáná",
+					"ex": "nkombo eyébáná"
+				}
+			}],
+			"def": [
+				"renommé, célèbre, bien connu"
+			],
+			"ex": [
+				"un nom fameux"
+			]
+		},
+
+		"famé, ée (mal -) [fame] adj.": {
+			"lingala": [{
+				"-a lokúmu lobé, (e)-k¥ndÔ¥sango mabé": {
+					"def": "eye ek¥ndÔ¥sango mabé",
+					"ex": "kalatyé ya lokúmu lobé, kalatyé ek¥ndÔ¥sango mabé"
+				}
+			}],
+			"def": [
+				"qui a une mauvaise réputation"
+			],
+			"ex": [
+				"un quartier mal famé ou malfamé"
+			]
+		},
+
+		"familial, ale, aux [familjal, o] adj.": {
+			"lingala": [{
+				"-a libóta": {
+					"def": "eye ezalí mpÊ¡ ya libóta, eye etálí libóta",
+					"ex": "ndáko ya libóta"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"appartenant, relatif à la famille"
+			],
+			"ex": [
+				"une maison familiale"
+			]
+		},
+
+		"familiariser [familja{ize] v.tr.": {
+			"lingala": [{
+				"kom¥s¥nisa, kom¥sinya": {
+					"def": "kosála te moto ákoka koyéba mpé kosála elÔ¡k¡ ntángo na mpási ",
+					"ex": "kom¥sinisa moto na mosálá"
+				}
+			}],
+			"def": [
+				"rendre familier à, accoutumer, habituer à"
+			],
+			"ex": [
+				"familiariser qqn au travail"
+			]
+		},
+
+		"familiarité [familja{ite] n.f.": {
+			"lingala": [{
+				"mom¥s¥n¡": {
+					"def": "loléngé la mikolo míns¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"manière familière"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"familièrement [familjE{mA)] adv.": {
+			"lingala": [{
+				"na mom¥s¥n¡": {
+					"def": "na ndéngé ya mom¥s¥n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière familière"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"familier, ère [familje, E{] adj. et n.": {
+			"lingala": [{
+				" -a libóta": {
+					"def": "óyo azalí wa libóta, eye ezalí ya libóta, óyo azalí kofánda esíka yÉ¡kÔ¡na bato, eye ezalí kofánda esíká yÉ¡kÔ¡na bato",
+					"ex": "nyama ya libóta"
+				}
+			}],
+			"def": [
+				"qui fait partie de la famille, qui vit au foyer"
+			],
+			"ex": [
+				"un animal familier"
+			]
+		},
+
+		"famille [famij] n.f.": {
+			"lingala": [{
+				"libóta": {
+					"def": "lisangá lya tatá, mamá mpé bÉana",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"ensemble de personnes formé par le père, la mère et les enfants"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"famine [famin] n.f.": {
+			"lingala": [{
+				"mongéngé, molaká, nzala": {
+					"def": "bozángi biléi mpÊ¡ na bato",
+					"ex": "ekólo ezalí konyÔ¡kwama na mongéngé"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"manque de nourriture pour une population, disette"
+			],
+			"ex": [
+				"un pays qui souffre de famine"
+			]
+		},
+
+		"fan [fan] n. et adj.": {
+			"lingala": [{
+				"mosími, fana": {
+					"def": "moto akosepelaka tô akokúmisaka moto mosúsu, tô lingómbá lisúsu",
+					"ex": "mosími wa alángánzémbo, wa ekípi ya lisano"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"admirateur inconditionnel"
+			],
+			"ex": [
+				"fan d’un musicien, d’un club de sport"
+			]
+		},
+
+		"fanatique [fanatik] adj. et n.": {
+			"lingala": [{
+				"alángá, álingá": {
+					"def": "moto óyo alingaka moto tô elÔ¡k¡ yÉ¡kÔ¡na mpósá ekási",
+					"ex": "alángá mizíki, alángá ndembó/alángá motópe"
+				}
+			}],
+			"def": [
+				"qui a une passion pour qqn, qch"
+			],
+			"ex": [
+				"fanatique de musique, de football"
+			]
+		},
+
+		"fanatisme [fanatism] n.m.": {
+			"lingala": [{
+				"bolángá": {
+					"def": "mpíla ya bolúti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"zèle excessif"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faner [fane] v.intr.": {
+			"lingala": [{
+				"kokausa, kokaukisa, kosulukisa": {
+					"def": "kolongola bonzéngá ya, kosílisa kitÔ¡k¡ ya elÔ¡k¡",
+					"ex": "mop¥p¥ mokási mokosulukisaka lombÔ¥(folólo). kokauka,"
+				}
+			}],
+			"def": [
+				"faire perdre la fraîcheur à, défraîchir"
+			],
+			"ex": [
+				"le vent chaud fane les fleurs"
+			]
+		},
+
+		"fané, ée [fane] adj.": {
+			"lingala": [{
+				"-a kosuluka, (e)-sulúka, -a kokauka, (e)-kaúká, -a konzuluka, (e)-nzulúká": {
+					"def": "eye ebúngisí bonzéngá bwa yangó, eye ebúngísí kitÔ¡k¡ tô lángi la yangó",
+					"ex": "lombÔ¥la kosuluka, lombé esulúka, lombÔ¥lonzulúká"
+				}
+			}],
+			"def": [
+				"qui a perdu sa fraîcheur"
+			],
+			"ex": [
+				"une fleur fanée"
+			]
+		},
+
+		"fanfare [fA)fa{] n.f.": {
+			"lingala": [{
+				"mizíki": {
+					"def": "lingómbá lya mizíki mya bibÔ¥t¥l¥",
+					"ex": "mizíki mya basodá"
+				}
+			}],
+			"def": [
+				"orchestre constitué uniquement d’instruments"
+			],
+			"ex": [
+				"fanfare militaire"
+			]
+		},
+
+		"fanfaronade [fA)fa{çnad] n.f.": {
+			"lingala": [{
+				"bipale, mángúngú, molumba": {
+					"def": "lofúndo, lolÔ¥nd¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"vantardise"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fanfaron, onne [fA)fa{ç), çn] adj. et n.": {
+			"lingala": [{
+				"moto wa lofúndo, moto wa molumba, moto wa bipalé": {
+					"def": "moto óyo akomíkwaka míngi, moto óyo amípésaka lokúmu míngi",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui se vante avec exagération, vantard"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fange [fA)Z] n.f.": {
+			"lingala": [{
+				"p¡t¡pÔ¡t¡": {
+					"def": "boue liquide, bourbe sale",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"boue liquide, bourbe sale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fangeux, euse [fA)Zø, øz] adj.": {
+			"lingala": [{
+				"-a p¡t¡pÔ¡t¡": {
+					"def": "etóndá p¡t¡pÔ¡t¡",
+					"ex": "mái ma p¡t¡pÔ¡t¡"
+				}
+			}],
+			"def": [
+				"plein de fange, de boue; boueux, sale"
+			],
+			"ex": [
+				"une eau fangeuse"
+			]
+		},
+
+		"fanion [fanjç)] n.m.": {
+			"lingala": [{
+				"mwâ b¥ndÔ¥l¥": {
+					"def": "b¥ndÔ¥l¥ tô dalapó ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit drapeau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fantastique [fA)tastik] adj.": {
+			"lingala": [{
+				"-a kokámwa": {
+					"def": "eye akokámwisa, eye ya mom¥s¥n¡ tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"extraordinaire, étonnant, incroyable"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fantoche [fA)tçS] n.m.": {
+			"lingala": [{
+				"efáká ya moto, elÔ¡k¡l¡k¡ ya moto": {
+					"def": "moto wa ntína tÔ¥na mÉso ma bato",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qu’on ne prend pas au sérieux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fantomatique [fA)tçmatik] adj.": {
+			"lingala": [{
+				"-a elímá, -a elailai, -a mokundwi": {
+					"def": "eye eúlání na elímá",
+					"ex": "elongi ya elímá, elongi lokóla elímá"
+				}
+			}],
+			"def": [
+				"qui ressemble à un fantôme"
+			],
+			"ex": [
+				"un visage fantomatique"
+			]
+		},
+
+		"fantôme [fA)tom] n.m.": {
+			"lingala": [{
+				"-a elímá, -a elailai, -a mokundwi": {
+					"def": "eye eúlání na elímá",
+					"ex": "elongi ya elímá, elongi lokóla elímá"
+				}
+			}],
+			"def": [
+				"apparition surnaturelle d’une personne morte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farce [fa{s] n.f. ": {
+			"lingala": [{
+				"eténi ya nyama, eténi ya ndúnda, ya litungúlu, ya pilipíli, b.n.b.": {
+					"def": "biténi bikÔ¥bikÔ¥bya nyama, ndúnda, b.n.b. bakáti",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"hachis de viandes, de légumes, d’épices"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farcer [fa{se] v.intr.": {
+			"lingala": [{
+				"kokósa": {
+					"def": "kosana na bokósi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"jouer des farces, plaisanter"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farceur, euse [fa{sœ{, øz] n. et adj.": {
+			"lingala": [{
+				"mos¥kisi": {
+					"def": "moto akos¥kisaka bato",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui aime jouer des farces"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farcir [fa{si{] v.tr.": {
+			"lingala": [{
+				"kotóndisa na lokutá": {
+					"def": "kotíya lokutá ebelé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"remplir de farce"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farci, ie [fa{si] adj.": {
+			"lingala": [{
+				"etóndá, -a kotónda": {
+					"def": "eye ezalí ya kotónda, eye ezalí bébóo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rempli"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fard [fa{] n.m.": {
+			"lingala": [{
+				"ntilé, tilé": {
+					"def": "putulú bÉasí bakosálaka na yangó monz¥l¥ na mÉso",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"poudre de maquillage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farde [fa{d] n.f.": {
+			"lingala": [{
+				"fálad¥": {
+					"def": "elÔ¡k¡ ya kobómba na mikandá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"chemise, dossier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fardeau [fa{do] n.m.": {
+			"lingala": [{
+				"mokúmbá, lipela": {
+					"def": "elÔ¡k¡ ya bozitó, ya kiló",
+					"ex": "kokúmba tô kom¥m¥ mokúmbá"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"chose lourde"
+			],
+			"ex": [
+				"porter un fardeau"
+			]
+		},
+
+		"farder [fa{de] v.intr.": {
+			"lingala": [{
+				"kopakola": {
+					"def": "kokémbisa elongi",
+					"ex": "kopakola púd¥l¥ na elongi"
+				}
+			}],
+			"def": [
+				"mettre du fard à, maquiller"
+			],
+			"ex": [
+				"farder son visage"
+			]
+		},
+
+		"farfouiller [fa{fuje] v.intr.": {
+			"lingala": [{
+				"kotálatala, kolukaluka": {
+					"def": "koluka na bobóngóláká tô bobalóláká bilÔ¡k¡ bíns¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fouiller en bouleversant tout"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faribole [fa{ibçl] n.f.": {
+			"lingala": [{
+				"bilobáloba, bilobélá, bisálélá": {
+					"def": "maloba mazángá ntína, makambo mazángá ntína",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"chose, parole frivole, pas sérieuse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farine [fa{in] n.f.": {
+			"lingala": [{
+				"mót¥kÔ¥, fufú, falíni": {
+					"def": "putulú eútí na yÉ¡kÔ¡mbuma, s¡ngÔ¡tô mompónzó tô mpé lisúsu mbálá ekaúkí mpé eníkámí",
+					"ex": "fufú (falíni) ya masángó, mót¥kÔ¥(fufú)"
+				}
+			}],
+			"def": [
+				"poudre provenant de graines, de tubercules broyées"
+			],
+			"ex": [
+				"farine de maïs, de manioc"
+			]
+		},
+
+		"fariner [fa{ine] v.tr.": {
+			"lingala": [{
+				"konyakela fufú tô falíni": {
+					"def": "kosopela fufú, kobwákela falíni likoló",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"couvrir de farine, saupoudrer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"farineux, euse [fa{inø, øz] adj. et n.": {
+			"lingala": [{
+				"-a fufú, -a falíni": {
+					"def": "eye ezalí na fufú tô falíni, eye basopélí mwâ fufú tô falíni likoló",
+					"ex": "mbálá ya falíni likoló, límpa lya falíni likoló"
+				}
+			}],
+			"def": [
+				"qui contient de la farine, couvert de farine"
+			],
+			"ex": [
+				"une patate farineuse, un pain farineux"
+			]
+		},
+
+		"farouche [fa{uS] adj.": {
+			"lingala": [{
+				"-a kokíma, (e)-kímaka, -a kobángá, (e)-bángaka": {
+					"def": "eye ekímaka sÔ¡kí bab¥lÔ¥mí esíká ezalí",
+					"ex": "nyama ekímaka, nyama ebángaka"
+				}
+			}],
+			"def": [
+				"qui s’enfuit quand on l’approche"
+			],
+			"ex": [
+				"un animal farouche"
+			]
+		},
+
+		"farouchement [fa{uSmA)] adv.": {
+			"lingala": [{
+				"na nkándá, na nk¥l¥": {
+					"def": "na loléngé la nkándá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière farouche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fascicule [fasikyl] n.m.": {
+			"lingala": [{
+				"mwâ búku, mwâ kayé": {
+					"def": "búku ekÔ¥, kayé ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit cahier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fascinant, ante [fasinA), A)t] adj.": {
+			"lingala": [{
+				"-a bokámwisi, -a kokámwisa": {
+					"def": "eye ekokámwisa",
+					"ex": "bonzéngá bwa bokámwisi"
+				}
+			}],
+			"def": [
+				"qui fascine"
+			],
+			"ex": [
+				"une beauté fascinante"
+			]
+		},
+
+		"fasciner [fasine] v.tr.": {
+			"lingala": [{
+				"kokámwisa": {
+					"def": "kosepelisa moto mayÔ¥l¥ tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"charmer, éblouir, émerveiller"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faste [fast] n.m.": {
+			"lingala": [{
+				"bonÔ¥n¥, monz¥l¥": {
+					"def": "ezalela ya eye ezalí na lipombó mpé monz¥l¥",
+					"ex": "bonÔ¥n¥ bwa molúlú"
+				}
+			}],
+			"def": [
+				"pompe, grand luxe"
+			],
+			"ex": [
+				"le faste d’une cérémonie"
+			]
+		},
+
+		"fastidieux, euse [fastidjø, øz] adj.": {
+			"lingala": [{
+				"-a kol¥mbisa": {
+					"def": "eye el¥mbisaka",
+					"ex": "mosálá mwa kol¥mbisa"
+				}
+			}],
+			"def": [
+				"qui ennuie, fatigue; ennuyeux, fatigant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fatalement [fatalmA)] adv.": {
+			"lingala": [{
+				"na bokími tÔ¥": {
+					"def": "eye ekokí na bokími tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière fatale, inévitable; inévitablement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fatalité [fatalite] n.f. ": {
+			"lingala": [{
+				"makilá mabé": {
+					"def": "nguyá elekí mayÔ¥l¥ ma moto mpé ekob¡ngisaka bom¡i bwa moto na loléngé ya yangó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"destin, destinée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fatal, ale, als [fatal] adj.": {
+			"lingala": [{
+				"-a bokími tÔ¥, -a nsÔ¡m¡, -a makilá mabé": {
+					"def": "eye elÔ¥ngÔ¥lÔ¥mí na mayÔ¥l¥ ma moto tÔ¥",
+					"ex": "liwá lya bokími tÔ¥"
+				}
+			}],
+			"def": [
+				"fixé par le destin, inévitable"
+			],
+			"ex": [
+				"une mort fatale"
+			]
+		},
+
+		"fatigant, ante [fatigA), A)t] adj": {
+			"lingala": [{
+				"-a mpí, -a bol¥mbisi/-a kol¥mbisa": {
+					"def": "eye ekopésa mpi tô ekol¥mbisa",
+					"ex": "mosálá mwa mpi"
+				}
+			}],
+			"def": [
+				"qui fatigue"
+			],
+			"ex": [
+				"un travail fatigant"
+			]
+		},
+
+		"fatigue [fatig] n.f. ": {
+			"lingala": [{
+				"mpi, bol¥mbi, z¡l¡l¡": {
+					"def": "bobúngisi bokási tô bosíli bokási tô nguya",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"épuisement, lassitude"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fatiguer [fatige] v.tr.": {
+			"lingala": [{
+				"kol¥mbisa, koyóka mpi": {
+					"def": "kopésa mpi, kopésa bol¥mbi, kopésa z¡l¡l¡",
+					"ex": "mosálá moye mol¥mbísí yÉe"
+				}
+			}],
+			"def": [
+				"causer de la fatigue à, épuiser"
+			],
+			"ex": [
+				"ce travail l’a fatigué"
+			]
+		},
+
+		"fatigué, ée [fatige] adj.": {
+			"lingala": [{
+				"-a kol¥mb¥, -a mpi": {
+					"def": "eye ezalí kolakisa mpi tô bol¥mbi",
+					"ex": "elongi ya mpi, elongi ya kol¥mb¥"
+				}
+			}],
+			"def": [
+				"qui manifeste de la fatigue"
+			],
+			"ex": [
+				"un visage fatigué"
+			]
+		},
+
+		"faucher [foSe] v.tr.": {
+			"lingala": [{
+				"kokáta": {
+					"def": "kolongola na ngbangbá tô na mb¥ng¡",
+					"ex": "kokáta matíti"
+				}
+			}],
+			"def": [
+				"couper"
+			],
+			"ex": [
+				"faucher de l’herbe"
+			]
+		},
+
+		"fauché, ée [foSe] adj.": {
+			"lingala": [{
+				"azángí mbÔ¡ng¡, azángí mos¡l¡": {
+					"def": "moto óyo azángí mos¡l¡",
+					"ex": "azángí mbÔ¡ng¡"
+				}
+			}],
+			"def": [
+				"qui est sans argent"
+			],
+			"ex": [
+				"il est fauché"
+			]
+		},
+
+		"faucille [fosij] n.f.": {
+			"lingala": [{
+				"ngbanbgá, ngwangwá": {
+					"def": "likpangola lya bokáti matíti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"faux pour couper l’herbe"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faucon [fokç)] n.m. ": {
+			"lingala": [{
+				"ewango": {
+					"def": "loléngé la nd¥k¥ elyáka nsuni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte d’oiseau rapace"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faufiler (se) [fofile] v.pron.": {
+			"lingala": [{
+				"koleka mokúlé mokúlé": {
+					"def": "koleka mompanzí mompanzí te bato bámÔ¡n¡ tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"se glisser adroitement pour passer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faune [fon] n.f.": {
+			"lingala": [{
+				"linyama": {
+					"def": "lisangá lya nyama lizwámí o esíká yÉ¡kÔ¡tô o mbóka yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des animaux habitant une région"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fausse couche [foskuS] n.f.": {
+			"lingala": [{
+				"bosopi zémi": {
+					"def": "ekela ekosála te zémi ésopana yangó mÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avortement naturelle"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fausser [fose] v.tr.": {
+			"lingala": [{
+				"kobébisa, kobúka lokutá": {
+					"def": "kokómisa bosémbo lokutá",
+					"ex": "kobébisa mitúya"
+				}
+			}],
+			"def": [
+				"rendre faux"
+			],
+			"ex": [
+				"fausser un calcul"
+			]
+		},
+
+		"fausseté [foste] n.f.": {
+			"lingala": [{
+				"lokutá": {
+					"def": "ezalela ya eye ezángí bosÊ¡lÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère faux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fauteuil [fotœj] n.m.": {
+			"lingala": [{
+				"f¡tÔ¥yi": {
+					"def": "kíti tô efándele ezalí na mabÔ¡k¡ mpé na esíká ya kosémbola mok¡ng¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"siège à bras et à dossier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fautif, ive [fotif, iv] adj. et n.": {
+			"lingala": [{
+				"-a mbéba, -a zíko, -a míko, - a fÔ¡ti": {
+					"def": "eye ezalí na mbéba, eye esálí mbéba",
+					"ex": "moyékoli wa mbéba"
+				}
+			}],
+			"def": [
+				"qui a commis une faute"
+			],
+			"ex": [
+				"un élève fautif"
+			]
+		},
+
+		"fauve [fov] n.m. ": {
+			"lingala": [{
+				"nyama ya nk¥l¥": {
+					"def": "nyama enÔ¥n¥ ya zámba ezalí na nkándá míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand animal sauvage, féroce"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"faux [fo] n.f.": {
+			"lingala": [{
+				"lokutá": {
+					"def": "eye ezángí bosÔ¡lÔ¡",
+					"ex": "kokabola bosémbo na lokutá"
+				}
+			}],
+			"def": [
+				"ce qui est faux"
+			],
+			"ex": [
+				"séparer le vrai du faux"
+			]
+		},
+
+		"faux, fausse [fo, fos] adj.": {
+			"lingala": [{
+				"-a lokutá": {
+					"def": "eye ezángí bosémbo tô bosÊ¡lÔ¡, eye elongóbání na bosÊ¡lÔ¡tÔ¥",
+					"ex": "mitúya mya lokutá"
+				}
+			}],
+			"def": [
+				"qui n’est pas vrai; inexact"
+			],
+			"ex": [
+				"un calcul faux"
+			]
+		},
+
+		"faveur [favœ{] n.f.": {
+			"lingala": [{
+				"libáteli, bobáteli": {
+					"def": "lisálisi, lisungi, ligamisi",
+					"ex": "mabáteli ma miníst¥l¥"
+				}
+			}],
+			"def": [
+				"appui, protection d’une personne influente"
+			],
+			"ex": [
+				"les faveurs d’un ministre"
+			]
+		},
+
+		"favorable [favç{abl] adj.": {
+			"lingala": [{
+				"-a bob¡ngi, (e)-b¡ngí, -a bondimi": {
+					"def": "óyo tô eye ezalí na makanisi malámu epái ya moto tô elÔ¡k¡",
+					"ex": "ezalela eb¡ngí"
+				}
+			}],
+			"def": [
+				"bien disposé à l’égard de qqn de qch, bienveillant"
+			],
+			"ex": [
+				"une attitude favorable"
+			]
+		},
+
+		"favoriser [favç{ize] v.tr.": {
+			"lingala": [{
+				"kop¡n¡, kosála nsekú": {
+					"def": "kondimela, koyambela",
+					"ex": "kop¡n¡ moníngá, kosála nsekú na moníngá"
+				}
+			}],
+			"def": [
+				"traiter avec faveur, avantager"
+			],
+			"ex": [
+				"favoriser un ami"
+			]
+		},
+
+		"favori, ite [favç{i, it] adj. et n.": {
+			"lingala": [{
+				"-a bondimami": {
+					"def": "eye batyélaka mayÔ¥l¥ tô motéma",
+					"ex": "moyékoli wa bondimami"
+				}
+			}],
+			"def": [
+				"à qui on accorde sa préférence"
+			],
+			"ex": [
+				"un élève favori"
+			]
+		},
+
+		"fécal, ale, aux [fekal, o] adj.": {
+			"lingala": [{
+				"-a ny¥í, -a túfi": {
+					"def": "eye ezalí na ny¥í tô eye etálí ny¥í",
+					"ex": "ny¥í"
+				}
+			}],
+			"def": [
+				"relatif aux excréments"
+			],
+			"ex": [
+				"matières fécales"
+			]
+		},
+
+		"féconder [fekç)de] v.tr.": {
+			"lingala": [{
+				"kobótisa, kokwélisa zémi, kozémisa": {
+					"def": "kotíya zémi, kopésa libóta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre fécond, enceinte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fécondité [fekç)dite] n.f.": {
+			"lingala": [{
+				"bobóti, boyíkani": {
+					"def": "ezaleli ya eye ekobóta míngi",
+					"ex": "bobóti bwa mwÉasí"
+				}
+			}],
+			"def": [
+				"qualité de ce qui est fécond, fertile; fertilité"
+			],
+			"ex": [
+				"fécondité d’une femme"
+			]
+		},
+
+		"fécond, onde [fekç), ç)d] adj.": {
+			"lingala": [{
+				"-a bobóti, -a kobóta, -a boíkani, -a koíkana": {
+					"def": "eye ekokí kopésa bÉana míngi",
+					"ex": "mwÉasí wa mabóta, mwÉasí wa bobóti, mwÉasí mobóti"
+				}
+			}],
+			"def": [
+				"qui peut se reproduire, avoir beaucoup d’enfants, fertile"
+			],
+			"ex": [
+				"une femme féconde"
+			]
+		},
+
+		"fécule [fekyl] n.f.": {
+			"lingala": [{
+				"mót¥kÔ¥, fufú": {
+					"def": "fufú, falíni",
+					"ex": "fufú ya s¡ngÔ¡"
+				}
+			}],
+			"def": [
+				"farine"
+			],
+			"ex": [
+				"fécule de manioc"
+			]
+		},
+
+		"féculent, ente [fekylA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a fufú, -a falíni": {
+					"def": "eye ezalí na fufú tô falíni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui contient de la fécule, de la farine"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fée [fe] n.f.": {
+			"lingala": [{
+				"ezó, mómeta, mamíwata": {
+					"def": "mwÉasí wa masoló atóndá makokí ndéngé na ndéngé",
+					"ex": "lisapo lya mamíwata"
+				}
+			}],
+			"def": [
+				"femme imaginaire douée de pouvoirs magiques"
+			],
+			"ex": [
+				"conte de fées"
+			]
+		},
+
+		"feindre [fE)d{] v.tr.": {
+			"lingala": [{
+				"koléminya, kolambasana, kokósa, kozímba": {
+					"def": "kosála lokóla oyébí elÔ¡k¡ tÔ¥",
+					"ex": "koléminya es¥ng¡"
+				}
+			}],
+			"def": [
+				"faire semblant d’éprouver"
+			],
+			"ex": [
+				"feindre la joie"
+			]
+		},
+
+		"feinte [fE)t] n.f.": {
+			"lingala": [{
+				"bokósi, boléminyi, bolambasani": {
+					"def": "ekela ya lokutá",
+					"ex": "kokósa"
+				}
+			}],
+			"def": [
+				"simulation, mouvement pour tromper"
+			],
+			"ex": [
+				"faire une feinte"
+			]
+		},
+
+		"feinter [fE)te] v.intr. ": {
+			"lingala": [{
+				"kokósa, kobúba, kozímba": {
+					"def": "kokósa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"faire une feinte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"feint, feinte [fE), fE)t] adj.": {
+			"lingala": [{
+				"-a bokósi, -a boléminyi, -a bolambasani": {
+					"def": "eye ezalí ya sÊ¡lÔ¡ tÔ¥",
+					"ex": "bobóto bwa bokósi"
+				}
+			}],
+			"def": [
+				"qui n’est pas véritable, sincère"
+			],
+			"ex": [
+				"une gentillesse feinte"
+			]
+		},
+
+		"fêler [fele] v.tr.": {
+			"lingala": [{
+				"kowáta, kopasola": {
+					"def": "kokabola elÔ¡k¡ ntángo na kobúkabuka yangó biténibiténi",
+					"ex": "kopasola sáni"
+				}
+			}],
+			"def": [
+				"fendre sans casser"
+			],
+			"ex": [
+				"fêler une vitre, une assiette"
+			]
+		},
+
+		"félicitations [felisitasjç)] n.f.pl": {
+			"lingala": [{
+				"longónya, mókangyá": {
+					"def": "mputulú, matómbeli bakopésaka moto mpÊ¡ ya likambo lya kitÔ¡k¡ asálí",
+					"ex": "kotómbela, kozwa longónya, mókangyá"
+				}
+			}],
+			"def": [
+				"compliments adressés à qqn pour un événement heureux"
+			],
+			"ex": [
+				"adresser, recevoir des félicitations"
+			]
+		},
+
+		"féliciter [felisite] v.tr.": {
+			"lingala": [{
+				"kokémbela, kopésa longónya, kopésa mókangyá": {
+					"def": "kokúmisa moto, kotómbela malámu, kopésa moto mputulú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"adresser des félicitations"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"félin, ine [felE), in] adj. et n.": {
+			"lingala": [{
+				"-a nyáu, -a púsi,-a kÔ¡nd¡k¡ ; linyaú,, lipúsi,, likÔ¡nd¡k¡": {
+					"def": "eye ezalí ya libóta lya nyáu",
+					"ex": "nkÔ¡si, nk¡i izalí linyaú"
+				}
+			}],
+			"def": [
+				"qui appartient à la famille des chats"
+			],
+			"ex": [
+				"le lion, le léopard, le tigre sont des félins"
+			]
+		},
+
+		"félonie [felçni] n.f.": {
+			"lingala": [{
+				"lisúli, bosúli": {
+					"def": "bokabi tô botÔ¥ki moníngá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"traitrise"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"félon, onne [felç), çn] adj.": {
+			"lingala": [{
+				"-a lisúli, -a bosúli": {
+					"def": "eye etálí bokabi tô botÔ¥ki moto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"traître"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"femelle [f´mEl] n.f. et adj": {
+			"lingala": [{
+				"-a mwÉasí ; mwÉasí": {
+					"def": "eye ezalí na likokí lya kokúmba zémi mpé lya kobóta; moto óyo azalí mobáli tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui est du sexe des femmes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"féminin, ine [feminE), in] adj. et n.": {
+			"lingala": [{
+				"-a mwÉasí": {
+					"def": "ezaleli ya mwÉasí, eye ezalí na mom¥s¥n¡ ya bÉasí",
+					"ex": "etámboli ya bÉasí"
+				}
+			}],
+			"def": [
+				"qui est propre à la femme"
+			],
+			"ex": [
+				"une démarche féminine"
+			]
+		},
+
+		"féminité [feminite] n.f.": {
+			"lingala": [{
+				"bomwÉasí": {
+					"def": "ezaleli ya mwÉasí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère propre à la femme"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"femme [fam] n.f.": {
+			"lingala": [{
+				"mwÉasí": {
+					"def": "moto ak¥sÔ¥ní na mobáli",
+					"ex": "mobáli mpé mwÉasí"
+				}
+			}],
+			"def": [
+				"personne de sexe féminin"
+			],
+			"ex": [
+				"l’homme et la femme"
+			]
+		},
+
+		"fendre [fA)d{] v.tr.": {
+			"lingala": [{
+				"koátola, kopasola": {
+					"def": "kokáta elÔ¡k¡ na bolaí",
+					"ex": "kopasola nkóni"
+				}
+			}],
+			"def": [
+				"couper dans le sens de la longueur"
+			],
+			"ex": [
+				"fendre du bois"
+			]
+		},
+
+		"fendu, ue [fA)dy] adj.": {
+			"lingala": [{
+				"-a kopaswana, -a kopasuka, (e)-paswáná, (e)-pasúká": {
+					"def": "eye ezalí na nzelá",
+					"ex": "zípi ya kopaswana, zípi ya kopasuka, zípi epaswáná, zípi epasúká"
+				}
+			}],
+			"def": [
+				"qui présente une fente"
+			],
+			"ex": [
+				"une jupe fendue"
+			]
+		},
+
+		"fenêtre [f´nEt{] n.f.": {
+			"lingala": [{
+				"lininísa": {
+					"def": "lilusú, lidusú etyámí na efelo ya ndáko mpÊ¡ ya kolingisa mói mpé mop¥p¥ mókÔ¡t¡ o káti ya ndáko",
+					"ex": "ndáko ezángá lininísa"
+				}
+			}],
+			"def": [
+				"ouverture dans un mur pour donner du jour et de l’air"
+			],
+			"ex": [
+				"une maison sans fenêtre"
+			]
+		},
+
+		"fente [fA)t] n.f.": {
+			"lingala": [{
+				"monkaka, lilusú, lidusú, nzelá": {
+					"def": "nzelá ekÔ¥mpé elaí na efelo tô epái esúsu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ouverture étroite et longue"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fer [fE{] n.m.": {
+			"lingala": [{
+				"ebendé, ebúni": {
+					"def": "elÔ¡k¡ ya linzanza ezalí mwâ mpÔ¥mbÔ¥",
+					"ex": "kobÔ¥t¥ ebendé"
+				}
+			}],
+			"def": [
+				"métal blanc grisâtre, élément métallique"
+			],
+			"ex": [
+				"battre le fer"
+			]
+		},
+
+		"férié, ée [fe{je] adj.": {
+			"lingala": [{
+				"-a eyenga, -a fÔ¥ti": {
+					"def": "mok¡l¡ mwa mosálá tÔ¥, mok¡l¡ moye bato bakosálaka tÔ¥",
+					"ex": "mok¡l¡ mwa eyenga, mok¡l¡ mwa mosálá tÔ¥"
+				}
+			}],
+			"def": [
+				"où on ne travaille pas"
+			],
+			"ex": [
+				"un jour férié"
+			]
+		},
+
+		"fermant, ante [fE{mA), A)t] adj.": {
+			"lingala": [{
+				"-a bokakemi, -a bofúngami, -a bozipami, -a bozibami": {
+					"def": "eye ekokí kokangema",
+					"ex": "lomwále la bokakemi"
+				}
+			}],
+			"def": [
+				"qui peut se fermer"
+			],
+			"ex": [
+				"une meuble fermant"
+			]
+		},
+
+		"ferme [fE{m] adj.": {
+			"lingala": [{
+				"-kási, -a kokauka, (e)-kaúká, - a ngbí": {
+					"def": "eye ezalí makási",
+					"ex": "mabelé makási, mabelé makaúká"
+				}
+			}],
+			"def": [
+				"solide"
+			],
+			"ex": [
+				"la terre ferme"
+			]
+		},
+
+		"fermement [fE{m´mA)] adv.": {
+			"lingala": [{
+				"makási, ki, ngbí, ngwí, síkísíkí": {
+					"def": "na loléngé la makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière ferme, avec fermeté"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fermentation [fE{mA)tasjç)] n.f.": {
+			"lingala": [{
+				"botutwi, boúlubi, bovímbi": {
+					"def": "mbóngwáná ya sukálí na alikÔ¡l¥",
+					"ex": "botutwi bwa víno"
+				}
+			}],
+			"def": [
+				"transformation du sucre en alcool"
+			],
+			"ex": [
+				"fermentation du vin"
+			]
+		},
+
+		"fermenter [fE{mA)te] v.intr.": {
+			"lingala": [{
+				"kotutwa, koúluba": {
+					"def": "kobóngwana ya sukáli na alikÔ¡l¥",
+					"ex": "víno ezalí koúluba, víno ezalí kotutwa"
+				}
+			}],
+			"def": [
+				"être en fermentation"
+			],
+			"ex": [
+				"le vin fermente"
+			]
+		},
+
+		"fermer [fE{me] v.tr.": {
+			"lingala": [{
+				"kokanga, koziba, kozipa, kofúnga": {
+					"def": "kobómba lilusú, kosála te nzelá ezala lisúsu tÔ¥",
+					"ex": "kokanga, koziba, kofúnga ekúké, mon¡k¡ mwa ndáko"
+				}
+			}],
+			"def": [
+				"boucher une ouverture"
+			],
+			"ex": [
+				"fermer une porte"
+			]
+		},
+
+		"fermeté [fE{m´te] n.f.": {
+			"lingala": [{
+				"moléndé, mpíko, bokási, makási": {
+					"def": "bopíkílíkí, ekela ya kokanga motéma",
+					"ex": "bokási bwa nzóto"
+				}
+			}],
+			"def": [
+				"consistance, résistance"
+			],
+			"ex": [
+				"fermeté d’un corps"
+			]
+		},
+
+		"fermeture [fE{m´ty{] n.f.": {
+			"lingala": [{
+				"bokangi, bofúngi, bozibi, bozipi": {
+					"def": "ekela ya kokanga, ya kofúnga, ya koziba tô ya kozipa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de fermer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fermé, ée [fE{me] adj.": {
+			"lingala": [{
+				"-a kokangema, -a kofúngama, -a kozibama, -a kozipama, ekangémá, efúngámá, ezibámá, ezipámá": {
+					"def": "eye ezalí polélé tÔ¥",
+					"ex": "mon¡k¡ mwa ndáko mokangémá, ekúké ya ndáko efúngámá"
+				}
+			}],
+			"def": [
+				"qui n’est pas ouvert; clos"
+			],
+			"ex": [
+				"une porte fermée"
+			]
+		},
+
+		"féroce [fe{çs] adj.": {
+			"lingala": [{
+				"-a nkándá, -a nk¥l¥": {
+					"def": "eye ezalí na nkándá ekási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"très méchant, cruel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"férocité [fe{çsite] n.f.": {
+			"lingala": [{
+				"nkándá, nk¥l¥": {
+					"def": "ezalelí ya nkándá, ya nk¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère féroce, cruauté"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ferraille [fe{aj] n.f.": {
+			"lingala": [{
+				"bibendé": {
+					"def": "bitíkálí bya bibendé bizalí lisúsu na mosálá tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"vieux morceaux de fer hors d’usage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ferrailleur, euse [fe{ajœ{, øz] n.": {
+			"lingala": [{
+				"motÔ¥ki bibendé": {
+					"def": "moto atÔ¥k¥k¥ bibendé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"marchand de ferraille"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ferronnerie [fe{çn{i] n.f.": {
+			"lingala": [{
+				"esálelo bibendé": {
+					"def": "talyé tô lizíni wápi bakosálaka bilÔ¡k¡ bya bibendé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fabrique d’objets en fer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ferronnier, ère [fe{çnje, E{] n.": {
+			"lingala": [{
+				"motÔ¥ki bilÔ¡k¡ bya bibendé": {
+					"def": "moto akotÔ¥k¥k¥ bilÔ¡k¡ bya bibendé",
+					"ex": "motÔ¥ki bilÔ¡k¡ bya bibendé wa ntÔ¡ki"
+				}
+			}],
+			"def": [
+				"personne qui vend des objets en fer"
+			],
+			"ex": [
+				"ferronier d’art"
+			]
+		},
+
+		"fertile [fE{til] adj.": {
+			"lingala": [{
+				"-a kobóta, -a koíkana, -a bopési mbuma": {
+					"def": "eye ezalí na nkÔ¡nz¡ ya kopésa mbuma ebelé tô ya kobóta míngi",
+					"ex": "mabelé, elanga ya kobóta mbuma ebelé"
+				}
+			}],
+			"def": [
+				"qui donne des récoltes en abondance; fécond"
+			],
+			"ex": [
+				"une terre, un champ fertile"
+			]
+		},
+
+		"fertiliser [fE{tilize] v.tr.": {
+			"lingala": [{
+				"kobótisa": {
+					"def": "kopésa makokí makobóta",
+					"ex": "kobótisa mabelé"
+				}
+			}],
+			"def": [
+				"rendre fertile"
+			],
+			"ex": [
+				"fertiliser une terre"
+			]
+		},
+
+		"fertilité [fErtilite] n.f.": {
+			"lingala": [{
+				"bobóti mbuma ebelé": {
+					"def": "ezaleli ya eye ekobóta mbuma míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qualité de ce qui est fertile"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fesse [fEs] n.f.": {
+			"lingala": [{
+				"lisÔ¡kÔ¡": {
+					"def": "eténi tô epasóli yÉ¡kÔ¡yÉ¡kÔ¡ya mosuni ezalí nsima ya moto",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"chacune des deux parties charnues qui forment le derrière de l’homme"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fessée [fese] n.f.": {
+			"lingala": [{
+				"fímbo na masÔ¡kÔ¡": {
+					"def": "fímbo epésámí na masÔ¡kÔ¡",
+					"ex": "kobÔ¥t¥, kozwa fímbo na masÔ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"coups donnés sur les fesses"
+			],
+			"ex": [
+				"donner, recevoir une fessée"
+			]
+		},
+
+		"fessier, ère [fesje, E{] adj.": {
+			"lingala": [{
+				"-a masÔ¡kÔ¡": {
+					"def": "eye etáli masÔ¡kÔ¡tô ezalí ya masÔ¡k¡",
+					"ex": "motungá mwa masÔ¡kÔ¡. masÔ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"des fesses"
+			],
+			"ex": [
+				"muscle fessier"
+			]
+		},
+
+		"fessu, ue [fesy] adj.": {
+			"lingala": [{
+				"-a masÔ¡kÔ¡manÔ¥n¥": {
+					"def": "eye ezalí na masÔ¡kÔ¡manÔ¥n¥, óyo azalí na masÔ¡kÔ¡manÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a de grosses fesses"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"festif, ive [fEstif, iv] adj.": {
+			"lingala": [{
+				"-a eyenga, -a fÔ¥ti": {
+					"def": "eye etálí eyenga tô fÔ¥ti",
+					"ex": "nt¥k¥ ya eyenga, boléi bwa fÔ¥ti."
+				}
+			}],
+			"def": [
+				"qui se rapporte à la fête, de la fête"
+			],
+			"ex": [
+				"un repas festif"
+			]
+		},
+
+		"festin [fEstE)] n.m.": {
+			"lingala": [{
+				"nt¥k¥, limpáti": {
+					"def": "moléi monÔ¥n¥ mpé kitÔ¡k¡ mwa eyenga tô fÔ¥ti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"repas de fête"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"festival, als [fEstival] n.m.": {
+			"lingala": [{
+				"nt¥k¥, limpáti": {
+					"def": "moléi monÔ¥n¥ mpé kitÔ¡k¡ mwa eyenga tô fÔ¥ti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grande rencontre organisée à périodicité fixe"
+			],
+			"ex": [
+				"festival des arts de Dakar, festival de cinéma de Ouagadougou"
+			]
+		},
+
+		"festivités [fEstivite] n.f.pl.": {
+			"lingala": [{
+				"eyenga, fÔ¥ti": {
+					"def": "masepeli, ndúlú ya masepeli",
+					"ex": "eyenga ya bonsÔ¡mí tô ya lipandá"
+				}
+			}],
+			"def": [
+				"fêtes, cérémonies"
+			],
+			"ex": [
+				"les festivités de l’indépendance"
+			]
+		},
+
+		"festoyer [fEstwaje] v.intr.": {
+			"lingala": [{
+				"kosepela": {
+					"def": "kosála eyenga, kosála fÔ¥ti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"faire la fête"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fêtard, arde [fEta{, a{d] n.": {
+			"lingala": [{
+				"moí-biyenga": {
+					"def": "moto akosepelaka kosála fÔ¥ti tô kosakana",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui aime à faire la fête, s’amuser"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fête [fEt] n.f.": {
+			"lingala": [{
+				"eyenga, fÔ¥ti": {
+					"def": "mok¡l¡ mwa bokundoli yÉ¡kÔ¡ekela etálí eyamba tô politíki, b.n.b.",
+					"ex": "eyenga ya mbótámá, eyenga ya mpatá, eyenga ya ekólo"
+				}
+			}],
+			"def": [
+				"jour de commémoration d’un fait religieux, politique, etc."
+			],
+			"ex": [
+				"fête de Noël, fête du mouton, fête nationale"
+			]
+		},
+
+		"fêter [fete] v.tr.": {
+			"lingala": [{
+				"kosepela": {
+					"def": "kozala na milúlú mya es¥ng¡",
+					"ex": "kosepela mobú mwa sika tô bónané"
+				}
+			}],
+			"def": [
+				"marquer par une fête, célébrer"
+			],
+			"ex": [
+				"fêter le Nouvel An"
+			]
+		},
+
+		"fétiche [fetiS] n.m.": {
+			"lingala": [{
+				"nkísi, m¡nÊ¡, ekelákela, mpúngu": {
+					"def": "elÔ¡k¡ ekopésá bom¥ng¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"objet magique, porte-bonheur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"féticher [fetiSe] v.tr.": {
+			"lingala": [{
+				"kol¡k¡": {
+					"def": "kobwákela botutu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"envoûter"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"féticheur, euse [fetiSœ{, øz] n.": {
+			"lingala": [{
+				"nganga nkísi": {
+					"def": "moto óyo azalí na likokí lya kobíkisa tô koloba makambo matáli bom¡i bwa bato",
+					"ex": ""
+				}
+			}],
+			"cls": ["N-N-"],
+			"def": [
+				"personne qui détient des pouvoirs magiques; devin, guérisseur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fétichisme [fetiSism] n.m.": {
+			"lingala": [{
+				"bonganga nkísi": {
+					"def": "milúlú mya nganga nkísi, mya banganga nkísi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"culte des fétiches"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fétichiste [fetiSist] n.": {
+			"lingala": [{
+				"moí-bonganga nkísi, moto wa bonganga nkísi": {
+					"def": "moto óyo azalí kosálela bonganga nkísi",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui pratique le fétichisme"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fétide [fetid] adj.": {
+			"lingala": [{
+				"-a nsolo ebé": {
+					"def": "eye ezalí kolumba nsolo ebé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui sent très mauvais"
+			],
+			"ex": [
+				"une haleine fétide"
+			]
+		},
+
+		"fétidité [fetidite] n.f.": {
+			"lingala": [{
+				"nsolo": {
+					"def": "mpéma (ya nsolo) ebé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est fétide; puanteur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"feu [fø] n.m.": {
+			"lingala": [{
+				"mÔ¡t¡": {
+					"def": "mololi mozalí kopela",
+					"ex": "mÔ¡t¡ mwa nkóni"
+				}
+			}],
+			"def": [
+				"flamme qui brûle"
+			],
+			"ex": [
+				"feu de bois"
+			]
+		},
+
+		"feu, feue [fø] adj.": {
+			"lingala": [{
+				"nkÔ¡ndÔ¡": {
+					"def": "moto asílá kowâ, mowéi, mokúfi",
+					"ex": "nkÔ¡ndÔ¡mamá wa ngáí"
+				}
+			}],
+			"def": [
+				"défunt"
+			],
+			"ex": [
+				"ma feue mère, feu ma mère (attention : invariable devant un déterminant)"
+			]
+		},
+
+		"feuillage [fœjaZ] n.m.": {
+			"lingala": [{
+				"nkásá": {
+					"def": "lisangá lya nkásá ya nzeté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des feuilles d’un arbre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"feuille [fœj] n.f.": {
+			"lingala": [{
+				"lokásá": {
+					"def": "eténi ya mweté ezalí patátálú mpé na lángi, ekobótaka na mobímbí",
+					"ex": "lokásá la mangé, mángolo, lokásá la likémba, la etabe"
+				}
+			}],
+			"cls": ["lo-ma-"],
+			"def": [
+				"partie de la plante, de forme plate et de couleur, qui naît de la tige"
+			],
+			"ex": [
+				"feuille de manguier, da bananier"
+			]
+		},
+
+		"feuillet [fœjE] n.m.": {
+			"lingala": [{
+				"lokásá": {
+					"def": "lokásá la búku tô la kayé",
+					"ex": "lokásá lÉ¡kÔ¡lozalí na ngámbo íbalé"
+				}
+			}],
+			"def": [
+				"chacune des feuilles d’un livre, d’un cahier"
+			],
+			"ex": [
+				"un feuillet comporte deux pages"
+			]
+		},
+
+		"feuilleter [fœjte] v.tr.": {
+			"lingala": [{
+				"kobalola nkásá": {
+					"def": "kobóngola nkásá ya búku tô ya kayé",
+					"ex": "kobalola nkásá ya búku"
+				}
+			}],
+			"def": [
+				"tourner les feuilles d’un livre, d’un cahier"
+			],
+			"ex": [
+				"feuilleter un livre"
+			]
+		},
+
+		"feuilleton [fœjtç)] n.m.": {
+			"lingala": [{
+				"lisoló": {
+					"def": "lisoló lya biténi ebelé",
+					"ex": "kolanda lisoló na televizyó"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"histoire en feutre [føt{] n.m.plusieurs épisodes"
+			],
+			"ex": [
+				"regarder un feuilleton à la télé"
+			]
+		},
+
+		"feutre [føt{] n.m.": {
+			"lingala": [{
+				"fÔ¥t¥l¥, bíki": {
+					"def": "loléngé la ekomele eye nsÔ¡ngÔ¥na yangó ezalí ya nsinga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"abrév. de stylo-feutre, crayon-feutre dont la pointe est faite de fibres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"février [fev{ije] n.m.": {
+			"lingala": [{
+				"sánzá ya míbalé, febwáli": {
+					"def": "sánzá ya míbalé ya mobú, ezalí ekúsé koleka sánzá isúsu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"deuxième mois de l’année, plus court que les autres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fiançailles [fjA)saj] n.f.pl": {
+			"lingala": [{
+				"bolakani libála, elako ya libála, bokangi lopángo": {
+					"def": "elako ya libála mwÉasí na mobáli bakopésanaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"promesse mutuelle de mariage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fiancer [fjA)se] v.tr.": {
+			"lingala": [{
+				"kolaka libála": {
+					"def": "kopésa moto elaka ́ya libála",
+					"ex": "kolaka mwÉana wa yÉ¡ wa mobáli libála, kolaka mwÉana wa yÉ¡ wa mwÉasí libála"
+				}
+			}],
+			"def": [
+				"promettre (son fils, sa fille) en mariage"
+			],
+			"ex": [
+				"fiancer son fils, sa fille"
+			]
+		},
+
+		"fiancé, ée [fjA)se] n.": {
+			"lingala": [{
+				"mobandi; mobandemi": {
+					"def": "mwÉana mobáli alakí libálá na mwÉasí; mwÉasí azwí elako ya libála",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne promise en mariage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fiasco [fjasko] n.m.": {
+			"lingala": [{
+				"mobambo, botutu": {
+					"def": "ekela ya kozánga elónga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"échec total"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fibre [fib{] n.f.": {
+			"lingala": [{
+				"monkingá, mpunga": {
+					"def": "nsinga ya mweté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"filament végétal"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fibreux, euse [fib{ø, øz] adj.": {
+			"lingala": [{
+				"-a monkingá, -a mpunga": {
+					"def": "eye ezalí na monkingá",
+					"ex": "mosuni mwa monkingá mwa mángolo"
+				}
+			}],
+			"def": [
+				"qui contient des fibres"
+			],
+			"ex": [
+				"la chair fibreuse d’une mangue"
+			]
+		},
+
+		"ficeler [fisle] v.tr.": {
+			"lingala": [{
+				"kolínga, kozínga, kobúluka, koímba": {
+					"def": "kokanga na nsinga",
+					"ex": "kolínga libóké nsinga"
+				}
+			}],
+			"def": [
+				"lier avec de la ficelle"
+			],
+			"ex": [
+				"ficeler un paquet"
+			]
+		},
+
+		"ficelle [fisEl] n.f.": {
+			"lingala": [{
+				"mokulu mokÔ¥": {
+					"def": "nsinga ya mokÔ¥mpenza",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"corde très mince"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fiche [fiS] n.f.": {
+			"lingala": [{
+				"mwâ lokásá, físi ": {
+					"def": "eténi ya lokásá wápi moto akokí kokoma makambo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite feuille de papier ou de carton sur laquelle on note un renseignement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ficher [fiSe] v.tr.": {
+			"lingala": [{
+				"kosála": {
+					"def": "koluka kosála mosálá",
+					"ex": "osálí elÔ¡k¡ tÔ¥"
+				}
+			}],
+			"def": [
+				"faire"
+			],
+			"ex": [
+				"tu n’as rien fichu"
+			]
+		},
+
+		"fichier [fiSje] n.m.": {
+			"lingala": [{
+				"fisyé": {
+					"def": "lisangá lya mwâ nkásá tô físi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble de fiches"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fichu, ue [fiSy] adj.": {
+			"lingala": [{
+				"-bé": {
+					"def": "eye ezalí kitÔ¡k¡ tÔ¥",
+					"ex": "mosálá mobé"
+				}
+			}],
+			"def": [
+				"mauvais, détestable"
+			],
+			"ex": [
+				"un fichu métier"
+			]
+		},
+
+		"fidèle [fidEl] adj.": {
+			"lingala": [{
+				"-a lobokó": {
+					"def": "óyo akotósaka maloba alobí tô mikáno azwí",
+					"ex": "moníngá wa lobokó"
+				}
+			}],
+			"def": [
+				"qui respecte des engagements, constant dans son attachement"
+			],
+			"ex": [
+				"un ami fidèle"
+			]
+		},
+
+		"fidélité [fidelite] n.f.": {
+			"lingala": [{
+				"lobokó": {
+					"def": "ezalela ya moto akobébisaka elako tÔ¥",
+					"ex": "lobokó la moníngá, lobokó la libála"
+				}
+			}],
+			"cls": ["lo-ma-"],
+			"def": [
+				"caractère de celui qui est fidèle, attachement"
+			],
+			"ex": [
+				"la fidélité d’un ami, la fidélité conjugale"
+			]
+		},
+
+		"fief [fjEf] n.m.": {
+			"lingala": [{
+				"etando": {
+					"def": "etando tô esíká eb¡ngísámí mpÊ¡ ya myÉ¡kÔ¡misálá",
+					"ex": "etando ya map¡ni"
+				}
+			}],
+			"def": [
+				"domaine, territoire réservé"
+			],
+			"ex": [
+				"fief électoral"
+			]
+		},
+
+		"fiel [fjEl] n.m.": {
+			"lingala": [{
+				"boyini": {
+					"def": "nkándá",
+					"ex": "maloba matóndí na boyini"
+				}
+			}],
+			"def": [
+				"animosité, haine"
+			],
+			"ex": [
+				"des paroles pleines de fiel"
+			]
+		},
+
+		"fielleux, euse [fjElø, øz] adj.": {
+			"lingala": [{
+				"-a boyini": {
+					"def": "eye etóndí nkándá",
+					"ex": "maloba ma boyini"
+				}
+			}],
+			"def": [
+				"pleine de fiel, de haine"
+			],
+			"ex": [
+				"des paroles fielleuses"
+			]
+		},
+
+		"fiente [fjA)t] n.f.": {
+			"lingala": [{
+				"nsete": {
+					"def": "ny¥í ya nd¥k¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"excréments d’oiseau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fienter [fjA)te] v.intr.": {
+			"lingala": [{
+				"kosumba": {
+					"def": "kobimisa nsete",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"expulser de la fiente"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fier (se) [fje] v.pron.": {
+			"lingala": [{
+				"kolíkya na": {
+					"def": "kotíya motéma na",
+					"ex": "kolíkya na moníngá"
+				}
+			}],
+			"def": [
+				"donner sa confiance"
+			],
+			"ex": [
+				"se fier à un ami"
+			]
+		},
+
+		"fierté [fjE{te] n.f.": {
+			"lingala": [{
+				"lolÔ¥nd¡, lofúndo, litundú, molumba": {
+					"def": "ezalela ya moto wa lolÔ¥nd¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère d’une personne fière"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fier, ère [fjE{] adj.": {
+			"lingala": [{
+				"-a lolÔ¥nd¡, -a litundú, -a lofúndo, -a molumba": {
+					"def": "óyo azalí na lolÔ¥nd¡ tô lofúndo",
+					"ex": "lolÔ¥nd¡ mpÊ¡ ya mwÉana wa yÉe, mpÊ¡ ya mosálá mwa yÉe"
+				}
+			}],
+			"def": [
+				"qui tire un certain orgueil"
+			],
+			"ex": [
+				"fier de son fils, de son travail"
+			]
+		},
+
+		"fièvre [fjEv{] n.f.": {
+			"lingala": [{
+				"molungé, fÔ¥f¥l¥": {
+					"def": "bomati tô bobuti bwa molungé mwa nzóto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"élévation de la température"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fiévreux, euse [fjEv{ø, øz] adj.": {
+			"lingala": [{
+				"-a fÔ¥f¥l¥": {
+					"def": "óyo azalí na fÔ¥f¥l¥",
+					"ex": "mwÉana wa fÔ¥f¥l¥"
+				}
+			}],
+			"def": [
+				"qui a de la fièvre"
+			],
+			"ex": [
+				"un enfant fiévreux"
+			]
+		},
+
+		"figer [fiZe] v.tr.": {
+			"lingala": [{
+				"kobÔ¡tisa, kokangisa, konyangisa": {
+					"def": "kokómisa makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre solide, fixer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fignoler [fi¯çle] v.tr.": {
+			"lingala": [{
+				"kob¡ngisa nyÔ¥": {
+					"def": "kolÔ¥ng¥l¥ malámu, kosémbola",
+					"ex": "kob¡ngisa mosálá nyÔ¥, kob¡ngisa lisikúlu nyÔ¥"
+				}
+			}],
+			"def": [
+				"apporter un soin minutieux à, rendre parfait; fignoler, perfectionner"
+			],
+			"ex": [
+				"fignoler un travail, un dessin, un discours"
+			]
+		},
+
+		"figure [figy{] n.f.": {
+			"lingala": [{
+				"elongi": {
+					"def": "enama ezalí libosó lya moto mwa ekelámo wápi ezwámi mÉso, mon¡k¡, zólo, b.n.b.",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"visage, face, effigie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"figurer [figy{e] v.tr.": {
+			"lingala": [{
+				"komÔ¡nisa": {
+					"def": "kotálisa, kolakisa",
+					"ex": "komÔ¡nisa Nzámbe"
+				}
+			}],
+			"def": [
+				"représenter sous une forme visible"
+			],
+			"ex": [
+				"figurer Dieu"
+			]
+		},
+
+		"figurine [figy{in] n.f.": {
+			"lingala": [{
+				"ekeko": {
+					"def": "lilimbi",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"statuette"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fil [fil] n.m.": {
+			"lingala": [{
+				"nsinga": {
+					"def": "eténi ekÔ¥mpé elái ya nkámba eútí na nzeté tô na nyama eye bakosálaka na yangó miláto tô bilambá",
+					"ex": "nsinga ya ntokyá, nsinga ya niló"
+				}
+			}],
+			"def": [
+				"brin mince et long de matière végétal ou animal servant à fabriquer des tissus"
+			],
+			"ex": [
+				"fil de coton, de nylon"
+			]
+		},
+
+		"filament [filamA)] n.m.": {
+			"lingala": [{
+				"nkámbankámba": {
+					"def": "nsingansinga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"brin long et mince"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"file [fil] n.f.": {
+			"lingala": [{
+				"mol¡ngÔ¡": {
+					"def": "lisangá lya bato tô bilÔ¡k¡ bizwámí mÉ¡kÔ¡sima ya mosúsu mpé b.n.b.",
+					"ex": "komítyá na mol¡ngÔ¡"
+				}
+			}],
+			"def": [
+				"suite de personnes ou de choses placés sur la même ligne; queue, colonne"
+			],
+			"ex": [
+				"se mettre en file"
+			]
+		},
+
+		"filer [file] v.tr.": {
+			"lingala": [{
+				"kotonga nsinga": {
+					"def": "kobóngola elÔ¡k¡ na nsinga tô kokómisa nsing",
+					"ex": "alúlu azalí kotonga bweyi bwa yÉe"
+				}
+			}],
+			"def": [
+				"transformer en fil"
+			],
+			"ex": [
+				"l’araignée file sa toile"
+			]
+		},
+
+		"filet [filE] n.m.": {
+			"lingala": [{
+				"monyámá": {
+					"def": "nsinga ilítámí ekosálisa na bokangi mbísi mpé nyama",
+					"ex": "monyámá mwa bolÔ¡bi (bobomí mbísi), monyámá mwa bokila"
+				}
+			}],
+			"def": [
+				"mailles nouées qui sert à capturer des animaux"
+			],
+			"ex": [
+				"filet de pêche, de chasse"
+			]
+		},
+
+		"filial, ale, aux [filjal, o] adj.": {
+			"lingala": [{
+				"-a mwÉana ": {
+					"def": "eye etálí mwÉana",
+					"ex": "bolingo bwa mwÉana"
+				}
+			}],
+			"def": [
+				"propre au fils, à la fille"
+			],
+			"ex": [
+				"amour filial"
+			]
+		},
+
+		"filiation [filjasjç)] n.f.": {
+			"lingala": [{
+				"libóta": {
+					"def": "eye ezalí kokangisa mwÉana na babóti ba yÉe",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"lien qui unit l’enfant à ses parents, descendance"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fille [fij] n.f.": {
+			"lingala": [{
+				"móseka, mwÉana-mwÉasí": {
+					"def": "mwÉana óyo azalí mwÉasí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"enfant de sexe féminin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fillette [fijEt] n.f.": {
+			"lingala": [{
+				"móseka": {
+					"def": "mwÉana-mwÉasí mokÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite fille"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"filleul, eule [fijœl] n.": {
+			"lingala": [{
+				"mwÉana wa batísimo": {
+					"def": "mwÉana óyo osímbí ntángo ya batísimo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"enfant dont on est le parrain ou la marraine"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"film [film] n.m.": {
+			"lingala": [{
+				"fílime, sindemá": {
+					"def": "ekela ya bilílí ya etando",
+					"ex": "kotála fílime"
+				}
+			}],
+			"def": [
+				"euvre cinématographique"
+			],
+			"ex": [
+				"regarder un film"
+			]
+		},
+
+		"filmer [filme] v.tr.": {
+			"lingala": [{
+				"kokanga fÔ¡tÔ¡": {
+					"def": "kozwa f¡tÔ¡tô bilílí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"enregistrer sur un film, prendre en photo, en cinéma"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"filou [filu] n.m. et adj.": {
+			"lingala": [{
+				"moyíbi": {
+					"def": "moto wa mayÔ¥l¥ mabé, moto wa moyíbi",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"voleur habile, rusé; personne malhonnête"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fils [fis] n.m.": {
+			"lingala": [{
+				"mwÉana-mobáli": {
+					"def": "moto óyo azalí mobáli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne de sexe masculin par rapport à ses parents"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"filtre [filt{] n.m.": {
+			"lingala": [{
+				"ek¡ng¡lele, molongósi": {
+					"def": "esálele mpÊ¡ ya kopétola mái",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-", "e-bi-"],
+			"def": [
+				"matière poreuse servant à purifier un liquide"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"filtrer [filt{e] v.tr.": {
+			"lingala": [{
+				"kok¡ng¡l¡": {
+					"def": "kolekisa na ek¡ng¡lele mpÊ¡ na kopétola",
+					"ex": "kok¡ng¡l¡ mái, kok¡ng¡l¡ víno"
+				}
+			}],
+			"def": [
+				"faire passer par un filtre pour purifier"
+			],
+			"ex": [
+				"iltrer de l’eau, du vin"
+			]
+		},
+
+		"fin [fE)] n.f.": {
+			"lingala": [{
+				"nsúka, súka": {
+					"def": "esíká tô ntángo elÔ¡k¡ esílí",
+					"ex": "nsúka ya mobémbo, nsúka ya mbúla"
+				}
+			}],
+			"def": [
+				"lieu ou moment où une chose cesse"
+			],
+			"ex": [
+				"la fin d’un voyage, d’une année; bout, terme"
+			]
+		},
+
+		"finalement [finalmA)] adv.": {
+			"lingala": [{
+				"na súka, súka súka": {
+					"def": "mpÊ¡ ya kosúkisa",
+					"ex": "na súka ayéi"
+				}
+			}],
+			"def": [
+				"à la fin, pour en finir, tout compte fait"
+			],
+			"ex": [
+				"finalement il est arrivé"
+			]
+		},
+
+		"finaliser [finalize] v.tr.": {
+			"lingala": [{
+				"kosúkisa": {
+					"def": "kokómisa na súka",
+					"ex": "kosúkisa mwángo, kosúkisa boyókani"
+				}
+			}],
+			"def": [
+				"donner une fin heureuse à, amener à son terme, réaliser complètement"
+			],
+			"ex": [
+				"finaliser un projet, un accord"
+			]
+		},
+
+		"financer [finA)se] v.tr.": {
+			"lingala": [{
+				"kopésa mos¡l¡ tô mbÔ¡ng¡": {
+					"def": "kopésa mos¡l¡ mpÊ¡ ya",
+					"ex": "kopésa mos¡l¡ mpÊ¡ ya nzelá, mpÊ¡ ya gbagba"
+				}
+			}],
+			"def": [
+				"donner l’argent nécessaire pour faire"
+			],
+			"ex": [
+				"financer une route, un pont"
+			]
+		},
+
+		"finesse [finEs] n.f.": {
+			"lingala": [{
+				"bokÔ¥": {
+					"def": "ezalela ya elÔ¡k¡ ezalí ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qualité de ce qui est fin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"finir [fini{] v.tr.": {
+			"lingala": [{
+				"kosílisa": {
+					"def": "kosúkisa",
+					"ex": "kosílisa mosálá"
+				}
+			}],
+			"def": [
+				"terminer, achever"
+			],
+			"ex": [
+				"finir un travail"
+			]
+		},
+
+		"fin, fine [fE), fin] adj.": {
+			"lingala": [{
+				"-kÔ¥": {
+					"def": "mokÔ¥",
+					"ex": "misapi mikÔ¥"
+				}
+			}],
+			"def": [
+				"de faible épaisseur; mince, élancé"
+			],
+			"ex": [
+				"des doigts fins"
+			]
+		},
+
+		"firmament [fi{mamA)] n.m": {
+			"lingala": [{
+				"likoló": {
+					"def": "etando ya likoló",
+					"ex": "minzÔ¡t¡ mizalí o likoló"
+				}
+			}],
+			"def": [
+				"ciel"
+			],
+			"ex": [
+				"les étoiles sont au firmament"
+			]
+		},
+
+		"fissure [fisy{] n.f.": {
+			"lingala": [{
+				"monkaka": {
+					"def": "mwâ nzelá",
+					"ex": "monkaka mwa efelo"
+				}
+			}],
+			"def": [
+				"petite fente"
+			],
+			"ex": [
+				"fissure d’un mur"
+			]
+		},
+
+		"fixe [fiks] adj.": {
+			"lingala": [{
+				"-a ngbí": {
+					"def": "eye ezalí esíká yÉ¡kÔ¡, eye ekoningana tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui ne bouge pas, immobile"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fixement [fiks´mA)] adv.": {
+			"lingala": [{
+				"bakákálú, swíí": {
+					"def": "na loléngé la ngbí",
+					"ex": "kotála bakákálú, kotála swíí"
+				}
+			}],
+			"def": [
+				"d’une manière fixe"
+			],
+			"ex": [
+				"regarder fixement"
+			]
+		},
+
+		"fixer [fikse] v.tr.": {
+			"lingala": [{
+				"kobáka, kotingisa, kobátya": {
+					"def": "kokangisa",
+					"ex": "kobáka elÔ¡k¡ na efelo"
+				}
+			}],
+			"def": [
+				"retenir, rendre fixe, stable"
+			],
+			"ex": [
+				"fixer qch au mur"
+			]
+		},
+
+		"flacon [flakç)] n.m.": {
+			"lingala": [{
+				"mok¥l¡": {
+					"def": "mwâ mólangi mozipámí na ezipele",
+					"ex": "mok¥l¡ mwa mafúta"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"petite bouteille fermée par un bouchon"
+			],
+			"ex": [
+				"un flacon d’huile"
+			]
+		},
+
+		"flageller [flaZele] v.tr.": {
+			"lingala": [{
+				"kobÔ¥t¥ fímbo, kofyakola": {
+					"def": "kobÔ¥t¥ na fímbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"donner des coups de fouets; fouetter"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flageoler [flaZçle] v.intr.": {
+			"lingala": [{
+				"kob¥k¥b¥k¥": {
+					"def": "kolÔ¥ng¥ mpÊ¡ ya bol¥mbi tô mpÊ¡ ya bobángi",
+					"ex": "makolo ma yÉe mazalí kob¥k¥b¥k¥"
+				}
+			}],
+			"def": [
+				"trembler de fatigue, de peur"
+			],
+			"ex": [
+				"ses jambes flageolent"
+			]
+		},
+
+		"flagrant, ante [flag{A), A)t] adj.": {
+			"lingala": [{
+				"-a polélé": {
+					"def": "eye bakokí koyángana tÔ¥zambí ezalí saa",
+					"ex": "lokutá la polélé"
+				}
+			}],
+			"def": [
+				"qu’on ne peut pas nier; évident, indéniable"
+			],
+			"ex": [
+				"un mensonge flagrant"
+			]
+		},
+
+		"flair [flE{] n.m.": {
+			"lingala": [{
+				"bolumbuti, linusa": {
+					"def": "likokí lya koyéba elÔ¡k¡ na nsolo na yangó",
+					"ex": "mbwá eye ezalí na linusa"
+				}
+			}],
+			"def": [
+				"faculté de reconnaître par l’odeur"
+			],
+			"ex": [
+				"ce chien a du flair"
+			]
+		},
+
+		"flairer [fle{e] v.tr.": {
+			"lingala": [{
+				"konusa, kolumbuta": {
+					"def": "koyéba na nsolo",
+					"ex": "kolumbuta nyama"
+				}
+			}],
+			"def": [
+				"reconnaître par l’odeur"
+			],
+			"ex": [
+				"flairer un gibier"
+			]
+		},
+
+		"flambeau [flA)bo] n.m.": {
+			"lingala": [{
+				"mpaka, esúngi": {
+					"def": "mwínda moye bakosímbaka na mabÔ¡k¡ mpÊ¡ ya kong¥ngisa nzelá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"torche, chandelle, bougie que l’on porte à la main pour s’éclairer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flamber [flA)be] v.intr.": {
+			"lingala": [{
+				"kozíka": {
+					"def": "kozwa mÔ¡t¡",
+					"ex": "kozíka mÔ¡t¡ makási"
+				}
+			}],
+			"def": [
+				"brûler d’un feu vif"
+			],
+			"ex": [
+				"le bois sec flambe bien"
+			]
+		},
+
+		"flamboyer [flA)bwaje] v.intr.": {
+			"lingala": [{
+				"kong¥ng¥": {
+					"def": "kopésa ling¥ngi",
+					"ex": "línzanza likong¥ng¥ na mói"
+				}
+			}],
+			"def": [
+				"jeter des flammes vives par intervalle, briller, scintiller"
+			],
+			"ex": [
+				"le métal flamboie au soleil"
+			]
+		},
+
+		"flamme [flam] n.f.": {
+			"lingala": [{
+				"mololi": {
+					"def": "mÔ¡t¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"feu"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flammèche [flamES] n.f.": {
+			"lingala": [{
+				"mÔ¡t¡": {
+					"def": "elÔ¡k¡ ekopésa molungé tô ekozíkisa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"parcelle de matière enflammée qui s’échappe d’un foyer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flanc [flA)] n.m.": {
+			"lingala": [{
+				"mopanzí": {
+					"def": "eténi ya nzóto",
+					"ex": "kolála na mopanzí"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"partie latérale du corps, côté"
+			],
+			"ex": [
+				"se coucher sur le flanc"
+			]
+		},
+
+		"flâner [flAne] v.intr.": {
+			"lingala": [{
+				"kowayawaya": {
+					"def": "kotámbolatambola, kotámbola mpámba mpámba",
+					"ex": "kowayawaya na nzelá"
+				}
+			}],
+			"def": [
+				"se promener sans but"
+			],
+			"ex": [
+				"flâner dans les rues"
+			]
+		},
+
+		"flanquer [flA)ke] v.tr": {
+			"lingala": [{
+				"kobwáka, komaa": {
+					"def": "kotínda mosíka",
+					"ex": "komaa moto mbatá"
+				}
+			}],
+			"def": [
+				"lancer, jeter, appliquer"
+			],
+			"ex": [
+				"flanquer une gifle à qqn"
+			]
+		},
+
+		"flaque [flak] n.f.": {
+			"lingala": [{
+				"mái": {
+					"def": "mái mazwámí na balabála mpé makotámbola tÔ¥",
+					"ex": "mái"
+				}
+			}],
+			"def": [
+				"petite mare de liquide stagnant"
+			],
+			"ex": [
+				"une flaque d’ea"
+			]
+		},
+
+		"flasque [flask] adj.": {
+			"lingala": [{
+				"-taú": {
+					"def": "eye ezalí makási tÔ¥",
+					"ex": "nyama etaú"
+				}
+			}],
+			"def": [
+				"qui manque de fermeté, mou"
+			],
+			"ex": [
+				"une viande flasque"
+			]
+		},
+
+		"flatter [flate] v.tr.": {
+			"lingala": [{
+				"kolÔ¥t¥, kobÔ¥mb¥, kodonda": {
+					"def": "kobÔ¡nd¥l¥ na mwâ lokutá",
+					"ex": "kolÔ¥t¥ mokonzi"
+				}
+			}],
+			"def": [
+				"louer avec exagération pour plaire"
+			],
+			"ex": [
+				"flatter un chef"
+			]
+		},
+
+		"flatterie [flat{i] n.f.": {
+			"lingala": [{
+				"lilÔ¥t¥, molÔ¥t¥, libÔ¥mbi": {
+					"def": "ekela ya kolÔ¥t¥, bokúmisi bwa lokutá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de flatter, louange exagérée ou fausse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flatteur, euse [flatœ{, øz] n.": {
+			"lingala": [{
+				"molÔ¥ti, mobÔ¥mbi": {
+					"def": "moto akolÔ¥t¥k¥",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui flatte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flèche [flES] n.f.": {
+			"lingala": [{
+				"likulá, mombai, mbanzi": {
+					"def": "ebuneli ezalí nsÔ¡ngÔ¥na ngámbo yÉ¡kÔ¡mpé na mwâ lipapú na ngámbo esúsu mpé bakomaaka yangó na litimbó",
+					"ex": "komaa likulá"
+				}
+			}],
+			"def": [
+				"projectile munie d’une pointe à une extrémité et d’ailerons à l’autre, qu’on lance avec un arc"
+			],
+			"ex": [
+				"lancer, décocher une flèche"
+			]
+		},
+
+		"flèchette [fleSEt] n.f.": {
+			"lingala": [{
+				"likulá likÔ¥, mombai mokÔ¥, mbanzi ekÔ¥": {
+					"def": "mwâ likulá, mwâ mombai, mwâ mbanzi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite flèche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fléchir [fleSi{] v.tr.": {
+			"lingala": [{
+				"kogúmba, ko(n)gúnza, kokúmba": {
+					"def": "kogúmba",
+					"ex": "kogúmba mabÔ¡lÔ¡ngÔ¡"
+				}
+			}],
+			"def": [
+				"courber, plier"
+			],
+			"ex": [
+				"fléchir les genoux"
+			]
+		},
+
+		"flegmatique [flEgmatik] adj.": {
+			"lingala": [{
+				"nyÔ¥, -a kímyá": {
+					"def": "moto óyo azalí nyÔ¥tô kímyá, óyo azalí komíkÔ¥ng¥l¥ malámu",
+					"ex": "moto nyÔ¥, moto wa kímyá"
+				}
+			}],
+			"def": [
+				"qui a du flegme, qui reste calme, maître de ses sentiments"
+			],
+			"ex": [
+				"une personne flegmatique"
+			]
+		},
+
+		"flegme [flEgm] n.m.": {
+			"lingala": [{
+				"kímyá, nyÔ¥": {
+					"def": "ezalelí ya kímyá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"tempérament calme et imperturbable"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flemmard, arde [flema{, a{d] adj. et n.": {
+			"lingala": [{
+				"g¡igÔ¡i": {
+					"def": "moto akokí mosálá tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"paresseux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flétrir [flet{i{] v.tr.": {
+			"lingala": [{
+				"kosulukisa, konzulukisa": {
+					"def": "konzulukisa, kolongola tô kobébisa lángi tô kitÔ¡k¡ ya elÔ¡k¡",
+					"ex": "mpíyo esulukisaka milóna"
+				}
+			}],
+			"def": [
+				"faire perdre sa fraîcheur, son éclat, sa couleur"
+			],
+			"ex": [
+				"la sécheresse flétrit les plantes"
+			]
+		},
+
+		"flétri, ie [flet{i] adj.": {
+			"lingala": [{
+				"-a kosuluka, -a konzuluka": {
+					"def": "eye ebúngisi bonzéngá tô lángí la yangó",
+					"ex": "folólo ya kosuluka, elongi ya kosuluka"
+				}
+			}],
+			"def": [
+				"qui a perdu sa fraîcheur, son éclat, sa couleur"
+			],
+			"ex": [
+				"une fleur flétrie, un visage flétri"
+			]
+		},
+
+		"fleur [flœ{] n.f.": {
+			"lingala": [{
+				"lombÔ¥, folólo, fulÔ¥l¥": {
+					"def": "lokásá la lángi ezálí na mbóto",
+					"ex": "lombÔ¥la mangé, mángolo"
+				}
+			}],
+			"def": [
+				"feuille colorée qui porte les graines"
+			],
+			"ex": [
+				"fleur de manguier"
+			]
+		},
+
+		"fleurir [flœ{i{] v.intr.": {
+			"lingala": [{
+				"kobóta mbÔ¥, kobóta folólo": {
+					"def": "kobimisa fulÔ¥l¥",
+					"ex": "mweté mokobóta mbÔ¥, mweté mokobóta fulÔ¥l¥"
+				}
+			}],
+			"def": [
+				"être en fleurs, produire des fleurs"
+			],
+			"ex": [
+				"un arbre qui fleurit"
+			]
+		},
+
+		"fleuri, ie [flœ{i] adj.": {
+			"lingala": [{
+				"-a kokémbisa": {
+					"def": "eye ekémbisámí na mbÔ¥tô na fulÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"couvert de fleurs"
+			],
+			"ex": [
+				"un arbre fleuri, une table fleurie"
+			]
+		},
+
+		"fleuve [flœv] n.m.": {
+			"lingala": [{
+				"ebale": {
+					"def": "molúká tô mongálá monÔ¥n¥ ekomíbwákaka na mbú",
+					"ex": "ebale ya Kongó, ebale ya Nizé, ebale ya Senegále"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"grande rivière qui se jette dans la mer"
+			],
+			"ex": [
+				"le fleuve Congo, Niger, Sénagal"
+			]
+		},
+
+		"flic [flik] n.m.": {
+			"lingala": [{
+				"pulúsi": {
+					"def": "polísi, mbíla",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"policier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flingue [flE)g] n.m.": {
+			"lingala": [{
+				"bondóki": {
+					"def": "mondóki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fusil"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flinguer [flE)ge] v.tr.": {
+			"lingala": [{
+				"kobÔ¥t¥ bondóki": {
+					"def": "kobÔ¥t¥ masási",
+					"ex": "kobÔ¥t¥ moto bondóki"
+				}
+			}],
+			"def": [
+				"tirer (avec un fusil) sur"
+			],
+			"ex": [
+				"flinguer qqn"
+			]
+		},
+
+		"flirt [flœ{t] n.m.": {
+			"lingala": [{
+				"lisano lya bolingo": {
+					"def": "bosakani bwa bolingo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"jeu amoureux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flore [flç{] n.f.": {
+			"lingala": [{
+				"zámba": {
+					"def": "lisangá lya myeté mya ekólo yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des végétations, des plantes d’une région"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"floriculture [flç{ikylty{] n.f.": {
+			"lingala": [{
+				"elanga mbÔ¥, elanga ya folólo tô fulÔ¥l¥": {
+					"def": "esíká balóní mbÔ¥ tô folólo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"culture, champ de fleurs"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"florissant, ante [flç{isA), A)t] adj.": {
+			"lingala": [{
+				"-lámu, -a kitÔ¡k¡, -a malámu": {
+					"def": "eye ezalí kotámbola malámu",
+					"ex": "mombóngo molámu, mombóngo ya kitÔ¡k¡, bokÔ¡lÔ¡ngÔ¡nú bolámu, bokÔ¡lÔ¡ngÔ¡nú bwa kitÔ¡k¡"
+				}
+			}],
+			"def": [
+				"qui réuissit; brillant, prospère"
+			],
+			"ex": [
+				"un commerce florissant, une santé florissante"
+			]
+		},
+
+		"flot [flo] n.m.": {
+			"lingala": [{
+				"mbóngé": {
+					"def": "mái mazalí koningana",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"eau en mouvement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"flotter [flçte] v.intr.": {
+			"lingala": [{
+				"kotepa, kotetwa": {
+					"def": "kotámbola likoló lya mái",
+					"ex": "kotepa likoló lya mái"
+				}
+			}],
+			"def": [
+				"être porté par un liquide"
+			],
+			"ex": [
+				"flotter sur l’eau"
+			]
+		},
+
+		"flotteur [flçtœ{] n.m.": {
+			"lingala": [{
+				"litukú, likombo, motúmbé": {
+					"def": "elÔ¡k¡ ekotepa likoló lya mái mpÊ¡ ya koyébisa bozindó tô bosándá bwa mái",
+					"ex": "litukú lya ndÔ¡b¡"
+				}
+			}],
+			"cls": ["mo-mi-", "li-ma-"],
+			"def": [
+				"objet flottant destiné à marquer un niveau, à servir d’indicateur"
+			],
+			"ex": [
+				"flotteur d’hameçon"
+			]
+		},
+
+		"flou, oue [flu] adj. et n.": {
+			"lingala": [{
+				"(-a) molílí": {
+					"def": "eye ezalí saa tÔ¥",
+					"ex": "elílí tô f¡tÔ¡(ya) molíli"
+				}
+			}],
+			"def": [
+				"qui n’est pas clair, net"
+			],
+			"ex": [
+				"une photo floue"
+			]
+		},
+
+		"flûte [flyt] n.f.": {
+			"lingala": [{
+				"lindánda": {
+					"def": "esálele ya mizíki ezalí na malusú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"instrument de musique en forme de tube creux percé de trous"
+			],
+			"ex": [
+				"jouer de la flûte"
+			]
+		},
+
+		"fluvial, ale, aux [flyvjal, o] adj.": {
+			"lingala": [{
+				"-a ebale": {
+					"def": "eye etálí ebale",
+					"ex": "mái ma ebale"
+				}
+			}],
+			"def": [
+				"du fleuve, propre au fleuve"
+			],
+			"ex": [
+				"les eaux fluviales"
+			]
+		},
+
+		"foetus [fetys] n.m.": {
+			"lingala": [{
+				"zémi": {
+					"def": "likéi lya mwÉana",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"embryon humain"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foi [fwa] n.f.": {
+			"lingala": [{
+				"bondimi, boyambi": {
+					"def": "ekela ya kondima tô koyamba",
+					"ex": "kozala na bondimi tô boyambi"
+				}
+			}],
+			"def": [
+				"croyance, confiance"
+			],
+			"ex": [
+				"avoir la foi"
+			]
+		},
+
+		"foie [fwa] n.m.": {
+			"lingala": [{
+				"libale": {
+					"def": "eténi ya káti ya nzóto ezwámí na lobÔ¡k¡ la mobáli la montolú mpé esálisaka mpÊ¡ na bongúmbwani bwa biléi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"organe situé dans la partie droite de l’abdomen et servant à la digestion"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foin [fwE)] n.m.": {
+			"lingala": [{
+				"matíti": {
+					"def": "matíti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"herbe séchée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foire [fwa{] n.f.": {
+			"lingala": [{
+				"zándo, fwále": {
+					"def": "zándo enÔ¥n¥ wápi balakisaka bilÔ¡k¡ bya botÔ¥ki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand marché public"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foirer [fwa{e] v.intr.": {
+			"lingala": [{
+				"kokpá, kokwéya": {
+					"def": "kolónga tÔ¥",
+					"ex": "eyenga eb¡ngí tÔ¥"
+				}
+			}],
+			"def": [
+				"échouer complètement, ne pas réussir"
+			],
+			"ex": [
+				"une fête qui foire"
+			]
+		},
+
+		"fois [fwa] n.f.": {
+			"lingala": [{
+				"mbala": {
+					"def": "ngonga tô eleko likambo lyÉ¡kÔ¡lizalí kosálema",
+					"ex": "mbala íbalé na sánzá"
+				}
+			}],
+			"def": [
+				"moment où un événement se produit, se reproduit"
+			],
+			"ex": [
+				"deux fois par mois"
+			]
+		},
+
+		"foison (à -) [fwazç)] loc. adv.": {
+			"lingala": [{
+				"ebelé, sánzóo, bébóo": {
+					"def": "míngi mpenza",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"en abondance, abondamment"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foisonner [fwazçne] v.intr.": {
+			"lingala": [{
+				"konyalanga, kofúluka, kotóndama": {
+					"def": "kozala ebelé, kozala bébóo, kozala míngi",
+					"ex": "mongálá wápi mbísi itóndání ; mongálá motóndámí na mbisí"
+				}
+			}],
+			"def": [
+				"être en abondance, abonder, pulluler"
+			],
+			"ex": [
+				"une rivière où les poissons foisonnent"
+			]
+		},
+
+		"folie [fçli] n.f.": {
+			"lingala": [{
+				"ligbómá, libómá, mókÔ¡ti": {
+					"def": "botámboli mayÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"dérangement de l’esprit, maladie mentale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"folklore [fçlklç{] n.m.": {
+			"lingala": [{
+				"bonkÔ¡k¡": {
+					"def": "lisangá lya bizaleli bya bonkÔ¡k¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des traditions populaires"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"folklorique [fçlklç{ik] adj.": {
+			"lingala": [{
+				"-a bonkÔ¡k¡": {
+					"def": "eye etálí bonkÔ¡k¡",
+					"ex": "nzémbo, mabína ma bonkÔ¡k¡"
+				}
+			}],
+			"def": [
+				"du folklore"
+			],
+			"ex": [
+				"des chansons, des danses folkloriques"
+			]
+		},
+
+		"follement [fçlmA)] adv.": {
+			"lingala": [{
+				"na ligbómá": {
+					"def": "na loléngé la ligbómá",
+					"ex": "kobína na ligbómá, kolinga na ligbómá"
+				}
+			}],
+			"def": [
+				"d’une manière folle, excessive; extrêmement"
+			],
+			"ex": [
+				"danser, aimer follement"
+			]
+		},
+
+		"fomenter  [fçmA)te] v.tr.": {
+			"lingala": [{
+				"kob¡ngisa na bonkútú": {
+					"def": "kolÔ¥ng¥l¥ likambo na bonkútú",
+					"ex": "kobíla mwamba, kobimisa bot¡mb¡ki"
+				}
+			}],
+			"def": [
+				"organiser secrètement"
+			],
+			"ex": [
+				"fomenter des troubles, fomenter un complot"
+			]
+		},
+
+		"foncer  [fç)se] v.intr.": {
+			"lingala": [{
+				"kowéla, kopota mbángu, kokíma mbángu": {
+					"def": "kok¥nd¥ mbángu",
+					"ex": "kowéla moto, kowéla elÔ¡k¡"
+				}
+			}],
+			"def": [
+				"se précipiter, aller à grande vitesse"
+			],
+			"ex": [
+				"foncer sur qqn, qch"
+			]
+		},
+
+		"foncé, ée  [fç)se] adj.": {
+			"lingala": [{
+				"-índo": {
+					"def": "eye ezalí mpÔ¥mbÔ¥tÔ¥",
+					"ex": "motáné moíndo"
+				}
+			}],
+			"def": [
+				"sombre (en parlant d’une couleur)"
+			],
+			"ex": [
+				"rouge foncé"
+			]
+		},
+
+		"foncièrement  [fç)sjE{mA)] adv.": {
+			"lingala": [{
+				"ntá, na ntéi": {
+					"def": "míngi, bébóo",
+					"ex": "moto ntá molámu"
+				}
+			}],
+			"def": [
+				"profondément, très"
+			],
+			"ex": [
+				"un homme foncièrement bon"
+			]
+		},
+
+		"foncier, ère  [fç)sje, E{] adj.": {
+			"lingala": [{
+				"-a mabelé": {
+					"def": "eye etálí mabelé",
+					"ex": "bokóló bwa mabelé"
+				}
+			}],
+			"def": [
+				"de la terre, relatif à la terre"
+			],
+			"ex": [
+				"propriété foncière"
+			]
+		},
+
+		"fonction  [fç)ksjç)] n.f.": {
+			"lingala": [{
+				"lotómo, mosálá": {
+					"def": "mosálá",
+					"ex": "mosálá mwa dikitÔ¥l¥"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"rôle"
+			],
+			"ex": [
+				"la fonction de directeur"
+			]
+		},
+
+		"fonctionnaire  [fç)ksjçnE{] n.": {
+			"lingala": [{
+				"kaláka, mosálí wa biló": {
+					"def": "moto óyo akosálaka na biló",
+					"ex": "bakala ́ka ba Letá, basáli ba Letá"
+				}
+			}],
+			"def": [
+				"personne qui travaille dans l’administration"
+			],
+			"ex": [
+				"les fonctionnaires de l’Etat"
+			]
+		},
+
+		"fonctionnement [fç)ksjçnmA)] n.m.": {
+			"lingala": [{
+				"esáleli, mosálá": {
+					"def": "loléngé la kosálá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manière de fonctionner"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fonctionner  [fç)ksjçne] v.intr.": {
+			"lingala": [{
+				"kotámbola, kosála": {
+					"def": "kokokisa lotómo la",
+					"ex": "masíni mazalí kotámbola (kosála) malámu"
+				}
+			}],
+			"def": [
+				"remplir sa fonction, son rôle"
+			],
+			"ex": [
+				"une machine qui fonctionne bien"
+			]
+		},
+
+		"fond  [fç)] n.m.": {
+			"lingala": [{
+				"nsé": {
+					"def": "eténi ya elÔ¡k¡ eye ezwámí na nsúka",
+					"ex": "nsé ya molangi, nsé ya lisasú, nsé ya mongálá"
+				}
+			}],
+			"def": [
+				"partie la plus basse d’une chose creuse, profonde"
+			],
+			"ex": [
+				"le fond d’une bouteille, d’une casserole, d’une rivière"
+			]
+		},
+
+		"fondamentalement [fç)damA)talmA)] adv.": {
+			"lingala": [{
+				"ntá ntína": {
+					"def": "ya ntína enÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"essentiellement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fondamental, ale, aux [fç)damA)tal, o] adj.": {
+			"lingala": [{
+				"-a ntína enÔ¥n¥": {
+					"def": "eye ezalí na ntína ekási",
+					"ex": "mobéko mwa ntína, mobéko-mamá, mobéko-likonzí"
+				}
+			}],
+			"def": [
+				"de base; essentiel, capital"
+			],
+			"ex": [
+				"une loi fondamentale"
+			]
+		},
+
+		"fondateur, trice  [fç)datœ{, t{is] n. et adj.": {
+			"lingala": [{
+				"mobandisi, mokeli": {
+					"def": "moto óyo akelí tô abandísí elÔ¡k¡ yÉ¡kÔ¡ya ntína mpé ekoúmela",
+					"ex": "mobandisi wa partí politíki"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui fonde qch d’important et de durable"
+			],
+			"ex": [
+				"le fondateur d’un parti politique"
+			]
+		},
+
+		"fondation  [fç)dasjç)] n.f.": {
+			"lingala": [{
+				"nsé ya ndáko": {
+					"def": "eténi ya ndáko ezwámí na nsé mpé ezalí kokúmba yangó",
+					"ex": "nsé ya ndáko"
+				}
+			}],
+			"def": [
+				"(au pluriel) partie servant de base pour une construction"
+			],
+			"ex": [
+				"les fondations d’une maison"
+			]
+		},
+
+		"fondement [fç)dmA)] n.m.": {
+			"lingala": [{
+				"ntína": {
+					"def": "elÔ¡k¡ eye esímbí esúsu",
+					"ex": "mak¥lÔ¥l¥ mazangí ntína"
+				}
+			}],
+			"def": [
+				"base sur laquelle repose qch"
+			],
+			"ex": [
+				"une rumeur sans fondement"
+			]
+		},
+
+		"fonder [fç)de] v.tr.": {
+			"lingala": [{
+				"kobanda, kotáta, kotóndola, kobandisa": {
+					"def": "kokela tô kosála moto wa yambo",
+					"ex": "kobanda (kobandisa) engumba, kobanda libóta"
+				}
+			}],
+			"def": [
+				"mettre en place, créer"
+			],
+			"ex": [
+				"fonder une ville, une famille"
+			]
+		},
+
+		"fonderie [fç)d{i] n.f.": {
+			"lingala": [{
+				"etúlelo, libomá, gb¥gb¥": {
+					"def": "talyé wápi basálaka bilÔ¡k¡ bya bibendé",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"usine où l’on fabrique des objets en métal"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fondé, ée [fç)de] adj.": {
+			"lingala": [{
+				"-a ntína": {
+					"def": "eye ezalí na ntína ekási",
+					"ex": "bobángi bwa ntína, mak¥lÔ¥l¥ mazangí ntína"
+				}
+			}],
+			"def": [
+				"qui repose sur une base solide"
+			],
+			"ex": [
+				"une crainte bien fondée, une rumeur non fondée"
+			]
+		},
+
+		"fondre  [fç)d{] v.intr.": {
+			"lingala": [{
+				"konyángwa": {
+					"def": "kokóma mái",
+					"ex": "sukáli ekonyángwa"
+				}
+			}],
+			"def": [
+				"devenir liquide"
+			],
+			"ex": [
+				"le sucre fond dans l’eau"
+			]
+		},
+
+		"fonds  [fç)] n.m.": {
+			"lingala": [{
+				"mos¡l¡": {
+					"def": "mbÔ¡ng¡, falánga",
+					"ex": "mis¡l¡ mya bato báns¡"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"ensemble de richesse, capital, argent"
+			],
+			"ex": [
+				"les fonds publics"
+			]
+		},
+
+		"fondu, ue  [fç)dy] adj.": {
+			"lingala": [{
+				"-a konyángwa": {
+					"def": "eye ekómí mái",
+					"ex": "sukáli ya konyángwa"
+				}
+			}],
+			"def": [
+				"devenu liquide"
+			],
+			"ex": [
+				"du sucre fondu"
+			]
+		},
+
+		"fonio  [fçnjo] n.m.": {
+			"lingala": [{
+				"f¡nyÔ¡": {
+					"def": "loléngé la lÔ¡s¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte de céréale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fontaine  [fç)tEn] n.f.": {
+			"lingala": [{
+				"liziba": {
+					"def": "mái makobimaka na mabelé",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"eau sortant de terre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fonts  [fç)] n.m.pl.": {
+			"lingala": [{
+				"maí ma batísimu": {
+					"def": "mái bakobátisaka na yangó bato",
+					"ex": "mái ma batísimu"
+				}
+			}],
+			"def": [
+				"cuve contenant l’eau de baptème, abréviation de “fonts baptismaux”"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"football  [futbol] n.m.": {
+			"lingala": [{
+				"lisano lya ndembó (ya makolo), motópe, motópi": {
+					"def": "lisano lya lisangá lya basani zómi na yÉ¡kÔ¡ngámbo na ngámbo mpÊ¡ ya kopúsa ndembó na makolo",
+					"ex": "kosana lisano lya ndembó"
+				}
+			}],
+			"def": [
+				"jeu d’équipe qui se joue avec les pieds"
+			],
+			"ex": [
+				"jouer au football"
+			]
+		},
+
+		"footballeur, euse  [futbolœ{, øz] n.": {
+			"lingala": [{
+				"mobÔ¥ti motópi, mobÔ¥ti ndembó, mosani wa ndembó": {
+					"def": "moto akosanaka lisano lya ndembó",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				" joueur, joueuse de football"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"forçat  [fç{sa] n.m.": {
+			"lingala": [{
+				"moto wa b¡lÔ¡k¡": {
+					"def": "moto azwí etúmbu ya kosála misálá mikási",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"condamné aux travaux forcés"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"force  [fç{s] n.f.": {
+			"lingala": [{
+				"bokási, nguyá, ngúyá": {
+					"def": "makási, bokonzi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"puissance d’action, pouvoir, capacité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"forcer  [fç{se] v.tr.": {
+			"lingala": [{
+				"kos¥ngisa": {
+					"def": "kotínda na makási",
+					"ex": "kos¥ngisa moto kolíya"
+				}
+			}],
+			"def": [
+				"obliger, contraindre"
+			],
+			"ex": [
+				"forcer qqn à manger"
+			]
+		},
+
+		"forer  [fç{e] v.tr.": {
+			"lingala": [{
+				"kotúba, kotúbola": {
+					"def": "kot¡b¡l¡, kopasola nzelá",
+					"ex": "kotúbola libúlú"
+				}
+			}],
+			"def": [
+				"creuser, percer"
+			],
+			"ex": [
+				"forer un puits"
+			]
+		},
+
+		"forestier, ère  [fç{Estje, E{] adj.": {
+			"lingala": [{
+				"-a zámba": {
+					"def": "eye ezibámí/ezipámí na zámba",
+					"ex": "etúká ya zámba"
+				}
+			}],
+			"def": [
+				"couvert de forêt"
+			],
+			"ex": [
+				"une région forestière"
+			]
+		},
+
+		"forêt  [fç{E] n.f.": {
+			"lingala": [{
+				"zámba": {
+					"def": "etando enÔ¥n¥ etóndí na myeté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grande étendue plantée d’arbres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"forfait  [fç{fE] n.m.": {
+			"lingala": [{
+				"bobé": {
+					"def": "lisúmu",
+					"ex": "kosála (kokela) bobé"
+				}
+			}],
+			"def": [
+				"crime abominable"
+			],
+			"ex": [
+				"commettre un forfait"
+			]
+		},
+
+		"forfaitaire  [fç{fEtE{] adj.": {
+			"lingala": [{
+				"-a ntálo eyébání": {
+					"def": "eye etyámí libélá",
+					"ex": "motúya moyébání"
+				}
+			}],
+			"def": [
+				"fixé par un forfait"
+			],
+			"ex": [
+				"un prix forfaitaire"
+			]
+		},
+
+		"forge  [fç{Z] n.f.": {
+			"lingala": [{
+				"ibomá, gb¥gb¥": {
+					"def": "talyé wápi bakosálaka mosálá mwa kotúla bibendé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"atelier où l’on travaille les métaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"forger  [fç{Ze] v.tr.": {
+			"lingala": [{
+				"kotúla": {
+					"def": "kob¡ngisa elÔ¡k¡ ya ebendé",
+					"ex": "kotúla ebendé"
+				}
+			}],
+			"def": [
+				"donner une forme à une pièce métallique"
+			],
+			"ex": [
+				"forger le fer"
+			]
+		},
+
+		"forgeron, onne  [fç{Z´{ç)] n.": {
+			"lingala": [{
+				"motúli": {
+					"def": "moto óyo akotumbaka bibendé na mÔ¡t¡ mpÊ¡ ya kosála bilÔ¡k¡ na etútele",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui chauffe le fer à la forge et le travaille au marteau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"formalités  [fç{malite] n.f.pl.": {
+			"lingala": [{
+				"bikela mobéko": {
+					"def": "nzelá, nzilá es¥ngÔ¥lí kolanda",
+					"ex": "kolanda bikela mobéko"
+				}
+			}],
+			"def": [
+				"procédure obligatoire"
+			],
+			"ex": [
+				"remplir des formalités"
+			]
+		},
+
+		"format  [fç{ma] n.m.": {
+			"lingala": [{
+				"bonÔ¥n¥": {
+					"def": "bonÔ¥n¥ bwa nkásá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"dimension d’une feuille de papier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"formation  [fç{masjç)] n.f.": {
+			"lingala": [{
+				"boyékoli": {
+					"def": "ekela ya koyékola",
+					"ex": "boyékoli mosálá"
+				}
+			}],
+			"def": [
+				"instruction, éducation"
+			],
+			"ex": [
+				"formation professionnelle"
+			]
+		},
+
+		"forme  [fç{m] n.f.": {
+			"lingala": [{
+				"loléngé, motíndo": {
+					"def": "ezalela ya elÔ¡k¡",
+					"ex": "loléngé la mésa, loléngé la elongi"
+				}
+			}],
+			"def": [
+				"contour d’un objet"
+			],
+			"ex": [
+				"la forme d’une table, d’un visage"
+			]
+		},
+
+		"former  [fç{me] v.tr.": {
+			"lingala": [{
+				"kosála, kokela": {
+					"def": "kob¡ngisa",
+					"ex": "kosála lingómbá, kokela guv¥n¥má"
+				}
+			}],
+			"def": [
+				"façonner, arranger, constituer"
+			],
+			"ex": [
+				"former une équipe, un gouvernement"
+			]
+		},
+
+		"formidable  [fç{midabl] adj.": {
+			"lingala": [{
+				"-a nsÔ¡m¡": {
+					"def": "eye ekokámwisa mpÊ¡ elekí mayÔ¥l¥ ma moto tô bonÔ¥n¥",
+					"ex": "mosálá mwa nsÔ¡m¡"
+				}
+			}],
+			"def": [
+				"important, considérable, admirable"
+			],
+			"ex": [
+				"un travail formidable"
+			]
+		},
+
+		"formulaire  [fç{mylE{] n.f.": {
+			"lingala": [{
+				"mokanda": {
+					"def": "nkomá ezalí na mitúná mpÔ¡ ya boyanoli",
+					"ex": "kotóndisa mokanda"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"imprimé comportant des questions auxquelles il faut répondre"
+			],
+			"ex": [
+				"remplir un formulaire"
+			]
+		},
+
+		"formuler  [fç{myle] v.tr.": {
+			"lingala": [{
+				"kotómbela, koloba": {
+					"def": "kopésa maloba manzéngá epái ya",
+					"ex": "koloba elako, kopésa likanisi"
+				}
+			}],
+			"def": [
+				"exprimer"
+			],
+			"ex": [
+				"formuler un voeu, une idée"
+			]
+		},
+
+		"forniquer  [fç{nike] v.intr.": {
+			"lingala": [{
+				"kolúmana, koyébana nzóto": {
+					"def": "kosíbana, kosangana ya mwÉasí na mobáli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avoir des relations sexuelles"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fortement  [fç{t´mA)] adv.": {
+			"lingala": [{
+				"(na) makási": {
+					"def": "na loléngé la makási",
+					"ex": "kokanga makási"
+				}
+			}],
+			"def": [
+				"d’une manière forte, avec force"
+			],
+			"ex": [
+				"attacher fortement"
+			]
+		},
+
+		"fortifiant, ante  [fç{tifjA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a koléndisa": {
+					"def": "eye ezalí kopésa makási tô nguyá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui donne des forces"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fortifier  [fç{tifje] v.tr.": {
+			"lingala": [{
+				"koléndisa, kokótisa": {
+					"def": "kopésa makási, kokómisa makási",
+					"ex": "koléndisa engumba"
+				}
+			}],
+			"def": [
+				"rendre fort, donner des forces à"
+			],
+			"ex": [
+				"fortifier une ville"
+			]
+		},
+
+		"fortune  [fç{tyn] n.f.": {
+			"lingala": [{
+				"nkita, lokutu": {
+					"def": "mbÔ¡ng¡, mos¡l¡, bilÔ¡k¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grande richesse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fortuné, ée  [fç{tyne] adj.": {
+			"lingala": [{
+				"-a bokúmi, -a nkita, -a bozwi": {
+					"def": "óyo azalí na nkita, na elísi, na bilÔ¡k¡ ebelé",
+					"ex": "libóta lya bokúmi, lya nkita"
+				}
+			}],
+			"def": [
+				"qui possède de la fortune; riche"
+			],
+			"ex": [
+				"une famille fortunée"
+			]
+		},
+
+		"fort, forte  [fç{, fç{t] adj.": {
+			"lingala": [{
+				"-kási": {
+					"def": "eye tô óyo azalí na nguyá koleka",
+					"ex": "mwÉana-mobáli mokási"
+				}
+			}],
+			"def": [
+				"qui a de la force physique"
+			],
+			"ex": [
+				"un garçon fort"
+			]
+		},
+
+		"fosse  [fçs] n.f. ": {
+			"lingala": [{
+				"libúlú, libélá": {
+					"def": "lilusú tô lidusú lizíndó",
+					"ex": "kotímola libúlú"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"trou profond"
+			],
+			"ex": [
+				"creuser une fosse"
+			]
+		},
+
+		"fossé  [fçse] n.m.": {
+			"lingala": [{
+				"libúlú, libélá": {
+					"def": "mwâ tálásé batímólí nzíngánzíngá mpÊ¡ ya kotíya ndelo ya lobálá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"trou creusé en long pour délimiter un terrain"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fossette  [fçsEt] n.f.": {
+			"lingala": [{
+				"libúlú lya mbángá tô libúlú lya litámá": {
+					"def": "mwâ lilusú likÔ¥na litáma tô na mbángá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit creux sur le menton, la joue"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fossoyeur  [foswajœ{] n.m.": {
+			"lingala": [{
+				"ekunda bibembe": {
+					"def": "moto óyo akotímolaka mabúlú mpÊ¡ ya bokundi bawéi",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"personne qui creuse des fosses pour enterrer les morts"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fou, fol, folle  [fu, fçl] adj. et n.": {
+			"lingala": [{
+				"ligbómá, libómá": {
+					"def": "moto wa ligbómá/moto wa libómá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne ayant perdu la raison"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foudre  [fud{] n.f.": {
+			"lingala": [{
+				"nkáké, mongindi, mangb¥": {
+					"def": "lokito lokási lozalí na lotilíki ebimaka ntángo ya mbúla",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"décharge électrique intense qui se produit par temps d’orage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foudroyer  [fud{waje] v.tr.": {
+			"lingala": [{
+				"kotíndela nkáké": {
+					"def": "kotíndela moto nkáké",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"frapper de la foudre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fouet  [fwE] n.m.": {
+			"lingala": [{
+				"fímbo": {
+					"def": "esálele etongámí na4 mokulu mpé na esímbeli na nsúka",
+					"ex": "fímbo"
+				}
+			}],
+			"def": [
+				"instrument formé d’une corde au bout d’un manche, chicotte "
+			],
+			"ex": [
+				"un coup de fouet"
+			]
+		},
+
+		"fouettard, arde  [fweta{, a{d] adj. et n.": {
+			"lingala": [{
+				"mobÔ¥ti fímbo": {
+					"def": "moto akobÔ¥t¥ fímbo, moto akopésa etúmbu ya kobÔ¥t¥ fímbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui fouette, punit"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fouetter  [fwEte] v.tr.": {
+			"lingala": [{
+				"kobímbola, kopisola": {
+					"def": "kobÔ¥t¥ moto fímbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"donner des coups de fouet à"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foufou  [fufu] n.m.": {
+			"lingala": [{
+				"mót¥kÔ¥": {
+					"def": "fufú",
+					"ex": "kolíya mót¥kÔ¥"
+				}
+			}],
+			"def": [
+				"pâte de féculent servi en boule"
+			],
+			"ex": [
+				"manger du foufou"
+			]
+		},
+
+		"foufou, fofolle  [fufu, fçfçl] adj. et n.": {
+			"lingala": [{
+				"mwâ ligbómá": {
+					"def": "moto azalí na mwâ ligbómá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"un peu fou"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fougère  [fuZE{] n.f.": {
+			"lingala": [{
+				"mísilí, ekabola, mokáta, monkánginiki, liyayako": {
+					"def": "loléngé la molóna mozwámí na bisíká bya moí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte de plante tropicale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fougue  [fug] n.f.": {
+			"lingala": [{
+				"lonyánga": {
+					"def": "mpíko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ardeur naturelle, impétuosité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fougueusement  [fugøzmA)] adv.": {
+			"lingala": [{
+				"na lonyánga": {
+					"def": "na mpíko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avec fougue"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fougueux, euse  [fugø, øz] adj.": {
+			"lingala": [{
+				"-a lonyánga": {
+					"def": "-a mpíko, eye ezalí na mpíko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"plein de fougue, impétueux, ardent"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fouiller  [fuje] v.tr.": {
+			"lingala": [{
+				"koluka, kotála": {
+					"def": "kopanza malámu mpÊ¡ ya komÔ¡n¡ elÔ¡k¡ bazalí koluka",
+					"ex": "kotála mikúmbá mya moto"
+				}
+			}],
+			"def": [
+				"explorer soigneusement pour trouver qch que l’on cherche"
+			],
+			"ex": [
+				"fouiller qqn, ses bagages"
+			]
+		},
+
+		"fouiner  [fwine] v.intr.": {
+			"lingala": [{
+				"koluka na bokébi": {
+					"def": "kotála malámumalámu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"chercher méticuleusement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fouir  [fwi{] v.tr. ": {
+			"lingala": [{
+				"kotímola": {
+					"def": "kosálá libúlú",
+					"ex": "ngúlu ezalí kotímola mabelé na mon¡k¡ mwa yÉe"
+				}
+			}],
+			"def": [
+				"creuser avec ses pattes"
+			],
+			"ex": [
+				"le cochon fouissait le sol avec son museau"
+			]
+		},
+
+		"foulard  [fula{] n.m.": {
+			"lingala": [{
+				"litambála, kitambála": {
+					"def": "eténi ya elambá ya pÔ¥pÔ¥lÔ¥mpÊ¡ na kobátela nkíngó",
+					"ex": "koláta litambála"
+				}
+			}],
+			"def": [
+				"écharpe en tissu léger pour protéger le cou"
+			],
+			"ex": [
+				"porter un foulard"
+			]
+		},
+
+		"foule  [ful] n.f.": {
+			"lingala": [{
+				"ebelé, bébóo, sánzá": {
+					"def": "motángo monÔ¥n¥ mwa bato",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grande quantité de gens"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fouler  [fule] v.tr.": {
+			"lingala": [{
+				"kony¥t¥, konyata, kominya": {
+					"def": "kotámbola likoló lya",
+					"ex": "kony¥t¥ mabelé"
+				}
+			}],
+			"def": [
+				"marcher sur"
+			],
+			"ex": [
+				"fouler le sol"
+			]
+		},
+
+		"four  [fu{] n.m.": {
+			"lingala": [{
+				"litumbó, litumbú, fúlu": {
+					"def": "esálele ezalí na mÔ¡t¡ mpé ezalí polélé wápi batumbaka mámpa tô balámbaka biléi bisúsu",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"foyer creux et ouvert par devant servant à cuire le pain, les aliments"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourbe  [fu{b] adj. et n.": {
+			"lingala": [{
+				"-a lokutá ; mokósi, mobúbi, mozímbi": {
+					"def": "eye ekokósa, eye ezalí na lokutá ; moto azalí na lokutá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"trompeur, rusé"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourberie  [fu{b´{i] n.f.": {
+			"lingala": [{
+				"lokutá, bokósi, bozímbi, bobúbi": {
+					"def": "bozángi bosÊ¡lÔ¡tô bosémbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"tromperie, ruse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourche  [fu{S] n.f.": {
+			"lingala": [{
+				"likpako, likwako, nkanya enÔ¥n¥": {
+					"def": "esálele ezalí na mopéndi molaí mpé na mÉno lokóla nkanya",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"instrument à manche longue terminée par plusieurs dents"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourchette  [fu{SEt] n.f.": {
+			"lingala": [{
+				"nkanya": {
+					"def": "esálele ya mésá ezalí na mÉno ebelé",
+					"ex": "kolíya na nkanya"
+				}
+			}],
+			"def": [
+				"ustensile de table terminé par plusieurs dents"
+			],
+			"ex": [
+				"manger avec une fourchette"
+			]
+		},
+
+		"fourmi  [fu{mi] n.f.": {
+			"lingala": [{
+				"monsÔ¡mb¥": {
+					"def": "nyama kÔ¥k¥ ezalaka lisangá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte d’insecte qui vit en société"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourmilière  [fu{miljE{] n.f.": {
+			"lingala": [{
+				"etÔ¡kÔ¡, etukuluka": {
+					"def": "esíká minsÔ¡mb¥ mikobíkaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"lieu où vivent des fourmis"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourmiller  [fu{mije] v.intr.": {
+			"lingala": [{
+				"konyalangana, kotónda, kofúluka": {
+					"def": "kozala ebelé, kozala bébóo tô sánzóo",
+					"ex": "míko inyalángání na mosálá moye"
+				}
+			}],
+			"def": [
+				"être en grande quantité, en grand nombre"
+			],
+			"ex": [
+				"les fautes fourmillent dans ce devoir"
+			]
+		},
+
+		"fourmi-magnan  [fu{mima¯A)] n.f.": {
+			"lingala": [{
+				"ns¡li, ns¡l¡": {
+					"def": "monsÔ¡mb¥ monÔ¥n¥ mwa mwíndo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grosse fourmi noire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourneau  [fu{no] n.m.": {
+			"lingala": [{
+				"likengá, lik¥ngÔ¥": {
+					"def": "elÔ¡k¡ mpÊ¡ ya kolámba biléi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"appareil pour cuire les aliments"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fournir [fu{ni{] v.tr.": {
+			"lingala": [{
+				"kopésa": {
+					"def": "kolekisa elÔ¡k¡ epái ya",
+					"ex": "kopésa elÔ¡k¡ na moto"
+				}
+			}],
+			"def": [
+				"donner, procurer, approvisionner"
+			],
+			"ex": [
+				"fournir qch à qqn"
+			]
+		},
+
+		"fournisseur, euse  [fu{nisœ{, øz] n.": {
+			"lingala": [{
+				"mopési bilÔ¡k¡": {
+					"def": "moto tô kompaní eye em¥sÔ¥ní kopésa bilÔ¡k¡ na moto tô na kompaní esúsu",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne, entreprise qui fournit habituellement une marchandise"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourniture  [fu{nity{] n.f.": {
+			"lingala": [{
+				"esálele": {
+					"def": "bilÔ¡k¡ bya mosála",
+					"ex": "bisálele bya kelási"
+				}
+			}],
+			"def": [
+				"(au pl.) matériels, nécessaires"
+			],
+			"ex": [
+				"fournitures scolaires"
+			]
+		},
+
+		"fourreau  [fu{o] n.m": {
+			"lingala": [{
+				"ligbógbó, ligwógwó, libóbó, lokóto": {
+					"def": "ebómbelo ya mb¥lí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"gaine, étui pour couteau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fourvoyer  [fu{vwaje] v.tr.": {
+			"lingala": [{
+				"kopengola, koyengola, kopengolisa, kopengwisa": {
+					"def": "kobúngisa nzelá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"égarer, dévoyer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foutaise  [futEz] n.f.": {
+			"lingala": [{
+				"bololé, bozóba, botúkú": {
+					"def": "likambo tô elÔ¡k¡ ezángá ntína",
+					"ex": "ezalí bololé"
+				}
+			}],
+			"def": [
+				"chose sans importance, sans intérêt"
+			],
+			"ex": [
+				"c’est de la foutaise !"
+			]
+		},
+
+		"foutou  [futu] n.m.": {
+			"lingala": [{
+				"futu": {
+					"def": "biléi bya KÔ¡tidivware elámbámí na biténi bya mbomá, bya maíká, bya ns¡ngÔ¡tô bya makémba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"plat ivoirien composé de boulettes de pâte d’igname, de taro, de manioc ou de banane"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"foutre  [fut{] v.tr.": {
+			"lingala": [{
+				"kosála": {
+					"def": "kokela",
+					"ex": "nazalí na elÔ¡k¡ tÔ¥ya kosála"
+				}
+			}],
+			"def": [
+				"faire"
+			],
+			"ex": [
+				"je n’ai rien à foutre"
+			]
+		},
+
+		"foutu, ue  [futy] adj.": {
+			"lingala": [{
+				"esálémí": {
+					"def": "eye esálémí",
+					"ex": "elambá esálémí malámu tÔ¥"
+				}
+			}],
+			"def": [
+				"fait, exécuté"
+			],
+			"ex": [
+				"un vêtement mal foutu"
+			]
+		},
+		"foyer  [fwaje] n.m. ": {
+			"lingala": [{
+				"libótá, libóta, zwó": {
+					"def": "ndáko esíká babóti na bÉana bafándí",
+					"ex": "mwÉasí o libótá"
+				}
+			}],
+			"def": [
+				"domicile familial"
+			],
+			"ex": [
+				"femme au foyer"
+			]
+		},
+
+		"fracas  [f{aka] n.m.": {
+			"lingala": [{
+				"lokito": {
+					"def": "mak¥lÔ¥l¥ makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"bruit très violent, tumulte, vacarme"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fracassant, ante  [f{akasA), A)t] adj.": {
+			"lingala": [{
+				"-a lokito": {
+					"def": "eye ekosálaka mak¥lÔ¥l¥ míngi",
+					"ex": "mak¥lÔ¥l¥ makási"
+				}
+			}],
+			"def": [
+				"qui fait beaucoup de bruit, retentissant"
+			],
+			"ex": [
+				"un bruit fracassant"
+			]
+		},
+
+		"fracasser  [f{akase] v.tr.": {
+			"lingala": [{
+				"kobúka, kobúkabuka": {
+					"def": "kobóla biténi biténi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"briser, casser, mettre en morceaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fraction  [f{aksjç)] n.f.": {
+			"lingala": [{
+				"mbuka, mbukana, mbukano": {
+					"def": "ekela ya kobúka biténibiténi, ya kokabola ndámbo ndámbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de fractionner, de diviser, de rompre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fractionner  [f{aksjçne] v.tr.": {
+			"lingala": [{
+				"kobúka": {
+					"def": "kokabola biténi biténi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rompre, diviser en plusieurs parties"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fracture  [f{akty{] n.f.": {
+			"lingala": [{
+				"bobúkani": {
+					"def": "ekela ya kobúkana",
+					"ex": "bobúkani bwa lokolo"
+				}
+			}],
+			"def": [
+				"cassure, rupture"
+			],
+			"ex": [
+				"fracture de la jambe"
+			]
+		},
+
+		"fracturer  [f{akty{e] v.tr.": {
+			"lingala": [{
+				"kobúka": {
+					"def": "kokabola biténi biténi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"casser, briser"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fragile  [f{aZil] adj.": {
+			"lingala": [{
+				"-taú, p¥t¥p¥t¥": {
+					"def": "eye ebúkanaka mpámba mpámba",
+					"ex": "elÔ¡k¡ etaú, elÔ¡k¡ ya makási tÔ¥"
+				}
+			}],
+			"def": [
+				"qui se casse facilement"
+			],
+			"ex": [
+				"un objet fragile"
+			]
+		},
+
+		"fragiliser  [f{aZilize] v.tr.": {
+			"lingala": [{
+				"kol¥mbisa": {
+					"def": "kokómisa motaú, kokómisa p¥t¥p¥t¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre fragile"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fragilité  [f{aZilite] n.f.": {
+			"lingala": [{
+				"botaú, bol¥mbú": {
+					"def": "ezalela ya eye ezángí makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est fragile"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fragment  [f{agmA)] n.m.": {
+			"lingala": [{
+				"ebúki, mbuka": {
+					"def": "eténi ya elÔ¡k¡ ebúkání",
+					"ex": "ebúki ya mokúwa"
+				}
+			}],
+			"def": [
+				"morceau d’une chose brisée"
+			],
+			"ex": [
+				"un fragment d’os"
+			]
+		},
+
+		"fragmenter  [f{agmA)te] v.tr.": {
+			"lingala": [{
+				"kokátakata, kokáta biténi biténi tô ndámbo ndámbo": {
+					"def": "kokabola biténi biténi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"diviser en morceaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frais  [f{E] n. m. pl.": {
+			"lingala": [{
+				"mos¡l¡": {
+					"def": "mbÔ¡ng¡ ya kofúta",
+					"ex": "mos¡l¡ mwa kelási"
+				}
+			}],
+			"def": [
+				"dépenses"
+			],
+			"ex": [
+				"frais scolaires"
+			]
+		},
+
+		"frais, fraîche  [f{E, f{ES] adj.": {
+			"lingala": [{
+				"-a mwâ mpíy¡, -a mwâ malíli": {
+					"def": "eye ezalí na malíli mokÔ¥",
+					"ex": "mái ma mwâ mpíy¡"
+				}
+			}],
+			"def": [
+				"légèrement froid"
+			],
+			"ex": [
+				"de l’eau fraîche"
+			]
+		},
+
+		"franc  [f{A])] n.m.": {
+			"lingala": [{
+				"falánga, lofalánga": {
+					"def": "mos¡l¡ mwa byÉ¡kÔ¡bikólo bya Afríka",
+					"ex": "falánga CFA"
+				}
+			}],
+			"def": [
+				"unité monétaire de plusieurs Etats d’Afrique"
+			],
+			"ex": [
+				"le franc CFA"
+			]
+		},
+
+		"français, aise  [f{A)sE, Ez] adj": {
+			"lingala": [{
+				"-a fránsa": {
+					"def": "eye ezalí ya ekólo Fránsa tÉÉo etálí ekoló Fránsa",
+					"ex": "b¥ndÔ¥l¥ ya Fránsa"
+				}
+			}],
+			"def": [
+				"de la France, propre à la France"
+			],
+			"ex": [
+				"le drapeau français"
+			]
+		},
+
+		"France  [f{A)s] n.f. ": {
+			"lingala": [{
+				"Fránsa": {
+					"def": "Ekólo ya Mpútu, Mpótó ya eloli, mbóka mokonzi Paris",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat d’Europe occidentale, capitale Paris"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"franchement  [f{A)SmA])] adv.": {
+			"lingala": [{
+				"polélé": {
+					"def": "na nsÔ¡ni tÔ¥",
+					"ex": "koloba polélé"
+				}
+			}],
+			"def": [
+				"sincèrement, ouvertement"
+			],
+			"ex": [
+				"parler franchement"
+			]
+		},
+
+		"franchir  [f{A)Si{] v.tr.": {
+			"lingala": [{
+				"koákala": {
+					"def": "kokátisa",
+					"ex": "koákala efelo, koákala gbagba"
+				}
+			}],
+			"def": [
+				"traverser"
+			],
+			"ex": [
+				"franchir un mur, un pont"
+			]
+		},
+
+		"franchise  [f{A)Siz] n.f.": {
+			"lingala": [{
+				"bosémbo, malongá, alimá": {
+					"def": "bosÊ¡lÔ¡",
+					"ex": "koloba (na) bosémbo, koloba alimá"
+				}
+			}],
+			"def": [
+				"sincérité, loyauté"
+			],
+			"ex": [
+				"parler avec franchise"
+			]
+		},
+
+		"francophone  [f{A)kçfçn] adj. et n.": {
+			"lingala": [{
+				"moí-falansé, moí-lifalansé": {
+					"def": "moto akolobaka lokóta falansé",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui parle français"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"franc, franche  [f{A), f{A)S] adj.": {
+			"lingala": [{
+				"-a bosémbo, -a polélé": {
+					"def": "óyo azalí na lokutá tÔ¥, eye ezalí na mbindo tÔ¥",
+					"ex": "moto wa bosémbo"
+				}
+			}],
+			"def": [
+				"sincère, loyal"
+			],
+			"ex": [
+				"un homme franc"
+			]
+		},
+
+		"frangin, ine  [f{A)ZE), in] n.": {
+			"lingala": [{
+				"ndeko": {
+					"def": "ndeko mwÉasí, ndeko mobáli",
+					"ex": ""
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"frère, soeur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frapper  [f{ape] v.tr.": {
+			"lingala": [{
+				"kobÔ¥t¥": {
+					"def": "kopésa moto bib¡tú, mbatá tô fímbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"donner un, des coups"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fraternel, elle  [f{atE{nEl] adj.": {
+			"lingala": [{
+				"-a ndeko, -a bondeko": {
+					"def": "eye etálí bandeko",
+					"ex": "bolingo bwa (bo)ndeko"
+				}
+			}],
+			"def": [
+				"qui concerne les relations entre frères et soeurs"
+			],
+			"ex": [
+				"amour fraternel"
+			]
+		},
+
+		"fraternité  [f{atE{nite] n.f.": {
+			"lingala": [{
+				"bondeko": {
+					"def": "bolingo káti ya bandeko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"parenté entre frères et soeurs"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fratrie  [f{at{i] n.f.": {
+			"lingala": [{
+				"ebóto": {
+					"def": "lisangá lya bÉana babótámí na babóti mÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des enfants nés des mêmes parents"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fraude  [f{od] n.f.": {
+			"lingala": [{
+				"boyíbi, bokósi ": {
+					"def": "ekela ya mayÔ¥l¥ mabé mpÊ¡ ya kokósa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action faite de mauvaise foi pour tromper"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frauder  [f{ode] v.intr": {
+			"lingala": [{
+				"koyíba, kokósa": {
+					"def": "kosála mayÔ¥l¥ mabé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"commettre une fraude, tromper"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fraudeur, euse  [f{odœ{, øZ] n.": {
+			"lingala": [{
+				"moyíbi, mokósi": {
+					"def": "moto azalí kokósa, moto azalí koyíba",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"personne qui fraude"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frauduleusement [f{odyløzmA)] adv.": {
+			"lingala": [{
+				"na moyíbi, na bokósi": {
+					"def": "na loléngé la lokutá tô la kokósa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière frauduleuse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frauduleux, euse  [f{odylø, øz] adj.": {
+			"lingala": [{
+				"-a moyíbi": {
+					"def": "eye etóndí lokutá mpé moyíbi",
+					"ex": "mombóngo mwa moyíbi"
+				}
+			}],
+			"def": [
+				"entaché de fraude"
+			],
+			"ex": [
+				"un trafic frauduleux"
+			]
+		},
+
+		"frayer (un passage)  [f{eje] v.tr.": {
+			"lingala": [{
+				"kopasola": {
+					"def": "kofungola na bolongóláká mikakatano",
+					"ex": "kopasola nzelá"
+				}
+			}],
+			"def": [
+				"ouvrir en écartant les obstacles"
+			],
+			"ex": [
+				"frayer un chemin"
+			]
+		},
+
+		"fredonner  [f{´dçne] v.tr.": {
+			"lingala": [{
+				"koyémba": {
+					"def": "konzémba",
+					"ex": "koyémba loyémbo"
+				}
+			}],
+			"def": [
+				"chanter sans ouvrir la bouche"
+			],
+			"ex": [
+				"fredonner une chanson"
+			]
+		},
+
+		"freezer  [f{izœ{] n.m.": {
+			"lingala": [{
+				"fíz¥l¥": {
+					"def": "eténi ya filigó elútí malíli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"partie la plus froide d’un frigo"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frein  [f{E])] n.m.": {
+			"lingala": [{
+				"ekangel¥, f¥lÔ¥": {
+					"def": "elÔ¡k¡ el¥mbisaka mbángu tô esúkisaka moningi mwa elÔ¡k¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"ce qui ralentit ou arrête un mouvement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"freiner  [f{Ene] v.tr.": {
+			"lingala": [{
+				"kony¥t¥ f¥lÔ¥, kokanga f¥lÔ¥, kony¥t¥ ekangele": {
+					"def": "kol¥mbisa mbángu tô kotÔ¥l¥misa mótuka",
+					"ex": "kony¥t¥ f¥lÔ¥ya mótuka"
+				}
+			}],
+			"def": [
+				"ralentir ou arrêter un véhicule"
+			],
+			"ex": [
+				"freiner un camion"
+			]
+		},
+
+		"frelater  [f{´late] v.tr.": {
+			"lingala": [{
+				"kobébisa el¥ngi": {
+					"def": "kobébisa bot¥tú bwa bilÔ¡k¡ na bobakísáká bikelákela",
+					"ex": "kobébisa el¥ngi ya víno"
+				}
+			}],
+			"def": [
+				"altérer le goût en ajoutant des produits extérieurs; trafiquer"
+			],
+			"ex": [
+				"frelater un vin"
+			]
+		},
+
+		"frelaté, ée  [f{´late] adj.": {
+			"lingala": [{
+				"-a kobéba": {
+					"def": "eye ebébi zambí ya bikelákela",
+					"ex": "víno ya kobéba"
+				}
+			}],
+			"def": [
+				"altérée par des substances étrangères"
+			],
+			"ex": [
+				"un vin frelaté"
+			]
+		},
+
+		"frêle  [f{El] adj.": {
+			"lingala": [{
+				"-taú": {
+					"def": "óyo azángí bokási, eye ezángí bokási",
+					"ex": "móseka motaú"
+				}
+			}],
+			"def": [
+				"qui manque de force, faible"
+			],
+			"ex": [
+				"une fille frêle"
+			]
+		},
+
+		"frémir  [f{emi{] v.intr.": {
+			"lingala": [{
+				"kolÔ¥ng¥": {
+					"def": "kozala na bolÔ¥ngi",
+					"ex": "kolÔ¥ng¥ na bobángi, kolÔ¥ng¥ na malíli, kolÔ¥ng¥ na nsÔ¡m¡"
+				}
+			}],
+			"def": [
+				"trembler"
+			],
+			"ex": [
+				"frémir de peur, de frois, d’horreur"
+			]
+		},
+
+		"fréquemment  [f{ekamA)] adv.": {
+			"lingala": [{
+				"n¡kí n¡kí": {
+					"def": "mbala míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				""
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fréquenter  [f{ekA)te] v.tr.": {
+			"lingala": [{
+				"kokómaka": {
+					"def": "kok¥nd¥k¥ n¡kí n¡kí na esíká yÉ¡kÔ¡",
+					"ex": "kokómaka na bále"
+				}
+			}],
+			"def": [
+				"aller souvent dans un lieu"
+			],
+			"ex": [
+				"fréquenter les bars"
+			]
+		},
+
+		"fréquent, ente  [f{ekA), A)t] adj.": {
+			"lingala": [{
+				"-a n¡kí n¡kí": {
+					"def": "eye esálemaka tô eyáka míngi (mbala nzíké)",
+					"ex": "esálele ya n¡kí n¡kí"
+				}
+			}],
+			"def": [
+				"qui arrive, se produit souvent"
+			],
+			"ex": [
+				"un usage fréquent"
+			]
+		},
+
+		"frère  [f{E{] n.m.": {
+			"lingala": [{
+				"ndeko mobáli": {
+					"def": "óyo abótámí na yÉ¡ tatá mpé mamá mÉ¡kÔ¡mpé azalí mobáli",
+					"ex": ""
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"celui qui est né des mêmes parents"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fric  [f{ik] n.m.": {
+			"lingala": [{
+				"mbÔ¡ng¡, mos¡l¡": {
+					"def": "falánga/fránga, mákuta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"argent, pognon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frictionner  [f{iksjçne] v.tr.": {
+			"lingala": [{
+				"kokuluta": {
+					"def": "kofina, koníka",
+					"ex": "kokuluta mongóngó na mafúta"
+				}
+			}],
+			"def": [
+				"frotter vigoureusement"
+			],
+			"ex": [
+				"frictionner le dos avec une pommade"
+			]
+		},
+
+		"frigidaire  [f{iZidE{] n.m.": {
+			"lingala": [{
+				"filigó": {
+					"def": "esálele epésaka bilÔ¡k¡ mpíy¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"réfrigérateur, frigo"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frigo  [f{igo] n.m.": {
+			"lingala": [{
+				"filigó": {
+					"def": "elÔ¡k¡ ekopésaka malílí na biléi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"abréviation de frigidaire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frigorifier  [f{igç{ifje] v.tr.": {
+			"lingala": [{
+				"kobómba na filigó": {
+					"def": "kotíya bilÔ¡k¡ na filigó mpÊ¡ ya kobátela yangó te bíbéba tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mettre au réfrigérateur pour conserver, congeler"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fripon, onne  [f{ipç), çn] n. et adj.": {
+			"lingala": [{
+				"balabala, molé": {
+					"def": "kipumbúlu, óyo azalí na may¥lÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"enfant malicieux, polisson"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fripouille  [f{ipuj] n.f.": {
+			"lingala": [{
+				"ebéebé ya moto": {
+					"def": "moto mobé, moto wa lokutá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne malhonnête, canaille"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"friqué  [f{ike] adj.": {
+			"lingala": [{
+				"mokúmi": {
+					"def": "moto azalí na nkitá ebelé, moto wa mbÔ¡ng¡ míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a du fric, de l’argent, riche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frire  [f{i{] v.tr.": {
+			"lingala": [{
+				"kokálinga": {
+					"def": "kolámba na mafúta mpámba",
+					"ex": "kokálinga mbísi"
+				}
+			}],
+			"def": [
+				"faire cuire dans un corps gras bouillant"
+			],
+			"ex": [
+				"frire du poisson"
+			]
+		},
+
+		"frisson  [f{isç)] n.m.": {
+			"lingala": [{
+				"bolÔ¥ngi": {
+					"def": "bolÔ¥ngi boútí na malíli tô na fÔ¥f¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"tremblement provoqué par le froid ou la fièvre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frissonner  [f{isçne] v.intr.": {
+			"lingala": [{
+				"kolÔ¥ng¥": {
+					"def": "kozwa bolÔ¥ngimpÊ¡ na malíli tô na fÔ¥f¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"trembler de froid, de fièvre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frisure  [f{izy{] n.f.": {
+			"lingala": [{
+				"bolíngami, bozíngami": {
+					"def": "ezalela ya nsúki elíngámi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"état d’une chevelure frisée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frites  [f{it] n.f.pl.": {
+			"lingala": [{
+				"mbálá": {
+					"def": "eténi ya mbálá ekátémí na bolái mpé ekálíngámí na mafúta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"morceaux de pomme de terre fins et allongés que l’on a fait frire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"friture  [f{ity{] n.f.": {
+			"lingala": [{
+				"bokálingi": {
+					"def": "ekela ya kokálinga biléi na mafúta, biléi bikálingámí na mafúta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de frire des aliments, aliments frits"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frivolité  [f{ivçlite] n.f.": {
+			"lingala": [{
+				"motó likoló likoló": {
+					"def": "ezalela ya likoló likoló",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"légèreté de caractère"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"froid, froide  [f{wa, f{wad] adj.": {
+			"lingala": [{
+				"-a mpíy¡, -a malíli": {
+					"def": "eye ezalí na mÔ¡t¡ tô molungé tÔ¥",
+					"ex": "maí ma mpíy¡, maí ma malíli"
+				}
+			}],
+			"def": [
+				"qui n’est pas chaud, qui est à une température très basse"
+			],
+			"ex": [
+				"de l’eau froide"
+			]
+		},
+
+		"froisser  [f{wase] v.tr.": {
+			"lingala": [{
+				"kofinola, konikola, kominyola": {
+					"def": "kopésa masusá masusá (mbúluku mbúluku)",
+					"ex": "kofínola elambá, konikola elambá"
+				}
+			}],
+			"def": [
+				"faire prendre des plis irréguliers"
+			],
+			"ex": [
+				"froisser un vêtement"
+			]
+		},
+
+		"frôler  [f{ole] v.tr.": {
+			"lingala": [{
+				"kopalola": {
+					"def": "kosímba likoló likoló",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"toucher légèrement en passant, effleurer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fromage  [f{çmaZ] n.m.": {
+			"lingala": [{
+				"fomázi": {
+					"def": "p¡t¡pÔ¡t¡ ekangání esálemí na mabÔ¥l¥ ma ngÔ¡mbÔ¡tô nyama isúsu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"pâte comestible à base de lait"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fromager  [f{çmaZe] n.m.": {
+			"lingala": [{
+				"fomazé": {
+					"def": "loléngé la mweté monÔ¥n¥ mokobótaka o bisíka bya molungé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand arbre tropical"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"froncer  [f{ç)se] v.tr.": {
+			"lingala": [{
+				"kosúsa": {
+					"def": "kokómisa tô kopésa masusá tô mbúluku",
+					"ex": "kosúsa nkíki, kokanga nkíki"
+				}
+			}],
+			"def": [
+				"plisser"
+			],
+			"ex": [
+				"froncer les sourcils"
+			]
+		},
+
+		"front  [f{ç)] n.m.": {
+			"lingala": [{
+				"elongi, eboló, bosó, ngbátá, mbúnzu": {
+					"def": "eténi ya motó ezalí libosó",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"visage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frontalier, ère  [f{ç)talje, E{] adj. et n.": {
+			"lingala": [{
+				"-a ndelo, -a molelo, -a mopake": {
+					"def": "eye ezalí na ndelo ya",
+					"ex": "mbóka ya ndelo"
+				}
+			}],
+			"def": [
+				"qui se trouve à la frontière, près d’une frontière"
+			],
+			"ex": [
+				"un village frontalier"
+			]
+		},
+
+		"frontière  [f{ç)tjE{] n.f.": {
+			"lingala": [{
+				"molelo, ndelo, mopake": {
+					"def": "nkabólá káti ya bisíká bíbalé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"limite séparant deux Etats, borne"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frotter  [f{çte] v.tr.": {
+			"lingala": [{
+				"kogbuluta, kokpuluta, kokuluta, kokusa": {
+					"def": "kosukola na bosáli moningi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"nettoyer en faisant un mouvement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"froussard, arde  [f{usa{, a{d] adj. et n.": {
+			"lingala": [{
+				"mobángi, ebángábanga ya moto": {
+					"def": "moto azalí na bobángi tô moto azalí kobánga",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui a la frousse; craintif, peureux, poltron, trouillard"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"frousse  [f{us] n.f.": {
+			"lingala": [{
+				"bobángi": {
+					"def": "bolÔ¥ngi na bobángi",
+					"ex": "kozala na bobángi, kobánga"
+				}
+			}],
+			"def": [
+				"grande peur; trouille"
+			],
+			"ex": [
+				"avoir la frousse"
+			]
+		},
+
+		"fructifier  [f{yktifje] v.intr.": {
+			"lingala": [{
+				"kobóta mbuma, kobótisa mbuma": {
+					"def": "kokólisa mbuma",
+					"ex": "libómbo lizalí kobóta mbuma, libómbo lizalí kobótisa mbuma"
+				}
+			}],
+			"def": [
+				"produire des fruits"
+			],
+			"ex": [
+				"une épargne qui fructifie"
+			]
+		},
+
+		"fruit  [f{Ái] n.m.": {
+			"lingala": [{
+				"mbuma": {
+					"def": "eténi ya mweté ebimaka nsima ya f¡lÔ¡l¡ mpé mbala esúsu eb¡ngí na boléi",
+					"ex": "língolo lizalí mbuma"
+				}
+			}],
+			"def": [
+				"production des plantes, apparaissant après les fleurs"
+			],
+			"ex": [
+				"la mangue est un fruit"
+			]
+		},
+
+		"fruitier, ère  [f{Áitje, E{] n.m.": {
+			"lingala": [{
+				"-a mbuma": {
+					"def": "eye ezalí kobóta tô kopésa mbuma",
+					"ex": "mweté mwa mbuma"
+				}
+			}],
+			"def": [
+				"qui produit des fruits"
+			],
+			"ex": [
+				"un arbre fruitier"
+			]
+		},
+
+		"frustrer  [f{yst{e] v.tr.": {
+			"lingala": [{
+				"kosiswa": {
+					"def": "koyókisa mpí, kosepelisa tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"décevoir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fugitif, ive  [fyZitif, iv] adj. et n.": {
+			"lingala": [{
+				"mokími": {
+					"def": "moto tô elÔ¡k¡ eye ekímí",
+					"ex": "mokími na b¡lÔ¡k¡"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui a pris la fuite"
+			],
+			"ex": [
+				"un prisonnier fugitif"
+			]
+		},
+
+		"fugue  [fyg] n.f.": {
+			"lingala": [{
+				"bokími ndáko": {
+					"def": "ekela ya bokími ndáko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fuite de la maison"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fuguer  [fyge] v.intr.": {
+			"lingala": [{
+				"kokíma ndáko": {
+					"def": "kotíka ndáko",
+					"ex": "mwÉana akímí ndáko"
+				}
+			}],
+			"def": [
+				"fuir, partir de la maison"
+			],
+			"ex": [
+				"un enfant qui fugue"
+			]
+		},
+
+		"fugueur, euse  [fygœ{, øz] adj. et n.": {
+			"lingala": [{
+				"mokími ndáko": {
+					"def": "moto óyo atíkaka ndáko ya yÉe",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui fugue, qui fait des fugues"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fuir  [fÁi{] v.tr.": {
+			"lingala": [{
+				"kokíma": {
+					"def": "kok¥nd¥ mbángu mpÊ¡ ya kobánga likámá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"partir en toute hâte pour échapper à un danger"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fuite  [fÁit] n.f.": {
+			"lingala": [{
+				"bokími": {
+					"def": "ekela ya kokíma",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de fuir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fulminer  [fylmine] v.intr.": {
+			"lingala": [{
+				"kosilika, kot¡mb¡k¡, kodasuka, kolémwa": {
+					"def": "kolakisa nkándá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manifester bruyamment son mécontentement; pester, tempéter"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fumant, ante  [fymA), A)t] adj.": {
+			"lingala": [{
+				"-a molínga, -a ndinga": {
+					"def": "eye ezalí kopésa mólinga",
+					"ex": "mputulú ya mólinga"
+				}
+			}],
+			"def": [
+				"qui dégage de la fumée"
+			],
+			"ex": [
+				"des cendres fumantes"
+			]
+		},
+
+		"fumée  [fyme] n.f.": {
+			"lingala": [{
+				"mólinga": {
+					"def": "elÔ¡k¡ eúti na botumbi elÔ¡k¡ yÉ¡kÔ¡",
+					"ex": "molínga mobímaka mpámba tÔ¥"
+				}
+			}],
+			"def": [
+				"produit obtenu par la combustion d’un corps"
+			],
+			"ex": [
+				"pas de fumée sans feu"
+			]
+		},
+
+		"fumer  [fyme] v. intr.": {
+			"lingala": [{
+				"kobimisa mólinga": {
+					"def": "kopésa mólinga",
+					"ex": "nkóni ezalí kobimisa mólinga"
+				}
+			}],
+			"def": [
+				"dégager de la fumée"
+			],
+			"ex": [
+				"le bois fume"
+			]
+		},
+
+		"fumet  [fymE] n.m.": {
+			"lingala": [{
+				"nsolo ya nyama": {
+					"def": "nsolo mpímbo ya nyama ezalí kolámbema",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"arôme, odeur qui se dégage des viandes à la cuisson"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fumeur, euse  [fymœ{, øz] n.": {
+			"lingala": [{
+				"mobéndi likáyá, mom¥li likáyá": {
+					"def": "moto akobéndaka likáyá",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui a l’habitude de fumer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fumier  [fymje] n.m.": {
+			"lingala": [{
+				"malálela, malo": {
+					"def": "loléngé la bip¡lú, bip¡lí iútí na ny¥í ya nyama",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"engrais naturel d’origine animale, à base de déjections liquides et solides"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"funèbre  [fynEb{] adj.": {
+			"lingala": [{
+				"-a ebembe, -a liwá, -a kúfa": {
+					"def": "eye atálí ebembe tô liwá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a rapport aux funérailles"
+			],
+			"ex": [
+				"une cérémonie funèbre"
+			]
+		},
+
+		"funérailles  [fyne{aj] n.f.pl.": {
+			"lingala": [{
+				"bokundi, bokundami, likundi": {
+					"def": "lisangá lya milúlú mikosálema yambo bokundi mowéi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des cérémonies accompagnant un enterrement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"funéraire  [fyne{E{] adj.": {
+			"lingala": [{
+				"-a bokundi ebembe, -a likundi": {
+					"def": "eye etálí bokundi mowéi",
+					"ex": "milúlú mya bokundi ebembe"
+				}
+			}],
+			"def": [
+				"qui concerne les funérailles"
+			],
+			"ex": [
+				"une cérémonie funéraire"
+			]
+		},
+
+		"fur (au - et à mesure)  [fy{] loc.adv.": {
+			"lingala": [{
+				"malÔ¥mb¥ malÔ¥mb¥": {
+					"def": "na loléngé tozalí kopúsana",
+					"ex": "kokangisa bilÔ¡k¡ malÔ¥mb¥ malÔ¥mb¥"
+				}
+			}],
+			"def": [
+				"à mesure qu’on avance"
+			],
+			"ex": [
+				"ranger des choses au fur et à mesure"
+			]
+		},
+
+		"fureter  [fy{te] v.intr.": {
+			"lingala": [{
+				"kolukaluka": {
+					"def": "koluka bipái bíns¡ mpÊ¡ ya komÔ¡n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"chercher partout, fouiller pour découvrir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fureur  [fy{œ{] n.f.": {
+			"lingala": [{
+				"nkándá, nk¥l¥": {
+					"def": "nkándá ekási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grande colère"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"furibard, arde  [fy{iba{, a{d] adj.": {
+			"lingala": [{
+				"-a nkandá, - a molémwi, -a mot¡mb¡ki": {
+					"def": "óyo azalí na nkándá ekási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui est très en colère, furibond"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"furibond, onde  [fy{ibç), ç)d] adj.": {
+			"lingala": [{
+				"-a nkándá, -a nk¥l¥": {
+					"def": "eye ezalí na nkándá enÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"très en colère, furibard"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"furie  [fy{i] n.f.": {
+			"lingala": [{
+				"nkándá ebé": {
+					"def": "nkándá enÔ¥n¥",
+					"ex": "kongala, kot¡mb¡k¡, kolémwa"
+				}
+			}],
+			"def": [
+				"colère excessive, démesurée"
+			],
+			"ex": [
+				"être en furie"
+			]
+		},
+
+		"furieux, euse  [fy{jø, øz] adj.": {
+			"lingala": [{
+				"-a nkándá ebé, -a nk¥l¥ ebé": {
+					"def": "óyo azalí na nkándá ekási, eye ezalí na nkándá ekási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui est très en colère"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fusible  [fyzibl] n.m.": {
+			"lingala": [{
+				"fizib¥l¥": {
+					"def": "nsinga ekÔ¥ya lotilíki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit fil qui fond pour protéger un circuit électrique"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fusil  [fyzi] n.m.": {
+			"lingala": [{
+				"bondóki, abini": {
+					"def": "ebuneli bakosimbaka na mabÔ¡k¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"arme à feu portative"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fusillade  [fyzijad] n.f.": {
+			"lingala": [{
+				"bobÔ¥ti masási": {
+					"def": "bobóli masási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"décharge de plusieurs fusils"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fusiller  [fyzije] v.tr.": {
+			"lingala": [{
+				"koboma na mandóki": {
+					"def": "kolongola bom¡i na bondóki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"tuer à coups de fusil"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"fusionner  [fyzjçne] v.tr.": {
+			"lingala": [{
+				"kosangisa": {
+					"def": "kotíya esíká yÉ¡kÔ¡, kotíya lisangá",
+					"ex": "kosangisa bikípi"
+				}
+			}],
+			"def": [
+				"regrouper par fusion"
+			],
+			"ex": [
+				"fusionner deux équipes"
+			]
+		},
+
+		"fût  [fy] n.m.": {
+			"lingala": [{
+				"pípa, engbóngóló": {
+					"def": "tonó",
+					"ex": "pípa ya esánzi"
+				}
+			}],
+			"def": [
+				"tonneau"
+			],
+			"ex": [
+				"un fût d’essence"
+			]
+		},
+
+		"futé, ée  [fyte] adj.": {
+			"lingala": [{
+				"-a mbale, -a angilé, -a polosó": {
+					"def": "eye ezalí na mayÔ¥l¥ mabé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fin, rusé, malin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"futile  [fytil] adj.": {
+			"lingala": [{
+				"-a mpámba": {
+					"def": "eye ezalí na ntína tÔ¥, óyo azalí na ntína tÔ¥",
+					"ex": "moto wa mpámbá"
+				}
+			}],
+			"def": [
+				"insignifiant, sans importance"
+			],
+			"ex": [
+				"une personne futile"
+			]
+		},
+
+		"futilité  [fytilite] n.f.": {
+			"lingala": [{
+				"ekelélá, ekelákela, mpÊ¡ mpámba": {
+					"def": "ezalela ya eye ezalí na ntína tÔ¥",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"caractère de ce qui est futile, insignifiant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"futur, ure  [fyty{] adj.": {
+			"lingala": [{
+				"-a nsima ": {
+					"def": "eye ekoyâ na nsima",
+					"ex": "bom¡i bwa nsima"
+				}
+			}],
+			"def": [
+				"qui est à venir"
+			],
+			"ex": [
+				"la vie future"
+			]
+		},
+
+		"fuyard, arde  [fÁija{, a{d] adj. et n.": {
+			"lingala": [{
+				"mokími": {
+					"def": "óyo akími",
+					"ex": "sodá mokími"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui s’enfuit"
+			],
+			"ex": [
+				"un soldat fuyard"
+			]
+		}
+	}

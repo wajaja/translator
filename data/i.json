@@ -1,0 +1,9910 @@
+	{
+
+		"ici  [isi] adv.": {
+			"lingala": [{
+				"áwa": {
+					"def": "ekolakisa esíká eye ozalí",
+					"ex": "yáká áwa"
+				}
+			}],
+			"def": [
+				"de lieu, Indique l’endroit où l’on se trouve"
+			],
+			"ex": [
+				"Viens ici !"
+			]
+		},
+
+		"icône ou icone  [ikon] n.f.": {
+			"lingala": [{
+				"elílí": {
+					"def": "elílíngí",
+					"ex": null
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"image"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"idée  [ide] n.f.": {
+			"lingala": [{
+				"likanisi": {
+					"def": "bomÔ¡nisi elÔ¡k¡ na molímo, na makanisi, na motéma ",
+					"ex": "liloba mpé likanisi, +kozala na likanisi"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"représentation d’une chose dans l’esprit ; pensée, conscience"
+			],
+			"ex": [
+				"le mot et l’idée, avoir une idée"
+			]
+		},
+
+		"identifier  [idA)tifje] v.tr.": {
+			"lingala": [{
+				"kokitola": {
+					"def": "komÔ¡n¡ lokóla, kok¥s¥nisa",
+					"ex": "kokitola elÔ¡k¡"
+				}
+			}],
+			"def": [
+				"considérer comme identique, confondre"
+			],
+			"ex": [
+				"identifier une chose avec, à une autre, une chose et une autre; identifier chaise et fauteuil"
+			]
+		},
+
+		"identique  [idA)tik] adj. et n.": {
+			"lingala": [{
+				"-a loléngé lÉ¡kÔ¡": {
+					"def": "eye ezalí loléngé lÉ¡kÔ¡",
+					"ex": "bilÔ¡k¡ bíbalé bya loléngé lÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"semblable en tous points, pareil"
+			],
+			"ex": [
+				"deux choses identiques"
+			]
+		},
+
+		"identitaire  [idA)titE{] adj.": {
+			"lingala": [{
+				"-a nkómbó": {
+					"def": "eye etálí nkómbó",
+					"ex": "kpÔ¡kÔ¡sÔ¡ ya nkómbó, bolukí bwa nkómbó"
+				}
+			}],
+			"def": [
+				"relatif à l’identité"
+			],
+			"ex": [
+				"crise, recherche identitaire"
+			]
+		},
+
+		"identité  [idA)tite] n.f.": {
+			"lingala": [{
+				"minkandá mya letá": {
+					"def": "lisangá lya makambo ekolingisa koyéba moto",
+					"ex": "búku ya letá"
+				}
+			}],
+			"def": [
+				"ensemble des éléments permettant de dire qu’un individu est bien celui qu’il prétend être"
+			],
+			"ex": [
+				"une carte d’identité"
+			]
+		},
+
+		"idéologie  [ideçlçZi] n.f.": {
+			"lingala": [{
+				"idolozí, makanisi": {
+					"def": "lisangá lya makanisi ma eleko yÉ¡kÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"ensemble des idées propres à une époque, à une société"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"idiome  [idjom] n.m.": {
+			"lingala": [{
+				"mon¡k¡, ndíngá, lokóta, lofwézi": {
+					"def": "mon¡k¡ mwa yÉ¡kÔ¡ etúká",
+					"ex": null
+				}
+			}],
+			"def": [
+				"parler propre à une région (langue, dialecte, patois)"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"idiotie  [idjçsi] n.f.": {
+			"lingala": [{
+				"bozóba, bolémá, botúkú, bololé": {
+					"def": "bozángi mayÔ¥l¥",
+					"ex": "kosála bozóba, koloba bozóba"
+				}
+			}],
+			"def": [
+				"manque d’intelligence, de bon sens ; action, parole idiote ; bêtise, stupidité, imbécillité"
+			],
+			"ex": [
+				"faire, dire une idiotie"
+			]
+		},
+
+		"idiot, idiote  [idjo, idjçt] adj. et n.": {
+			"lingala": [{
+				"elémá, etúkú, ebÔ¥bÔ¥": {
+					"def": "zóba, moto azángí mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui manque d’intelligence, de bon sens; bête, sot, stupide"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"idolâtre  [idçlAt{] adj. et n.": {
+			"lingala": [{
+				"mokúmisi bikeko": {
+					"def": "moto óyo akúmisaka bikeko",
+					"ex": "bato bakúmisaka bikeko"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui adore les idoles"
+			],
+			"ex": [
+				"peuples idolâtres"
+			]
+		},
+
+		"idolâtrer  [idçlAt{e] v.tr.": {
+			"lingala": [{
+				"kokúmisa": {
+					"def": "kofúkamela",
+					"ex": "kokúmisa bÉana"
+				}
+			}],
+			"def": [
+				"aimer excessivement, adorer"
+			],
+			"ex": [
+				"idolâtrer ses enfants"
+			]
+		},
+
+		"idolâtrie  [idçlAt{i] n.f.": {
+			"lingala": [{
+				" bokúmisi bikeko": {
+					"def": "milúlu mya bokúmisi bikeko",
+					"ex": null
+				}
+			}],
+			"def": [
+				"culte, adoration des idoles"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"idole  [idçl] n.f.": {
+			"lingala": [{
+				"ekeko": {
+					"def": "elílí tÉo ekeko ya nzámbe eye bakokúmisa bó Nzámbe mpenzá ",
+					"ex": "ekeko ya libáya"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"image, statue d’une divinité que l’on adore comme si c’était la divinité elle- même; fétiche"
+			],
+			"ex": [
+				"idole de bois"
+			]
+		},
+
+		"igname  [i¯am] n.f.": {
+			"lingala": [{
+				"mbomá, monzyé, esápa, ekÔ¥kÔ¥": {
+					"def": "loléngé la mbála",
+					"ex": null
+				}
+			}],
+			"def": [
+				"plante tropicale cultivée pour ses tubercules à chair farineuse comestible"
+			],
+			"ex": [
+				"igname blanc, rouge"
+			]
+		},
+
+		"ignare  [i¯a{] adj. et n.": {
+			"lingala": [{
+				"moínga": {
+					"def": "zóba mpenzá, moto wa mayÔ¥l¥ tÊ¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"très ignorant, inculte"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ignoble  [i¯çbl] adj. et n.": {
+			"lingala": [{
+				"mpámba": {
+					"def": "ntína tÊ¥",
+					"ex": "moto mpámba"
+				}
+			}],
+			"def": [
+				"très vil, bas"
+			],
+			"ex": [
+				"un individu ignoble"
+			]
+		},
+
+		"ignominie  [i¯çmini] n.f.": {
+			"lingala": [{
+				"nsÔ¡ni": {
+					"def": "lokúmu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"grand déshonneur, infamie"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ignominieux, euse  [i¯çminjø, øz] adj.": {
+			"lingala": [{
+				"-a nsÔ¡ni": {
+					"def": "eye ekopésa lokúmu tÊ¥",
+					"ex": "liwa lya nsÔ¡ni"
+				}
+			}],
+			"def": [
+				"qui couvre d’opprobe, honteux, infâme"
+			],
+			"ex": [
+				"une mort ignominieuse"
+			]
+		},
+
+		"ignorance  [i¯ç{A)s] n.f.": {
+			"lingala": [{
+				"boínga, molílí": {
+					"def": "ekela ya koyéba tÊ¥",
+					"ex": "boínga bwa likambo"
+				}
+			}],
+			"def": [
+				"fait de ne pas savoir, état de celui qui ne sait pas"
+			],
+			"ex": [
+				"l’ignorance d’un événement"
+			]
+		},
+
+		"ignorant, ante  [i¯ç{A), A)t] adj. et n.": {
+			"lingala": [{
+				"moínga": {
+					"def": "óyo eyébí tÊ¥, óyo abúngí likambo",
+					"ex": "tozalí baínga na likambo liye, tozalí na boínga na likambo liye"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui ignore, qui ne sait pas, qui n’est pas informé"
+			],
+			"ex": [
+				"nous sommes ignorants de cette nouvelle"
+			]
+		},
+
+		"ignorer  [i¯ç{e] v.tr.": {
+			"lingala": [{
+				"kobúnga, kobósana": {
+					"def": "koyéba tÊ¥",
+					"ex": "kobúnga nkómbó ya moto"
+				}
+			}],
+			"def": [
+				"ne pas savoir, ne pas connaître"
+			],
+			"ex": [
+				"ignorer le nom de qqn"
+			]
+		},
+
+		"iguane  [igwan] n.m.": {
+			"lingala": [{
+				"mbámbe": {
+					"def": "loléngé la elandéla, la móselékéte",
+					"ex": null
+				}
+			}],
+			"def": [
+				"reptile saurien, varan"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"île  [il] n.f.": {
+			"lingala": [{
+				"esanga": {
+					"def": "etando ya mabelé ezíngámí na mái bipái na bipái",
+					"ex": "bisanga bya Kápivédi"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"terre entourée d’eau de toutes parts"
+			],
+			"ex": [
+				"les îles du Cap-Vert"
+			]
+		},
+
+		"illégal, ale, aux  [ilegal, o] adj.": {
+			"lingala": [{
+				"-a bobúki mobéko": {
+					"def": "eye elongóbání na mobéko tÊ¥",
+					"ex": "mombóngo mwa bobúki mobéko"
+				}
+			}],
+			"def": [
+				"qui est contraire à la loi"
+			],
+			"ex": [
+				"un commerce illégal"
+			]
+		},
+
+		"illégalement  [ilegalmA)] adv.": {
+			"lingala": [{
+				"na bobúki mobéko": {
+					"def": "na loléngé la bobúki mobéko",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière illégale"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illégalité  [ilegalite] n.f.": {
+			"lingala": [{
+				"bobúki mobéko": {
+					"def": "bobengi mobéko tÊ¥, bolandi mobéko tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est illégal"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illégitime  [ileZitim] adj.": {
+			"lingala": [{
+				"-a bozángi kotósa mobéko": {
+					"def": "eye ezalí kotolanda mobéko tÊ¥",
+					"ex": "libála lya bozángi kotósa mobéko"
+				}
+			}],
+			"def": [
+				"qui ne remplit pas les conditions fixées par la loi"
+			],
+			"ex": [
+				"un mariage illégitime"
+			]
+		},
+
+		"illégitimement  [ileZitimmA))] adv.": {
+			"lingala": [{
+				"na bozángi kotósa mobéko": {
+					"def": "na loléngé la kolanda mobéko tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"de manière illégitime, injustement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illégitimité  [ileZitimite] n.f.": {
+			"lingala": [{
+				"bozángi kotósa mobéko": {
+					"def": "bolandi mobéko tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de légitimité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illettré, ée  [ilet{e] adj. et n.": {
+			"lingala": [{
+				"moínga": {
+					"def": "moto ayébí kotánga mpé kokoma tÊ¥, moto ayébí monkandá tÊ¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui ne sait ni lire ni écrire, analphabète"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illettrisme  [ilet{ism] n.m.": {
+			"lingala": [{
+				"boínga": {
+					"def": "ezalela ya óyo ayébí monkandá tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état de celui qui a perdu l’usage habituel de lire et écrire"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illicite  [ilisit] adj.": {
+			"lingala": [{
+				"-a bondimami na mobéko tÊ¥": {
+					"def": "eye epekísámí na mobéko",
+					"ex": "mombóngo mwa bondimami na mobéko tÊ¥"
+				}
+			}],
+			"def": [
+				"qui est défendu par la loi, la morale, l’ordre public"
+			],
+			"ex": [
+				"commerce illicite"
+			]
+		},
+
+		"illicitement  [ilisitmA)] adv.": {
+			"lingala": [{
+				"na bondimami na mobéko tÊ¥": {
+					"def": "na loléngé epekísámí na mobéko",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière illicite"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illico  [iliko] adv.": {
+			"lingala": [{
+				"sikasikáwa": {
+					"def": "na mbálákáká, sikóyo",
+					"ex": null
+				}
+			}],
+			"def": [
+				"immédiatement, sans délai, sur le champ"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illimité, ée  [ilimite] adj.": {
+			"lingala": [{
+				"-a bozángi ndelo": {
+					"def": "eye ezalí na ndelo tÊ¥",
+					"ex": "makokí ma bozángi ndelo"
+				}
+			}],
+			"def": [
+				"qui n’a pas de limite"
+			],
+			"ex": [
+				"des pouvoirs illimités"
+			]
+		},
+
+		"illisible  [ilizibl] adj.": {
+			"lingala": [{
+				"-a kotángama tÊ¥, (e)-kotángema tÊ¥": {
+					"def": "eye ekokí kotángama tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas lisible, qu’on ne peut pas déchiffrer; une écriture illisible"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illogique  [ilçZik] adj.": {
+			"lingala": [{
+				"-a bozángi bwányá, (e)-zángá bwányá": {
+					"def": "eye ezalí na bwányá tÉo mayÔ¥l¥ tÊ¥",
+					"ex": "makanisi mazángá bwányá, makanisi ma bozángi bwányá"
+				}
+			}],
+			"def": [
+				"qui n’est pas logique"
+			],
+			"ex": [
+				"un raisonnement illogique"
+			]
+		},
+
+		"illumination  [ilyminasjç)] n.f.": {
+			"lingala": [{
+				"bong¥ngisi, bofungoli mayÔ¥l¥": {
+					"def": "ekela ya kong¥ngisa tÉo ya kofungola mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’illuminer, inspiration"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illuminer  [ilymine] v.tr.": {
+			"lingala": [{
+				"kong¥ngisa": {
+					"def": "kokómisa polélé",
+					"ex": "kong¥ngisa balabála"
+				}
+			}],
+			"def": [
+				"éclairer"
+			],
+			"ex": [
+				"illuminer une rue, un visage"
+			]
+		},
+
+		"illuminé, ée  [ilymine] adj. et n.": {
+			"lingala": [{
+				"(e)-ng¥ngÔ¥mí": {
+					"def": "eye eng¥ngísámí",
+					"ex": "balabála eng¥ngÔ¥mí"
+				}
+			}],
+			"def": [
+				"qui est éclairé par une vive lumière"
+			],
+			"ex": [
+				"une rue illuminée"
+			]
+		},
+
+		"illusion  [ilyzjç)] n.f.": {
+			"lingala": [{
+				"lokutá": {
+					"def": "bosÊ¡lÔ¡tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"apparence trompeuse qui manque de réalité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illusionner  [ilyzjçne] v.tr.": {
+			"lingala": [{
+				"kobÔ¥mb¥": {
+					"def": "kokósa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"séduire par des apparences trompeuses"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illusionniste  [ilyzjçnist] n.": {
+			"lingala": [{
+				"mokósi": {
+					"def": "moto óyo alobaka bosÊ¡lÔ¡tÔ¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui pratique l’illusionisme"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illusoire  [ilyzwa{] adj.": {
+			"lingala": [{
+				"-a lokutá": {
+					"def": "eye ezalí sÊ¡lÔ¡tÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui fait illusion; vain, chimérique"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illustration  [ilyst{asjç)] n.f.": {
+			"lingala": [{
+				"bilílí, bilílíngí": {
+					"def": "ekela ya kolimbola na bilílí",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’illustrer"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illustre  [ilyst{] adj.": {
+			"lingala": [{
+				"-a lokúmu, ak¥ndá nsango": {
+					"def": "óyo ayébáni na bikela bya yÉe",
+					"ex": null
+				}
+			}],
+			"def": [
+				"célèbre par ses mérites, ses actions"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"illustrer  [ilyst{e] v.tr.": {
+			"lingala": [{
+				"kolimbola": {
+					"def": "koloba polélé",
+					"ex": "kolimbola litéya na ndakisa"
+				}
+			}],
+			"def": [
+				"rendre illustre, plus clair"
+			],
+			"ex": [
+				"illustrer une leçon par des exemples"
+			]
+		},
+
+		"îlot  [ilo] n.m.": {
+			"lingala": [{
+				"mwâ esanga": {
+					"def": "esanga ekÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"petite île"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"image  [imaZ] n.f.": {
+			"lingala": [{
+				"elíli, elílíngi": {
+					"def": "bomÔ¡nisi moto na eléngé",
+					"ex": null
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"représentation de qqn par le dessin, la peinture, la sculpture"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imaginable  [imaZinabl] adj.": {
+			"lingala": [{
+				"-a makanisi": {
+					"def": "eye ekokí kokanisama",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui peut être imaginé, conçu"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imaginaire  [imaZinE{] adj.": {
+			"lingala": [{
+				"-a makanisi, -a masoló": {
+					"def": "eye ezalí sé na makanisi",
+					"ex": "nyama ya masoló"
+				}
+			}],
+			"def": [
+				"qui n’existe que dans l’imagination; irréel, fabuleux, légendaire"
+			],
+			"ex": [
+				"des animaux imaginaires"
+			]
+		},
+
+		"imagination  [imaZinasjç)] n.f.": {
+			"lingala": [{
+				"likanisi": {
+					"def": "likokí lya kosála bilíli bya bilÔ¡k¡ omÔ¡nÔ¡kí",
+					"ex": null
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"faculté de former des images et des objets qu’on n’a pas vus"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imaginer  [imaZine] v.tr.": {
+			"lingala": [{
+				"kokanisa": {
+					"def": "kobánza",
+					"ex": "kokanisa lóla"
+				}
+			}],
+			"def": [
+				"se représenter à l’esprit, inventer"
+			],
+			"ex": [
+				"imaginer le paradis"
+			]
+		},
+
+		"imam  [imam] n.m.": {
+			"lingala": [{
+				"imám¥": {
+					"def": "mokonzi wa eyamba epái ya bamuzumáni, moto akokambaka losámbo na ndákonzámbe ya bamuzumáni",
+					"ex": null
+				}
+			}],
+			"def": [
+				"chef religieux musulman, personne qui conduit la prière dans une mosquée"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imbattable  [E)batabl] adj.": {
+			"lingala": [{
+				"-a kopÔ¡l¡ tÊ¥, (e)-p¡l¡k¡ tÊ¥": {
+					"def": "óyo akokí kobÔ¥t¥m¥ tÊ¥ tÉo kop¡l¡ tÊ¥ tÉo eye ekokí kobÔ¥t¥m¥ tÉo kopÔ¡l¡ tÊ¥",
+					"ex": "ekípe ya kop¡l¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut pas être battu, invincible"
+			],
+			"ex": [
+				"un équipe imbattable"
+			]
+		},
+
+		"imbécile  [E)besil] adj. et n.": {
+			"lingala": [{
+				"zóba": {
+					"def": "elémá, óyo azalí na mayÔ¥l¥ tÊ¥",
+					"ex": "zóba"
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"qui n’a pas d’intelligence, sot"
+			],
+			"ex": [
+				"un imbécile"
+			]
+		},
+
+		"imbécillité  [E)besilite] n.f.": {
+			"lingala": [{
+				"bozóba": {
+					"def": "bolémá",
+					"ex": "bozángi mayÔ¥l¥, bonyama"
+				}
+			}],
+			"def": [
+				"manque d’intelligence, bêtise, sottise"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imberbe  [E)be{b] adj.": {
+			"lingala": [{
+				"azángá ndolé": {
+					"def": "óyo azalí na mandéfu tÊ¥",
+					"ex": "el¥ngÔ¥mobáli azángá ndolé"
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"qui n’a pas de barbe"
+			],
+			"ex": [
+				"un jeune homme imberbe"
+			]
+		},
+
+		"imbiber  [E)bibe] v.tr.": {
+			"lingala": [{
+				"kop¡lisa": {
+					"def": "kosopela mwâ mái",
+					"ex": "kop¡lisa elambá mái"
+				}
+			}],
+			"def": [
+				"imprégner d’un liquide"
+			],
+			"ex": [
+				"imbiber un tissu d’eau"
+			]
+		},
+
+		"imbriquer  [E)b{ike] v.tr.": {
+			"lingala": [{
+				"kokangisa": {
+					"def": "kotíya bilÔ¡k¡ na loléngé te ezala byÉ¡kÔ¡likoló lya bisúsu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"disposer des choses de manière qu’elles s’emboîtent"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imbroglio  [E)b{çglijo, E)b{çljo] n.m.": {
+			"lingala": [{
+				"mobúlú": {
+					"def": "ezalela ya yékéyeke, ya polélé tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"situation confuse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imbuvable  [E)byvabl] adj.": {
+			"lingala": [{
+				"eb¡ngí na kom¥l¥ tÊ¥, -a bom¥li tÊ¥": {
+					"def": "eye ekokí na kom¥l¥ tÊ¥",
+					"ex": "víno ya kom¥l¥ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas buvable, qui a mauvais goût"
+			],
+			"ex": [
+				"un vin imbuvable"
+			]
+		},
+
+		"imitateur, trice  [imitatœ{, t{is] n.": {
+			"lingala": [{
+				"momekoli": {
+					"def": "molandi, moto óyo akolandaka bikela, mongóngó, ezalela ya moto mosúsu",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui imite les gestes, la voix, le comportement de qqn d’autre"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imiter  [imite] v.tr.": {
+			"lingala": [{
+				"komekola, kolanda": {
+					"def": "kosála loléngé moto mosúsu azalí kosála",
+					"ex": "komekola bikela, mongóngó, ezalela"
+				}
+			}],
+			"def": [
+				"faire la même chose que qqn d’autre, reproduire ce qu’on voit faire ; contrefaire, singer, copier"
+			],
+			"ex": [
+				"imiter les gestes, la voix, le comportement de qqn"
+			]
+		},
+
+		"immaculé, ée  [imakyle] adj.": {
+			"lingala": [{
+				"-a mpÔ¥mbÔ¥, pÔ¥¥, -a mbindo tÊ¥": {
+					"def": "óyo azalí na lisúmu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui est sans péché, très pur"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immangeable  [E)mA)Zabl] adj.": {
+			"lingala": [{
+				"eb¡ngí na kolíya tÊ¥, -a boléi tÊ¥": {
+					"def": "eye ekokí na kolyáma tÊ¥",
+					"ex": "nyama ya boléi tÊ¥"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"qui ne peut être mangé, mauvais au goût, difficile à manger"
+			],
+			"ex": [
+				"une viande immangeable"
+			]
+		},
+
+		"immatriculer  [imat{ikyle] v.tr.": {
+			"lingala": [{
+				"kopésa lim¥lÔ¡": {
+					"def": "kokoma na búku ya letá",
+					"ex": "kopésa moyékoli lim¥lÔ¡, kopésa lim¥lÔ¡na moyékoli, kopésa lim¥lÔ¡na mótuka"
+				}
+			}],
+			"def": [
+				"inscrire sur un registre officiel pour identifier, attribuer un numéro"
+			],
+			"ex": [
+				"immatriculer un étudiant, une voiture"
+			]
+		},
+
+		"immature  [imaty{] adj.": {
+			"lingala": [{
+				"-kólá tÊ¥, -zángá mayÔ¥l¥": {
+					"def": "óyo azalí na mayÔ¥l¥ míngi tÊ¥",
+					"ex": "mwÉana mobáli akólí naíno tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas mûr, qui manque de maturité"
+			],
+			"ex": [
+				"un garçon immature"
+			]
+		},
+
+		"immaturité  [imaty{ite] n.f.": {
+			"lingala": [{
+				"bozángi bokóli, bomwÉana": {
+					"def": "bozalí na bokóli tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de maturité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immédiatement  [imedjatmA)] adv.": {
+			"lingala": [{
+				"-n¡kí n¡kí": {
+					"def": "na bozili tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"sans attendre, tout de suite"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immédiat, ate  [imedja, at] adj.": {
+			"lingala": [{
+				"-a n¡kí": {
+					"def": "eye eyáka n¡kí n¡kí",
+					"ex": "moyamboli wa n¡kí"
+				}
+			}],
+			"def": [
+				"qui arrive tout de suite avant ou après, sans intermédiaire"
+			],
+			"ex": [
+				"un prédécesseur immédiat"
+			]
+		},
+
+		"immémorial, ale, aux [imemç{jal, o] adj.": {
+			"lingala": [{
+				"-a kalakala": {
+					"def": "eye eleká na eleko ya kala",
+					"ex": "ntángo ya kalakala"
+				}
+			}],
+			"def": [
+				"qui date d’une époque très ancienne"
+			],
+			"ex": [
+				"temps immémoriaux"
+			]
+		},
+
+		"immense  [imA)s] adj.": {
+			"lingala": [{
+				"-nÔ¥n¥, ebuki, ebákátá, káfúmbá": {
+					"def": "eye ezalí monÔ¥n¥ koleka",
+					"ex": "ebuki ya nkita, nkita enÔ¥n¥"
+				}
+			}],
+			"def": [
+				"dont les dimensions sont considérables; très grand, énorme, gigantesque"
+			],
+			"ex": [
+				"une richesse immense"
+			]
+		},
+
+		"immensément  [imA)semA)] adv.": {
+			"lingala": [{
+				"mpenzá": {
+					"def": "mayÔ¥l¥ tÊ¥",
+					"ex": "mokúmi mpenzá"
+				}
+			}],
+			"def": [
+				"extrêmement"
+			],
+			"ex": [
+				"immensément riche"
+			]
+		},
+
+		"immensité  [imA)site] n.f.": {
+			"lingala": [{
+				"ebuki, ebákátá, káfúmbá, kafúmbá": {
+					"def": "boíké bwa motúya, bonÔ¥n¥ bwa etando",
+					"ex": "ebuki ya elíkí"
+				}
+			}],
+			"def": [
+				"très grand quantité, très grande étendue"
+			],
+			"ex": [
+				"l’immensité du désert, de la mer, du ciel"
+			]
+		},
+
+		"immerger  [imE{Ze] v.tr.": {
+			"lingala": [{
+				"kozindisa": {
+					"def": "kotuna mobimba na mái",
+					"ex": null
+				}
+			}],
+			"def": [
+				"plonger dans un liquide"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immersion  [imE{sjç)] n.f.": {
+			"lingala": [{
+				"bozindisi": {
+					"def": "ekela ya kozindisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’immerger"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immeuble  [imœbl] n.m.": {
+			"lingala": [{
+				"ndáko ya mikili, bulidíngi": {
+					"def": "ndáko enÔ¥n¥ ezalí na biténi ebelé na nsé mpé na likoló",
+					"ex": null
+				}
+			}],
+			"def": [
+				"grande maison, à plusieurs étages"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immigrant, ante  [imig{A), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bokÔ¡ti mbóka; mokÔ¡ti mbóka": {
+					"def": "óyo akÔ¡ti na mbóka ya bapaya mpÊ¡ ya kofánda; moto akÔ¡tí na mbóka ya bapaya mpÊ¡ ya kofánda kúná",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui entre dans un pays étranger pour s’y établir"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immigrer  [imig{e] v.intr.": {
+			"lingala": [{
+				"koyíngela o mbóka": {
+					"def": "kokÔ¡t¡ na mbóka ya bapaya mpÊ¡ ya kofánda",
+					"ex": null
+				}
+			}],
+			"def": [
+				"entrer dans un pays étranger pour s’y établir"
+			],
+			"ex": [
+				"immigrer au Sénégal"
+			]
+		},
+
+		"imminent, ente  [iminA), A)t] adj.": {
+			"lingala": [{
+				"-a kala tÊ¥, ekoyâ sika": {
+					"def": "eye ekosálema kala míngi tÊ¥",
+					"ex": "likámá likoyâ, likamá lya kala tÊ¥"
+				}
+			}],
+			"def": [
+				"qui va se produire bientôt"
+			],
+			"ex": [
+				"un danger imminent"
+			]
+		},
+
+		"immiscer (s’)  [imise] v.pron.": {
+			"lingala": [{
+				"komíkÔ¡tisa": {
+					"def": "komítíya na",
+					"ex": "komík¡tisa na makambo, na bom¡i bwa moto"
+				}
+			}],
+			"def": [
+				"se mêler mal à propos dans une affaire, s’ingérer dans"
+			],
+			"ex": [
+				"s’immiscer dans les affaires, la vie privée de qqn"
+			]
+		},
+
+		"immixtion  [imiksjç)] n.f.": {
+			"lingala": [{
+				"bomíkÔ¡tisi": {
+					"def": "ekela ya komíkÔ¡tisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action, fait de s’immiscer; ingérence"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immobile  [imçbil] adj.": {
+			"lingala": [{
+				"-a koningana tÊ¥": {
+					"def": "eye ekoningana tÊ¥",
+					"ex": "koningana tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne bouge pas; fixe"
+			],
+			"ex": [
+				"rester immobile"
+			]
+		},
+
+		"immobiliser  [imçbilize] v.tr.": {
+			"lingala": [{
+				"kopémisa": {
+					"def": "kopekisa koningana",
+					"ex": "kopémisa mótuka"
+				}
+			}],
+			"def": [
+				"rendre immobile, empêcher de bouger, de se déplacer"
+			],
+			"ex": [
+				"immobiliser un véhicule"
+			]
+		},
+
+		"immobilisme  [imçbilism] n.m.": {
+			"lingala": [{
+				"botÔ¥l¥mi ": {
+					"def": "bozángi moningi, bozángi boningani",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de mouvement, de progrès"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immobilité  [imçbilite] n.f.": {
+			"lingala": [{
+				"bombámbálú": {
+					"def": "ezalela ya moto tÉo elÔ¡k¡ ekoningana tÊ¥",
+					"ex": "bombámbálú bwa mok¡ni, bwa libángá"
+				}
+			}],
+			"def": [
+				"état d’une personne ou d’une chose immobile"
+			],
+			"ex": [
+				"immobilité d’un malade, d’une pierre"
+			]
+		},
+
+		"immodérément  [imçde{emA)] adv.": {
+			"lingala": [{
+				"na bolekisi ndelo, na boleki ndelo": {
+					"def": "na loléngé la bolelisi ndelo tÉo ya boleki ndelo",
+					"ex": "kom¥l¥ masanga na bolekisi ndelo"
+				}
+			}],
+			"def": [
+				"excessivement"
+			],
+			"ex": [
+				"boire immodérément"
+			]
+		},
+
+		"immodéré, ée  [imçde{e] adj.": {
+			"lingala": [{
+				"-bayí, -a boleki ndelo, -a bolekisi ndelo": {
+					"def": "eye elútí, eye ezalí míngi koleka",
+					"ex": "bobébisi falánga bobayí"
+				}
+			}],
+			"def": [
+				"qui dépasse la mesure; excessif"
+			],
+			"ex": [
+				"des dépenses immodérées"
+			]
+		},
+
+		"immodeste  [imçdest] adj.": {
+			"lingala": [{
+				"-a bozángi bosáwa, (e)-zángí bosáwa": {
+					"def": "eye ezángí bosáwa, eye ezalí na lolÔ¥nd¡",
+					"ex": "maloba mazángí bosáwa"
+				}
+			}],
+			"def": [
+				"qui n’est pas modeste, qui manque de modestie"
+			],
+			"ex": [
+				"des paroles immodestes"
+			]
+		},
+
+		"immoler  [imçle] v.tr.": {
+			"lingala": [{
+				"kobonza, kolekisa mbeka": {
+					"def": "koboma bó libonza na Nzámbe",
+					"ex": "kobonza nyama"
+				}
+			}],
+			"def": [
+				"tuer en sacrifice à un dieu"
+			],
+			"ex": [
+				"immoler un animal"
+			]
+		},
+
+		"immonde  [imç)d] adj.": {
+			"lingala": [{
+				"-a bos¡t¡": {
+					"def": "eye ezalí salité makási",
+					"ex": "balabála ya bos¡t¡"
+				}
+			}],
+			"def": [
+				"rès sale, dégoûtant, répugnant"
+			],
+			"ex": [
+				"une rue immonde"
+			]
+		},
+
+		"immondices  [imç)dis] n.f.pl.": {
+			"lingala": [{
+				"zalaka, zau, bos¡t¡": {
+					"def": "salité",
+					"ex": null
+				}
+			}],
+			"def": [
+				"ordures, déchets"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"immoral, ale, aux  [imç{al, o] adj.": {
+			"lingala": [{
+				"-a bobúki mim¥s¥n¡": {
+					"def": "eye ezalí kobúka mim¥s¥n¡ milámu",
+					"ex": "ekela, liloba lya bobúki mim¥s¥n¡"
+				}
+			}],
+			"def": [
+				"qui viole les règles de la morale"
+			],
+			"ex": [
+				"une action, une parole immorale"
+			]
+		},
+
+		"immortaliser  [imç{talize] v.tr.": {
+			"lingala": [{
+				"koúmisa sékó": {
+					"def": "kotíka nkómbó na makanisi ma bato mpÊ¡ ya libélá",
+					"ex": "koúmisa sékó nkómbó ya moto"
+				}
+			}],
+			"def": [
+				"rendre immortel dans la mémoire des hommes"
+			],
+			"ex": [
+				"immortaliser le nom de qqn"
+			]
+		},
+
+		"immortel, elle  [imç{tEl] adj.": {
+			"lingala": [{
+				"(e)-kowâ tÊ¥, -a sékó, -a libélá": {
+					"def": "eye ekokí kowâ tÊ¥",
+					"ex": "molímo mokowâ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne meurt pas; éternel"
+			],
+			"ex": [
+				"l’âme est immortelle"
+			]
+		},
+
+		"immuable  [imÁabl] adj": {
+			"lingala": [{
+				"-a kobóngwana tÊ¥, (e)- kobóngwana tÊ¥": {
+					"def": "eye ekobóngwanaka tÊ¥",
+					"ex": "Nzámbe akobóngwanaka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne change pas"
+			],
+			"ex": [
+				"Dieu est immuable"
+			]
+		},
+
+		"immuniser  [imynize] v.tr.": {
+			"lingala": [{
+				"kolongola mpási": {
+					"def": "koyókisa mpási tÊ¥",
+					"ex": "kolongola moto mpási ya kolokóto"
+				}
+			}],
+			"def": [
+				"rendre insensible"
+			],
+			"ex": [
+				"immuniser qqn contre la variole"
+			]
+		},
+
+		"immunité  [imynite] n.f.": {
+			"lingala": [{
+				"litómba": {
+					"def": "mbano",
+					"ex": "litómba lya baí-palemá"
+				}
+			}],
+			"def": [
+				"privilège, avantage"
+			],
+			"ex": [
+				"immunité parlementaire"
+			]
+		},
+
+		"impact  [E)pakt] n.m.": {
+			"lingala": [{
+				"botúti, botútani": {
+					"def": "bondongbani",
+					"ex": "elembo ya botúti"
+				}
+			}],
+			"def": [
+				"choc, collision, heurt"
+			],
+			"ex": [
+				"un point d’impact"
+			]
+		},
+
+		"impair  [E)pE{] adj.": {
+			"lingala": [{
+				"líbalé tÊ¥, -a bokaboli na míbalé tÊ¥": {
+					"def": "eye bakokí kokabola na míbalé tÊ¥",
+					"ex": "mísáto ezalí motángo líbalé tÊ¥, mísáto ezalí motángo mwa bokaboli na míbalé tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut pas être divisé par deux"
+			],
+			"ex": [
+				"trois est un nombre impair"
+			]
+		},
+
+		"impaludé, ée  [E)palyde] adj.": {
+			"lingala": [{
+				"-a malalyá": {
+					"def": "eye ezalí na malalyá",
+					"ex": "etúká ya malalyá"
+				}
+			}],
+			"def": [
+				"atteint de paludisme"
+			],
+			"ex": [
+				"une région impaludée"
+			]
+		},
+
+		"imparable  [E)pa{abl] adj.": {
+			"lingala": [{
+				"-a malalyá": {
+					"def": "eye ezalí na malalyá",
+					"ex": "etúká ya malalyá"
+				}
+			}],
+			"def": [
+				"impossible à parer, à éviter; inévitable"
+			],
+			"ex": [
+				"un coup imparable"
+			]
+		},
+
+		"impardonnable  [E)pa{dçnabl] adj.": {
+			"lingala": [{
+				"-a bolímbisami tÊ¥": {
+					"def": "eye ekokí kolímbisama tÊ¥",
+					"ex": "mbéba ya kolímbisama tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être pardonné, excusé; inexcusable"
+			],
+			"ex": [
+				"une faute impardonnable"
+			]
+		},
+
+		"imparfaitement  [E)pa{fEtmA)] adv.": {
+			"lingala": [{
+				"na ndámbo": {
+					"def": "na loléngé la ndámbo",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière imparfaite"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imparfait, aite  [E)pa{fE, Et] adj.": {
+			"lingala": [{
+				"-a ndámbo, -a kosíla tÊ¥, (e)-sílá tÊ¥": {
+					"def": "eye esílí tÊ¥, eye ezalí ya ndámbo",
+					"ex": "bobiki bwa ndámbo"
+				}
+			}],
+			"def": [
+				"qui n’est pas parfait; défectueux, inachevé"
+			],
+			"ex": [
+				"une guérison imparfaite"
+			]
+		},
+
+		"impartialement  [E)pa{sjalmA)] adv.": {
+			"lingala": [{
+				"na (n)sekú tÊ¥": {
+					"def": "na loléngé la nsekú tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière impartiale, équitable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impartialité  [E)pa{sjalite] n.f.": {
+			"lingala": [{
+				"bosémbo": {
+					"def": "na loléngé la nsekú tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est impartial ; équité, justice"
+			],
+			"ex": [
+				"l’impartialité d’un juge"
+			]
+		},
+
+		"impartial, ale  [E)pa{sjal] adj.": {
+			"lingala": [{
+				"-a malongá, sémba/sémbo, alimá": {
+					"def": "eye ezalí na (n) sekú tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"équitable, juste"
+			],
+			"ex": [
+				"un jugement impartial"
+			]
+		},
+
+		"impartir  [E)pa{ti{] v.tr.": {
+			"lingala": [{
+				"kopésa": {
+					"def": "kokómisa epái ya",
+					"ex": "kopésa ntáká, kopésa ngonga"
+				}
+			}],
+			"def": [
+				"accorder, attribuer, donner"
+			],
+			"ex": [
+				"impartir un délai, le temps"
+			]
+		},
+
+		"impasse  [E)pas] n.f.": {
+			"lingala": [{
+				"nzelá ekangémá": {
+					"def": "balabála ezángi esíká ya koleka",
+					"ex": null
+				}
+			}],
+			"def": [
+				"petite rue sans issue, cul-de-sal"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impassibilité  [E)pasibilite] n.f.": {
+			"lingala": [{
+				"bozángi bobángi": {
+					"def": "ezalela ya kozánga bobángi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de celui qui est impassible"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impassible  [E)pasible] adj.": {
+			"lingala": [{
+				"-a bozángi bobángi": {
+					"def": "óyo amÔ¡nisaka bobángi bwa yÉe tÊ¥",
+					"ex": "wa bozángi bobángi libosó lya likámá, kozala na bobángi tÊ¥ libosó lya likámá"
+				}
+			}],
+			"def": [
+				"qui ne laisse paraître aucune émotion, aucun trouble"
+			],
+			"ex": [
+				"être, rester impassible devant un danger"
+			]
+		},
+
+		"impatiemment  [E)pasjamA)] adv.": {
+			"lingala": [{
+				"na motéma lúkulúku, na motéma mÔ¡t¡ mÔ¡t¡": {
+					"def": "na loléngé la bozángi bozili",
+					"ex": "kozela moto na motéma lúkulúku"
+				}
+			}],
+			"def": [
+				"avec impatience"
+			],
+			"ex": [
+				"attendre qqn impatiemment"
+			]
+		},
+
+		"impatience  [E)pasjA)s] n.f.": {
+			"lingala": [{
+				"motéma lúkulúku, bopupi": {
+					"def": "bozángi mpósá ya kozela",
+					"ex": "kozela motéma lúkulúku"
+				}
+			}],
+			"def": [
+				"manque de patience, incapacité d’attendre"
+			],
+			"ex": [
+				"attendre avec impatience"
+			]
+		},
+
+		"impatienter  [E)pasjA)te] v.tr.": {
+			"lingala": [{
+				"kosilikisa": {
+					"def": "kopésa nkándá, koyókisa nkándá",
+					"ex": "lom¡ngi la yÉe lozalí kosilikisa ngáí"
+				}
+			}],
+			"def": [
+				"faire perdre la patience, énerver, irriter"
+			],
+			"ex": [
+				"sa lenteur m’impatiente"
+			]
+		},
+
+		"impatient, ente  [E)pasjA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a motéma lúkulúku, -a motéma mÔ¡t¡ mÔ¡t¡": {
+					"def": "óyo azalí motéma mpíyo tÊ¥",
+					"ex": "nazalí motéma lúkulúku ya komÔ¡n¡ yÉe"
+				}
+			}],
+			"def": [
+				"qui manque de patience"
+			],
+			"ex": [
+				"je suis impatient de te voir"
+			]
+		},
+
+		"impeccable  [E)pekabl] adj.": {
+			"lingala": [{
+				"-a kitÔ¡k¡, -lámu": {
+					"def": "eye ezalí na mbéba tÔ¥tô óyo azalí na mbéba tÊ¥",
+					"ex": "elambá ya kitÔ¡k¡"
+				}
+			}],
+			"def": [
+				"qui est sans défaut, irréprochable"
+			],
+			"ex": [
+				"une tenue impeccable"
+			]
+		},
+
+		"impénétrable  [E)penet{abl] adj.": {
+			"lingala": [{
+				"-a bokÔ¡ti tÊ¥": {
+					"def": "eye bakokÔ¡t¡ tÊ¥",
+					"ex": "zámba ya bokÔ¡ti tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être pénétré, où l’on ne peut pénétrer"
+			],
+			"ex": [
+				"une forêt impénétrable"
+			]
+		},
+
+		"impénitent, ente  [E)penitA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bobóngwani tÊ¥": {
+					"def": "eye ekozÔ¥nz¥k¥ tÊ¥, óyo akosÔ¥nz¥k¥",
+					"ex": "molángi wa bobóngwani tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne se repent pas, qui persiste dans ses mauvaises habitudes"
+			],
+			"ex": [
+				"un ivrogne impénitent"
+			]
+		},
+
+		"impensable  [E)pA)sabl] adj.": {
+			"lingala": [{
+				"-a bokanisi tÊ¥": {
+					"def": "eye bakokanisa tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"inconcevable, inimaginable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impératif, ive  [E)pe{atif, iv] adj.": {
+			"lingala": [{
+				"-a motíndo": {
+					"def": "eye ekolalisa motíndo",
+					"ex": "loláká la motíndo, mongóngo mwa motíndo"
+				}
+			}],
+			"def": [
+				"qui marque un ordre, un commandement; autoritaire, impérieux"
+			],
+			"ex": [
+				"un ton impératif, une voix impérative"
+			]
+		},
+
+		"imperfection  [E)pE{fEksjç)] n.f.": {
+			"lingala": [{
+				"bobé": {
+					"def": "ezalela ya eye eb¡ngí tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est imparfait"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impérialisme  [E)pe{jalism] n.m.": {
+			"lingala": [{
+				"lokoloní": {
+					"def": "politíki ya ekólo esúsu eye ekoluka kokonza bikólo bisúsu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"politique d’un Etat qui cherche à étendre sa domination sur d’autres Etats; colonialisme"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impérissable  [E)pe{isabl] adj.": {
+			"lingala": [{
+				"(e)-kowâ tÊ¥, -a kokúfa tÊ¥, -a kobéba tÊ¥": {
+					"def": "eye ekokí kokúfa tÉo kobéba tÊ¥",
+					"ex": "likanisi likowâ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut périr, mourir, s’abîmer, qui dure très longtemps; immortel"
+			],
+			"ex": [
+				"un souvenir impérissable"
+			]
+		},
+
+		"imperméable  [E)pE{meabl] adj.": {
+			"lingala": [{
+				"-a kokÔ¡t¡ mái tÊ¥": {
+					"def": "eye elekisaka mái tÊ¥",
+					"ex": "elambá ya kokÔ¡t¡ mái tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne se laisse pas traverser par l’eau"
+			],
+			"ex": [
+				"un tissu imperméable"
+			]
+		},
+
+		"impertinence  [E)pE{tinA)s] n.f.": {
+			"lingala": [{
+				"bozángi botósi, bozángi nsÔ¡ni": {
+					"def": "ekela ya bozángi botósi tÉo nsÔ¡ni",
+					"ex": null
+				}
+			}],
+			"def": [
+				"conduite d’une personne impertinente; impolitesse, insolence, outrecuidance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impertinent, ente  [E)pE{tinA), A)t] adj.": {
+			"lingala": [{
+				"-a bozángi botósi, -a bozángi nsÔ¡ni": {
+					"def": "óyo azángí botósi tÉo asílá nsÔ¡ni tÉo eye ezalí na botósi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui manque de respect, de politesse"
+			],
+			"ex": [
+				"un enfant impertinent, une réponse impertinente"
+			]
+		},
+
+		"impétueusement  [E)petÁøzmA)] adv.": {
+			"lingala": [{
+				"na makási": {
+					"def": "na loléngé la konyÔ¡k¡l¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière impétueuse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impétueux, euse  [E)petÁø, øz] adj.": {
+			"lingala": [{
+				"-kási, -a makási": {
+					"def": "eye ezalí n¡kí mpé makási",
+					"ex": "mop¥p¥ mokási"
+				}
+			}],
+			"def": [
+				"rapide et violent; déchaîné"
+			],
+			"ex": [
+				"un vent impétueux"
+			]
+		},
+
+		"impétuosité  [E)petÁozite] n.f.": {
+			"lingala": [{
+				"makási": {
+					"def": "bokási",
+					"ex": null
+				}
+			}],
+			"def": [
+				"violence, fougue"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impie  [E)pi] adj. et n.": {
+			"lingala": [{
+				"-a kom¥m¡l¡, -a kobóya": {
+					"def": "eye ekom¥m¡l¡ tÉo ekobóya",
+					"ex": "maloba ma kom¥m¡l¡"
+				}
+			}],
+			"def": [
+				"qui méprise, offense la religion"
+			],
+			"ex": [
+				"des paroles impies"
+			]
+		},
+
+		"impiété  [E)pjete] n.f.": {
+			"lingala": [{
+				"bom¥m¡li": {
+					"def": "bobóyi makambo ma Nzámbe",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mépris pour les choses de la religion"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impitoyable  [E)pitwajabl] adj.": {
+			"lingala": [{
+				"(e)-zángá mawa, -a mawa tÊ¥": {
+					"def": "eye esílá mawa",
+					"ex": "mongúná azángá mawa"
+				}
+			}],
+			"def": [
+				"qui n’a pas de pitié, qui est sans pitié ; cruel, féroce, inhumain"
+			],
+			"ex": [
+				"un ennemi impitoyable"
+			]
+		},
+
+		"impitoyablement [E)pitwajabl´mA)] adv.": {
+			"lingala": [{
+				"na bozángi mawa": {
+					"def": "na loléngé la bozángi mawa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière impitoyable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"implacable  [E)plakabl] adj.": {
+			"lingala": [{
+				"-a bokitisi motéma tÊ¥": {
+					"def": "óyo akitisaka motéma tÔ¥tô eye ekitisaka motéma tÊ¥",
+					"ex": "mongúna wa bokitisi motéma tÊ¥"
+				}
+			}],
+			"def": [
+				"dont on ne peut apaiser la violence"
+			],
+			"ex": [
+				"un ennemi implacable"
+			]
+		},
+
+		"implantation  [E)plA)tasjç)] n.f.": {
+			"lingala": [{
+				"bokÔ¡tisi": {
+					"def": "ekela ya kokÔ¡tisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’implanter, de s’implanter"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"implanter  [E)plA)te] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "koyíngisa",
+					"ex": "kokÔ¡tisa lizíni, kokÔ¡tisa bato na mbóka yÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"introduire, établir quelque part"
+			],
+			"ex": [
+				"implanter une usine, une population dans une région"
+			]
+		},
+
+		"impliquer  [E)plike] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "kotíya na káti",
+					"ex": "kokÔ¡tisa moto na likambo"
+				}
+			}],
+			"def": [
+				"mêler à une affaire fâcheuse; compromettre"
+			],
+			"ex": [
+				"impliquer qqn dans un complot"
+			]
+		},
+
+		"implorer  [E)plç{e] v.tr.": {
+			"lingala": [{
+				"kobÔ¡nd¡, kobóndela": {
+					"def": "kosÔ¥ng¥ na Nzámbe, kosámbela",
+					"ex": "kobóndela Nzámbe"
+				}
+			}],
+			"def": [
+				"prier, supplier avec humilité"
+			],
+			"ex": [
+				"implorer Dieu"
+			]
+		},
+
+		"impoliment  [e)pçlimA)] adv.": {
+			"lingala": [{
+				"na bozángi bonkóndé": {
+					"def": "na loléngé la bonzángi botósi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière impolie"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impolitesse  [E)pçlitEs] n.f.": {
+			"lingala": [{
+				"bozángi bonkóndé": {
+					"def": "bozángi botósi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de politesse, grossièreté"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impoli, ie  [E)pçli] adj. et n.": {
+			"lingala": [{
+				"-a bozángi bonkóndé": {
+					"def": "óyo azángí botósi tÉo eye ezalí na botósi tÔ¥",
+					"ex": "moto wa bozángi bonkóndé"
+				}
+			}],
+			"def": [
+				"qui manque de politesse, grossier"
+			],
+			"ex": [
+				"une personne impolie, un impoli"
+			]
+		},
+
+		"impopulaire  [E)pçpylE{] adj.": {
+			"lingala": [{
+				"-a kolingama tÊ¥": {
+					"def": "óyo alingámí tÔ¥",
+					"ex": "mokonzi wa kolingama tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas aimé du peuple"
+			],
+			"ex": [
+				"un chef impopulaire"
+			]
+		},
+
+		"impopularité  [E)pçpyla{ite] n.f.": {
+			"lingala": [{
+				"bozángi boyébani": {
+					"def": "boyébani tÊ¥",
+					"ex": "bozángi boyébani bwa miníst¥l¥ mokonzi"
+				}
+			}],
+			"def": [
+				"absence de popularité"
+			],
+			"ex": [
+				"l’impopularité du premier ministre"
+			]
+		},
+
+		"importance  [E)pç{tA)s] n.f.": {
+			"lingala": [{
+				"ntína, motúya": {
+					"def": "ezalela ya eye ezalí na ntína",
+					"ex": "ntína ya mos¡l¡"
+				}
+			}],
+			"def": [
+				"caractère de ce qui est important"
+			],
+			"ex": [
+				"l’importance de l’argent"
+			]
+		},
+
+		"important, ante  [E)pç{tA), A)t] adj.": {
+			"lingala": [{
+				"-a ntina, -a motúya": {
+					"def": "eye ezalí na ntína",
+					"ex": "mosála mwa ntína"
+				}
+			}],
+			"def": [
+				"qui a une grande valeur"
+			],
+			"ex": [
+				"un travail très important"
+			]
+		},
+
+		"importer  [E)pç{te] v.tr.": {
+			"lingala": [{
+				"kobéngisa masandísi": {
+					"def": "kokÔ¡tisa masandísi na mbóka",
+					"ex": "kobéngisa kaukáu, kobéngisa vwatíli"
+				}
+			}],
+			"def": [
+				"faire entrer une marchandise dans un pays"
+			],
+			"ex": [
+				"importer du café, des voitures"
+			]
+		},
+
+		"importuner  [E)pç{tyne] v.tr.": {
+			"lingala": [{
+				"kotungisa": {
+					"def": "kotúmola",
+					"ex": "kotungisa moto"
+				}
+			}],
+			"def": [
+				"déranger, ennuyer, gêner"
+			],
+			"ex": [
+				"importuner qqn"
+			]
+		},
+
+		"importun, une  [E)pç{tœ)), yn] adj. et n.": {
+			"lingala": [{
+				"-a motungisi, motungisi": {
+					"def": "eye ekotungisa, eye ekosepelisa tÊ¥, moto akotungisa, elÔ¡k¡ ekotungisa",
+					"ex": "kokíma motungisi"
+				}
+			}],
+			"def": [
+				"qui dérange, ennuie"
+			],
+			"ex": [
+				"fuir les importuns"
+			]
+		},
+
+		"imposant, ante  [E)pçzA), A)t] adj.": {
+			"lingala": [{
+				"-nÔ¥n¥, kafúmbá, kabámbi, ebákátá, engota": {
+					"def": "eye ezalí monÔ¥n¥ mpenzá",
+					"ex": "kafúmbá na ndáko"
+				}
+			}],
+			"def": [
+				"qui impose le respect, l’admiration par ses dimensions"
+			],
+			"ex": [
+				"un bâtiment imposant"
+			]
+		},
+
+		"imposer  [E)pçze] v.tr. ": {
+			"lingala": [{
+				"kos¥ngisa": {
+					"def": "kosálisa na makási, kondimisa na makási",
+					"ex": "kos¥ngisa mwÉana-mwÉasí mobáli"
+				}
+			}],
+			"def": [
+				"faire accepter par force"
+			],
+			"ex": [
+				"imposer un mari à sa fille"
+			]
+		},
+
+		"imposition  [E)pçzisjç)] n.f.": {
+			"lingala": [{
+				"mpáko, ntáko": {
+					"def": "tákisi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"impôt, taxe"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impossibilité  [E)pçsibilite] n.f.": {
+			"lingala": [{
+				"bozángi makokí": {
+					"def": "ekela ya bozángi makokí",
+					"ex": "bozángi makokí ma kosála elÔ¡k¡"
+				}
+			}],
+			"def": [
+				"absence de possibilité"
+			],
+			"ex": [
+				"impossibilité de faire qch"
+			]
+		},
+
+		"imposteur  [E)pçstœ{] n.m.": {
+			"lingala": [{
+				"mobúbi, mozímbi, mokósi": {
+					"def": "moto akósaka basúsu na bomíbimísáká na esíká ya bato basúsu",
+					"ex": "kokúkola mokósi"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui trompe les autres en se faisant passer pour autre qu’elle n’est pas"
+			],
+			"ex": [
+				"démasquer un imposteur"
+			]
+		},
+
+		"imposture  [E)pçsty{] n.f.": {
+			"lingala": [{
+				"bolÔ¥ti, bobÔ¥mbi": {
+					"def": "ekela ya kokósa na bolakisi bizaleli bilámu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"fait de tromper par des fauses apparences"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impôt  [E)po] n.m.": {
+			"lingala": [{
+				"ntáko, mpáko": {
+					"def": "mos¡l¡ letá ak¡ng¡l¡k¡ mpÊ¡ na kosála misálá mya lisangá",
+					"ex": null
+				}
+			}],
+			"def": [
+				"sommes collectées par l’Etat pour payer les dépenses collectives"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impotent, ente  [E)pçtA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a botámboli na mpási": {
+					"def": "óyo akotámbola na mpási ",
+					"ex": "mpaka wa botámboli na mpási"
+				}
+			}],
+			"def": [
+				"qui se déplace avec difficulté"
+			],
+			"ex": [
+				"un vieillard impotent"
+			]
+		},
+
+		"imprécis, ise  [E)p{esi, iz] adj.": {
+			"lingala": [{
+				"-a polélé tÊ¥, -a saa tÊ¥": {
+					"def": "eye ezángí bosÊ¡lÔ¡",
+					"ex": "eyano ya polélé tÊ¥"
+				}
+			}],
+			"def": [
+				"qui manque de précision"
+			],
+			"ex": [
+				"une réponse imprécise"
+			]
+		},
+
+		"imprégner  [E)p{e¯e] v.tr.": {
+			"lingala": [{
+				"kop¡lisa": {
+					"def": "kotíya mwâ mái",
+					"ex": null
+				}
+			}],
+			"def": [
+				"imbiber, tremper"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impressionnant, ante [E)p{esjçnA)), A)t] adj.": {
+			"lingala": [{
+				"-a bokámwisi, (e)-kokámwisa": {
+					"def": "eye ekokámwisa",
+					"ex": "litálisi lya bokámwisi"
+				}
+			}],
+			"def": [
+				"qui impressionne; frappant, étonnant"
+			],
+			"ex": [
+				"un spectacle impressionnant"
+			]
+		},
+
+		"impressionner  [E)p{esjçne] v.tr.": {
+			"lingala": [{
+				"kokámwisa": {
+					"def": "kopasola motéma",
+					"ex": "litálisi liye likokámwisa"
+				}
+			}],
+			"def": [
+				"émouvoir fortement, étonner"
+			],
+			"ex": [
+				"un spedtacle qui impressionne"
+			]
+		},
+
+		"imprévoyance  [E)p{evwajA))s] n.f.": {
+			"lingala": [{
+				"bozángi bokáni": {
+					"def": "bozángi kolÔ¥ng¥l¥ maye makoyâ",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de prévoyance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imprévoyant, ante [E)p{evwajA), A)t] adj.": {
+			"lingala": [{
+				"-a bozángi bokáni": {
+					"def": "eye ezángí kokána maye makoyâ",
+					"ex": "monzéngá wa bozángi bokáni"
+				}
+			}],
+			"def": [
+				"qui manque de prévoyance, qui ne sait pas prévoir, insouciant"
+			],
+			"ex": [
+				"un garçon imprévoyant"
+			]
+		},
+
+		"imprimer  [E)p{ime] v.tr.": {
+			"lingala": [{
+				"kotíya elembo": {
+					"def": " kotíka misapi likoló lya",
+					"ex": "kotyâ elembo na búku"
+				}
+			}],
+			"def": [
+				"fixer une empreinte sur un support"
+			],
+			"ex": [
+				"imprimer un livre"
+			]
+		},
+
+		"imprimerie  [E)p{im{i] n.f.": {
+			"lingala": [{
+				"ndáko ya kobÔ¥t¥ búku": {
+					"def": "esíká bakosálaka búku",
+					"ex": null
+				}
+			}],
+			"def": [
+				"établissement où l’on imprime des livres"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"improviser  [E)p{çvize] v.tr.": {
+			"lingala": [{
+				"kosála mbángumbángu, kosála limolimo": {
+					"def": "kolÔ¥ng¥l¥ malámu tÊ¥",
+					"ex": " kosála lísikúlu mbángumbángu"
+				}
+			}],
+			"def": [
+				"faire tout de suite sans aucune préparation"
+			],
+			"ex": [
+				"improviser un discours, un spectacle"
+			]
+		},
+
+		"improviste (à l’)  [E)p{çvist] loc. adv.": {
+			"lingala": [{
+				"mbálákáká, kpákásá, sása": {
+					"def": "ntángo na kolaka",
+					"ex": "koyâ mbálákáká"
+				}
+			}],
+			"def": [
+				"d’une manière soudaine, sans prévenir"
+			],
+			"ex": [
+				"arriver à l’improviste"
+			]
+		},
+
+		"imprudence  [E)p{ydA)s] n.f.": {
+			"lingala": [{
+				"bozángi bokébi": {
+					"def": "bozali na bokébi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de prudence"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"imprudent, ente  [E)p{ydA), A)t] adj.": {
+			"lingala": [{
+				"-a bozángi bokébi": {
+					"def": "eye ezalí na bokébi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas prudent, téméraire"
+			],
+			"ex": [
+				"un automobiliste imprudent"
+			]
+		},
+
+		"impudeur  [E)pydœ{] n.f.": {
+			"lingala": [{
+				"bozángi nsÔ¡ni": {
+					"def": "bozali na nsÔ¡ni tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de pudeur, de décence"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impudique  [E)pydik] adj. et n.": {
+			"lingala": [{
+				"-a bozángi nsÔ¡ni": {
+					"def": "eye ezalí na nsÔ¡ni tÊ¥",
+					"ex": "ekela ya bozángi nsÔ¡ni"
+				}
+			}],
+			"def": [
+				"qui manque de pudeur"
+			],
+			"ex": [
+				"un geste impudique"
+			]
+		},
+
+		"impuissance  [E)pÁisA)s] n.f.": {
+			"lingala": [{
+				"bozángi bokási": {
+					"def": "bozali na bokási tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de pouvoir, de force"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impuissant, ante  [E)pÁisA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bozángi bokási; abúkáná mok¡ng¡, akúfá mok¡ng¡, awâ mok¡ng¡": {
+					"def": "óyo azalí na bokasi tÊ¥; moto óyo akokoka kobótisa mwÉasí tÊ¥",
+					"ex": " moto wa bozángi bokási, akúfá mok¡ng¡"
+				}
+			}],
+			"def": [
+				"qui manque de force"
+			],
+			"ex": [
+				"un homme impuissant"
+			]
+		},
+
+		"impunément  [E)pynemA)] adv.": {
+			"lingala": [{
+				"ntángo na kozwa etúmbu": {
+					"def": "na loléngé la kozwa etúmbu tÊ¥",
+					"ex": "koíba ntángo na kozwa etúmbu, koboma ntángo na kozwa etúmbu"
+				}
+			}],
+			"def": [
+				"sans subir de punition"
+			],
+			"ex": [
+				"voler, tuer impunément"
+			]
+		},
+
+		"impunité  [E)pynite] n.f.": {
+			"lingala": [{
+				"bozángi etúmbu": {
+					"def": "kutukúlu ya etúmbu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de punition"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impureté  [E)py{te] n.f.": {
+			"lingala": [{
+				"bos¡t¡, mbindo": {
+					"def": "ezalela ya eye ezalí salité",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est impur; saleté"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"impur, ure  [E)py{] adj. et n.": {
+			"lingala": [{
+				"-a bos¡t¡, -a mbindo": {
+					"def": "eye ezali salité",
+					"ex": "mái ma bos¡t¡"
+				}
+			}],
+			"def": [
+				"qui n’est pas pur; sale"
+			],
+			"ex": [
+				"une eau impure"
+			]
+		},
+
+		"imputrescible  [E)pyt{esibl] adj.": {
+			"lingala": [{
+				"-a kop¡l¡ tÊ¥ ": {
+					"def": "eye ekokí kop¡l¡ tÊ¥",
+					"ex": "mweté mwa kop¡l¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut pourrir"
+			],
+			"ex": [
+				"un bois imputrescible"
+			]
+		},
+
+		"inabordable  [inabç{dabl] adj.": {
+			"lingala": [{
+				"-a likoló makási ": {
+					"def": "eye elekí likoló makási",
+					"ex": "ntálo ya likoló makási"
+				}
+			}],
+			"def": [
+				"très élevé"
+			],
+			"ex": [
+				"un prix inabordable"
+			]
+		},
+
+		"inacceptable  [inaksEptabl] adj.": {
+			"lingala": [{
+				"-a bondimi tÊ¥": {
+					"def": "eye ekokí na kondima tÊ¥",
+					"ex": "maloba ma bondimi tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être accepté, inadmissible"
+			],
+			"ex": [
+				"des propos inacceptables"
+			]
+		},
+
+		"inaccessible  [inaksEsibl] adj.": {
+			"lingala": [{
+				"-a bokÔ¡ti tÊ¥": {
+					"def": "eye bakokÔ¡t¡k¡ tÊ¥",
+					"ex": "mbóka ya bokÔ¡ti tÊ¥"
+				}
+			}],
+			"def": [
+				"auquel on ne peut pas accéder"
+			],
+			"ex": [
+				"un village inaccessible"
+			]
+		},
+
+		"inaccompli, ie  [inakç)pli] adj.": {
+			"lingala": [{
+				"-a bosíli tÊ¥, (e)-sílá tÊ¥": {
+					"def": "eye esílá tÊ¥",
+					"ex": "mosálá mosílá tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas accompli; inachevé"
+			],
+			"ex": [
+				"un travail inaccompli"
+			]
+		},
+
+		"inactif, ive  [inaktif, iv] adj.": {
+			"lingala": [{
+				"-a g¡igÔ¡i, -a boséndé": {
+					"def": "óyo azalí kosála elÔ¡k¡ tÊ¥",
+					"ex": "moto wa g¡igÔ¡i"
+				}
+			}],
+			"def": [
+				"qui ne travaille pas"
+			],
+			"ex": [
+				"une personne inactive"
+			]
+		},
+
+		"inaction  [inaksjç)] n.f.": {
+			"lingala": [{
+				"g¡igÔ¡i, bozángi kosála": {
+					"def": "ekela ya kofánda mpámba",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de travail, d’occupation"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inactivité  [inaktivite] n.f.": {
+			"lingala": [{
+				"bozángi mosálá": {
+					"def": "bozángi elÔ¡k¡ ya kosála",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque d’activité, de travail"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inadmissible  [inadmisibl] adj.": {
+			"lingala": [{
+				"-a bobóyi": {
+					"def": "eye ekokí na kondimama tÊ¥",
+					"ex": "ezalela ya bobóyi"
+				}
+			}],
+			"def": [
+				"qui ne peut être admis, accepté; inacceptable"
+			],
+			"ex": [
+				"une conduite inadmissible"
+			]
+		},
+
+		"inamical, ale, aux  [inamikal, o] adj.": {
+			"lingala": [{
+				"null": {
+					"def": "eye ezalí na bondeko tÊ¥",
+					"ex": "ekela ya bozángi bondeko"
+				}
+			}],
+			"def": [
+				"qui n’est pas amical"
+			],
+			"ex": [
+				"un geste inamical"
+			]
+		},
+
+		"inanimé, ée  [inanime] adj.": {
+			"lingala": [{
+				"(e)-ezángá bom¡i": {
+					"def": "eye ezalí na bom¡i tÊ¥, óyo azángí bom¡i",
+					"ex": "elÔ¡k¡ ezángá bom¡i"
+				}
+			}],
+			"def": [
+				"qui n’est pas animé, qui n’est pas doué de vie"
+			],
+			"ex": [
+				"un objet inanimé"
+			]
+		},
+
+		"inapte  [inapt] adj. et n.": {
+			"lingala": [{
+				"-a bozángi makokí, -a bozángi makási": {
+					"def": "óyo azángí makokí tÉo makási ma kosála elÔ¡k¡ yÉ¡kÔ¡",
+					"ex": "moto wa bozángi makokí ma mosálá"
+				}
+			}],
+			"def": [
+				"qui manque d’aptitude, de capacité à faire qch"
+			],
+			"ex": [
+				"une personne inapte au travail"
+			]
+		},
+
+		"inattendu, ue  [inatA)dy] adj.": {
+			"lingala": [{
+				"-a mbálákáká": {
+					"def": "eye eyáka ntángo na bozili yangó",
+					"ex": "likambo lya mbálákáká"
+				}
+			}],
+			"def": [
+				"qui arrive sans qu’on s’y attende"
+			],
+			"ex": [
+				"un événement inattendu"
+			]
+		},
+
+		"inattentif, ive  [inatA)tif, iv] adj.": {
+			"lingala": [{
+				"-a bozángi bokébi": {
+					"def": "óyo asálaka na bokébi tÊ¥",
+					"ex": "moyékoli wa bozángi bokébi"
+				}
+			}],
+			"def": [
+				"qui ne fait pas attention"
+			],
+			"ex": [
+				"un élève inattentif"
+			]
+		},
+
+		"inattention  [inatA))sjç)] n.f.": {
+			"lingala": [{
+				"bozángi bokébi": {
+					"def": "bozali na bokébi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque d’attention"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inaugurer  [inogy{e] v.tr.": {
+			"lingala": [{
+				"kobandisa, kokangola": {
+					"def": "kofungola, kotíya na mosálá na lokúmu nyÔ¡ns¡",
+					"ex": "kobandisa monimá, kokangola eyékwelo"
+				}
+			}],
+			"def": [
+				"mettre en service d’une manière solennelle"
+			],
+			"ex": [
+				"inaugurer un monument, une école"
+			]
+		},
+
+		"incalculable  [E)kalkylabl] adj.": {
+			"lingala": [{
+				"-a botúyi tÊ¥": {
+					"def": "eye ekokí na kotánga tÊ¥",
+					"ex": "motángo mwa botúyi tÔ¥mwa minzÔ¡t¡"
+				}
+			}],
+			"def": [
+				"qu’on ne peut calculer; trop élevé"
+			],
+			"ex": [
+				"le nombre incalculable des étoiles"
+			]
+		},
+
+		"incandescent, ente  [E)kA)dEsA), A)t] adj.": {
+			"lingala": [{
+				"-a bong¥ngi": {
+					"def": "eye ekong¥ng¥k¥ na mói",
+					"ex": "likála lya bong¥ngi"
+				}
+			}],
+			"def": [
+				"qui devient lumineux sous l’effet de la chaleur"
+			],
+			"ex": [
+				"du charbon incandescent"
+			]
+		},
+
+		"incantation  [E)kA)tasjç)] n.f.": {
+			"lingala": [{
+				"bonganga, líkundú": {
+					"def": "maloba ma likundú",
+					"ex": null
+				}
+			}],
+			"def": [
+				"formule magique, récitation de formules magiques"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incapacité  [E)kapasite] n.f.": {
+			"lingala": [{
+				"bozángi makokí": {
+					"def": "bozali na makokí tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état d’une personne incapable, manque de capacité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incarcérer  [E)ka{se{e] v.tr.": {
+			"lingala": [{
+				"kotíya na b¡lÔ¡k¡, kokanga": {
+					"def": "kobwáka na bolÔ¡k¡",
+					"ex": "kotíya mobomi o bolÔ¡k¡"
+				}
+			}],
+			"def": [
+				"mettre en prison"
+			],
+			"ex": [
+				"incarcérer un assassin"
+			]
+		},
+
+		"incassable  [E)kasabl] adj.": {
+			"lingala": [{
+				"-a bobúki tÊ¥, -a bobúkani tÊ¥": {
+					"def": "eye ekokí na kobúka tÊ¥ tÉo kobúkana tÊ¥",
+					"ex": "manÔ¥ti ma bobúkani tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être cassé, qui ne peut se casser"
+			],
+			"ex": [
+				"des lunettes incassables"
+			]
+		},
+
+		"incendie  [E)sA)di] n.m.": {
+			"lingala": [{
+				"mÔ¡t¡": {
+					"def": "mÔ¡t¡ mokási mpé moye mobébisaka",
+					"ex": "mÔ¡t¡ mwa zámba, mÔ¡t¡ mwa esóbé"
+				}
+			}],
+			"def": [
+				"grand feu destructeur"
+			],
+			"ex": [
+				"un incendie de forêt, de brousse"
+			]
+		},
+
+		"incendier  [E)sa)dje] v.tr.": {
+			"lingala": [{
+				"kotumba": {
+					"def": "kozíkisa, kotyâ mÔ¡t¡",
+					"ex": "kotumba ndáko, kotumba mbóka"
+				}
+			}],
+			"def": [
+				"mettre le feu à"
+			],
+			"ex": [
+				"incendier une maison, un village"
+			]
+		},
+
+		"incertain, aine  [E)sE{tE), En] adj.": {
+			"lingala": [{
+				"-a boyébani sÊ¡lÔ¡tÔ¥": {
+					"def": "eye eyébání malámu tÊ¥",
+					"ex": "eyano ya boyébani sÊ¡lÔ¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas certain, sûr; douteux"
+			],
+			"ex": [
+				"un résultat incertain"
+			]
+		},
+
+		"incertitude  [E)sE{tityd] n.f.": {
+			"lingala": [{
+				"ntembe": {
+					"def": "bozángi bosÊ¡lÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de certitude, doute"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incessamment  [E)sesamA)] adv.": {
+			"lingala": [{
+				"p¥n¥p¥n¥, mosíká tÊ¥, kala tÊ¥": {
+					"def": "na loléngé la koúmela tÊ¥",
+					"ex": "as¥ngÔ¥li koyâ kala tÊ¥"
+				}
+			}],
+			"def": [
+				"très prochainement, bientôt, sous peu"
+			],
+			"ex": [
+				"il doit arriver incessamment"
+			]
+		},
+
+		"inceste  [E)sEst] n.m.": {
+			"lingala": [{
+				"bosíbani káti ya bandeko": {
+					"def": "bosangani ya bandeko baye kokokí kobálana tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"union entre parents dont le mariage est interdit"
+			],
+			"ex": [
+				"commettre un inceste"
+			]
+		},
+
+		"incestueux, euse  [E)sestÁø, øz] adj.": {
+			"lingala": [{
+				"-a bosíbani káti ya bandeko": {
+					"def": "eye etalí bosíbani káti ya bandeko",
+					"ex": "libála káti ya bandeko"
+				}
+			}],
+			"def": [
+				"relatif à l’inceste"
+			],
+			"ex": [
+				"union incestueuse"
+			]
+		},
+
+		"incidemment  [E)sidamA)] adv.": {
+			"lingala": [{
+				"na zeké": {
+					"def": "na loléngé la zeké",
+					"ex": "koyóka sango na zeké"
+				}
+			}],
+			"def": [
+				"par hasard"
+			],
+			"ex": [
+				"apprendre une nouvelle incidemment"
+			]
+		},
+
+		"incidence  [E)sidA)s] n.f.": {
+			"lingala": [{
+				"bopangani": {
+					"def": "bokitani",
+					"ex": "bokiti bwa motúya mwa mbÔ¡ng¡ bozali na bopangani na ntálo"
+				}
+			}],
+			"def": [
+				"influence, conséquence, répercussion"
+			],
+			"ex": [
+				"la dévaluation a une incidence sur les prix"
+			]
+		},
+
+		"incident  [E)sidA)] n.m.": {
+			"lingala": [{
+				"likambo": {
+					"def": "likambo likÔ¥likokí kokóma linÔ¥n¥",
+					"ex": null
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"événement sans importance qui peut avoir de graves conséquences"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incinérer  [E)sine{e] v.tr.": {
+			"lingala": [{
+				"kotumba": {
+					"def": "kozíkiza",
+					"ex": "kotumba bos¡t¡, kotumba ebembe"
+				}
+			}],
+			"def": [
+				"brûler"
+			],
+			"ex": [
+				"incinérer des ordures, un cadavre"
+			]
+		},
+
+		"inciser  [E)size] v.tr.": {
+			"lingala": [{
+				"kokáta": {
+					"def": "kopasola",
+					"ex": "kokáta ndembo mpÊ¡ ya kozwa latékisi"
+				}
+			}],
+			"def": [
+				"fendre avec un instrument tranchant ; couper, entailler"
+			],
+			"ex": [
+				"inciser un hévéa pour recueillir le latex"
+			]
+		},
+
+		"incision  [E)sizjç)] n.f.": {
+			"lingala": [{
+				"bokáti": {
+					"def": "ekela ya kokáta",
+					"ex": "kokáta"
+				}
+			}],
+			"def": [
+				"action d’inciser; fente, coupure, entaille"
+			],
+			"ex": [
+				"faire une incision"
+			]
+		},
+
+		"incisive  [E)siziv] n.f.": {
+			"lingala": [{
+				"lÉ²no la mobáli": {
+					"def": "lÉ²no nsÔ¡ngÔ¥lisálisaka mpÊ¡ ya bokáti bilÔ¡k¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"dent tranchante qui sert à couper les aliments"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inciter  [E)site] v.tr.": {
+			"lingala": [{
+				"koléndisa": {
+					"def": "kotínda, kopúsa",
+					"ex": "koléndisa moto na mosálá"
+				}
+			}],
+			"def": [
+				"entraîner, pousser, encourager"
+			],
+			"ex": [
+				"inciter qqn au travail"
+			]
+		},
+
+		"inclinaison  [E)klinEzç)] n.f.": {
+			"lingala": [{
+				"botÔ¥ng¥mi, bosunami, botÔ¥kyi": {
+					"def": "ezalela ya botÔ¥ng¥mi",
+					"ex": "botÔ¥ng¥mi bwa mabelé"
+				}
+			}],
+			"def": [
+				"état de ce qui est incliné"
+			],
+			"ex": [
+				"inclinaison du sol"
+			]
+		},
+
+		"inclination  [E[)klinasjç)] n.f.": {
+			"lingala": [{
+				"bosunisi, bosunami, botÔ¥kyi, bokitisi, bokiti": {
+					"def": "ekela ya kosunisa, kosunama tÉo kokitisa, kokita",
+					"ex": "bosunisi motó mpÊ¡ ya kopésa mbÔ¡t¥, bokitisi motó mpÊ¡ ya kopésa mbÔ¡t¥"
+				}
+			}],
+			"def": [
+				"action d’incliner, de s’incliner"
+			],
+			"ex": [
+				"inclination de la tête pour saluer"
+			]
+		},
+
+		"incliner  [E)kline] v.tr.": {
+			"lingala": [{
+				"kosunisa, kotÔ¥kya": {
+					"def": "kotÔ¥ng¥misa",
+					"ex": "kosunisa motó"
+				}
+			}],
+			"def": [
+				"pencher"
+			],
+			"ex": [
+				"incliner la tête"
+			]
+		},
+
+		"inclure  [E)kly{] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "kotíya na káti",
+					"ex": "kokÔ¡tisa mokandá na (líbenga lya mokandá) av¥lóp¥"
+				}
+			}],
+			"def": [
+				"insérer, enfermer, compter"
+			],
+			"ex": [
+				"inclure un document dans une enveloppe"
+			]
+		},
+
+		"incohérence  [E)kçe{A)s] n.f.": {
+			"lingala": [{
+				"mobúlú, mobúlungano": {
+					"def": "bozángi mol¡ngÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de lien logique; désordre, confusion dans les idées"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incommoder  [E)kçmçde] v.tr.": {
+			"lingala": [{
+				"kotungisa": {
+					"def": " kotúmola, koyókisa mpási",
+					"ex": "mólinga mozalí kotungisa ngáí"
+				}
+			}],
+			"def": [
+				"causer une gêne physique"
+			],
+			"ex": [
+				"la fumée m’incommode"
+			]
+		},
+
+		"incompétence  [E)kç)petA))s] n.f.": {
+			"lingala": [{
+				"bozángi makokí, bozángi mayÔ¥l¥": {
+					"def": "bozali na makokí tÊ¥, bozali na mayÔ¥l¥ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de compétence, de savoir- faire"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incompétent, ente  [E)kç)petA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bozángi makokí, -a bozángi mayÔ¥l¥": {
+					"def": "óyo azángí makokí mpÊ¡ ya kokána tÉo kosála",
+					"ex": "miníst¥l¥ wa bozángi mayÔ¥l¥"
+				}
+			}],
+			"def": [
+				"qui n’a pas les connaissances nécessaires pour juger, pour décider"
+			],
+			"ex": [
+				"un ministre incompétent"
+			]
+		},
+
+		"incompréhension [E)kç)p{eA)sjç)] n.f.": {
+			"lingala": [{
+				"bozángi boyókami, molílí ": {
+					"def": "kozánga koyéba ntína ya likambo",
+					"ex": null
+				}
+			}],
+			"def": [
+				"incapacité de comprendre qqn ou qch"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inconduite  [E)kç)dÁit] n.f.": {
+			"lingala": [{
+				"mobúlú": {
+					"def": "ezalela ebé",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mauvaise conduite, dévergondage"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incongruité  [E)kç)g{yite] n.f.": {
+			"lingala": [{
+				"bob¡ngi tÊ¥": {
+					"def": "bozali malámu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est incongru"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incongru, ue  [E)kç)g{y] adj.": {
+			"lingala": [{
+				"-a bob¡ngi tÊ¥": {
+					"def": "eye ezalí elámu tÊ¥",
+					"ex": "ezalela ya bob¡ngi tÊ¥"
+				}
+			}],
+			"def": [
+				"déplacé, inconvenant"
+			],
+			"ex": [
+				"une attitude incongrue"
+			]
+		},
+
+		"inconnu, ue  [E)kçny] adj. et n.": {
+			"lingala": [{
+				"-a koyébana tÊ¥, (e)-yébáná tÊ¥, eútélá, mopaya": {
+					"def": "eye eyébání tÊ¥, óyo ayébání tÊ¥",
+					"ex": "nkómbó eyébáná tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas connu"
+			],
+			"ex": [
+				"un nom inconnu"
+			]
+		},
+
+		"inconsciemment  [E)kç)sjamA)] adv.": {
+			"lingala": [{
+				"ntángo na boyébi, na boyébi tÊ¥": {
+					"def": "na loléngé la bozángi koyéba",
+					"ex": "kosála elÔ¡k¡ ntángo na boyébi"
+				}
+			}],
+			"def": [
+				"d’une manière inconsciente, sans se rendre compte"
+			],
+			"ex": [
+				"faire qch inconsciemment"
+			]
+		},
+
+		"inconscience  [E)kç)sjA)s] n.f.": {
+			"lingala": [{
+				"bozángi koyéba": {
+					"def": "bozali na mayÔ¥l¥ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de conscience, de discernement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inconscient, ente  [E)kç)sjA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bozángi koyéba": {
+					"def": "óyo azalí na mayÔ¥l¥ tÊ¥",
+					"ex": "moto alálí azalí wa bozángi koyéba, moto alálí ayébí elÔ¡k¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas conscient"
+			],
+			"ex": [
+				"une personne qui dort est inconsciente"
+			]
+		},
+
+		"inconsistance  [E)kç)sistA)s] n.f.": {
+			"lingala": [{
+				"bozángi bokási, makási": {
+					"def": "bozali na bokási tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de consistance, de solidité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inconsistant, ante  [E)kç)sistA), A)t] adj.": {
+			"lingala": [{
+				"-a bozángi bokási, -taú": {
+					"def": "eye ezángí makási",
+					"ex": "p¡t¡pÔ¡t¡ etaú"
+				}
+			}],
+			"def": [
+				" qui manque de consistance, de solidité"
+			],
+			"ex": [
+				"une pâte inconsistante"
+			]
+		},
+
+		"inconsolable  [E)kç)sçlabl] adj.": {
+			"lingala": [{
+				"-a bobÔ¡nd¡mi tÊ¥, -a bosabolami tÊ¥": {
+					"def": "óyo akokí kobÔ¡nd¡m¡ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui ne peut être consolé"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inconstructible  [E)kç)st{yktibl] adj.": {
+			"lingala": [{
+				"-a botongi tÊ¥": {
+					"def": "wápi bakokí kotonga tÊ¥",
+					"ex": "mabelé ma botongi tÊ¥"
+				}
+			}],
+			"def": [
+				"où l’on n’a pas le droit de construire"
+			],
+			"ex": [
+				"un terrain inconstructible"
+			]
+		},
+
+		"incontestable  [E)kç)tEstabl] adj": {
+			"lingala": [{
+				"-a ntembe tÊ¥, (e)-sílá ntembe": {
+					"def": "eye ekokí kotyáma ntembe tÊ¥",
+					"ex": "elónga ya ntembe tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas contestable, qui ne peut être contesté, mis en doute; indiscutable"
+			],
+			"ex": [
+				"une victoire incontestable"
+			]
+		},
+
+		"incontestablement [E)kç)tEstabl´mA)] adv.": {
+			"lingala": [{
+				"na ntembe tÊ¥": {
+					"def": "na loléngé la kotyâ ntembe tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière incontestable; indiscutablement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incontesté, ée  [E)kç)tEste] adj.": {
+			"lingala": [{
+				"-a bondimami, -a ntembe tÊ¥, (e)-ndimámá": {
+					"def": "eye endimámi na bato báns¡",
+					"ex": "elónga ya ntembe tÊ¥, elónga endimámá"
+				}
+			}],
+			"def": [
+				"qui n’est pas contesté, qui est accepté par tous"
+			],
+			"ex": [
+				"une victoire incontestée"
+			]
+		},
+
+		"incontinence  [E)kç)tinA)s] n.f.": {
+			"lingala": [{
+				"bozángi ndelo": {
+					"def": "bozángi kokanga motéma",
+					"ex": "bozángi ndelo ya masúba"
+				}
+			}],
+			"def": [
+				"incapacité à retenir"
+			],
+			"ex": [
+				"incontinence d’urines"
+			]
+		},
+
+		"inconvenance  [E)kç)vnA)s] n.f.": {
+			"lingala": [{
+				"malámu tÊ¥, bob¡ngi tÊ¥": {
+					"def": "ekela ye kolongobana tÊ¥",
+					"ex": "koloba malámu tÊ¥"
+				}
+			}],
+			"def": [
+				"caractère de ce qui est contraire à la politesse; propos inconvenants, grossiers, malpolis"
+			],
+			"ex": [
+				"dire des inconvenances"
+			]
+		},
+
+		"inconvenant, ante  [E)kç)vnA), A)t] adj.": {
+			"lingala": [{
+				"malámu tÊ¥, bob¡ngi tÊ¥": {
+					"def": "ekela ye kolongobana tÊ¥",
+					"ex": "koloba malámu tÊ¥"
+				}
+			}],
+			"def": [
+				"qui est contraire à la politesse, malpoli, grossier"
+			],
+			"ex": [
+				"des propos inconvenants"
+			]
+		},
+
+		"inconvénient  [E)kç)venjA)] n.m.": {
+			"lingala": [{
+				"mabé": {
+					"def": "eye eb¡ngí tÊ¥",
+					"ex": "matómba mpé mabé ya elÔ¡k¡"
+				}
+			}],
+			"def": [
+				"désavantage, désagrément, mauvais côté"
+			],
+			"ex": [
+				"les avantages et les inconvénients de qch"
+			]
+		},
+
+		"incorporer  [E)kç{pç{e] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa, kosangisa": {
+					"def": "kotíya",
+					"ex": "kokÔ¡tisa falíni na p¡t¡pÔ¡t¡"
+				}
+			}],
+			"def": [
+				"faire entrer dans un tout; introduire, intégrer, mélanger"
+			],
+			"ex": [
+				"incorporer de la farine dans la pâte"
+			]
+		},
+
+		"incorrect, ecte  [E)kç{Ekt] adj.": {
+			"lingala": [{
+				"-a míko": {
+					"def": "eye ezalí na míko, eye ezali elámu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas correct"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incorrigible  [E)kç{iZibl] adj.": {
+			"lingala": [{
+				"-a bosémboli tÊ¥, -a bob¡ngi tÊ¥": {
+					"def": "óyo akokí kob¡ng¡ tÔ¥tô eye ekokí kob¡ng¡ tÊ¥",
+					"ex": "míko mya bosémboli tÊ¥, mosopi wa bob¡ngi t¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être corrigé"
+			],
+			"ex": [
+				"ne faute incorrible, un incorrigible bavard"
+			]
+		},
+
+		"incorruptible  [E)kç{yptibl] adj.": {
+			"lingala": [{
+				"-a kobéba tÊ¥, -a kozwa kanyáka tÊ¥, -a kozwa madésu ma bÉana tÊ¥": {
+					"def": "óyo akokí kobéba tÔ¥tô eye ekokí kobéba tÉo kozwa kanyáka tÊ¥",
+					"ex": "zúzi wa kozwa madesu ma bÉana tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être corrompu"
+			],
+			"ex": [
+				"un juge incorruptible"
+			]
+		},
+
+		"incrédibilité  [E)k{edibilite] n.f.": {
+			"lingala": [{
+				"bondimi tÊ¥": {
+					"def": "ezalela ya eye ekokí na kondima tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est incroyable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incrédule  [E)k{edyl] adj. et n.": {
+			"lingala": [{
+				"mozángi boyambi": {
+					"def": "moto óyo azalí na boyambi tÊ¥",
+					"ex": "bato bazángi boyambi"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui ne croit pas, qui ne fait pas confiance, qui doute; incroyant, sceptique"
+			],
+			"ex": [
+				"un public incrédule"
+			]
+		},
+
+		"incrédulité  [E)k{edylite] n.f.": {
+			"lingala": [{
+				"bozángi boyambi": {
+					"def": "ezalela ya kozánga boyambi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de celui qui est incrédule, qui manque de foi, qui ne fait pas confiance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"increvable  [E)k{´vabl] adj": {
+			"lingala": [{
+				"-a botúbwani tÊ¥": {
+					"def": "eye ekokí kotúbwana tÊ¥",
+					"ex": "piné ya botúbwani tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être crevé"
+			],
+			"ex": [
+				"un pneu increvable"
+			]
+		},
+
+		"incroyable  [E)k{wajabl] adj.": {
+			"lingala": [{
+				"-a kokoka na boyambi tÊ¥, -a kondima tÊ¥": {
+					"def": "eye bakokí kondima tÊ¥, endimamaka na mpási",
+					"ex": "lisoló lya kokoka na boyambi tÊ¥, lisoló lya kondima tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas croyable, qui est difficile à croire"
+			],
+			"ex": [
+				"une histoire incroyable"
+			]
+		},
+
+		"incroyablement [E)k{wjabl´mA)] adv.": {
+			"lingala": [{
+				"na boyambi tÊ¥ ": {
+					"def": "na loléngé la bondimi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière incroyable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"incroyant, ante  [E)k{wajA), A)t] n.": {
+			"lingala": [{
+				"mobóyi boyambi": {
+					"def": "moto óyo akondima tÊ¥, óyo azali na boyambi tÊ¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui ne croit pas, qui n’a pas de foi religieuse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inculper  [E)kylpe] v.tr.": {
+			"lingala": [{
+				"kotúba, kofúnda": {
+					"def": "kopésa moto mbéba eye etúmbólámí na mobéko",
+					"ex": "kofúnda moto na moíbi, kofúnda moto bó mobomi"
+				}
+			}],
+			"def": [
+				"imputer à qqn une faute puni par la loi, mettre en examen"
+			],
+			"ex": [
+				"inculper qqn de vol, d’assassinat"
+			]
+		},
+
+		"inculte  [E)kylt] adj.": {
+			"lingala": [{
+				"-a kolónama tÊ¥, (e)-lónámá tÊ¥": {
+					"def": "eye ekónámí tÊ¥",
+					"ex": "mabelé ma kolónama tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas cultivé"
+			],
+			"ex": [
+				"une terre inculte"
+			]
+		},
+
+		"incurable  [E)ky{abl] adj.": {
+			"lingala": [{
+				"-a kobíkisama tÊ¥": {
+					"def": "eye ekokí kobíkisama tÊ¥",
+					"ex": "bok¡n¡ bwa kobíkisama tÊ¥, mok¡ni wa kobisama tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être guéri"
+			],
+			"ex": [
+				"une maladie incurable, un malade incurable"
+			]
+		},
+
+		"incurie  [E)ky{i] n.f.": {
+			"lingala": [{
+				"p¡t¡pÔ¡t¡, bos¡t¡, bozángi b¡zÔ¡": {
+					"def": "bozali na b¡zÔ¡tÔ¥",
+					"ex": "p¡t¡pÔ¡t¡ ya boyángeli"
+				}
+			}],
+			"def": [
+				"manque de soin, négligence, insouciance"
+			],
+			"ex": [
+				"l’incurie de l’administration"
+			]
+		},
+
+		"indécence  [E)desA)s] n.f.": {
+			"lingala": [{
+				"bozángi bonkóndé": {
+					"def": "bozali na bonkóndé tÊ¥",
+					"ex": "bozángi bonkóndé bwa maloba ma yÉe"
+				}
+			}],
+			"def": [
+				"manque de décence, de correction"
+			],
+			"ex": [
+				"l’indécence de ses propos"
+			]
+		},
+
+		"indécent, ente  [E)desA), A)t] adj.": {
+			"lingala": [{
+				"-a bonkóndé tÊ¥": {
+					"def": "bozali na bonkóndé tÊ¥",
+					"ex": "moláto mwa bonkóndé tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas décent, qui n’est pas convenable"
+			],
+			"ex": [
+				"une tenue indécente"
+			]
+		},
+
+		"indécision  [E)desizjç)] n.f.": {
+			"lingala": [{
+				"motatabano": {
+					"def": "ezalela ya moto wa botatabani tÉo motatabani",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère d’une personne indécise"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indécis, ise  [E)desi, iz] adj. et n.": {
+			"lingala": [{
+				"-a botatabani, -a botengatengi, -a bokúbakubi, kámámálú, lámámálú; motatabani, motengatengi, mokúbakubi": {
+					"def": "óyo akokí kozwa mokáno tÊ¥; moto azalí kotatabana mpÊ¡ ya kozwa mokáno",
+					"ex": "moto wa botatabani"
+				}
+			}],
+			"def": [
+				"qui n’est pas décidé, qui ne sait pas se décider, qui hésite"
+			],
+			"ex": [
+				"une personne indécise"
+			]
+		},
+
+		"indéfiniment  [E)definimA)] adv.": {
+			"lingala": [{
+				"ntángo éns¡, sékó": {
+					"def": "sékó na sékó, o bileko bíns¡",
+					"ex": "azóngelaka ndéngé yÉ¡kÔ¡ntángo éns¡"
+				}
+			}],
+			"def": [
+				"d’une manière indéfinie; éternellement, perpétuellement, tout le temps"
+			],
+			"ex": [
+				"il répète indéfiniment la même chose"
+			]
+		},
+
+		"indélébile  [E)delebil] adj.": {
+			"lingala": [{
+				"-a bozímani tÊ¥, (e)-zímanaka tÊ¥": {
+					"def": "eye bazímisaka tÊ¥",
+					"ex": "mái ma mokandá ma bozímani tÊ¥, elembo ezímanaka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être effacé"
+			],
+			"ex": [
+				"une encre, une tache indélébile"
+			]
+		},
+
+		"indélicatesse  [E)delikatEs] n.f.": {
+			"lingala": [{
+				"bolókwí": {
+					"def": "bozángi bonkóndé",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de délicatesse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indélicat, ate  [E)delika, at] adj.": {
+			"lingala": [{
+				"-a bozángi el¥ngi, -a bozángi bokébi": {
+					"def": "eye ezángi el¥ngi tÉo bokébi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas délicat"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indemne  [E)dEmn] adj.": {
+			"lingala": [{
+				"-a mbéba tÔ¥tô -a mpótá tÊ¥; mabÔ¡k¡ mpÔ¥mbÔ¥": {
+					"def": "óyo azwí mbéba tÊ¥",
+					"ex": "kobima na mbéba tÔ¥na likámá"
+				}
+			}],
+			"def": [
+				"qui n’a pas subi de dommage, qui n’est pas blessé"
+			],
+			"ex": [
+				"sortir indemne d’un accident"
+			]
+		},
+
+		"indemnisation  [E)dEmnizasjç)] n.f.": {
+			"lingala": [{
+				"bofúti mbéba, mbano": {
+					"def": "ekela ya kofúta mbéba tÉo kopésa mbano",
+					"ex": "kozwa mbano"
+				}
+			}],
+			"def": [
+				"paiement d’une indemnité"
+			],
+			"ex": [
+				"toucher une indemnisation"
+			]
+		},
+
+		"indemniser  [E)dEmnize] v.tr.": {
+			"lingala": [{
+				"kofúta mbano": {
+					"def": "kofúta mpÊ¡ ya kob¡ngisa mbéba",
+					"ex": "kofúta moto mbano mpÊ¡ ya mbÔ¡ng¡ abébísí"
+				}
+			}],
+			"def": [
+				"payer une indemnité, dédommager"
+			],
+			"ex": [
+				"indemniser qqn de ses frais"
+			]
+		},
+
+		"indemnité  [E)demnite] n.f.": {
+			"lingala": [{
+				"mbano": {
+					"def": "eye bakofúta moto mpÊ¡ ya kob¡ngisa mabé basálákí yÉe",
+					"ex": "mbano mpÊ¡ ya bolongwi mosálá"
+				}
+			}],
+			"def": [
+				"ce qui est attribué à qqn en réparation d’un dommage"
+			],
+			"ex": [
+				"indemnités de licenciement"
+			]
+		},
+
+		"indépendamment [E)depA)damA)] adv.": {
+			"lingala": [{
+				"ntángo na botáli": {
+					"def": "na botáláká makombo masúsu tÊ¥",
+					"ex": "ntángo na botáli makambo"
+				}
+			}],
+			"def": [
+				"d’une manière indépendante, sans tenir compte, en plus"
+			],
+			"ex": [
+				"indépendamment des événements"
+			]
+		},
+
+		"indépendance  [E)depA)dA)s] n.f.": {
+			"lingala": [{
+				"bonsÔ¡mí, lipandá": {
+					"def": "bomíyángeli",
+					"ex": "bonsÔ¡mí bwa moto, bonsÔ¡mí bwa bato (pÔ¥p¥l¥)"
+				}
+			}],
+			"def": [
+				"état d’une personne libre, condition libre; liberté, autonomie, souveraineté"
+			],
+			"ex": [
+				"l’indépendance d’un homme, d’un peuple"
+			]
+		},
+
+		"indépendant, ante  [E)depA)dA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bonsÔ¡mí, -a lipandá; monsÔ¡mí": {
+					"def": "óyo azalí komíyángela; óyo azalí na bonsÔ¡mí",
+					"ex": "moto wa bonsÔ¡mí, pÔ¥p¥l¥ monsÔ¡mí"
+				}
+			}],
+			"def": [
+				"qui n’est pas dépendant, qui est libre de toute dépendance"
+			],
+			"ex": [
+				"un homme, un peuple indépendant"
+			]
+		},
+
+		"index  [E)dEks] n.m.": {
+			"lingala": [{
+				"molakisi": {
+					"def": "mosapi mozalí p¥n¥ na mosapi mobáli",
+					"ex": null
+				}
+			}],
+			"def": [
+				"doigt de la main le plus proche du pouce"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indicateur, trice  [E)dikatœ{, t{is] n.": {
+			"lingala": [{
+				"-a bolakisi": {
+					"def": "eye ekolakisa",
+					"ex": "panó, potó, etánda ya bolakisi"
+				}
+			}],
+			"def": [
+				"qui indique, porte une indication"
+			],
+			"ex": [
+				"panneau, poteau, tableau indicateur"
+			]
+		},
+
+		"indication  [E)dikasjç)] n.f.": {
+			"lingala": [{
+				"liyébisi": {
+					"def": "ekela ya koyébisa",
+					"ex": "kopésa liyébisi"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"renseignement"
+			],
+			"ex": [
+				"donner des indications à qqn"
+			]
+		},
+
+		"indice  [E)dis] n.m.": {
+			"lingala": [{
+				"elembo": {
+					"def": "elembetele",
+					"ex": "bilembo bya bok¡n¡"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"signe apparent, marque"
+			],
+			"ex": [
+				"les indices d’une maladie"
+			]
+		},
+
+		"indifférence  [E)dife{A)s] n.f.": {
+			"lingala": [{
+				"bokini": {
+					"def": "ezalela ya moto óyo akomÔ¡nisa mayóki ma yÔÉe tÔ¥",
+					"ex": "máns¡ mÉaná mazalí kotála ngáí tÊ¥"
+				}
+			}],
+			"def": [
+				"état d’une personne qui ne ressent ni douleur ni plaisir ni crainte ni désir; insensibilité"
+			],
+			"ex": [
+				"tout cela me laisse indifférent"
+			]
+		},
+
+		"indifférent, ente  [E)dife{A), A)t] adj.": {
+			"lingala": [{
+				"mpíy¡": {
+					"def": "óyo azalí malíli",
+					"ex": "kozala mpíy¡ libosó lya moníngá"
+				}
+			}],
+			"def": [
+				"qui ne s’intéresse pas, insensible, froid"
+			],
+			"ex": [
+				"être indifférent à l’égard de qqn"
+			]
+		},
+
+		"indigence  [E)diZA)s] n.f.": {
+			"lingala": [{
+				"bokéleli, bosámba": {
+					"def": "bobóla, bozángi",
+					"ex": "kobíka káti ya bokéleli"
+				}
+			}],
+			"def": [
+				"grande pauvreté"
+			],
+			"ex": [
+				"vivre dans l’indigence"
+			]
+		},
+
+		"indigène  [E)diZen] adj. et n.": {
+			"lingala": [{
+				"moí-mbóka": {
+					"def": "óyo azali kofánda na mbóka wápi abótámí",
+					"ex": "baí-mbóka"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui est originaire du pays où il habite"
+			],
+			"ex": [
+				"population indigène"
+			]
+		},
+
+		"indigent, ente  [E)diZA), A)t] adj. et n.": {
+			"lingala": [{
+				"null": {
+					"def": "óyo azali kokélela ; moto akélélí, moto abólí tÉo azángi",
+					"ex": "bato ba bokéleli, bakékeli"
+				}
+			}],
+			"def": [
+				"qui est très pauvre"
+			],
+			"ex": [
+				"une population indigente"
+			]
+		},
+
+		"indignation  [E)di¯asjç)] n.f.": {
+			"lingala": [{
+				"bokp¥boli": {
+					"def": "liyóki lya nkándá mpé ya botáli mpámba",
+					"ex": "kotúmola bokp¥boli bwa moto"
+				}
+			}],
+			"def": [
+				null
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indigner  [E)di¯e] v.tr.": {
+			"lingala": [{
+				"kotúmola nkándá": {
+					"def": "kopésa nkandá",
+					"ex": "ezalela ya yÉe ezalí kotúmola nkándá ya ngáí"
+				}
+			}],
+			"def": [
+				"provoquer l’indignation, la colère de qqn"
+			],
+			"ex": [
+				"son comportement m’indigne"
+			]
+		},
+
+		"indigo  [E)digo] n.m.": {
+			"lingala": [{
+				"lángi la bulé": {
+					"def": "elÔ¡k¡ ezalí na lángi ya bulé",
+					"ex": "kopakola elambá langí ya bulé"
+				}
+			}],
+			"def": [
+				"matière colorante bleue"
+			],
+			"ex": [
+				"teindre un tissu avec de l’indigo"
+			]
+		},
+
+		"indiquer  [E)dike] v.tr.": {
+			"lingala": [{
+				"kolakisa, komÔ¡nisa": {
+					"def": "koyébisa",
+					"ex": "kolakisa moto nzelá"
+				}
+			}],
+			"def": [
+				"montrer de manière précise"
+			],
+			"ex": [
+				"indiquer le chemin à qqn"
+			]
+		},
+
+		"indiscipline  [E)disiplin] n.f.": {
+			"lingala": [{
+				"nkanza, mobúlú": {
+					"def": "bozángi botósi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de discipline; désobéissance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indiscipliné, ée  [E)disipline] adj.": {
+			"lingala": [{
+				"-a nkanza, -a mobúlú, -a yaúli": {
+					"def": "óyo azángí botósi tÉo eye ezángí botósi",
+					"ex": "sodá wa nkanza, moyékoli wa mobúlú"
+				}
+			}],
+			"def": [
+				"qui n’est pas discipliné"
+			],
+			"ex": [
+				"un soldat, un élève indiscipliné"
+			]
+		},
+
+		"indiscrétion  [E)disk{esjç)] n.f.": {
+			"lingala": [{
+				"bozángi bobómbi": {
+					"def": "bobómbi sekelé tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de discrétion"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indiscret, ète  [E)disk{E, Et] adj.": {
+			"lingala": [{
+				"-a bozángi bobómbi, (e)-zángá sekelé": {
+					"def": "óyo azalí na sekelé tÊ¥, molangi mwa mpÔ¥mbÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas discret"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indiscutable  [E)diskytabl] adj.": {
+			"lingala": [{
+				"-a ntángo na ntembe": {
+					"def": "eye ekokí kotyáma ntembe tÊ¥",
+					"ex": "elónga ya ntángo na ntembe"
+				}
+			}],
+			"def": [
+				"qui n’est pas discutable"
+			],
+			"ex": [
+				"une victoire indiscutable"
+			]
+		},
+
+		"indispensable  [E)dispA)sabl] adj.": {
+			"lingala": [{
+				"-a motúya, -a kos¥ng¥l¥": {
+					"def": "eye ekokí kozánga tÊ¥",
+					"ex": "elÔ¡k¡ ya motúya, elÔ¡k¡ ya kos¥ng¥l¥"
+				}
+			}],
+			"def": [
+				"qui est absolument nécessaire, dont on ne peut se passer"
+			],
+			"ex": [
+				"un objet indispensable"
+			]
+		},
+
+		"indisposer  [E)dispçze] v.tr.": {
+			"lingala": [{
+				"kotungisa, kotúmbola": {
+					"def": "koyókisa mpási",
+					"ex": "ezalela ya yÉe ezalí kotungisa ngáí"
+				}
+			}],
+			"def": [
+				"mettre dans une disposition peu favorable, mettre mal à l’aise"
+			],
+			"ex": [
+				"son comportement m’a indisposé"
+			]
+		},
+
+		"indisposé, ée  [E)dispoze] adj.": {
+			"lingala": [{
+				"-a mwâ mpási": {
+					"def": "eye ezali mpási mokÔ¥",
+					"ex": "koyóka mwâ mpási"
+				}
+			}],
+			"def": [
+				"qui est légèrement malade"
+			],
+			"ex": [
+				"se sentir indisposé"
+			]
+		},
+
+		"indisposition  [E)dispozisjç)] n.f.": {
+			"lingala": [{
+				"mwâ mpási": {
+					"def": "maladie légère, malaise",
+					"ex": null
+				}
+			}],
+			"def": [
+				"maladie légère, malaise"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"individu  [E)dividy] n.": {
+			"lingala": [{
+				"moto": {
+					"def": "ekelámo wa mayÔ¥l¥",
+					"ex": "moto mpé lisangá"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"être humain considéré isolément"
+			],
+			"ex": [
+				"l’individu et la societé"
+			]
+		},
+
+		"individuellement [E)dividÁElmA)] adv.": {
+			"lingala": [{
+				"na moto yÉe mÉ¡kÔ¡": {
+					"def": "na loléngé la moto yÉe mÉ¡kÔ¡",
+					"ex": "komílakisa yÉ¡ mÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"d’une manière individuelle; personnellement"
+			],
+			"ex": [
+				"se présenter individuellement"
+			]
+		},
+
+		"individuel, elle  [E)dividÁEl] adj.": {
+			"lingala": [{
+				"-a moto": {
+					"def": "eye etálí moto",
+					"ex": "lib¡ngí lya moto"
+				}
+			}],
+			"def": [
+				"de l’individu, propre à un individu"
+			],
+			"ex": [
+				"une qualité individuelle"
+			]
+		},
+
+		"indolence  [E)dçlA))s] n.f.": {
+			"lingala": [{
+				"bol¥mbú, botaú, g¡igÔ¡i": {
+					"def": "ekela ya kozala p¥t¥p¥t¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mollesse, nonchalance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indolent, ente  [E)dçlA), A)t] adj.": {
+			"lingala": [{
+				"g¡igÔ¡i, -taú": {
+					"def": "óyo azali makási tÊ¥",
+					"ex": "moyékoli motaú"
+				}
+			}],
+			"def": [
+				"mou, nonchalant, sans volonté"
+			],
+			"ex": [
+				"un élève indolent"
+			]
+		},
+
+		"indolore  [E)dçlç{] adj.": {
+			"lingala": [{
+				"-a bozángi mpási": {
+					"def": "eye ekoyókisa mpási tÊ¥",
+					"ex": "litútu lya bozángi mpási"
+				}
+			}],
+			"def": [
+				"qui ne fait pas mal"
+			],
+			"ex": [
+				"une tumeur indolore"
+			]
+		},
+
+		"indulgence  [E)dylZA)s] n.f.": {
+			"lingala": [{
+				"esabola, esábólá": {
+					"def": "bol¥mbú na bolímbisi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"facilité à pardonner"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"indulgent, ente  [E)dylZA), A)t] n.": {
+			"lingala": [{
+				"-a esabola ; mosaboli, mosábólí": {
+					"def": "óyo alímbisaka na bol¥mbú",
+					"ex": "mokonzi wa esabola ; mokonzi mosaboli"
+				}
+			}],
+			"def": [
+				"qui pardonne facilement"
+			],
+			"ex": [
+				"un maître indulgent"
+			]
+		},
+
+		"industrie  [E)dyst{i] n.f.": {
+			"lingala": [{
+				"lizíni, izíni, talyé ": {
+					"def": "lisangá lya misálá mya kobóngola bilÔ¡k¡ bya yambo na biye bya sika",
+					"ex": null
+				}
+			}],
+			"def": [
+				"ensemble des activités de transformation des matières premières en produits finis"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inefficace  [inefikas] adj.": {
+			"lingala": [{
+				"(e)-zángá makási, -a bozángi nguyá": {
+					"def": "eye ezángí bokási tÉo nguyá",
+					"ex": "nkísi ezángá makási"
+				}
+			}],
+			"def": [
+				"qui n’est pas efficace, qui manque d’efficacité"
+			],
+			"ex": [
+				"un remède inefficace"
+			]
+		},
+
+		"inefficacité  [inefikasite] n.f.": {
+			"lingala": [{
+				"bozángi makási, bozángi nguyá": {
+					"def": "bozali makási tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque d’efficacité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inégal, ale, aux  [inegal, o] adj.": {
+			"lingala": [{
+				"bozángi kokokana, bok¥s¥ni": {
+					"def": "bozali ndéngé yÉ¡kÔ¡ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas égal"
+			],
+			"ex": [
+				"des parts inégales"
+			]
+		},
+
+		"inégalité  [inegalite] n.f. ": {
+			"lingala": [{
+				"-a kok¥s¥n¥, (e)-k¥sÔ¥nÔ¥": {
+					"def": "eye ekokání tÊ¥",
+					"ex": "biténi bya kok¥s¥n¥, biténi bik¥sÔ¥nÔ¥"
+				}
+			}],
+			"def": [
+				"absence d’égalité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inepte  [inEpt] adj. ": {
+			"lingala": [{
+				"zóba, elémá": {
+					"def": " óyo azángí mayÔ¥l¥, eye ezángí mayÔ¥l¥",
+					"ex": "maloba zóba"
+				}
+			}],
+			"def": [
+				"stupide"
+			],
+			"ex": [
+				"des propos ineptes"
+			]
+		},
+
+		"ineptie  [inEpsi] n.f.": {
+			"lingala": [{
+				"bozóba, bolémá": {
+					"def": "bozángi mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"stupidité, sottise"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inépuisable  [inepÁizabl] adj.": {
+			"lingala": [{
+				"(e)-kaukaka tÊ¥, -a bozángi kokauka": {
+					"def": "eye ekaukaka tÊ¥",
+					"ex": "liziba likaukaka tÊ¥, liziba lya bozángi kokauka"
+				}
+			}],
+			"def": [
+				"qui ne peut être épuisé; intarissable"
+			],
+			"ex": [
+				"une source inépuisable"
+			]
+		},
+
+		"inerte  [inE{t] adj.": {
+			"lingala": [{
+				"gbukúkálu": {
+					"def": "bozángi bom¡i",
+					"ex": "nzóto gbukúkálu"
+				}
+			}],
+			"def": [
+				"qui est sans mouvement, qui n’est pas vivant"
+			],
+			"ex": [
+				"un corps inerte"
+			]
+		},
+
+		"inertie  [inE{si] n.f.": {
+			"lingala": [{
+				"bogbukúkálu": {
+					"def": "ezalela ya eye ezángí bom¡i",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état de ce qui est inerte, absence de mouvement, de vie"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inespéré, ée  [inEspe{e] adj.": {
+			"lingala": [{
+				"-a likanisi tÊ¥": {
+					"def": "eye ezaláki lisúsu na makanisi tÊ¥",
+					"ex": "elónga ya likanisi tÊ¥"
+				}
+			}],
+			"def": [
+				"que l’on espérait pas ou qu’on n’espérait plus"
+			],
+			"ex": [
+				"une victoire inespérée"
+			]
+		},
+
+		"inestimable  [inEstimabl] adj.": {
+			"lingala": [{
+				"-a motúya makási": {
+					"def": "eye ntálo na yango ezalí likoló",
+					"ex": "elÔ¡k¡ ya motúya makási"
+				}
+			}],
+			"def": [
+				"dont la valeur dépasse toute estimation, très précieux"
+			],
+			"ex": [
+				"un bien inestimable"
+			]
+		},
+
+		"inévitable  [inevitabl] adj.": {
+			"lingala": [{
+				"-a bokími tÊ¥": {
+					"def": "eye ekokí na kokíma tÊ¥ li",
+					"ex": "liwa lizalí lya bokími tÊ¥"
+				}
+			}],
+			"def": [
+				"que l’on ne peut éviter"
+			],
+			"ex": [
+				"la mort est inévitable"
+			]
+		},
+
+		"inexactitude  [inEgzaktityd] n.f.": {
+			"lingala": [{
+				"bozángi bosÊ¡lÔ¡": {
+					"def": "bosÊ¡lÔ¡tÔ¥, bozalí bosÊ¡lÔ¡tÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque d’exactitude"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inexact, acte  [inEgza, akt] adj.": {
+			"lingala": [{
+				"-a bosÊ¡lÔ¡tÔ¥, -a lokutá": {
+					"def": "eye ezalí na bosÊ¡lÔ¡tÔ¥ ",
+					"ex": "eyano ya bosÊ¡lÔ¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas exact, qui contient des erreurs"
+			],
+			"ex": [
+				"une réponse inexacte"
+			]
+		},
+
+		"infamant, ante  [E)famA), A)t] adj.": {
+			"lingala": [{
+				"-a bobési lokúmu": {
+					"def": "eye ekobébisa lokúmu",
+					"ex": "maloba ma bobébisi lokúmu"
+				}
+			}],
+			"def": [
+				"déshonorant"
+			],
+			"ex": [
+				"des paroles infamantes"
+			]
+		},
+
+		"infâme  [e)fAm] adj.": {
+			"lingala": [{
+				"-a nsÔ¡ni, -a kosámbwisa, -a lokúmu tÊ¥, -a bosámbúlú": {
+					"def": "eye ekopésa nsÔ¡ni",
+					"ex": "mbéba ya nsÔ¡ni"
+				}
+			}],
+			"def": [
+				"avilissant, honteux"
+			],
+			"ex": [
+				"un crime infâme"
+			]
+		},
+
+		"infamie  [E)fami] n.f.": {
+			"lingala": [{
+				"nsÔ¡ni": {
+					"def": "ekela ya nsÔ¡ni tÉo ya koyókisa nsÔ¡ni, liloba lya nsÔ¡ni tÉo lya kosámbwisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action, parole infâme"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infarctus  [E)fa{ktys] n.m": {
+			"lingala": [{
+				"motéma mokátí ": {
+					"def": "bok¡n¡ bwa bokáti motéma",
+					"ex": null
+				}
+			}],
+			"def": [
+				"crise cardiaque"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infatigable  [E)fatigabl] adj.": {
+			"lingala": [{
+				"-a bokási míngi, al¥mb¥k¥ tÊ¥": {
+					"def": "óyo azali na makási míngi, óyo al¥mb¥k¥ tÊ¥",
+					"ex": "mosáli wa bokási míngi"
+				}
+			}],
+			"def": [
+				"qui ne se fatigue pas; increvable"
+			],
+			"ex": [
+				"un travailleur infatigable"
+			]
+		},
+
+		"infécondité  [E)fekç)dite] n.f.": {
+			"lingala": [{
+				"bokomba": {
+					"def": "bozángi bobóti",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de fécondité; stérilité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infécond, onde  [E)fekç), ç)d] adj.": {
+			"lingala": [{
+				"ekomba": {
+					"def": "óyo abótaka tÊ¥",
+					"ex": null
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"qui n’est pas fécond; stérile"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infecter  [E)fEkte] v.tr.": {
+			"lingala": [{
+				"koyíngisa mok¡lÔ¡b¥": {
+					"def": "kokÔ¡tisa mok¡lÔ¡b¥ na",
+					"ex": "koyíngisa mok¡lÔ¡b¥ na mpótá"
+				}
+			}],
+			"def": [
+				"contaminer de germes infectieux"
+			],
+			"ex": [
+				"infecter une blessure"
+			]
+		},
+
+		"infectieux, euse  [E)fEksjø, øz] adj.": {
+			"lingala": [{
+				"-a mok¡lÔ¡b¥": {
+					"def": "eye ekúmbaka mok¡lÔ¡b¥",
+					"ex": "bok¡n¡ bwa mok¡lÔ¡b¥"
+				}
+			}],
+			"def": [
+				"qui s’accompagne d’une infection"
+			],
+			"ex": [
+				"une maladie infectieuse"
+			]
+		},
+
+		"infection  [E)fEksjç)] n.f.": {
+			"lingala": [{
+				"mik¡lÔ¡b¥, bok¡n¡": {
+					"def": "bokÔ¡ti bwa mik¡lÔ¡b¥ na nzóto",
+					"ex": null
+				}
+			}],
+			"def": [
+				"développement de germes de maladie dans le corps"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infect, ecte  [E)fEkt] adj.": {
+			"lingala": [{
+				"-bé": {
+					"def": "eye ezalí kolumba solo ebé",
+					"ex": "solo ebé"
+				}
+			}],
+			"def": [
+				"qui sent très mauvais"
+			],
+			"ex": [
+				"une odeur infecte"
+			]
+		},
+
+		"inférieur, eure  [E)fe{jœ{] adj.": {
+			"lingala": [{
+				"-a nsé": {
+					"def": "eye ezali na nsé",
+					"ex": "mbebu ya nsé, mbángá ya nsé"
+				}
+			}],
+			"def": [
+				"qui est placé plus bas qu’un autre"
+			],
+			"ex": [
+				"lèvre, mâchoire inférieure"
+			]
+		},
+
+		"infériorité  [E)fe{jç{ite] n.f.": {
+			"lingala": [{
+				"bonsé": {
+					"def": "ezalela ya eye ezali na nsé",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est inférieur"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infernal, ale, aux  [E)fe{nal, o] adj.": {
+			"lingala": [{
+				"-a lífelo": {
+					"def": "eye ezalí tÉo etálí lífelo",
+					"ex": "mÔ¡t¡ mwa lífelo"
+				}
+			}],
+			"def": [
+				"de l’enfer"
+			],
+			"ex": [
+				"une chaleur infernale"
+			]
+		},
+
+		"infertile  [E)fE{til] adj.": {
+			"lingala": [{
+				"ekomba": {
+					"def": "eye ebótaka tÔ¥tô óyo abótaka tÊ¥",
+					"ex": "mabelé ekomba"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"qui n’est pas fertile, fécond, productif"
+			],
+			"ex": [
+				"qui n’est pas fertile, fécond, productif"
+			]
+		},
+
+		"infertilité  [E)fE{tilite] n.f.": {
+			"lingala": [{
+				"bokomba": {
+					"def": "ezalela ya eye ezalí tÉo ya óyo azalí ekomba",
+					"ex": "bokomba bwa mobáli"
+				}
+			}],
+			"def": [
+				"caractère de ce qui est infertile"
+			],
+			"ex": [
+				"infertilité masculine"
+			]
+		},
+
+		"infester  [E)fEste] v.tr.": {
+			"lingala": [{
+				"kotónda": {
+					"def": "kokóma ebelé na bolóbáká mpÊ¡ ya nyama tÉo bitwÔ¥lÔ¥bikonyÔ¡k¡l¡k¡",
+					"ex": "ndáko etóndí na mp¥s¥, nkungi, ngungi, mpóko)"
+				}
+			}],
+			"def": [
+				"envahir en abondance (en parlant d’animaux ou de plantes nuisibles)"
+			],
+			"ex": [
+				"une maison infestée de cafards, de moustiques, de rats"
+			]
+		},
+
+		"infidèle  [E)fidEl] adj. et n.": {
+			"lingala": [{
+				"-a bozángi lobokó, mozángi lobokó": {
+					"def": "moto azalí na lobokó tÊ¥",
+					"ex": "mobáli wa bozángi lobokó, mozángi lobokó"
+				}
+			}],
+			"def": [
+				"qui n’est pas fidèle"
+			],
+			"ex": [
+				"un mari infidèle"
+			]
+		},
+
+		"infidélité  [E)fidelite] n.f.": {
+			"lingala": [{
+				"bozángi lobokó": {
+					"def": "bozali na lobokó tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de fidélité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infiltrer  [E)filt{e] v.tr.": {
+			"lingala": [{
+				"komíkÔ¡tisa": {
+					"def": "koyíngela na bonkútú na",
+					"ex": "komíkÔ¡tisa na lingómba lya babomi"
+				}
+			}],
+			"def": [
+				"introduire clandestinement dans"
+			],
+			"ex": [
+				"infiltrer une organisation terroriste"
+			]
+		},
+
+		"infime  [E)fim] adj.": {
+			"lingala": [{
+				"-kÔ¥ mpenzá": {
+					"def": "eye ezalí mokÔ¥makási",
+					"ex": "eténi ekÔ¥ mpenzá"
+				}
+			}],
+			"def": [
+				"très petit, minuscule, minime"
+			],
+			"ex": [
+				"une infime partie"
+			]
+		},
+
+		"infini, ie  [E)fini] adj. et n.": {
+			"lingala": [{
+				"-a ndelo tÊ¥, -a súka tÊ¥, -a bozángi ndelo, -a bozángi súka": {
+					"def": "óyo azali na ebandeli mpé suka tÊ¥",
+					"ex": "Nzámbe azali na ndelo tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’a ni commencement ni fin"
+			],
+			"ex": [
+				"Dieu est infini"
+			]
+		},
+
+		"infiniment  [E)finimA)] adv.": {
+			"lingala": [{
+				"ndelo tÊ¥, súka tÊ¥, ntá": {
+					"def": "na loléngé la bosúki tÊ¥",
+					"ex": "Nzámbe azalí ntá monÔ¥n¥, ntá kitÔ¡k¡, ntá bolámu"
+				}
+			}],
+			"def": [
+				"d’une manière infinie, sans limites"
+			],
+			"ex": [
+				"Dieu est infiniment grand, beau, bon"
+			]
+		},
+
+		"infirme  [E)fi{m] adj. et n.": {
+			"lingala": [{
+				"elÔ¥mÔ¥, ebÔ¡sÔ¡nÔ¡": {
+					"def": "óyo azali na elÔ¥mÔ¥tô mb¥ng¡",
+					"ex": "kotíkala elÔ¥mÔ¥ sima ya likámá"
+				}
+			}],
+			"def": [
+				"qui est atteint d’une infirmité"
+			],
+			"ex": [
+				"rester infirme après un accident"
+			]
+		},
+
+		"infirmerie  [E)fi{m´{i] n.f.": {
+			"lingala": [{
+				"lífulumÔ¥l¡": {
+					"def": "esíká bakosálisaka bak¡ni bakÔ¥, batobazókí mpótá",
+					"ex": null
+				}
+			}],
+			"def": [
+				"local pour soigner les malades légers, les blessés"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infirmier, ère  [E)fi{mje, E{] n.": {
+			"lingala": [{
+				"lífulumÔ¥": {
+					"def": "moto akosungaka mónganga mpe akosálisaka bak¡ni",
+					"ex": null
+				}
+			}],
+			"def": [
+				"personne qui assiste un médecin et soigne les malades"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infirmité  [E)fi{mite] n.f.": {
+			"lingala": [{
+				"bolÔ¥m¥": {
+					"def": "mbéba ya kobótama tÉo eúti na likámá epái ya moto azali nzóto k¡l¡ngÔ¡nú",
+					"ex": null
+				}
+			}],
+			"def": [
+				"perte congénitale ou accidentelle d’une fonction chez un individu en bonne santé, handicap"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inflammable  [E)flamabl] adj.": {
+			"lingala": [{
+				"(e)-zwaka mÔ¡t¡ n¡kí, -a bozwi mÔ¡t¡ n¡kí": {
+					"def": "eye ekozwaka mÔ¡t¡ n¡kí",
+					"ex": "pit¡lÔ¡ ezwaká mÔ¡t¡7 n¡kí"
+				}
+			}],
+			"def": [
+				"qui prend facilement feu"
+			],
+			"ex": [
+				"le pétrole inflammable"
+			]
+		},
+
+		"inflammation  [E)flamasjç)] n.f.": {
+			"lingala": [{
+				"bopeli mÔ¡t¡": {
+					"def": "ekela ya bozwi mÔ¡t¡, ya bozíki",
+					"ex": null
+				}
+			}],
+			"def": [
+				"fait de s’enflammer, de prendre feu"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inflation  [E)flasjç)] n.f.": {
+			"lingala": [{
+				"bobuti ntálo": {
+					"def": "ekela ya bomati bwa ntalo",
+					"ex": null
+				}
+			}],
+			"def": [
+				"augmentation excessive et généralisée des prix"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inflexible  [E)flEksibl] adj.": {
+			"lingala": [{
+				"(e)-ninganaka tÊ¥, -a boningani tÊ¥": {
+					"def": "óyo aninganaka tÊ¥",
+					"ex": "motéyi aninganaka tÊ¥, tatá aninganaka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne se laisse pas émouvoir, convaincre; inébranlable, intraitable"
+			],
+			"ex": [
+				"un maître, un père inflexible"
+			]
+		},
+
+		"infliger  [E)fliZe] v.tr.": {
+			"lingala": [{
+				"kos¥ngisa, kofútisa, kop¡lisa": {
+					"def": "kokonza, kotínda na makási",
+					"ex": "kofútisa lomande, kop¡lisa"
+				}
+			}],
+			"def": [
+				"imposer, faire subir"
+			],
+			"ex": [
+				"infliger une amende, une défaite"
+			]
+		},
+
+		"influence  [E)flyA)s] n.f.": {
+			"lingala": [{
+				"bopangani, bokonzi": {
+					"def": "ekela ya kozala na bokonzi likoló lya moto tÉo elÔ¡k¡",
+					"ex": "kozala na bokonzi"
+				}
+			}],
+			"def": [
+				"action exercée sur qqn ou qch"
+			],
+			"ex": [
+				"avoir une bonne, une mauvaise influence sur qqn"
+			]
+		},
+
+		"influencer  [E)flyA)se] v.tr.": {
+			"lingala": [{
+				"kopúsa": {
+					"def": "kozala na bokonzi likoló lya",
+					"ex": "kopúsa monzéngá"
+				}
+			}],
+			"def": [
+				"avoir, exercer une influence sur"
+			],
+			"ex": [
+				"influencer un jeune enfant"
+			]
+		},
+
+		"influent, ente  [E)flyA), A)t] adj.": {
+			"lingala": [{
+				"-a koséngisa": {
+					"def": "óyo apúsaka",
+					"ex": "moto ya koséngisa"
+				}
+			}],
+			"def": [
+				"qui a de l’influence"
+			],
+			"ex": [
+				"un homme très influent"
+			]
+		},
+
+		"information  [E)fç{masjç)] n.f.": {
+			"lingala": [{
+				"sango": {
+					"def": "ekela ya kopesa tÉo koyébisa likambo na bato",
+					"ex": "kopésa sango, kozwa sango"
+				}
+			}],
+			"def": [
+				"action de donner connaissance d’un fait ; renseignement"
+			],
+			"ex": [
+				"donner, recevoir une information"
+			]
+		},
+
+		"informe  [E)fç{m] adj.": {
+			"lingala": [{
+				"-a loléngé tÊ¥, (e)-zángá loléngé": {
+					"def": "eye ezali na loléngé lÉ¡kÔ¡tÔ¥",
+					"ex": "bato ba loléngé tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’a pas de forme précise"
+			],
+			"ex": [
+				"une masse informe"
+			]
+		},
+
+		"informer  [E)fç{me] v.tr.": {
+			"lingala": [{
+				"koyébisa, kopésa sango": {
+					"def": "koyébisa",
+					"ex": "koyébisa bato likambo lyÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"donner des informations, des nouvelles à, mettre au courant; avertir"
+			],
+			"ex": [
+				"informer la population d’un événement"
+			]
+		},
+
+		"infortune  [E)fç{tyn] n.f.": {
+			"lingala": [{
+				"bozángi nkÔ¡nz¡": {
+					"def": "bozali na nkÔ¡nz¡ tÊ¥, bozali na makilá mabe",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque  de chance, malchance, malheur"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"infortuné, ée  [E)fç{tyne] adj.": {
+			"lingala": [{
+				"-a makilá mabé, -a nkÔ¡nz¡ tÊ¥": {
+					"def": "óyo azángi nkÔ¡nz¡",
+					"ex": "mobÔ¥ti mondengé wa makilá mabé"
+				}
+			}],
+			"def": [
+				"qui manque de chance, malchanceux, malheureux"
+			],
+			"ex": [
+				"un infortuné parieur"
+			]
+		},
+
+		"infraction  [E)f{aksjç)] n.f.": {
+			"lingala": [{
+				"mbéba, fÔ¡ti": {
+					"def": "bobuki mobéko",
+					"ex": "kozala na mbéba"
+				}
+			}],
+			"def": [
+				"violation d’une loi"
+			],
+			"ex": [
+				"être en infraction"
+			]
+		},
+
+		"infranchissable  [E)f{A)Sisabl] adj.": {
+			"lingala": [{
+				"-a boleki tÊ¥": {
+					"def": "eye ekokí na boleki tÊ¥",
+					"ex": "mok¡lÔ¡t¡ mwa boleki tÊ¥, ndelo ya boleki tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut franchir"
+			],
+			"ex": [
+				"une ligne, une barrière infranchissable"
+			]
+		},
+
+		"ingénieusement  [E)ZenjøzmA)] adv.": {
+			"lingala": [{
+				"na bwányá": {
+					"def": "na loléngé la mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière ingénieuse, avec ingéniosité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ingénieux, euse  [E)Zenjø, øz] adj.": {
+			"lingala": [{
+				"-a mayÔ¥l¥, -a ntÔ¡ki": {
+					"def": "óyo azali na mayÔ¥l¥ míngi",
+					"ex": "mwÉana wa mayÔ¥l¥, bozwi bwa mayÔ¥l¥"
+				}
+			}],
+			"def": [
+				"plein d’esprit d’invention, d’imagination ; astucieux, habile"
+			],
+			"ex": [
+				"un enfant ingénieux, une trouvaille ingénieuse"
+			]
+		},
+
+		"ingéniosité  [E)Zenjozite] n.f.": {
+			"lingala": [{
+				"ntÔ¡ki, bwányá, mayÔ¥l¥": {
+					"def": "ezalela ya moto, ya elÔ¡k¡ ezalí na ntÔ¡ki",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qualité d’une personne, d’une chose ingénieuse ; habileté, astuce"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ingérable  [E)Ze{abl] adj.": {
+			"lingala": [{
+				"-a bokonzami tÊ¥, -a boyángeli tÊ¥": {
+					"def": "eye ekokí koyángelama tÔ¥tô óyo akoki koyángelama tÊ¥",
+					"ex": "kelási ya bokonzami tÊ¥, kelási ya kokonza tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être géré, qui est très difficile à gérer, à administrer"
+			],
+			"ex": [
+				"une classe ingérable"
+			]
+		},
+
+		"ingérer  [E)Ze{e] v.tr.": {
+			"lingala": [{
+				"komíkÔ¡tisa": {
+					"def": "komípésa (kokipé) na makambo matáli yÉ¡ tÊ¥",
+					"ex": "komíkÔ¡tisa na makambo mángani (ya basúsú)"
+				}
+			}],
+			"def": [
+				"s’introduire indûment, se mêler de qch qui ne vous regarde pas, s’immiscer"
+			],
+			"ex": [
+				"s’ingérer dans les affaires d’autrui"
+			]
+		},
+
+		"ingratitude  [E)g{atityd] n.f.": {
+			"lingala": [{
+				"bozángi matÔ¡ndi": {
+					"def": "bobóyi kondima malámu basálí yÉ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère d’une personne ingrate, manque de reconnaissance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ingrat, ate  [E)g{a, at] adj.": {
+			"lingala": [{
+				"azángá botÔ¡ndi": {
+					"def": "moto óyo azalí kondima malámu basálí yÉe tÊ¥",
+					"ex": "mwÉana azángá botÔ¡ndi"
+				}
+			}],
+			"def": [
+				"qui n’a pas de reconnaissance pour les bienfaits reçus"
+			],
+			"ex": [
+				"un enfant ingrat"
+			]
+		},
+
+		"ingrédient  [E)g{edjA)] n.m.": {
+			"lingala": [{
+				"engelendyá": {
+					"def": "bilÔ¡k¡ bikokÔ¡t¡k¡ na lisangá na bisúsu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"substance qui entre dans la composition d’un mélange"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inguérissable  [E)ge{isabl] adj.": {
+			"lingala": [{
+				"-a kobíka tÊ¥, -a kosíla tÊ¥, -a kobéla tÊ¥": {
+					"def": "eye ekokí kobikisama tÊ¥, eye ekokí kosíla tÊ¥, eye ekokí kobéla tÊ¥",
+					"ex": "mpótá ya kobéla tÊ¥, bok¡n¡ bwa kosíla tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être guéri"
+			],
+			"ex": [
+				"une blessure, une maladie inguérissable"
+			]
+		},
+
+		"ingurgiter  [E)gy{Zite] v.tr.": {
+			"lingala": [{
+				"kogb¡l¡, kodunda": {
+					"def": "kom¥l¥ na es¥ng¡",
+					"ex": "kogb¡l¡ biléi, masanga"
+				}
+			}],
+			"def": [
+				"absorber, avaler avec avidité"
+			],
+			"ex": [
+				"ingurgiter des aliments, des boissons"
+			]
+		},
+
+		"inhabitable  [inabitabl] adj.": {
+			"lingala": [{
+				"-a bofándi tÊ¥": {
+					"def": "eye eb¡ngí na bofándi tÊ¥",
+					"ex": "ndáko ya bofándi tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas habitable, qui ne peut être habité"
+			],
+			"ex": [
+				"une maison inhabitable"
+			]
+		},
+
+		"inhabité, ée  [inabite] adj.": {
+			"lingala": [{
+				"-a mpámbá, -a polélé": {
+					"def": "eye ezalí na moto tÊ¥na káti",
+					"ex": "ndáko ya mpámbá"
+				}
+			}],
+			"def": [
+				"qui n’est pas habité; inoccupé"
+			],
+			"ex": [
+				"une maison inhabitée"
+			]
+		},
+
+		"inhabituel, elle  [inabitÁEl] adj.": {
+			"lingala": [{
+				"-a mom¥s¥n¡ tÊ¥": {
+					"def": "eye ezalí ya bizaleli bya mom¥s¥n¡ tÊ¥",
+					"ex": "lipaya lya mom¥s¥n¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas habituel ; inaccoutumé, accidentel"
+			],
+			"ex": [
+				"une visite inhabituelle"
+			]
+		},
+
+		"inhaler  [inale] v.tr.": {
+			"lingala": [{
+				"kobénda na zólo": {
+					"def": "kokÔ¡tisa elÔ¡k¡ na nzelá ya zólo",
+					"ex": "kobénda mólinga na zólo"
+				}
+			}],
+			"def": [
+				"absorber par le nez, inspirer"
+			],
+			"ex": [
+				"inhaler de la fumée"
+			]
+		},
+
+		"inhospitalier, ère  [inçspitalje, E{] adj.": {
+			"lingala": [{
+				"-a bozángi boyambi (bapaya)": {
+					"def": "óyo ayambaka bato (malámu) tÊ¥",
+					"ex": "pÔ¥p¥l¥ wa bozángi boyambi bapaya"
+				}
+			}],
+			"def": [
+				"qui ne pratique pas l’hospitalité, qui réserve un mauvais accueil"
+			],
+			"ex": [
+				"un peuple inhospitalier"
+			]
+		},
+
+		"inhumain, aine  [inymE), En] adj.": {
+			"lingala": [{
+				"-a bozángi bomoto, -a nkándá, -a nkó": {
+					"def": "óyo azalí na nkó, óyo ezángí kopésa lokúmu na moto",
+					"ex": "tilá wa bozángi bomoto, tilá wa nkó"
+				}
+			}],
+			"def": [
+				"qui manque d’humanité, sans pitié; cruel, barbare, impitoyable"
+			],
+			"ex": [
+				"un tyran inhumain, une condition inhumaine"
+			]
+		},
+
+		"inhumanité  [inymanite] n.f.": {
+			"lingala": [{
+				"bozángi bomoto": {
+					"def": "ezalela ezángi bomoto, ezalela ya nkándá, ya nkó",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère inhumain; cruauté, barbarie, brutalité, férocité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inhumation  [inymasjç)] n.f.": {
+			"lingala": [{
+				"bokundi": {
+					"def": "ekela ya kokunda",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’inhumer"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inhumer  [inyme] v.tr.": {
+			"lingala": [{
+				"kokunda": {
+					"def": "kotíya na nsé ya mabelé",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mettre en terre, enterrer un corps humain"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inimaginable  [inimaZinabl] adj.": {
+			"lingala": [{
+				"-a bokámwisi, -a kondima tÊ¥": {
+					"def": "eye ekokí na kokanisa tÊ¥",
+					"ex": "nk¥l¥ ya bokámwisi"
+				}
+			}],
+			"def": [
+				"qu’on ne peut imaginer, dont on n’a pas idée; étonnant, impensable, inconcevable, incroyable"
+			],
+			"ex": [
+				"une cruauté inimaginable, c’est inimaginable!"
+			]
+		},
+
+		"inimitable  [inimitabl] adj.": {
+			"lingala": [{
+				"-a bomekoli tÊ¥, -a bolandi tÊ¥": {
+					"def": "eye ekokí na komekola tÊ¥",
+					"ex": "ntÔ¡ki ya bomekoli tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut imiter; inégalable"
+			],
+			"ex": [
+				"un talent inimitable"
+			]
+		},
+
+		"inimitié  [inimitje] n.f.": {
+			"lingala": [{
+				"bongúná, lilangá": {
+					"def": "bozángi bondeko, bozángi bobóto, nkándá",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence d’amitié; haine, hostilité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ininflammable  [inE)flamabl] adj.": {
+			"lingala": [{
+				"-a bopeli tÊ¥, (e)-pelaka tÊ¥": {
+					"def": "eye ezwaka mÔ¡t¡ tÊ¥, eye epelaka mÔ¡t¡ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas inflammable, qui ne peut s’enflammer, qui ne peut prendre feu"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inintelligence  [inE)teliZA)s] n.f.": {
+			"lingala": [{
+				"bozóba, bolémá": {
+					"def": "bozángi mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque d’intelligence; bêtise, stupidité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inintelligent, ente  [inE)teliZA), A)t] adj.": {
+			"lingala": [{
+				"zóba, elémá, moínga": {
+					"def": "óyo azángá mayÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-", "Ø-ba", "e-bi-"],
+			"def": [
+				"qui manque d’intelligence; bête, idiot, sot, stupide"
+			],
+			"ex": [
+				"un élève inintelligent"
+			]
+		},
+
+		"inintelligible  [inE)teliZibl] adj.": {
+			"lingala": [{
+				"-a bos¡s¡li tÊ¥": {
+					"def": "eye ekokí na kos¡s¡l¡ tÊ¥",
+					"ex": "liloba lya bos¡s¡li tÊ¥, lokóta la bos¡s¡li tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut comprendre; incompréhensible"
+			],
+			"ex": [
+				"un mot, une langue inintelligible"
+			]
+		},
+
+		"inintéressant, ante  [inE)te{EsA), A)t] adj.": {
+			"lingala": [{
+				"-a litómba tÊ¥": {
+					"def": "ye ezali na litómba lyÉ¡kÔ¡tÔ¥",
+					"ex": "búku bwa litómba tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne présente aucun intérêt"
+			],
+			"ex": [
+				"un livre inintéressant"
+			]
+		},
+
+		"ininterrompu, ue  [inE)tE{ç)py] adj.": {
+			"lingala": [{
+				"-a bokóbi": {
+					"def": "eye ezalí kokóbama",
+					"ex": "mak¥lÔ¥l¥ ma bokóbi"
+				}
+			}],
+			"def": [
+				"qui n’est pas interrompu; continu, permanent"
+			],
+			"ex": [
+				"un bruit, un vacarme ininterrompu"
+			]
+		},
+
+		"inique  [inik] adj.": {
+			"lingala": [{
+				"-a bosémbo tÊ¥, -a bozángi bosémbo": {
+					"def": "eye ezalí na bosémbo tÊ¥, eye ezángi bosémbo",
+					"ex": "zúzi wa bosémbo tÊ¥"
+				}
+			}],
+			"def": [
+				"très injuste"
+			],
+			"ex": [
+				"un juge, un jugement inique"
+			]
+		},
+
+		"iniquité  [inikite] n.f.": {
+			"lingala": [{
+				"bozángi bosémbo": {
+					"def": "bosémbo tÊ¥",
+					"ex": "bozángi bosémbo bwa mobéko, bwa bokáti likambo"
+				}
+			}],
+			"def": [
+				"grave injustice"
+			],
+			"ex": [
+				"l’iniquité d’une loi, d’un jugement"
+			]
+		},
+
+		"initialement  [inisjalmA)] adv.": {
+			"lingala": [{
+				"na ebandela, ebandeli, na libandela, libandeli": {
+					"def": "na libosó",
+					"ex": null
+				}
+			}],
+			"def": [
+				"au début, au commencement, à l’origine"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"initial, ale, aux  [inisjal, o] adj. et n.f.": {
+			"lingala": [{
+				"-a ebandela/ebandeli, -a libandela, libandeli": {
+					"def": "eye ezalí yambo ya elÔ¡k¡, eye ezalí libosó lya elÔ¡k¡",
+					"ex": "nkomá ya ebandela ya liloba"
+				}
+			}],
+			"def": [
+				"qui est au début, au commencement de qch"
+			],
+			"ex": [
+				"lettre initiale d’un mot; une initiale"
+			]
+		},
+
+		"initiateur, trice  [inisjatœ{, t{is] n.": {
+			"lingala": [{
+				"mobandi, mobandisi": {
+					"def": "moto akobanda elÔ¡k¡ moto wa yambo, moto akotéya likambo libosó",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui initie qqn, qui enseigne le premier qch"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"initiation  [inisjasjç)] n.f.": {
+			"lingala": [{
+				"bobandi, bobandisi": {
+					"def": "ekela ya kobanda tÉo ya kobandisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’initier, son résultat"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"initiatique  [inisjatik] adj.": {
+			"lingala": [{
+				"-a bobandi, -a bobandisi": {
+					"def": "eye etáli bobandi tÉo bobandisi",
+					"ex": "molúlu mwa bobandi tÉo bobandisi"
+				}
+			}],
+			"def": [
+				"qui a rapport à l’initiation"
+			],
+			"ex": [
+				"rite initiatique"
+			]
+		},
+
+		"initiative  [inisjativ] n.f.": {
+			"lingala": [{
+				"likanisi, bobandi tÉo bobandisi likambo": {
+					"def": "ekela ya moto óyo abimísi likanisi tÉo asáli elÔ¡k¡ yÉ¡kÔ¡",
+					"ex": "likanisi lilámu"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"action de celui qui est le premier à proposer ou à faire qch; proposition"
+			],
+			"ex": [
+				"une bonne initiative"
+			]
+		},
+
+		"initier  [inisje] I v.tr.": {
+			"lingala": [{
+				"koyamba, kondima": {
+					"def": "kokÔ¡tisa moto na lingómbá lyÉ¡kÔ¡",
+					"ex": "koyamba moto ayébi elÔ¡k¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"admettre à la connaissance et à la pratique de certains rites secrets"
+			],
+			"ex": [
+				"initier un profane"
+			]
+		},
+
+		"initié, ée  [inisje] adj. et n.": {
+			"lingala": [{
+				"-a koyéba, moyébi": {
+					"def": "óyo ayébi likambo; moto ayébi elÔ¡k¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui a été initié, qui a reçu l’initiation, qui connaît le secret"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"injecter  [E)ZEkte] v.tr.": {
+			"lingala": [{
+				"kotúba": {
+					"def": "kokÔ¡tisa limái na nzóto",
+					"ex": "kotúba s¥lúmu na mosisá"
+				}
+			}],
+			"def": [
+				"introduire un liquide dans un corps"
+			],
+			"ex": [
+				"injecter du sérum dans une veine"
+			]
+		},
+
+		"injection  [E)ZEksjç)] n.f.": {
+			"lingala": [{
+				"tonga": {
+					"def": "ekela ya kotúba",
+					"ex": "ntonga ya mosisá, kopésa tÉo kozwa tonga"
+				}
+			}],
+			"def": [
+				"action d’injecter, piqûre faite avec une seringue"
+			],
+			"ex": [
+				"une injection intraveineuse, donner ou recevoir une injection"
+			]
+		},
+
+		"injonction  [E)Zç)ksjç)] n.f.": {
+			"lingala": [{
+				"motíndo": {
+					"def": "ekela ya kotínda",
+					"ex": "motíndo mwa kofúnda"
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"action d’enjoindre, ordre formel; commandement"
+			],
+			"ex": [
+				"injonction de payer"
+			]
+		},
+
+		"injure  [E)Zy{] n.f.": {
+			"lingala": [{
+				"lifíngi, litúki": {
+					"def": "maloba makozokisa mpé makoyókisa nsÔ¡ni",
+					"ex": "koloba, kopésa mafínga, kofínga"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"parole blessante, offensante et calomnieuse"
+			],
+			"ex": [
+				"dire, adresser, proférer des injures; insulte"
+			]
+		},
+
+		"injurier  [E)Zy{je] v.tr.": {
+			"lingala": [{
+				"kofínga, kotúka": {
+					"def": "kopésa maloba makozokisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"couvrir d’injures, blesser, offenser par des paroles; insulter"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"injurieux, euse  [E)Zy{jø, øz] adj.": {
+			"lingala": [{
+				"-a botúki, -a bofíngi": {
+					"def": "eye ekoyókisa motéma mpási",
+					"ex": "liloba lya botúki"
+				}
+			}],
+			"def": [
+				"blessant, offensant, insultant"
+			],
+			"ex": [
+				"une parole injurieuse"
+			]
+		},
+
+		"injuste  [E)Zyst] adj.": {
+			"lingala": [{
+				"-a bosémbo tÊ¥, -a bozángi bosémbo": {
+					"def": "eye ezángi bosémbo",
+					"ex": "bokáti likambo bwa bosémbo tÊ¥, etúmbu ya bosémbo tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas juste, qui est contraire à la justice, qui est mal fondé ; partial, inique"
+			],
+			"ex": [
+				"un jugement injuste, une punition injuste"
+			]
+		},
+
+		"injustement  [E)Zyst´mA)] adv.": {
+			"lingala": [{
+				"na bosémbo tÊ¥": {
+					"def": "na loléngé la bosémbo tÊ¥",
+					"ex": "momango atúmbolami na bosémbo tÊ¥"
+				}
+			}],
+			"def": [
+				"d’une manière injuste, injustifiée"
+			],
+			"ex": [
+				"un innocent injustement puni"
+			]
+		},
+
+		"injustice  [E)ZYstis] n.f.": {
+			"lingala": [{
+				"bosémbo tÊ¥, bozángi bosémbo": {
+					"def": "bozali na bosémbo tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de justice"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"injustifiable  [E)Zystifjabl] adj.": {
+			"lingala": [{
+				"-a bolóngisi tÊ¥": {
+					"def": "eye ekokí kolóngisama tÊ¥",
+					"ex": "letále ya bolóngisi tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut justifier"
+			],
+			"ex": [
+				"un retard injustifiable"
+			]
+		},
+
+		"injustifié, ée  [E)Zystifje] adj.": {
+			"lingala": [{
+				"-a kolónga tÊ¥": {
+					"def": "eye ekokí kolónga tÊ¥",
+					"ex": "letále ya kolónga tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas justifié"
+			],
+			"ex": [
+				"un retard injustifié"
+			]
+		},
+
+		"inlassable  [E)lasabl] adj.": {
+			"lingala": [{
+				"-a bol¥mbi tÊ¥": {
+					"def": "óyo akol¥mb¥ tÊ¥",
+					"ex": "mosáli wa bol¥mbi tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne se lasse pas; infatigable"
+			],
+			"ex": [
+				"un travailleur inlassable"
+			]
+		},
+
+		"inlassablement  [E)lasabl´mA)] adv.": {
+			"lingala": [{
+				"ntángo na bol¥mbi, tíng¥tíng¥": {
+					"def": "na loléngé la kol¥mb¥ tÊ¥",
+					"ex": "kosála tíng¥ting¥"
+				}
+			}],
+			"def": [
+				"d’une manière inlassable, sans se fatiguer"
+			],
+			"ex": [
+				"travailler inlassablement"
+			]
+		},
+
+		"inné, ée  [ine] adj. et n.": {
+			"lingala": [{
+				"-a bobótami, -a mbótama, mbótámá, -a lisangó": {
+					"def": "eye obótámí na yangó",
+					"ex": "likabo lya bobótami"
+				}
+			}],
+			"def": [
+				"que l’on possède dès la naissance; naturel"
+			],
+			"ex": [
+				"un don inné"
+			]
+		},
+
+		"innocemment  [inçsamA)] adv.": {
+			"lingala": [{
+				"na nkó tÊ¥, na bomango": {
+					"def": "na loléngé la nkó tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière innocente, sans mauvaise intention, sans malice"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"innocence  [inçsA)s] n.f.": {
+			"lingala": [{
+				"bomango": {
+					"def": "bozángi elindo",
+					"ex": "bomango bwa mwÉana, bwa mofúndami"
+				}
+			}],
+			"def": [
+				"absence de malice, de culpabilité"
+			],
+			"ex": [
+				"innocence d’un enfant, d’un accusé"
+			]
+		},
+
+		"innocenter  [inçsA)te] v.tr.": {
+			"lingala": [{
+				"kolóngisa": {
+					"def": "kozwa moto na elindo tÊ¥, kokanga moto na mbéba tÊ¥",
+					"ex": "kolóngisa mofúndami"
+				}
+			}],
+			"def": [
+				"déclarer innocent, non coupable; disculper"
+			],
+			"ex": [
+				"innocenter un accusé"
+			]
+		},
+
+		"innocent, ente  [inçsA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a bomango; momango": {
+					"def": "óyo azalí na likambo tÊ¥, óyo azalí pétwa; óyo azalí na mbéba tÊ¥",
+					"ex": "mwÉana wa bomango tÉo mwÉana momango"
+				}
+			}],
+			"def": [
+				"qui est pur, sans malice, qui ignore le mal, qui n’est pas coupable"
+			],
+			"ex": [
+				"un enfant innocent, un innocent"
+			]
+		},
+
+		"innombrable  [inç)b{abl] adj.": {
+			"lingala": [{
+				"-íké, -nÔ¥n¥": {
+					"def": "eye ezalí ebelé tÉo bonÔ¥n¥",
+					"ex": "bato baíké"
+				}
+			}],
+			"def": [
+				"trop grand pour être compté, en très grand nombre; considérable, incalculable"
+			],
+			"ex": [
+				"une foule innombrable"
+			]
+		},
+
+		"innover  [inçve] v.tr.": {
+			"lingala": [{
+				"kosÔ¥nz¥, kobimisa": {
+					"def": "kobóngola, kokÔ¡tisa elÔ¡k¡ ya sika",
+					"ex": "kosÔ¥nz¥ loléngé la kosapa"
+				}
+			}],
+			"def": [
+				"introduire qch de nouveau dans un ordre établi; changer"
+			],
+			"ex": [
+				"innover dans l’art de conter"
+			]
+		},
+
+		"inoccupé, ée  [inçkype] adj.": {
+			"lingala": [{
+				"-a mpámbá, -a moto tÊ¥": {
+					"def": "eye ezalí ya moto mÉ¡kÔ¡tÔ¥",
+					"ex": "esíká ya mpámbá"
+				}
+			}],
+			"def": [
+				"qui n’est occupé par personne; libre"
+			],
+			"ex": [
+				"une place inoccupée"
+			]
+		},
+
+		"inoculer  [inçkyle] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "kotíya na káti ya nzóto",
+					"ex": "kokÔ¡tisa mángwelé"
+				}
+			}],
+			"def": [
+				"introduire dans le corps"
+			],
+			"ex": [
+				"inoculer un vaccin"
+			]
+		},
+
+		"inodore  [inçdç{] adj.": {
+			"lingala": [{
+				"(e)-zángá solo": {
+					"def": "eye ezalí na solo tÊ¥",
+					"ex": "mái sangisangi mazángí solo"
+				}
+			}],
+			"def": [
+				"qui n’a pas pas d’odeur"
+			],
+			"ex": [
+				"l’eau saine est inodore"
+			]
+		},
+
+		"inoffensif, ive  [inçfA)sif, iv] adj.": {
+			"lingala": [{
+				"-a bosáli mabé tÊ¥": {
+					"def": "eye ekonyÔ¡k¡l¡ moto tÊ¥, eye ekokí kosála mabé na moto tÊ¥",
+					"ex": "mbwá ya bosáli mabé tÊ¥"
+				}
+			}],
+			"def": [
+				"qui est incapable de nuire, qui ne fait de mal à personne, qui n’est pas dangereux"
+			],
+			"ex": [
+				"un chien inoffensif"
+			]
+		},
+
+		"inondation  [inç)dasjç)] n.f.": {
+			"lingala": [{
+				"bozindi": {
+					"def": "bomati bwa mái boye bokotóndisa etando yÉ¡kÔ¡",
+					"ex": "bozindi boúti na mbúla"
+				}
+			}],
+			"def": [
+				"débordement des eaux qui submergent un terrain"
+			],
+			"ex": [
+				"des inondations causées par les pluies"
+			]
+		},
+
+		"inonder  [inç)de] v.tr.": {
+			"lingala": [{
+				"kozindisa": {
+					"def": "kotíya na nsé ya mái",
+					"ex": "ebale ezindísi esóbé"
+				}
+			}],
+			"def": [
+				"submerger par un débordement des eaux; noyer"
+			],
+			"ex": [
+				"le fleuve a inondé la plaine"
+			]
+		},
+
+		"inopinément  [inçpinemA)] adv.": {
+			"lingala": [{
+				"(na) mbálákáká, (na) kpákásá": {
+					"def": "na loléngé la kolaka tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière inopinée, inattendue, imprévue"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inopiné, ée  [inçpine] adj.": {
+			"lingala": [{
+				"-a mbálákáká": {
+					"def": "eye eyáka ntángo na kolaka",
+					"ex": "liwá lya mbálákáká, sango ya mbálákáká"
+				}
+			}],
+			"def": [
+				"qui arrive au moment où on ne s’y attend pas, qui n’est pas attendu; imprévu, inattendu"
+			],
+			"ex": [
+				"une mort, une nouvelle inopinée"
+			]
+		},
+
+		"inopportun, une  [inçpç{tœ)), yn] adj.": {
+			"lingala": [{
+				"-a ngonga ebé": {
+					"def": "eye eyáka na ntángo es¥ngÔ¥lí tÊ¥",
+					"ex": "mokáno mwa ngonga ebé"
+				}
+			}],
+			"def": [
+				"qui n’est pas opportun, qui arrive au mauvais moment"
+			],
+			"ex": [
+				"une décision inopportune"
+			]
+		},
+
+		"inoubliable  [inublijabl] adj.": {
+			"lingala": [{
+				"-a bobósani tÊ¥": {
+					"def": "eye ekokí na kobósana tÊ¥",
+					"ex": "likanisi lya bobósani tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut oublier"
+			],
+			"ex": [
+				"un souvenir inoubliable"
+			]
+		},
+
+		"inouï, ïe  [inwi] adj.": {
+			"lingala": [{
+				"-a boyókami tÊ¥": {
+					"def": "eye eyókámí náino tÊ¥",
+					"ex": "monyÔ¡k¡ mwa boyókami tÊ¥"
+				}
+			}],
+			"def": [
+				"qui est sans précédent; extraordinaire, incroyable"
+			],
+			"ex": [
+				"une violence inouïe"
+			]
+		},
+
+		"inquiétant, ante  [E)kjetA), A)t] adj.": {
+			"lingala": [{
+				"-a bobángisi": {
+					"def": "eye ekobángisak",
+					"ex": "bok¡n¡ bwa bobángisi"
+				}
+			}],
+			"def": [
+				"qui rend inquiet"
+			],
+			"ex": [
+				"un état de santé inquiétant"
+			]
+		},
+
+		"inquiéter  [E)kjete] v.tr.": {
+			"lingala": [{
+				"kobángisa, kotúmola, kotungisa": {
+					"def": "kotíya motéma likoló",
+					"ex": "likambo liye lizalí kobángisa ngáí"
+				}
+			}],
+			"def": [
+				"rendre inquiet, troubler, angoisser"
+			],
+			"ex": [
+				"cette nouvelle l’inquiète"
+			]
+		},
+
+		"inquiétude  [E)kjetyd] n.f.": {
+			"lingala": [{
+				"nsÔ¡m¡, moloka": {
+					"def": "ezalela ya moto azalí motéma likoló",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état d’une personne inquiète; angoisse, souci, tourment"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inquiet, ète  [E)kjE, Et] adj.": {
+			"lingala": [{
+				"-a motéma likoló, -a bobángi": {
+					"def": "óyo abúngisi mayÔ¥l¥ mpÊ¡ na bobángi, óyo azali motéma likoló",
+					"ex": "moto wa motéma likoló, botáli bwa bobángi"
+				}
+			}],
+			"def": [
+				"qui est troublé par la crainte, plein d’inquiétude"
+			],
+			"ex": [
+				"une personne inquiète, un regard inquiet"
+			]
+		},
+
+		"insalubre  [E)salyb{] adj.": {
+			"lingala": [{
+				"-a bos¡t¡, -a kÔ¡lÔ¡ngÔ¡nú tÊ¥": {
+					"def": "eye ezalí malámu tÊ¥",
+					"ex": "kalatyé ya bos¡t¡"
+				}
+			}],
+			"def": [
+				"qui n’est pas sain; malsain"
+			],
+			"ex": [
+				"un quartier insalubre"
+			]
+		},
+
+		"insalubrité  [E)salyb{ite] n.f.": {
+			"lingala": [{
+				"bos¡t¡, bozángi bokÔ¡lÔ¡ngÔ¡nú": {
+					"def": "ezalela ya kozánga bopéto",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état de ce qui est insalubre, malsain"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insanité  [E)sanite] n.f.": {
+			"lingala": [{
+				"bozóba, bolémá ": {
+					"def": "ekela ya bonyama, liloba ezángí mayÔ¥l¥",
+					"ex": "koloba bozóba"
+				}
+			}],
+			"def": [
+				"action, parole idiote, sotte, insensée; idiotie, sottise, bêtise, ineptie"
+			],
+			"ex": [
+				"dire des insanités"
+			]
+		},
+
+		"insatiable  [E)sasjabl] adj.": {
+			"lingala": [{
+				"(e)-tóndaka tÊ¥, -a botóndi tÊ¥, -a kosíla tÊ¥, (e)-sílaka tÊ¥": {
+					"def": "óyo akokí kotónda tÊ¥, eye esílaka tÊ¥",
+					"ex": "nzala esílaka tÊ¥, mpósá esílaka tÊ¥, moto atóndaka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne peut être rassasié, satisfait"
+			],
+			"ex": [
+				"une faim, une soif, une personne insatiable"
+			]
+		},
+
+		"insatisfaction  [E)satisfaksjç)] n.f.": {
+			"lingala": [{
+				"mosúmbu": {
+					"def": "bozángi bosepeli, bozángi bokokisi mpósá ya",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de satisfaction; déplaisir, mécontentement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insatisfait, aite  [E)satisfE, Et] adj.": {
+			"lingala": [{
+				"-a mosúmbu": {
+					"def": "óyo asepéli tÊ¥, óyo asilíkí mpÊ¡ azwí eye alukákí tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas satisfait; mécontent, frustré"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inscription  [E)sk{ipsjç)] n.f.": {
+			"lingala": [{
+				"bokomi": {
+					"def": "ekela ya kokoma",
+					"ex": "bokomi na lísit¥"
+				}
+			}],
+			"def": [
+				"action d’inscrire"
+			],
+			"ex": [
+				"inscription sur une liste"
+			]
+		},
+
+		"inscrire  [E)sk{i{] v.tr.": {
+			"lingala": [{
+				"kokoma, koákisa": {
+					"def": "kotíya na mikindá na (lokásá, libángá, libáyá, b.n.b.)",
+					"ex": "kokoma nkómbó na lísit¥, kokoma mwÉana na etéyelo"
+				}
+			}],
+			"def": [
+				"écrire sur un support (papier, pierre, bois, etc.), enregistrer"
+			],
+			"ex": [
+				"inscrire un nom sur une liste, inscrire un enfant à l’école"
+			]
+		},
+
+		"insecte  [E)sEkt] n.m.": {
+			"lingala": [{
+				"nyamankÔ¥k¥ (nzói, monsÔ¡mb¥, nkángi b.n.b)": {
+					"def": "myama ekÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"petite bête (abeille, fourmi, mouche, etc.)"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insecticide  [E)sEktisid] adj. et n.m.": {
+			"lingala": [{
+				"-a bobomi nyama nkÔ¥k¥, es¥kisíd¥, nkísi ya ngungi": {
+					"def": "eye ekobomaka nyama ikÔ¥ikÔ¥, nkísi ya bobomi nyama nkÔ¥k¥",
+					"ex": "putulú ya bobomi nyama nkÔ¥k¥, es¥kisíd¥"
+				}
+			}],
+			"def": [
+				"qui tue les insectes"
+			],
+			"ex": [
+				"une poudre insecticide, un insecticide"
+			]
+		},
+
+		"insectivore  [E)sEktivç{] adj. et n.m.": {
+			"lingala": [{
+				"moléi nyama nkÔ¥k¥": {
+					"def": "eye elyáka míngi mpenzá nyama nkÔ¥k¥, óyo alyáka míngi mpenzá nyama nkÔ¥k¥",
+					"ex": "nd¥k¥ moleí nyama nkÔ¥k¥, moleí nyama nkÔ¥k¥"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui mange essentiellement les insectes"
+			],
+			"ex": [
+				"un oiseau insectivore, un insectivore"
+			]
+		},
+
+		"insécurité  [E)seky{ite] n.f.": {
+			"lingala": [{
+				"bozángi kímyá": {
+					"def": "bozali na kímyá tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de sécurité, situation où l’on se sent menacé"
+			],
+			"ex": [
+				"insécurité dans une ville, un quartier"
+			]
+		},
+
+		"insensé, ée  [E)sA)se] adj.": {
+			"lingala": [{
+				"-a bolémá, -a bozóba": {
+					"def": "óyo azalí malongá tÊ¥, eye ezalí malongá tÊ¥",
+					"ex": "maloba ma bolémá"
+				}
+			}],
+			"def": [
+				"qui n’a pas de sens, qui est contraire au bon sens; absurde, extravagant"
+			],
+			"ex": [
+				"des paroles insensées"
+			]
+		},
+
+		"insensibilité  [E)sA)sibilite] n.f.": {
+			"lingala": [{
+				"bozángi mawa": {
+					"def": "bozali na bolingo tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de sensibilité; caractère de celui qui est insensible"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insensible  [E)sA)sibl] adj.": {
+			"lingala": [{
+				"azángá motéma, azángá mawa": {
+					"def": "óyo akipaka tÊ¥",
+					"ex": "azángá mawa na bato"
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"indifférent"
+			],
+			"ex": [
+				"insensible aux malheurs d’autrui"
+			]
+		},
+
+		"inséparable  [E)sepa{abl] adj. et n.": {
+			"lingala": [{
+				"-a bokaboli tÊ¥": {
+					"def": "eye bakokí kokabola tÊ¥",
+					"ex": "limbale lya bokaboli tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut séparer, très lié, uni"
+			],
+			"ex": [
+				"un couple inséparable, deux amis inséparables"
+			]
+		},
+
+		"insérer  [E)se{e] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "kotíya na káti",
+					"ex": "kokÔ¡tisa lokásá na búku"
+				}
+			}],
+			"def": [
+				"mettre à l’intérieur"
+			],
+			"ex": [
+				"insérer une feuille dans un livre"
+			]
+		},
+
+		"insidieusement  [E)sidjøzmA)] adv.": {
+			"lingala": [{
+				"na mayÔ¥l¥ mabé": {
+					"def": "na loléngé la mayÔ¥l¥ malámu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière insidieuse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insidieux, euse  [E)sidjø, øz] adj.": {
+			"lingala": [{
+				"-a motámbo, -a etámbe": {
+					"def": "eye ezalí na motámbo",
+					"ex": "motúna mwa motámbo"
+				}
+			}],
+			"def": [
+				"qui tend un piège"
+			],
+			"ex": [
+				"une question insidieuse"
+			]
+		},
+
+		"insigne  [E)si¯] adj.": {
+			"lingala": [{
+				"elembo": {
+					"def": "elembetele ya bok¥s¥ni bwa lingómbá, bwa lompÔ¥tÔ¥, bwa mol¡ngÔ¡",
+					"ex": "bilembo bya basikúti"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"marque distinctive d’un groupe, d’un grade, d’un rang"
+			],
+			"ex": [
+				"insignes de scouts"
+			]
+		},
+
+		"insignifiant, ante  [E)si¯ifjA), A)t] adj.": {
+			"lingala": [{
+				"efáká, ep¡tú": {
+					"def": "eye ezalí na litómba tÊ¥",
+					"ex": "efáká ya moto, efáká ya likambo"
+				}
+			}],
+			"def": [
+				"qui est sans intérêt, sans importance; banal, quelconque, négligeable"
+			],
+			"ex": [
+				"une personne insignifiante, un événement insignifiant"
+			]
+		},
+
+		"insinuer  [E)sinÁe] v.tr.": {
+			"lingala": [{
+				"koyambisa na mayÔ¥l¥": {
+					"def": "kondimisa na mayÔ¥l¥",
+					"ex": "ayamibísí na mayÔ¥l¥ te osálí mabé"
+				}
+			}],
+			"def": [
+				"laisser entendre, suggérer"
+			],
+			"ex": [
+				"il insinue que tu as tort"
+			]
+		},
+
+		"insipide  [E)sipid] adj.": {
+			"lingala": [{
+				"(e)-zángá bot¥tú, -a bozángi bot¥tú": {
+					"def": "eye ezalí na el¥ngi tÊ¥",
+					"ex": "súpu ezángá bot¥tú"
+				}
+			}],
+			"def": [
+				"qui n’a pas de saveur, de goût; fade"
+			],
+			"ex": [
+				"une sauce insipide"
+			]
+		},
+
+		"insipidité  [E)sipidite] n.f.": {
+			"lingala": [{
+				"ozángi bot¥tú": {
+					"def": "bozali na bot¥tú tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de saveur, de goût ; fadeur"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insistance  [E)sistA))s] n.f.": {
+			"lingala": [{
+				"moléndé, boléndisi": {
+					"def": "ekela ya koléndisa",
+					"ex": "kosÔ¥ng¥ na moléndé"
+				}
+			}],
+			"def": [
+				"action, fait d’insister"
+			],
+			"ex": [
+				"demander avec insistance"
+			]
+		},
+
+		"insistant, ante  [E)sistA), A)t] adj.": {
+			"lingala": [{
+				"-a moléndé": {
+					"def": "eye ekoléndisa",
+					"ex": "bosÔ¥ngi bwa moléndé"
+				}
+			}],
+			"def": [
+				"qui insiste ; pressant"
+			],
+			"ex": [
+				"une demande insistante"
+			]
+		},
+
+		"insister  [E)siste] v.intr.": {
+			"lingala": [{
+				"koléndisa": {
+					"def": "kotÔ¥l¥m¥ míngi likoló lya likambo lyÉ¡kÔ¡",
+					"ex": "koléndisa ntína lya likambo"
+				}
+			}],
+			"def": [
+				"s’arrêter avec force sur un point particulier"
+			],
+			"ex": [
+				"insister sur l’importance de qch"
+			]
+		},
+
+		"insolemment  [E)sçlamA)] adv.": {
+			"lingala": [{
+				"na bozángi lim¥myá": {
+					"def": "na lim¥myá tÊ¥",
+					"ex": "koyanola na bozángi lim¥myá"
+				}
+			}],
+			"def": [
+				"avec insolence, sans respect"
+			],
+			"ex": [
+				"répondre insolemment"
+			]
+		},
+
+		"insolence  [E)sçlA)s] n.f.": {
+			"lingala": [{
+				"bozángi lim¥myá": {
+					"def": "bozali na bonkóndé tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de respect ; effronterie, impertinence"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insolent, ente  [E)sçlA), A)t] adj.": {
+			"lingala": [{
+				"-a bonkóndé tÊ¥, -a lim¥myá tÊ¥, -a lolÔ¥nd¡": {
+					"def": "óyo azalí na lim¥myá tÔ¥tô eye ezalí na lim¥myá, óyo azalí na lofúndo, eye ezalí na lofúndo",
+					"ex": "mwÉana wa bonkóndé tÊ¥, maloba ma lim¥myá tÊ¥"
+				}
+			}],
+			"def": [
+				"qui manque de respect ; effronté, impertinent"
+			],
+			"ex": [
+				"un enfant insolent, une parole insolente"
+			]
+		},
+
+		"insomniaque  [E)sçmnjak] adj. et n.": {
+			"lingala": [{
+				"(e)-yókaka mp¡ngí tÊ¥": {
+					"def": "óyo azalí na mp¡ngí tÊ¥",
+					"ex": "mwÉana ayókaka mp¡ngí tÊ¥"
+				}
+			}],
+			"def": [
+				"qui souffre d’insomnie"
+			],
+			"ex": [
+				"un enfant insomniaque"
+			]
+		},
+
+		"insomnie  [E)sçmni] n.f.": {
+			"lingala": [{
+				"bozángi mp¡ngí": {
+					"def": "bozali na mp¡ngí tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de sommeil, impossibilité de s’endormir"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insouciance  [E)susjA)s] n.f.": {
+			"lingala": [{
+				"bozángi mabánzo, mafú": {
+					"def": "bozali na mabánzo tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de souci"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insouciant, ante  [E)susjA), A)t] adj.": {
+			"lingala": [{
+				"-a lobánzo tÊ¥": {
+					"def": "óyo azalí ata na likanisi lyÉ¡kÔ¡ tÊ¥",
+					"ex": "moto wa lobánzo tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne se soucie de rien, qui n’a pas de souci"
+			],
+			"ex": [
+				"une personne insouciante"
+			]
+		},
+
+		"insoumission  [E)sumisjç)] n.f.": {
+			"lingala": [{
+				"nkanza, botósi tÊ¥": {
+					"def": "ezalela ya moto azángí botósi",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère d’une personne insoumise"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insoumis, ise  [E)sumi, iz] adj. et n.": {
+			"lingala": [{
+				"azángá botósi, -a botósi tÊ¥, mángbóngí": {
+					"def": "óyo abóyá kotósa",
+					"ex": "moto azángá botósi"
+				}
+			}],
+			"def": [
+				"qui n’est pas soumis, qui refuse de se soumettre; désobéissant"
+			],
+			"ex": [
+				"une personne insoumise"
+			]
+		},
+
+		"insoutenable  [E)sutnabl] adj.": {
+			"lingala": [{
+				"-a boléndisi tÊ¥": {
+					"def": "eye ekokí kosungama tÊ¥",
+					"ex": "likanisi lya boléndisi tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut soutenir, qu’on ne peut supporter; insupportable"
+			],
+			"ex": [
+				"une opinion insoutenable"
+			]
+		},
+
+		"inspecter  [E)spEkte] v.tr.": {
+			"lingala": [{
+				"kotála, kosínzela": {
+					"def": "kotála mpÊ¡ ya kobátela",
+					"ex": "kotála kelási"
+				}
+			}],
+			"def": [
+				"examiner pour surveiller; contrôler"
+			],
+			"ex": [
+				"inspecter une classe"
+			]
+		},
+
+		"inspecteur, trice  [E)spEktœ{, t{is] n.": {
+			"lingala": [{
+				"motáli, mosínzeli": {
+					"def": "moto óyo azalí na mokúmba mwa kotála",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne chargée d’inspecter, de contrôler"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inspection  [E)spEksjç)] n.f.": {
+			"lingala": [{
+				"botáli, bosínzeli": {
+					"def": "ekela ya kotála",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’inspecter"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inspirer  [E)spi{e] v.tr.": {
+			"lingala": [{
+				"kobótisa likanisi": {
+					"def": "kopésa likanisi tÉo liyóki",
+					"ex": "Nzámbe abótísáká likanisi na baproféta"
+				}
+			}],
+			"def": [
+				"faire naître une idée, un sentiment chez qqn"
+			],
+			"ex": [
+				"Dieu a inspiré les prophètes"
+			]
+		},
+
+		"instabilité  [E)stabilite] n.f.": {
+			"lingala": [{
+				"bobóngwani n¡kín¡kí": {
+					"def": "bozángi kímyá",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de stabilité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instable  [E)stabl] adj.": {
+			"lingala": [{
+				"-a kímyá tÊ¥, -a kotÔ¥l¥m¥ malámu tÊ¥, -a kotÔ¥ng¥m¥": {
+					"def": "eye efándí kímyá tÔ¥tô óyo afándí kímyá tÊ¥",
+					"ex": "mésa ma kotÔ¥ng¥m¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas stable"
+			],
+			"ex": [
+				"une table instable"
+			]
+		},
+
+		"installer  [E)stale] v.tr.": {
+			"lingala": [{
+				"kotíya": {
+					"def": "kofándisa",
+					"ex": "kotíya kíti na kelási"
+				}
+			}],
+			"def": [
+				"mettre en place, placer"
+			],
+			"ex": [
+				"installer des chaises dans la classe"
+			]
+		},
+
+		"instamment  [E)stamA)] adv.": {
+			"lingala": [{
+				"na (lo)mbángu": {
+					"def": "n¡kín¡kí",
+					"ex": "kosÔ¥ng¥ elÔ¡k¡ na (lo)mbángu"
+				}
+			}],
+			"def": [
+				"d’une manière pressante, avec insistance"
+			],
+			"ex": [
+				"demander instamment qch"
+			]
+		},
+
+		"instant  [E)stA)] n.m.": {
+			"lingala": [{
+				"mwâ ntángo, mwâ ngonga": {
+					"def": "ntángo ekÔ¥, ngonga ekÔ¥",
+					"ex": "bózela mwâ ntángo"
+				}
+			}],
+			"def": [
+				"moment très court"
+			],
+			"ex": [
+				"attendez un instant !"
+			]
+		},
+
+		"instantanément  [E)stA)tanemA)] adv.": {
+			"lingala": [{
+				"na mwâ ntángo, na mwâ ngonga": {
+					"def": "na loléngé la mwâ ntángo, na mbala yÉ¡kÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière instantanée; immédiatement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instantané, ée  [E)stA)tane] adj.": {
+			"lingala": [{
+				"-a mwâ ntángo, -a mwâ ngonga": {
+					"def": "eye eúmelaka sé ntángo ekÔ¥",
+					"ex": "mokalali mozalí mwa mwâ ntángo"
+				}
+			}],
+			"def": [
+				"qui dure un instant, un court moment"
+			],
+			"ex": [
+				"l'éclair est instantané"
+			]
+		},
+
+		"instar de (à l’)  [alE)sta{d´] loc. prép.": {
+			"lingala": [{
+				"loléngé, ndéngé": {
+					"def": "lokóla, bó",
+					"ex": null
+				}
+			}],
+			"def": [
+				"à la manière de, sur le modèle de; comme"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instaurer  [E)stç{e] v.tr.": {
+			"lingala": [{
+				"kobanda, kobandisa": {
+					"def": "kotíya mpÊ¡ ya mbala ya yambo",
+					"ex": "kobanda bokonzi bwa politíki bwa sika"
+				}
+			}],
+			"def": [
+				"mettre en place ; établir, fonder, inaugurer"
+			],
+			"ex": [
+				"instaurer un nouveau régime politique"
+			]
+		},
+
+		"instigateur, trice  [E)stigatœ{, t{is] n.": {
+			"lingala": [{
+				"mopúsi, motíndi": {
+					"def": "moto óyo azalí kotínda",
+					"ex": "mopúsi na botíki mosálá, motíndi na mobúlú"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui pousse à faire qch"
+			],
+			"ex": [
+				"instigateur de la grève, de la révolte"
+			]
+		},
+
+		"instinct  [E)stE)] n.m.": {
+			"lingala": [{
+				"lÉombi": {
+					"def": "mpósá ya mbótámá ya kosála elÔ¡k¡ ntángo na kokanisa",
+					"ex": "lÉombi la mamá"
+				}
+			}],
+			"def": [
+				"tendance naturelle à agir de telle ou telle manière; impulsion"
+			],
+			"ex": [
+				"instinct maternelle"
+			]
+		},
+
+		"instinctif, ive  [E)stE)ktif, iv] adj.": {
+			"lingala": [{
+				"-a mayÔ¥l¥ tÊ¥": {
+					"def": "eye ezángí mayÔ¥l¥, eye esálémí na mayÔ¥l¥ tÊ¥",
+					"ex": "ekela ya mayÔ¥l¥ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas réfléchi; automatique, naturel, spontané"
+			],
+			"ex": [
+				"un geste instinctif"
+			]
+		},
+
+		"instinctivement  [E)stE)ktivmA)] adv.": {
+			"lingala": [{
+				"na mayÔ¥l¥ tÊ¥": {
+					"def": "na loléngé la mayÔ¥l¥ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière instinctive, qui n’est pas réfléchi; naturellement, spontanément"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instituer  [E)stitÁe] v.tr.": {
+			"lingala": [{
+				"kobanda, kobandisa": {
+					"def": "kosála mpÊ¡ ya yambo",
+					"ex": "kobanda demokrási"
+				}
+			}],
+			"def": [
+				"mettre en place ; établir, fonder, instaurer"
+			],
+			"ex": [
+				"instituer la démocratie"
+			]
+		},
+
+		"instituteur, trice  [E)stitytœ{, t{is] n.": {
+			"lingala": [{
+				"molakisi": {
+					"def": "moto akotéyaka na kelási ya yambo",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne chargée d’enseigner dans les classes du premier degré (école primaire)"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instruction  [E)st{yksjç)] n.f.": {
+			"lingala": [{
+				"botángisi, bolakisi, botéyi": {
+					"def": "ekela ya kotángisa, ya kolakisa tÉo ya kotéya",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’instruire qqn"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"instruire  [E)st{Ái{] v.tr.": {
+			"lingala": [{
+				"kotángisa, kotéya, kolakisa, kobÔ¡k¡l¡": {
+					"def": "kopésa matéya",
+					"ex": "kotángisa moyékoli"
+				}
+			}],
+			"def": [
+				"donner un enseignement à; éduquer, enseigner, former, initier"
+			],
+			"ex": [
+				"instruire un élève"
+			]
+		},
+
+		"instrument  [E)st{ymA)] n.m.": {
+			"lingala": [{
+				"esálele": {
+					"def": "elÔ¡k¡ ekosálisa mpÊ¡ ya kosála tÉo kokela bilÔ¡k¡ bisúsu",
+					"ex": null
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"objet fabriqué pour servir à faire d’autres objets; outil"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insu de (à l’)  [alE)syd´] loc. prép.": {
+			"lingala": [{
+				"ntángo na": {
+					"def": "ntángo te mokólo likambo áyéba",
+					"ex": "kobála ntángo na koyébisa babóti ba yÉe"
+				}
+			}],
+			"def": [
+				"sans que la personne intéressée soit au courant"
+			],
+			"ex": [
+				"se marier à l’insu de ses parents"
+			]
+		},
+
+		"insubordination [E)sybç{dinasjç)] n.f.": {
+			"lingala": [{
+				"bozángi botósi": {
+					"def": "bobóyi kotósa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"refus d’obéir; désobéissance, indiscipline, insoumission"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insuccès  [E)syksE] n.m.": {
+			"lingala": [{
+				"botutu": {
+					"def": "bozángi nkÔ¡nz¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"absence de succès; échec"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insuffisamment  [E)syfizamA)] adv.": {
+			"lingala": [{
+				"na kokoka tÊ¥": {
+					"def": "na loléngé la kokoka tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière insuffisante"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insuffisance  [E)syfizA)s] n.f.": {
+			"lingala": [{
+				"bokoki tÊ¥": {
+					"def": "ezalela ya kokoka tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère de ce qui est insuffisant"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insuffisant, ante  [E)syfizA), A)t] adj.": {
+			"lingala": [{
+				"-a kokoka tÊ¥, (e)-koká tÊ¥": {
+					"def": "eye ezali ndámbo",
+					"ex": "biléi bya kokoka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas suffisant"
+			],
+			"ex": [
+				"une nourriture insuffisante"
+			]
+		},
+
+		"insuline  [E)sylin] n.f.": {
+			"lingala": [{
+				"¥sulín¥": {
+					"def": "nkísi ya bok¡n¡ bwa sukáli tÉo dyabÔ¥ti",
+					"ex": null
+				}
+			}],
+			"def": [
+				"médicament pour le traitement du diabète"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insultant, ante  [E)syltA), A)t] adj.": {
+			"lingala": [{
+				"-a botúki, -a bofíngi": {
+					"def": "eye ezalí kolakisa kofínga",
+					"ex": "ekela ya bofíngi, liloba lya botúki"
+				}
+			}],
+			"def": [
+				"qui constitue une insulte"
+			],
+			"ex": [
+				"un geste insultant, une parole insultante"
+			]
+		},
+
+		"insulte  [E)sylt] n.f.": {
+			"lingala": [{
+				"efíngá, lofínga, lotúki, botúki, bofíngi": {
+					"def": " liloba lya koyókisa mpási mpé nsÔ¡ni koloba mafíngá",
+					"ex": null
+				}
+			}],
+			"def": [
+				"parole offensante; affront, injure, outrage"
+			],
+			"ex": [
+				"dire, proférer des insultes"
+			]
+		},
+
+		"insulter  [E)sylte] v.tr.": {
+			"lingala": [{
+				"kofínga, kotúka": {
+					"def": "koloba mafínga epái ya moto",
+					"ex": null
+				}
+			}],
+			"def": [
+				"proférer des insultes à l’endroit de qqn; injurier"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insulteur, euse  [E)syltœ{, øz] n.": {
+			"lingala": [{
+				"motúki, mofíngi": {
+					"def": "moto óyo alobí mafínga",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui insulte"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insupportable  [E)sypç{tabl] adj.": {
+			"lingala": [{
+				"-a kondima tÊ¥": {
+					"def": "eye eb¡ngí na bondimi tÊ¥",
+					"ex": "mpási ya kondima tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut supporter; atroce, insoutenable, intolérable"
+			],
+			"ex": [
+				"une douleur insupportable"
+			]
+		},
+
+		"insurger (s’)  [E)sy{Ze] v.pron.": {
+			"lingala": [{
+				"kot¡mb¡kela, kot¡mb¡k¡": {
+					"def": "kodasuka mpÊ¡ na",
+					"ex": "kot¡mb¡kela bokonzi, kot¡mb¡k¡ na bokonzi"
+				}
+			}],
+			"def": [
+				"se révolter"
+			],
+			"ex": [
+				"s’insurger contre le pouvoir"
+			]
+		},
+
+		"insurgé, ée  [E)sy{Ze] adj. et n.": {
+			"lingala": [{
+				"mot¡mb¡ki": {
+					"def": "moto at¡mbÔ¡kí, molÔ¥l¥",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui s’insurge, se révolte"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"insurmontable  [E)sy{mç)tabl] adj.": {
+			"lingala": [{
+				"-a kolónga tÊ¥": {
+					"def": "eye bakokí kopésa eyeano tÊ¥",
+					"ex": "mpási ya skolónga tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut surmonter, supporter"
+			],
+			"ex": [
+				"une difficulté insurmontable"
+			]
+		},
+
+		"insurrection  [E)sy{Eksjç)] n.f.": {
+			"lingala": [{
+				"bot¡mb¡ki": {
+					"def": "ekela ya kot¡mb¡k¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action de s’insurger; soulèvement, révolte contre le pouvoir"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intact, acte  [E)takt] adj.": {
+			"lingala": [{
+				"(e) -bébá tÊ¥, -a mobimba": {
+					"def": "eye ezalí ya kobéba tÊ¥, eye ezalí malámu",
+					"ex": "elongi ebébá tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’a pas été touché, qui n’a pas subi de dommage; entier"
+			],
+			"ex": [
+				"un visage intact"
+			]
+		},
+
+		"intangible  [E)tA)Zibl] adj.": {
+			"lingala": [{
+				"(e)-bóngwanaka tÊ¥, -a kobóngola tÊ¥": {
+					"def": "eye ekokí kosÔ¥nz¥m¥ tÊ¥",
+					"ex": "mobéko mobóngwanaka tÊ¥"
+				}
+			}],
+			"def": [
+				"que l’on ne peut toucher, modifier; immuable"
+			],
+			"ex": [
+				"une loi intangible"
+			]
+		},
+
+		"intarissable  [E)ta{isabl] adj.": {
+			"lingala": [{
+				"-a bokauki tÊ¥, (e)-kaukaka tÊ¥, (e)-sílaka tÊ¥": {
+					"def": "eye ekaukaka tÔ¥tô esílaka tÊ¥",
+					"ex": "liziba likaukaka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne tarit pas, ne s’épuise pas"
+			],
+			"ex": [
+				"une source intarissable"
+			]
+		},
+
+		"intégralement  [E)teg{almA)] adv.": {
+			"lingala": [{
+				"mobimba": {
+					"def": "na bonyÔ¡ns¡",
+					"ex": "kotánga búku mobimba"
+				}
+			}],
+			"def": [
+				"d’une manière intégrale, au complet ; complètement, totalement"
+			],
+			"ex": [
+				"lire un livre intégralement"
+			]
+		},
+
+		"intégralité  [E)teg{alite] n.f.": {
+			"lingala": [{
+				"mobimba": {
+					"def": "ezalela ya eye ezalí mobimbas",
+					"ex": null
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"état de ce qui est intégral; totalité"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intégral, ale, aux  [E)teg{al, o] adj.": {
+			"lingala": [{
+				"(-a) mobimba": {
+					"def": "-ns¡, eye ezali mobimba",
+					"ex": "litángi (lya) mobimba, lísikúlu (lya) mobimba"
+				}
+			}],
+			"def": [
+				"complet, entier"
+			],
+			"ex": [
+				"un texte, un discours intégral"
+			]
+		},
+
+		"intègre  [E)tEg{] adj.": {
+			"lingala": [{
+				"(-a) sémba, sémbo": {
+					"def": "óyo azali na bosémbo, na lokutá tÊ¥",
+					"ex": "miníst¥l¥ sémba"
+				}
+			}],
+			"def": [
+				"honnête, incorruptible"
+			],
+			"ex": [
+				"un ministre intègre"
+			]
+		},
+
+		"intégrer  [E)teg{e] v.tr.": {
+			"lingala": [{
+				"kom¥s¥nisa, kokÔ¡tisa": {
+					"def": "koyíngisa",
+					"ex": "kom¥s¥nisa moyékoli na kelási"
+				}
+			}],
+			"def": [
+				"faire entrer dans un tout ; incorporer, inclure"
+			],
+			"ex": [
+				"intégrer un élève dans une classe"
+			]
+		},
+
+		"intellectuellement [E)telEktÁElmA)] adv.": {
+			"lingala": [{
+				"na mayÔ¥l¥": {
+					"def": "na loléngé la mayÔ¥l¥",
+					"ex": "mwÉana na mayÔ¥l¥ mpenzá"
+				}
+			}],
+			"def": [
+				"du point de vue de l’intelligence"
+			],
+			"ex": [
+				"un enfant intellectuellement doué"
+			]
+		},
+
+		"intellectuel, elle  [E)telEktÁEl] adj. et n.": {
+			"lingala": [{
+				"-a mayÔ¥l¥": {
+					"def": "eye etálí mayÔ¥l¥",
+					"ex": "mosálá mwa mayÔ¥l¥"
+				}
+			}],
+			"def": [
+				"qui se rapporte à l’intelligence"
+			],
+			"ex": [
+				"travail intellectuel"
+			]
+		},
+
+		"intelligemment  [E)teliZamA)] adv.": {
+			"lingala": [{
+				"na mayÔ¥l¥": {
+					"def": "na loléngé la mayÔ¥l¥",
+					"ex": "kozala na mayÔ¥l¥"
+				}
+			}],
+			"def": [
+				"d’une manière intelligente, avec intelligence"
+			],
+			"ex": [
+				"se comporter intelligemment"
+			]
+		},
+
+		"intelligence  [E)teliZA)s] n.f.": {
+			"lingala": [{
+				"mayÔ¥l¥": {
+					"def": "likokí lya koyéba ntína ntángo na mpási",
+					"ex": null
+				}
+			}],
+			"def": [
+				"aptitude à comprendre facilement"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intelligentsia  [E)teliZEntsja, E)teliZEnsja] n.f.": {
+			"lingala": [{
+				"baí-mayÔ¥l¥": {
+					"def": "lisangá lya bato ba mayÔ¥l¥ lya ekólo yÉ¡kÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"classe intellectuelle, ensemble des intellectuels d’un pays"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intelligent, ente  [E)teliZA), A)t] adj. et n.": {
+			"lingala": [{
+				"-a mayÔ¥l¥": {
+					"def": "óyo azalí na mayÔ¥l¥",
+					"ex": "moyékoli wa mayÔ¥l¥"
+				}
+			}],
+			"def": [
+				"qui a de l’intelligence"
+			],
+			"ex": [
+				"un élève intelligent"
+			]
+		},
+
+		"intelligible  [E)teliZibl] adj.": {
+			"lingala": [{
+				"(-a) polélé": {
+					"def": "eye ekokí koyébana",
+					"ex": "lísikúlu (lya) polélé"
+				}
+			}],
+			"def": [
+				"qui peut être compris; compréhensible, clair"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intelligiblement  [E)teliZibl´mA ] adv.": {
+			"lingala": [{
+				"polélé": {
+					"def": "na loléngé la saa",
+					"ex": "koloba polélé"
+				}
+			}],
+			"def": [
+				"d’une manière intelligible, compréhensible; clairement"
+			],
+			"ex": [
+				"s’exprimer intelligiblement"
+			]
+		},
+
+		"intempéries  [E)tA)pe{i] n.f.pl.": {
+			"lingala": [{
+				"ntángo ebé (mpela, mbula, mop¥p¥, malíli, b.n.b.)": {
+					"def": "eleko ebé",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mauvais temps (pluie, vent, froid, etc.)"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intendant, ante  [E)tA)dA), A)t] n.": {
+			"lingala": [{
+				"moyángeli": {
+					"def": "moto akoyángelaka bilÔ¡k¡ bya ndáko",
+					"ex": "moyángeli wa kolÔ¥z¥, moyángeli wa ndáko ya mokonzi"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne chargée d’administrer les affaires d’une maison; économe"
+			],
+			"ex": [
+				"intendant d’un collège, d’un palais"
+			]
+		},
+
+		"intense  [E)tA)s] adj.": {
+			"lingala": [{
+				"-kási, -nÔ¥n¥, -a makási": {
+					"def": "eye ezalí kosálema na makási, -kási, -nÔ¥n¥, -a makásieye ezalí monÔ¥n¥",
+					"ex": "molungé mokási, malíli makási"
+				}
+			}],
+			"def": [
+				"qui agit avec force; grand, fort, vif, considérable"
+			],
+			"ex": [
+				"une chaleur, un froid intense"
+			]
+		},
+
+		"intensément  [E)tA)semA)] adv.": {
+			"lingala": [{
+				"na makási": {
+					"def": "na loléngé la makási",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière intense"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intensifier  [E)tA)sifje] v.tr.": {
+			"lingala": [{
+				"koyíka, koléndisa": {
+					"def": "kokólisa",
+					"ex": "koléndisa bolóni masángú"
+				}
+			}],
+			"def": [
+				"rendre plus intense, plus important; augmenter"
+			],
+			"ex": [
+				"intensifier la culture du maïs"
+			]
+		},
+
+		"intensif, ive  [E)tA)sif, iv] adj.": {
+			"lingala": [{
+				"-a koléndisa": {
+					"def": "eye ekokólisa",
+					"ex": "boyékoli bwa koléndisa mayÔ¥l¥, boyékoli bwa koléndisa lokóta"
+				}
+			}],
+			"def": [
+				"qui fait l’objet d’un effort intense; approfondi"
+			],
+			"ex": [
+				"un stage intensif, l’apprentissage intensif d’une langue"
+			]
+		},
+
+		"intensité  [E)tA)site] n.f.": {
+			"lingala": [{
+				"bokási": {
+					"def": "nguyá",
+					"ex": "bokási bwa molungé"
+				}
+			}],
+			"def": [
+				"degré de force"
+			],
+			"ex": [
+				"intensité de la chaleur"
+			]
+		},
+
+		"intensivement  [E)tA)sivmA)] adv.": {
+			"lingala": [{
+				"ebelé": {
+					"def": "míngi",
+					"ex": "kolóna masángú ebelé"
+				}
+			}],
+			"def": [
+				"d’une manière intensive, importante"
+			],
+			"ex": [
+				"cultiver intensivement le manioc"
+			]
+		},
+
+		"intenter  [E)tA)te] v.tr.": {
+			"lingala": [{
+				"kotúba": {
+					"def": "kofúnda likambo na bazúzi",
+					"ex": "kotúba moto"
+				}
+			}],
+			"def": [
+				"engager une action en justice"
+			],
+			"ex": [
+				"intenter un procès à qqn"
+			]
+		},
+
+		"intention  [E)tA)sjç)] n.f.": {
+			"lingala": [{
+				"mokáno, ntína": {
+					"def": "mpósá ya kosála likambo, bolingi bwa kosála elÔ¡k¡ yÉ¡kÔ¡",
+					"ex": "mokáno molámu, mokáno mobé"
+				}
+			}],
+			"cls": ["mo-mi-", "N-N-"],
+			"def": [
+				"volonté, envie de faire qch; fait de se proposer un but; le but lui-même"
+			],
+			"ex": [
+				"bonne, mauvaise intention"
+			]
+		},
+
+		"intentionnel, elle  [E)tA)sjçnEl] adj.": {
+			"lingala": [{
+				"-a nkô": {
+					"def": "eye esálemí na bolingi, na nkó",
+					"ex": "lobÔ¥t¥ la nkô, mbéba ya nkô"
+				}
+			}],
+			"def": [
+				"qui est fait exprès, volontairement; volontaire, voulu, délibéré"
+			],
+			"ex": [
+				"un coup intentionnel, une faute intentionnelle"
+			]
+		},
+
+		"intercaler  [E)tE{kale] v.tr.": {
+			"lingala": [{
+				"koyíngisa, kokÔ¡tisa": {
+					"def": "kotíya káti ya bilÔ¡k¡ bíbalé",
+					"ex": "koyíngisa lokásá káti ya nkásá ya búku"
+				}
+			}],
+			"def": [
+				"mettre entre deux choses; insérer"
+			],
+			"ex": [
+				"intercaler une feuille entre les pages d’un livre"
+			]
+		},
+
+		"intercéder  [E)tE{sede] v.intr.": {
+			"lingala": [{
+				"kobóndela": {
+					"def": "koloba mpÊ¡ na",
+					"ex": null
+				}
+			}],
+			"def": [
+				"intervenir, plaider (en faveur de qqn)"
+			],
+			"ex": [
+				"intercéder en faveur d’un coupable"
+			]
+		},
+
+		"intercepter  [E)tE{septe] v.tr.": {
+			"lingala": [{
+				"kotámba": {
+					"def": "kokanga elÔ¡k¡ ezalí ya moto mosúsu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"prendre au passage et par surprise qch qui est destiné à qqn d’autre"
+			],
+			"ex": [
+				"intercepter une lettre"
+			]
+		},
+
+		"interception  [E)tE{sEpsjç)] n.f.": {
+			"lingala": [{
+				"botámbi": {
+					"def": "ekela ya kotámba",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’intercepter"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intercesseur  [E)tE{sEsœ{] n.m.": {
+			"lingala": [{
+				"mobóndeli": {
+					"def": "moto asámbelaka mpÊ¡ ya basúsu",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui intercède, intervient, plaide pour une autre ; avocat"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intercompréhension [E)tE{kç)p{eA)sjç)] n.f.": {
+			"lingala": [{
+				"boyókani": {
+					"def": "ekela ya koyókana",
+					"ex": "boyókani káti ya Djulá na Bambara"
+				}
+			}],
+			"def": [
+				"compréhension mutuelle entre locuteurs, groupes de locuteurs"
+			],
+			"ex": [
+				"intercompréhension entre les Dioula et les Bambara"
+			]
+		},
+
+		"interdiction  [4)E)tE{diksjç)] n.f.": {
+			"lingala": [{
+				"epekiseli": {
+					"def": "eye ekopekisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’interdire, de défendre ; défense"
+			],
+			"ex": [
+				"interdiction de fumer, de cracher"
+			]
+		},
+
+		"interdire  [E)te{di{] v.tr.": {
+			"lingala": [{
+				"kopekisa, kobóyisa": {
+					"def": "kokilisa, kopímisa",
+					"ex": "kopékisa moto kom¥l¥ likáyá"
+				}
+			}],
+			"def": [
+				"défendre"
+			],
+			"ex": [
+				"interdire à qqn de fumer"
+			]
+		},
+
+		"interdit, ite  [E)tE{di, it] adj. et n.m.": {
+			"lingala": [{
+				"-a ekila, ekila": {
+					"def": "elÔ¡k¡ epekísámí",
+					"ex": "elÔ¡k¡ ya ekila"
+				}
+			}],
+			"def": [
+				"défendu, chose défendue, tabou"
+			],
+			"ex": [
+				"une chose interdite, un interdit"
+			]
+		},
+
+		"intéressant, ante  [E)te{esA), A)t] adj.": {
+			"lingala": [{
+				"-a litómba, -lámu, -a kitÔ¡k¡": {
+					"def": "eye ezalí na litómba",
+					"ex": "molakisi molámu, litéya lya litómba"
+				}
+			}],
+			"def": [
+				"qui intéresse, qui éveille l’intérêt, l’attention"
+			],
+			"ex": [
+				"un professeur intéressant, une leçon intéressante"
+			]
+		},
+
+		"intéressé, ée  [E)te{ese] adj. et n.": {
+			"lingala": [{
+				"moto óyo mpenzá, nkólo likambo": {
+					"def": "moto as¥ngÔ¥lí",
+					"ex": "moto óyo mpenzá"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui est concerné"
+			],
+			"ex": [
+				"la personne intéressée, l’intéressé"
+			]
+		},
+
+		"intéresser  [E)te{ese] v.tr.": {
+			"lingala": [{
+				"kokébisa, kosepelisa moto": {
+					"def": "koyébisa moto",
+					"ex": "kokébisa moto mpÊ¡ na elÔ¡k¡ yÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"susciter l’intérêt de, éveiller l’attention de"
+			],
+			"ex": [
+				"intéresser qqn à qch"
+			]
+		},
+
+		"intérêt  [E)te{E] n.m.": {
+			"lingala": [{
+				"kosepela": {
+					"def": "kolinga",
+					"ex": "kosepela na moto, na elÔ¡k¡"
+				}
+			}],
+			"def": [
+				"ce qui est utile, profitable à qqn ; avantage, profit"
+			],
+			"ex": [
+				"défendre ses intérêts"
+			]
+		},
+
+		"intérieur, eure  [E)te{jœ{] adj.": {
+			"lingala": [{
+				"-a káti": {
+					"def": "eye ezalí na káti",
+					"ex": "libándá lya káti"
+				}
+			}],
+			"def": [
+				"qui est situé au-dedans, entre les limites de qch"
+			],
+			"ex": [
+				"une cour intérieure"
+			]
+		},
+
+		"intérieurement  [E)te{jœ{mA)] adv.": {
+			"lingala": [{
+				"na káti, na motéma": {
+					"def": "na nsé ya motéma",
+					"ex": "kotánga na (nsé ya) motéma"
+				}
+			}],
+			"def": [
+				"au-dedans de soi, dans le coeur, l’esprit ; secrètement, intimement"
+			],
+			"ex": [
+				"rire intérieurement"
+			]
+		},
+
+		"intérioriser  [E)te{jç{ize] v.tr.": {
+			"lingala": [{
+				"kobómba": {
+					"def": "kotíya káti ya motéma",
+					"ex": "kobómba es¥ng¡ ya yÉe, kobómba mpási ya yÉe"
+				}
+			}],
+			"def": [
+				"mettre à l’intérieur de soi, garder en soi-même, ne pas montrer"
+			],
+			"ex": [
+				"intérioriser sa joie, sa peine"
+			]
+		},
+
+		"interlocuteur, trice [E)tE{lçkytœ{, t{is] n.": {
+			"lingala": [{
+				"mosololani": {
+					"def": "moto ozalí koloba na yÉe, moto ozalí kosolola na yÉe, moníngá wa lisoló",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui parle, converse avec une avec une autre"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"interloquer  [E)tE{lçke] v.tr.": {
+			"lingala": [{
+				"kokámwisa": {
+					"def": "kopésa bokámwi",
+					"ex": "eyano na yÉe ekámwísí ngáí"
+				}
+			}],
+			"def": [
+				"étonner très fort, stupéfier, déconcerter"
+			],
+			"ex": [
+				"sa réponse m’a interloqué"
+			]
+		},
+
+		"intermédiaire  [E)tE{medjE{] adj.": {
+			"lingala": [{
+				"-a ntéi": {
+					"def": "eye ezalí káti ya bilÔ¡k¡ bíbalé tÉo óyo azalí na káti ya bato bábalé",
+					"ex": "ezalela ya ntéi"
+				}
+			}],
+			"def": [
+				"qui se trouve au milieu, entre deux"
+			],
+			"ex": [
+				"une position intermédiaire"
+			]
+		},
+
+		"interminable  [E)tE{minabl] adj.": {
+			"lingala": [{
+				"-a súka tÊ¥, -a bosíli tÊ¥": {
+					"def": "eye esílaka tÊ¥",
+					"ex": "lísikúlu lya súka tÊ¥"
+				}
+			}],
+			"def": [
+				"qui ne finit pas, qui ne semble pas finir, très long"
+			],
+			"ex": [
+				"un discours interminable, une file interminable"
+			]
+		},
+
+		"internat  [E)tE{na] n.m.": {
+			"lingala": [{
+				"mbola": {
+					"def": "etéyelo eye ekoyambaka bayékoli mpÊ¡ bafándaka wÉaná",
+					"ex": null
+				}
+			}],
+			"def": [
+				"établissement qui accueille les élèves internes"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"international, ale, aux [E)tE{nasjçnal, o] adj. et n.": {
+			"lingala": [{
+				"-a bikólo biíké, -a molÔ¡ngÔ¡, -a mokili mobimba": {
+					"def": "eye ezalí ya bikólo ebelé",
+					"ex": "boyókani bwa bikólo biíké"
+				}
+			}],
+			"def": [
+				"qui se passe entre plusieurs nations"
+			],
+			"ex": [
+				"entente internationale"
+			]
+		},
+
+		"interne  [E)tE{n] adj.": {
+			"lingala": [{
+				"mwÉana wa mbola": {
+					"def": "moyékoli alálaka mpé alyáka na etéyelo wápi azali kotánga",
+					"ex": null
+				}
+			}],
+			"def": [
+				"élève logé et nourrit dans l’établissement scolaire qu’il fréquente"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"interner  [E)tE{ne] v.tr.": {
+			"lingala": [{
+				"kokanga": {
+					"def": "kobómba na ekímelo",
+					"ex": "kokanga moto wa ligbómá"
+				}
+			}],
+			"def": [
+				"enfermer dans un asile"
+			],
+			"ex": [
+				"interner un aliéné"
+			]
+		},
+
+		"interpeller  [E)tE{p´le] v.tr.": {
+			"lingala": [{
+				"kotúna": {
+					"def": "kobyánga moto mpÊ¡ ya komótuna likambo tÉo mpÊ¡ ámíyambola",
+					"ex": "kotúna moíbi, kotúna mwÉana-mwÉasí na balabála"
+				}
+			}],
+			"def": [
+				"appeler qqn pour lui demander qch ou pour qu’il s’explique ; apostropher"
+			],
+			"ex": [
+				"interpeller un voleur, une fille dans la rue"
+			]
+		},
+
+		"interposer  [E)tE{poze] v.tr.": {
+			"lingala": [{
+				"kotíya na káti": {
+					"def": "kokabola",
+					"ex": "kotíya efelo (na) káti ya ndáko íbalé"
+				}
+			}],
+			"def": [
+				"mettre entre deux choses"
+			],
+			"ex": [
+				"interposer un mur entre deux maisons"
+			]
+		},
+
+		"interprète  [E)tE{p{Et] n.": {
+			"lingala": [{
+				"lingisi, molimboli": {
+					"def": "moto azali montéi wa bato bábalé balobaka nkóta ik¥sÔ¥ní mpÊ¡ ya kobálimbolela mÉ¡kÔ¡mÉ¡kÔ¡na lokóta la yÉe",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui sert d’intermédiaire entre deux personnes parlant des langues différentes pour expliquer à chacun ce que dit l’autre"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"interpréter  [E)tE{p{ete] v.tr.": {
+			"lingala": [{
+				"kolimbola": {
+					"def": "koloba na maloba polélé",
+					"ex": "kolimbola ndÔ¡tÔ¡"
+				}
+			}],
+			"def": [
+				"expliquer, clarifier le sens"
+			],
+			"ex": [
+				"interpréter les rêves"
+			]
+		},
+
+		"interrogation  [E)tE{çgasjç)] n.f.": {
+			"lingala": [{
+				"litúnele, botúna": {
+					"def": "ekela ya kotúna",
+					"ex": "litúnele lya bokomi"
+				}
+			}],
+			"def": [
+				"action d’interroger ; question, demande"
+			],
+			"ex": [
+				"nterrogation écrite"
+			]
+		},
+
+		"interrogatoire  [E)tE{çgatwa{] n.m.": {
+			"lingala": [{
+				"mitúná": {
+					"def": "lisangá lya mitúná bakotúna mofúndami",
+					"ex": null
+				}
+			}],
+			"def": [
+				"interrogation prolongée, ensemble de questions posées à un accusé"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"interroger  [E)tE{çZe] v.tr.": {
+			"lingala": [{
+				"kotúna": {
+					"def": "kopésa moto mitúná",
+					"ex": "kotúna moyékoli, kotúna mofúndami"
+				}
+			}],
+			"def": [
+				"poser une question à ; questionner"
+			],
+			"ex": [
+				"interroger un élève, un accusé"
+			]
+		},
+
+		"interrompre  [E)te{ç)p{] v.tr.": {
+			"lingala": [{
+				"kobúka, kokáta, kogbádola": {
+					"def": "kosúkisa",
+					"ex": "kokáta lisoló"
+				}
+			}],
+			"def": [
+				"rompre, couper, arrêter"
+			],
+			"ex": [
+				"interrompre une conversation"
+			]
+		},
+
+		"interrupteur  [E)tE{yptœ{] n.m.": {
+			"lingala": [{
+				"¥t¥lipitÔ¥l¥": {
+					"def": "esálele mpÊ¡ ya kozímisa mpé kopelisa mwínda mwa lotilíkí",
+					"ex": null
+				}
+			}],
+			"def": [
+				"dispositf pour couper et rétablir le courant électrique"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intervalle  [E)tE{val] n.m.": {
+			"lingala": [{
+				"ntáká": {
+					"def": "etando ekabóli bisíká bíbalé, ntángo íbalé",
+					"ex": "ntáká káti ya ndáko íbalé, ntáká ya mik¡l¡ mísáto."
+				}
+			}],
+			"def": [
+				"distance séparant deux lieux, deux temps"
+			],
+			"ex": [
+				"intervalle entre deux maisons, un intervalle de trois jours"
+			]
+		},
+
+		"intervenir  [E)tE{v´ni{] v.intr.": {
+			"lingala": [{
+				"koyíngela": {
+					"def": "kokÔ¡t¡",
+					"ex": "koyíngela na etumba, na ntembe"
+				}
+			}],
+			"def": [
+				"prendre part à une action"
+			],
+			"ex": [
+				"intervenir dans une bagarre, une discussion"
+			]
+		},
+
+		"intervention  [E)tE{vA)sjç)] n.f.": {
+			"lingala": [{
+				"epasó, lipasó": {
+					"def": "ekela ya kopasola nzóto ya moto zambí ya b¡k¡n¡",
+					"ex": "kosála epasó, basálí ngáí epasó, kopasolama"
+				}
+			}],
+			"def": [
+				"opération chirurgicale"
+			],
+			"ex": [
+				"pratiquer, subir un intervention"
+			]
+		},
+
+		"interview  [E)tE{vju] n.f.": {
+			"lingala": [{
+				"lisoló": {
+					"def": "lisoló na mokomi sango",
+					"ex": "kosÔ¥ng¥ lisoló, kopésa lisoló"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"entretien avec un journaliste"
+			],
+			"ex": [
+				"demander, accorder une interview"
+			]
+		},
+
+		"interviewer  [E)tE{vjuve] v.tr.": {
+			"lingala": [{
+				"kotúna": {
+					"def": "kopésa motúna",
+					"ex": "kotúna miníst¥l¥ mitúna, kotúna prezidá mitúna"
+				}
+			}],
+			"def": [
+				"soumettre à une interview ; interroger"
+			],
+			"ex": [
+				"interviewer un ministre, le président"
+			]
+		},
+
+		"intestin  [E)tEstE)] n.m.": {
+			"lingala": [{
+				"mos¡pÔ¡": {
+					"def": "eténi ya tiyó ya biléi ezalí káti ya líkundú mpé monyutu",
+					"ex": null
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"portion du tube disgestif comprise entre l’estomac et l’anus"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intestin, ine  [E)tEstE), in] adj.": {
+			"lingala": [{
+				"-a mos¡pÔ¡": {
+					"def": "eye etálí mos¡pÔ¡",
+					"ex": "nyama ya libumu, s¥mb¥"
+				}
+			}],
+			"def": [
+				"qui a lieu à l’intérieur d’une chose, d’un corps social"
+			],
+			"ex": [
+				"un clan déchiré par des querelles intestines"
+			]
+		},
+
+		"intestinal, ale, aux  [E)tEstinal, o] adj.": {
+			"lingala": [{
+				"mos¡pÔ¡": {
+					"def": "eténi ya tiyó ya biléi ezalí káti ya líkundú mpé monyutu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui a rapport aux intestins"
+			],
+			"ex": [
+				"des vers intestinaux"
+			]
+		},
+
+		"intime  [E)tim] adj. et n.": {
+			"lingala": [{
+				"-a moto mpenzá": {
+					"def": "eye ezalí mpÊ¡ ya moto yÉemÔ¥i",
+					"ex": "bom¡i bwa moto mpenzá"
+				}
+			}],
+			"def": [
+				"qui est très personnel, tout à fait privé"
+			],
+			"ex": [
+				"la vie intime de qqn"
+			]
+		},
+
+		"intimer  [E)time] v.tr.": {
+			"lingala": [{
+				"kotínda": {
+					"def": "koyébisa likambo na bokonzi bÔ¡ns¡",
+					"ex": "kopésa motíndo na moto, kotínda moto"
+				}
+			}],
+			"def": [
+				"signifier avec autorité"
+			],
+			"ex": [
+				"intimer un ordre à qqn"
+			]
+		},
+
+		"intimidation  [E)timidasjç)] n.f.": {
+			"lingala": [{
+				"bobángisi": {
+					"def": "ekela ya kobángisa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’intimider"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intimider  [E)timide] v.tr.": {
+			"lingala": [{
+				"kobángisa": {
+					"def": "kopésa bobángi",
+					"ex": "kobángisa moto na bokáneli"
+				}
+			}],
+			"def": [
+				"faire peur, troubler"
+			],
+			"ex": [
+				"intimider qqn par des menaces"
+			]
+		},
+
+		"intolérable  [E)tçle{abl] adj.": {
+			"lingala": [{
+				"-a bondimi tÊ¥": {
+					"def": "eye ekokí kondimama tÊ¥",
+					"ex": "mpási ya bondimi tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut tolérer ; insupportable"
+			],
+			"ex": [
+				"des douleurs intolérables"
+			]
+		},
+
+		"intolérance  [E)tçle{A)s] n.f.": {
+			"lingala": [{
+				"bozángi bondimi": {
+					"def": "bozali na bondimi tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de tolérance, haine envers ceux qui ne pensent pas comme nous ; intransigeance"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intolérant, ante  [E)tçle{A), A)t] adj.": {
+			"lingala": [{
+				"abóyá kondima": {
+					"def": "óyo andimaka mpenzá tÊ¥eye basúsu balobaka",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui supporte mal ceux qui pensent autrement que lui ; intransigeant"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intramusculaire [E)t{amyskylE{] adj.": {
+			"lingala": [{
+				"-a montungá, -a mosuni": {
+					"def": "eye epésamaka na nzelá montungá tÉo ya mosuni",
+					"ex": "ntonga ya montungá"
+				}
+			}],
+			"def": [
+				"qui s’introduit dans le muscle"
+			],
+			"ex": [
+				"une injection intramusculaire"
+			]
+		},
+
+		"intraveineux, euse  [E)t{avEnø, øz] adj.": {
+			"lingala": [{
+				"-a mosisá": {
+					"def": "eye epésamaka na nzelá ya mosisá",
+					"ex": "ntonga ya mosisá"
+				}
+			}],
+			"def": [
+				"qui est introduit à l’intérieur d’une veine"
+			],
+			"ex": [
+				"une injection intraveineuse"
+			]
+		},
+
+		"intrépide  [E)t{epid] adj.": {
+			"lingala": [{
+				"-a mpíko, -a nkónzo": {
+					"def": "óyo abángaka likámá tÊ¥",
+					"ex": "sodá wa mpíko"
+				}
+			}],
+			"def": [
+				"qui n’a pas peur du danger ; courageux, audacieux, hardi"
+			],
+			"ex": [
+				"un soldat intrépide"
+			]
+		},
+
+		"intrépidité  [E)t{epidite] n.f.": {
+			"lingala": [{
+				"mpíko, nkónzo": {
+					"def": "ezalela ya bobángi likámá tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"caractère d’une personne intrépide ; audace, courage, hardiesse"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"intriguer  [E)t{ige] v.tr.": {
+			"lingala": [{
+				"kotungisa": {
+					"def": "kopésa mpási",
+					"ex": "lisoló liye lizalí kotungisa ngáí"
+				}
+			}],
+			"def": [
+				"éveiller la curiosité, faire réfléchir"
+			],
+			"ex": [
+				"cette histoire m’intrigue"
+			]
+		},
+
+		"introduire  [E)t{çdÁi{] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa": {
+					"def": "koyíngisa",
+					"ex": "kokÔ¡tisa moto na ndáko, kokÔ¡tisa mwÉana lifúngúla na lifungúla"
+				}
+			}],
+			"def": [
+				"faire entrer"
+			],
+			"ex": [
+				"introduire qqn dans la maison, une clé dans la serrure"
+			]
+		},
+
+		"introniser  [E)t{çnize] v.tr.": {
+			"lingala": [{
+				"kofándisa na ngbÔ¥ndÔ¥": {
+					"def": "kotíya na kíti ya bokonzi",
+					"ex": "kofándisa elwá na ngbÔ¥ndÔ¥, kofándisa nkúmú na ngbÔ¥ndÔ¥"
+				}
+			}],
+			"def": [
+				"placer solennellement sur le trône"
+			],
+			"ex": [
+				"introniser un roi, un chef coutumier"
+			]
+		},
+
+		"inutile  [inytil] adj.": {
+			"lingala": [{
+				"-a mpámba": {
+					"def": "eye ezalí na ntína tÊ¥",
+					"ex": "elÔ¡k¡ ya mpámba"
+				}
+			}],
+			"def": [
+				"qui n’est pas utile, qui ne sert à rien"
+			],
+			"ex": [
+				"un objet inutile"
+			]
+		},
+
+		"inutilement  [inytilmA)] adv.": {
+			"lingala": [{
+				"mpámba": {
+					"def": "na loléngé la ntína tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière inutile"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invalide  [E)valid] adj.": {
+			"lingala": [{
+				"-a ebÔ¡sÔ¡nÔ¡": {
+					"def": "óyo azalí makási tÊ¥, óyo azalí na ntína tÊ¥ ebÔ¡sÔ¡nÔ¡, elÔ¥mÔ¥nÔ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas valide, qui n’a pas de valeur, non valable"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invalider  [E)valide] v.tr.": {
+			"lingala": [{
+				"kobóya, koboma": {
+					"def": "kosakola mpámba",
+					"ex": "kobóya lip¡ni"
+				}
+			}],
+			"def": [
+				"déclarer invalide, nul ; annuler"
+			],
+			"ex": [
+				"invalider une élection"
+			]
+		},
+
+		"invasion  [E)vazjç)] n.f.": {
+			"lingala": [{
+				"botóndi": {
+					"def": "ekela ya kotónda",
+					"ex": "botóndi bwa makÔ¡nk¡"
+				}
+			}],
+			"def": [
+				"action d’envahir"
+			],
+			"ex": [
+				"invasion de criquets"
+			]
+		},
+
+		"invective  [E)vEktiv] n.f.": {
+			"lingala": [{
+				"lofínga, lifíngi": {
+					"def": "liloba lya nkándá likotúmbola",
+					"ex": "koloba mafínga"
+				}
+			}],
+			"def": [
+				"parole violente, injurieuse ; injure, insulte"
+			],
+			"ex": [
+				"lancer des invectives à qqn"
+			]
+		},
+
+		"invectiver  [E)vEktive] v.tr.": {
+			"lingala": [{
+				"kofínga": {
+					"def": "koloba maloba makotúmbola",
+					"ex": "kofínga baleki nzelá"
+				}
+			}],
+			"def": [
+				"lancer des invectives à"
+			],
+			"ex": [
+				"invective les passants"
+			]
+		},
+
+		"inventaire  [E)vA))tE{] n.m.": {
+			"lingala": [{
+				"botángi bilÔ¡k¡": {
+					"def": "ekela ya kotánga bilÔ¡k¡",
+					"ex": "dresser un inventaire"
+				}
+			}],
+			"def": [
+				"action d’inventorier, comptage des biens d’une personne ; dénombrement, recencement"
+			],
+			"ex": [
+				"dresser un inventaire"
+			]
+		},
+
+		"inventer  [E)vA)te] v.tr.": {
+			"lingala": [{
+				"kokela, kosála": {
+					"def": "kobimisa, kobanda",
+					"ex": "kokela lisano, kokela liloba"
+				}
+			}],
+			"def": [
+				"imaginer, créer (ou découvrir) qch de nouveau"
+			],
+			"ex": [
+				"inventer un jeu, un mot"
+			]
+		},
+
+		"inventeur, trice  [E)vA)tœ{, t{is] n.": {
+			"lingala": [{
+				"mokeli, mosáli": {
+					"def": "mobimisi, mobandi, moto akelí elÔ¡k¡",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui invente, découvre, crée qch de nouveau"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invention  [E)vA)sjç)] n.f.": {
+			"lingala": [{
+				"bokeli, bosáli": {
+					"def": "ekela ya kosála",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’inventer, de découvrir ; chose inventée"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inventorier  [E)vA)tç{je] v.tr.": {
+			"lingala": [{
+				"kotánga bilÔ¡k¡": {
+					"def": "kosála motángo mwa",
+					"ex": "kotánga bilÔ¡k¡ bya moto"
+				}
+			}],
+			"def": [
+				"faire l’inventaire de"
+			],
+			"ex": [
+				"inventorier les biens de qqn"
+			]
+		},
+
+		"inverse  [E)vE{s] adj. et n.m.": {
+			"lingala": [{
+				"-a lisÔ¡lÔ¡ngÔ¡": {
+					"def": "eye ek¥sÔ¥ni na",
+					"ex": "nzelá ya lisÔ¡lÔ¡ngÔ¡"
+				}
+			}],
+			"def": [
+				"qui est exactement opposé, contraire"
+			],
+			"ex": [
+				"un sens inverse, dire l’inverse de ce qui a été dit"
+			]
+		},
+
+		"inverser  [E)vE{se] v.tr.": {
+			"lingala": [{
+				"kobóngola": {
+					"def": "kotíya lisÔ¡lÔ¡ngÔ¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mettre dans l’ordre, le sens, la position inverse ; intervertir"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"inversion  [E)vE{sjç)] n.f.": {
+			"lingala": [{
+				"bobóngoli, lisÔ¡lÔ¡ngÔ¡": {
+					"def": "ekela ya kobóngola",
+					"ex": null
+				}
+			}],
+			"def": [
+				"action d’inverser"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invertébré  [E)vE{teb{e] n. et adj.": {
+			"lingala": [{
+				"azángá mokúwa mwa mok¡ng¡": {
+					"def": "óyo azalí na mokúwa mwa mok¡ng¡ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’a pas de vertèbres, de colonne vertébrale, de squelette"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"investir  [E)vEsti{] v.tr.": {
+			"lingala": [{
+				"kofándisa na ngbÔ¥ndÔ¥": {
+					"def": "kotíya na kíti ya bokonzi na bopésaka yÉ¡kÔ¡elembo",
+					"ex": "kofándisa nkúmú na ngbÔ¥ndÔ¥"
+				}
+			}],
+			"def": [
+				"attribuer solennellement un pouvoir par la remise d’un symbole, d’un insigne"
+			],
+			"ex": [
+				"investir un chef coutumier"
+			]
+		},
+
+		"invincible  [E)vE)sibl] adj.": {
+			"lingala": [{
+				"-a kolónga tÊ¥": {
+					"def": "óyo alóngamaka tÊ¥",
+					"ex": "limpingá lya kolónga tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut vaincre"
+			],
+			"ex": [
+				"une armée invincible"
+			]
+		},
+
+		"invisible  [E)vizibl] adj.": {
+			"lingala": [{
+				"emÔ¡n¡n¡k¡ tÊ¥, -a bomÔ¡n¡ni tÊ¥": {
+					"def": "eye em¡n¡n¡ tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas visible"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invitation  [E)vitasjç)] n.f.": {
+			"lingala": [{
+				"mbélá": {
+					"def": "ekela ya kobyánga; mokandá moye mokobéngisa, liloba liye likobéngisa",
+					"ex": "kozwa mbélá"
+				}
+			}],
+			"def": [
+				"action d’inviter ; lettre, parole par laquelle on invite"
+			],
+			"ex": [
+				"recevoir une invitation"
+			]
+		},
+
+		"invité, ée  [E)vite] n. et adj.": {
+			"lingala": [{
+				"mobyángami, mobéngami": {
+					"def": "moto azwí mbélá",
+					"ex": "koyamba babyángemi"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"demander de venir"
+			],
+			"ex": [
+				"inviter un ami à la maison"
+			]
+		},
+
+		"inviter  [E)vite] v.tr.": {
+			"lingala": [{
+				"kobénga, kobyánga": {
+					"def": "kosÔ¥ng¥ koyâ",
+					"ex": "kobyánga moníngá na ndáko"
+				}
+			}],
+			"def": [
+				"personne qui a reçu une invitation"
+			],
+			"ex": [
+				"recevoir des invités"
+			]
+		},
+
+		"involontaire  [E)vçlç)tE{] adj.": {
+			"lingala": [{
+				"-a nkó tÊ¥": {
+					"def": "eye ezalí ya nkó tÊ¥",
+					"ex": "ekela ya nkó tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas volontaire"
+			],
+			"ex": [
+				"un geste involontaire"
+			]
+		},
+
+		"involontairement [E)vçlç)tE{mA)] adv.": {
+			"lingala": [{
+				"ntángo na nkó": {
+					"def": "na nkó tÊ¥, na loléngé la nkó tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"d’une manière involontaire"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"invoquer  [E)vçke] v.tr.": {
+			"lingala": [{
+				"kobóndela, kosámbela, kobélela": {
+					"def": "kobyánga mpÊ¡ na lisálisi",
+					"ex": "kobóndela Nzámbe, kobélela nguyá isúsu"
+				}
+			}],
+			"def": [
+				"appeler à son secours"
+			],
+			"ex": [
+				"invoquer Dieu, une force surnaturelle"
+			]
+		},
+
+		"invraisemblable [E)v{EsA)blabl] adj.": {
+			"lingala": [{
+				"-a sÊ¡lÔ¡ tÊ¥": {
+					"def": "eye ezalí mpenzá sÊ¡lÔ¡ tÊ¥",
+					"ex": "lisoló lya sÊ¡lÔ¡ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas vraisemblable ; incroyable, inimaginable"
+			],
+			"ex": [
+				"une histoire invraisemblable"
+			]
+		},
+
+		"irascible  [i{asibl] adj.": {
+			"lingala": [{
+				"-a nkándá mpámba mpámba": {
+					"def": "óyo asilikaka n¡kí",
+					"ex": "moto wa nkánda mpámba mpámba"
+				}
+			}],
+			"def": [
+				"qui se fâche facilement ; coléreux, irritable"
+			],
+			"ex": [
+				"une personne irascible"
+			]
+		},
+
+		"ironie  [i{çni] n.f.": {
+			"lingala": [{
+				"litiyó, lís¥kí": {
+					"def": "loléngé la kos¥k¥ na bolobáká lisÔ¡lÔ¡ngÔ¡lya maye olingi koloba sÊ¡lÔ¡",
+					"ex": "koloba na litiyó"
+				}
+			}],
+			"def": [
+				"manière de se moquer en disant le contraire de ce qu’on veut faire entendre ; humour mordante"
+			],
+			"ex": [
+				"parler avec ironie"
+			]
+		},
+
+		"ironique  [i{çnik] adj.": {
+			"lingala": [{
+				"-a litiyó, -a lís¥kí": {
+					"def": "eye ezalí ya kotiyola",
+					"ex": "maloba ma litiyó"
+				}
+			}],
+			"def": [
+				"qui contient de l’ironie"
+			],
+			"ex": [
+				"des propos ironiques"
+			]
+		},
+
+		"ironiquement  [i{çnikmA)] adv.": {
+			"lingala": [{
+				"na litiyó": {
+					"def": "na loléngé la litiyó",
+					"ex": null
+				}
+			}],
+			"def": [
+				"avec ironie"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irréalisable  [i{ealizabl] adj.": {
+			"lingala": [{
+				"-a kosálema tÊ¥": {
+					"def": "eye ekokí kosálema tÊ¥",
+					"ex": "mwángo mwa kosálema tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas réalisable, non réalisable, non faisable "
+			],
+			"ex": [
+				"un projet irréalisable"
+			]
+		},
+
+		"irréel, elle  [i{eEl] adj. et n.m.": {
+			"lingala": [{
+				"-a bozángi bosÊ¡lÔ¡": {
+					"def": "eye ezali sÊ¡lÊ¡ tÊ¥, eye ekokí kosálema tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas réel, qui n’existe pas"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irréfléchi, ie  [i{efleSi] adj.": {
+			"lingala": [{
+				"-a mayÔ¥l¥ tÊ¥": {
+					"def": "eye elobámi tÉo esálémí ntángo na bokanisi",
+					"ex": "eyano ya mayÔ¥l¥ tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas réfléchi, qui est fait ou dit sans réflexion"
+			],
+			"ex": [
+				"une réponse irréfléchie"
+			]
+		},
+
+		"irréfutable  [i{efytabl] adj.": {
+			"lingala": [{
+				"-a koyángana tÊ¥, -a kowángana tÊ¥": {
+					"def": "eye ekokí na kobóya tÊ¥, eye bakokí kotyâ ntembe na yangó tÊ¥",
+					"ex": "elembo ya koyángana tÊ¥"
+				}
+			}],
+			"def": [
+				"qu’on ne peut réfuter, nier, discuter ; indéniable, indiscutable"
+			],
+			"ex": [
+				"une preuve irréfutable"
+			]
+		},
+
+		"irrégulier, ère  [i{egylje, E{] adj.": {
+			"lingala": [{
+				"Ô¥ngÔ¥b¥nÔ¥tÔ¥, -a mobúlú": {
+					"def": "eye elongóbáni tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui n’est pas régulier"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irremplaçable  [i{A)plasabl] adj.": {
+			"lingala": [{
+				"-a kokitanisa tÊ¥, (e)-s¥ngÔ¥li makási": {
+					"def": "óyo bakokí kokitanisa tÊ¥, óyo as¥ngÔ¥li míngi",
+					"ex": "mosani wa kokitanisa tÊ¥, mosani as¥ngÔ¥li makási"
+				}
+			}],
+			"def": [
+				"qui ne peut être remplacé ; indispensable"
+			],
+			"ex": [
+				"un joueur irremplaçable"
+			]
+		},
+
+		"irréparable  [i{epa{abl] adj.": {
+			"lingala": [{
+				"-a kob¡ngisa tÊ¥": {
+					"def": "eye ekokí na kob¡ngisa tÊ¥",
+					"ex": "masíni ma kob¡ngisa tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas réparable"
+			],
+			"ex": [
+				"une machine irréparable"
+			]
+		},
+
+		"irréprochable  [i{ep{çSabl] adj.": {
+			"lingala": [{
+				"-a kopalela tÊ¥, -a kopálela tÊ¥, (e)-palelama tÊ¥": {
+					"def": "óyo bakokí kopalela, kopálela tÊ¥, eye bakokí kopamela, kopámela tÊ¥",
+					"ex": "ezalela ya kopalela tÊ¥, ezalela epalelama tÊ¥"
+				}
+			}],
+			"def": [
+				"à qui, à quoi on ne peut rien reprocher"
+			],
+			"ex": [
+				"une conduite, une tenue irréprochable"
+			]
+		},
+
+		"irrésistible  [i{ezistibl] adj.": {
+			"lingala": [{
+				"-a ntembe tÊ¥, -a bol¥mbi": {
+					"def": "óyo bakoki kobóya tÊ¥, eye bakokí kotíya na yangó ntembe tÊ¥",
+					"ex": "nguyá ya ntembe tÊ¥, mwÉasí wa bol¥mbi"
+				}
+			}],
+			"def": [
+				"à qui, à quoi on ne peut résister"
+			],
+			"ex": [
+				"une force, une femme irrésistible"
+			]
+		},
+
+		"irrespect  [i{EspE] n.m.": {
+			"lingala": [{
+				"bozángi lim¥myá, nkanza": {
+					"def": "bozali na bonkóndé tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de respect"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irrespectueux, euse [i{EspEktÁø, øz] adj.": {
+			"lingala": [{
+				"-a bozángi lim¥myá, -a nkanza": {
+					"def": "óyo azalí na bonkóndé tÊ¥, eye ezángí bonkóndé",
+					"ex": "maloba ma bozángi lim¥myá, maloba ma nkanza"
+				}
+			}],
+			"def": [
+				"qui manque de respect"
+			],
+			"ex": [
+				"des paroles irrespectueuses"
+			]
+		},
+
+		"irresponsable  [i{Espç)sabl] adj.": {
+			"lingala": [{
+				"-a bozángi makanisi, -a bozángi mayÔ¥l¥": {
+					"def": "óyo azalí na makanisi tÊ¥, eye esálémi ntángo na kokanisa",
+					"ex": "moto wa bozángi makanisi"
+				}
+			}],
+			"def": [
+				"qui n’est pas responsable, qui agit sans réfléchir"
+			],
+			"ex": [
+				"un homme irresponsable"
+			]
+		},
+
+		"irrévérence  [i{eve{A)s] n.f.": {
+			"lingala": [{
+				"bozángi lim¥myá": {
+					"def": "bozali na bonkóndé tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"manque de respect ; irrespect, impertinence"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irrévérencieux, euse [i{eve{A)sjø, øz] adj.": {
+			"lingala": [{
+				"-a bozángi lim¥myá": {
+					"def": "óyo azángi bonkóndé, eye ezali na bonkóndé tÊ¥",
+					"ex": "maloba ma bozángi lim¥myá"
+				}
+			}],
+			"def": [
+				"qui manque  de respect ; irrespectueux, impertinent, impoli, insolent"
+			],
+			"ex": [
+				"des paroles irrévérencieuses"
+			]
+		},
+
+		"irrigation  [i{igasjç)] n.f.": {
+			"lingala": [{
+				"bobéndi mái o elanga": {
+					"def": "ekela ya kosopa mái na bilanga na bobénda yangó epái esúsu",
+					"ex": null
+				}
+			}],
+			"def": [
+				"arrosage d’une terre par des moyens artificiels"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"irriguer  [i{ige] v.tr.": {
+			"lingala": [{
+				"konyakela mái o elanga": {
+					"def": "kosopa mái na elanga",
+					"ex": "konyakela elanga mái"
+				}
+			}],
+			"def": [
+				"arroser en déviant des eaux douces"
+			],
+			"ex": [
+				"irriguer un champ"
+			]
+		},
+
+		"irritation  [i{itasjç)] n.f.": {
+			"lingala": [{
+				"mwâ mpótá": {
+					"def": "mpótá ekÔ¥",
+					"ex": "mwâ mpótá na lomposo"
+				}
+			}],
+			"def": [
+				"légère inflammation"
+			],
+			"ex": [
+				"irritation de la peau"
+			]
+		},
+
+		"irriter  [i{ite] v.tr": {
+			"lingala": [{
+				"kolémwisa, kosilikisa": {
+					"def": "kotúmola",
+					"ex": "ezalela na yÉ¡ ezalí kolémwisa ngáí"
+				}
+			}],
+			"def": [
+				"provoquer la colère de ; énerver, agacer"
+			],
+			"ex": [
+				"ta conduite m’irrite"
+			]
+		},
+
+		"islam  [islam] n.m.": {
+			"lingala": [{
+				"isilámi, lisilámi": {
+					"def": "eyamba ya bamuzumáni",
+					"ex": null
+				}
+			}],
+			"def": [
+				"religion des musulmans"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"isolé, ée  [izçle] adj.": {
+			"lingala": [{
+				"-a kotangwama, motángolami, motángwami": {
+					"def": "eye ekobwání na bisúsu, eye  etyámí mp¥mbÔ¥ni; óyo atyámi mp¥mbÔ¥ni, óyo balongoli na káti ya basúsu",
+					"ex": "ndáko ya kotangwama"
+				}
+			}],
+			"def": [
+				"situé à l’écart, séparé des choses de même nature"
+			],
+			"ex": [
+				"une maison isolée"
+			]
+		},
+
+		"isolement  [izçlmA)] n.m.": {
+			"lingala": [{
+				"mp¥mbÔ¥ni, bomÔ¡kÔ¡": {
+					"def": "ezalela ya moto azalí yÉe mÉ¡kÔ¡",
+					"ex": "kobíka mp¥mbÔ¥ni"
+				}
+			}],
+			"def": [
+				"état d’une personne, d’une chose isolée ; solitude"
+			],
+			"ex": [
+				"vivre dans l’isolement"
+			]
+		},
+
+		"isolément  [izçlemA)] adv.": {
+			"lingala": [{
+				"na bozali yÉ¡kÔ¡yÉ¡kÔ¡": {
+					"def": "na loléngé la yÉ¡kÔ¡yÉ¡kÔ¡",
+					"ex": "kofánga bobÔ¥lÔ¥yÉ¡ mÉ¡kÔ¡, kozwa elÔ¡k¡ yÉ¡kÔ¡yÔ¡kÔ"
+				}
+			}],
+			"def": [
+				"d’une manière isolée ; séparément"
+			],
+			"ex": [
+				"vivre isolément, prendre qch isolément"
+			]
+		},
+
+		"isoler  [izçle] v.tr.": {
+			"lingala": [{
+				"kotangola, kolongola": {
+					"def": "kotíya mp¥mbÔ¥ni",
+					"ex": "kotangola mok¡ni mÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"mettre à l’écart, séparer des objets de même nature"
+			],
+			"ex": [
+				"isoler un malade"
+			]
+		},
+
+		"isoloir  [izçlwa{] n.m.": {
+			"lingala": [{
+				"ebómbamelo": {
+					"def": "esíká wápi mopÔ¡ni akokí kop¡n¡ nabonkútú",
+					"ex": null
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"cabine où l’électeur peut voter à l’abri des regards"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"issu, ue  [isy] adj.": {
+			"lingala": [{
+				"(e)-útí, (e)-bótámí, -a koúta": {
+					"def": "eye eúti na",
+					"ex": "mwÉana aúti na libota lya nkita, mwÉana abótámí na libóta lya nkita"
+				}
+			}],
+			"def": [
+				"qui est né, sorti (de parents, d’une espèce)"
+			],
+			"ex": [
+				"un enfant issu d’une famille riche, pauvre"
+			]
+		},
+
+		"issue  [isy] n.f.": {
+			"lingala": [{
+				"ebimelo, nzelá": {
+					"def": "lilusú likopésa nzelá ya kobima",
+					"ex": "nzelá ezángi ebimelo"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"passage, ouverture qui permet de sortir"
+			],
+			"ex": [
+				"une voie sans issue"
+			]
+		},
+
+		"itinéraire  [itine{E{] n.m.": {
+			"lingala": [{
+				"nzelá (ya mobémbo)": {
+					"def": "nzelá ya kolanda tÉo eye balandáka mpÊ¡ na kolongwa esíká yÉ¡kÔ¡mpé kok¥nd¥ epái esúsu",
+					"ex": "kolanda nzelá, kobúnga nzelá"
+				}
+			}],
+			"def": [
+				"d’un endroit à un autre ; parcours, cheminement"
+			],
+			"ex": [
+				"suivre un itinéraire, se tromper d’itinéraire"
+			]
+		},
+
+		"itinérant, ante  [itine{A), A)t] adj. et n.": {
+			"lingala": [{
+				"ambilá, (e)-támbolaka": {
+					"def": "óyo atámbolaka",
+					"ex": "mónganga atámbolaka, sángó atámbolaka"
+				}
+			}],
+			"def": [
+				"qui se déplace, va d’un lieu à un autre, qui n’a pas de résidence fixe"
+			],
+			"ex": [
+				"un médecin, un prêtre itinérant"
+			]
+		},
+
+		"ivoire  [ivwa{] n.m.": {
+			"lingala": [{
+				"mÉ²no ma nz¡ku": {
+					"def": "mÉ²no ma nz¡ku",
+					"ex": "ekÔ¡m¡ ya mpÔ¥mbÔ¥ ya nz¡ku"
+				}
+			}],
+			"def": [
+				"matière dure constituant les défenses de l’éléphant"
+			],
+			"ex": [
+				"un bracelet en ivoire"
+			]
+		},
+
+		"ivoirien, enne  [ivwa{jE), En] adj. et n.": {
+			"lingala": [{
+				"-a KÔ¡tidivware, mói-KÔ¡tidivware": {
+					"def": "eye ezalí ya ekólo KÔ¡tidivware tÉo etálí ekólo KÔ¡tidivware; mwÉana-mbóka wa KÔ¡tidivware, mobótámá wa KÔ¡tidivware",
+					"ex": null
+				}
+			}],
+			"def": [
+				"de Côte d’Ivoire"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ivraie  [iv{E] n.f.": {
+			"lingala": [{
+				"litíti libé": {
+					"def": "loléngé la matíti mazalí malámu tÊ¥",
+					"ex": null
+				}
+			}],
+			"def": [
+				"mauvaise herbe"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ivre  [iv{] adj.": {
+			"lingala": [{
+				"molángi, molángbi": {
+					"def": "moto alángbí masanga, moto azalí na kwíti",
+					"ex": null
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui a trop bu, troublé par l’alcool ; soûl"
+			],
+			"ex": [
+				"un homme ivre"
+			]
+		},
+
+		"ivresse  [iv{Es] n.f.": {
+			"lingala": [{
+				"bolángá, molángbá": {
+					"def": "ekela ya kolángwa",
+					"ex": null
+				}
+			}],
+			"def": [
+				"état d’une personne ivre ; cuite, enivrement, soûlerie"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ivrogne  [iv{ç¯] adj. et n.": {
+			"lingala": [{
+				"bilángwálangwa": {
+					"def": "moto alángwaka masanga",
+					"ex": null
+				}
+			}],
+			"def": [
+				"qui a l’habitude de s’enivrer ; alcoolique, soûlard"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ivrognerie  [iv{ç¯{i] n.f": {
+			"lingala": [{
+				"bolángbilangbi, bilángálanga, bilángwálangwa, bilángélálangela": {
+					"def": "mom¥s¥n¡ mwa kolángwaka masanga, ezalela ya moto alángwaka mik¡l¡ míns¡",
+					"ex": null
+				}
+			}],
+			"def": [
+				"habitude de s’enivrer, état d’une personne ivrogne"
+			],
+			"ex": [
+				null
+			]
+		},
+
+		"ivrognesse  [iv{ç¯Es] n.f.": {
+			"lingala": [{
+				"mwásí molángbá": {
+					"def": "mwásí am¥sÔ¥ní kolángba",
+					"ex": null
+				}
+			}],
+			"def": [
+				"femme qui a l’habitude de s’enivrer, femme ivrogne"
+			],
+			"ex": [
+				null
+			]
+		}
+	}

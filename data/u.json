@@ -1,0 +1,1006 @@
+{
+
+	"ulcération [ylse{asjç)] n.f.": {
+		"lingala": [{
+				"botúngáná, botóngáná": {
+					"def": "bosálemi bwa litúngána",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"formation d’un ulcère"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"ulcère [ylsE{] n.m.": {
+		"lingala": [{
+				"mpótá": {
+					"def": "lonéngé la mpótá esálaka lipipi tÔ¥",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"plaie qui ne cicatrise pas"
+		],
+		"ex": [
+			"un ulcère à l’estomac"
+		]
+	},
+
+	"ulcérer [ylse{e] v.tr.": {
+		"lingala": [{
+				"kozokisa (motéma)": {
+					"def": "koyókisa mpási ekási na motéma",
+					"ex": "kozokisa moto (motéma)"
+				}
+			}
+
+		],
+		"def": [
+			"blesser profondément ; irriter"
+		],
+		"ex": [
+			"ulcérer qqn"
+		]
+	},
+
+	"ultérieur, eure [ylte{jœ{] adj.": {
+		"lingala": [{
+				"-a sima": {
+					"def": "eye ekoyâ na mwâ eleko",
+					"ex": "mik¡l¡ mya sima"
+				}
+			}
+
+		],
+		"def": [
+			"qui vient après (dans le temps) ; futur, postérieur"
+		],
+		"ex": [
+			"une date ultérieure"
+		]
+	},
+
+	"ultérieurement [ylte{jœ{mA)] adv.": {
+		"lingala": [{
+				"na sima, na mbísa": {
+					"def": "na eleko ekoyâ",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"après, plus tard"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"ultimatum [yltimatçm] n.m.": {
+		"lingala": [{
+				"bokáneli": {
+					"def": "ekela ya kokánela moto",
+					"ex": "makáneli"
+				}
+			}
+
+		],
+		"def": [
+			"dernière condition accompagnée de menaces"
+		],
+		"ex": [
+			"des ultimatums"
+		]
+	},
+
+	"ultime [yltim] adj.": {
+		"lingala": [{
+				"-a súka": {
+					"def": "eye eyáka na sima mpenzá",
+					"ex": "liloba lya súka"
+				}
+			}
+
+		],
+		"def": [
+			"dernier (dans le temps)"
+		],
+		"ex": [
+			"une ultime parole"
+		]
+	},
+
+	"ululer V.": {
+		"lingala": [{
+				"kogboma": {
+					"def": "",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"hululer"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"un, une [œ))), yn] adj. num.": {
+		"lingala": [{
+				"-É¡kÔ¡": {
+					"def": "ekolimbola bomÉ¡kÔ¡",
+					"ex": "mobáli mÉ¡kÔ¡mpé mwÉasí mÉ¡kÔ¡"
+				}
+			}
+
+		],
+		"def": [
+			"card. exprime l’unité"
+		],
+		"ex": [
+			"un homme et une femme"
+		]
+	},
+
+	"unanime [ynanim] adj.": {
+		"lingala": [{
+				"-a (bato) báns¡": {
+					"def": "eye endimámí tô elobámí na bato báns¡",
+					"ex": "boyókani bwa (bato) báns¡, bop¡ni bwa (bato) báns¡"
+				}
+			}
+
+		],
+		"def": [
+			"qui est fait ou exprimé par tous, en même temps"
+		],
+		"ex": [
+			"un accord, un vote unanime"
+		]
+	},
+
+	"unanimement [ynanimmA)] adv.": {
+		"lingala": [{
+				"el¡ngÔ¡": {
+					"def": "báns¡ lisangá",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"d’une manière unanime, d’un commun accord, tous ensemble"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unanimité [ynanimite] n.f.": {
+		"lingala": [{
+				"báns¡ lisangá": {
+					"def": "ezalela ya eye bato báns¡ bandimi",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"caractère de ce qui est unanime"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uni, ie [yni] adj.": {
+		"lingala": [{
+				"-a lisangá, -a boyókani": {
+					"def": " óyo azalí na boyókani, eye ezalí na boyókani",
+					"ex": "libóta lya lisangá/libóta lya boyókani"
+				}
+			}
+
+		],
+		"def": [
+			"qui vit en bonne entente"
+		],
+		"ex": [
+			"une famille unie"
+		]
+	},
+
+	"unicité [ynisite] n.f.": {
+		"lingala": [{
+				"bomÉ¡kÔ¡": {
+					"def": "ezalela ya eye ezalí lisangá",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"caractère de ce qui est unique"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unifier [ynifje] v.tr.": {
+		"lingala": [{
+				"kosangisa;kosanginya": {
+					"def": "kotíya esíká yÉ¡kÔ¡",
+					"ex": "kosangisa ekólo"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uniforme [ynifç{m] adj.": {
+		"lingala": [{
+				"-a loléngé lÉ¡kÔ¡": {
+					"def": "eye ebóngwanaka tÔ¥, eye ezalí ntángo íns¡ loléngé lÉ¡kÔ¡",
+					"ex": "lísikúlu lya loléngé lÉ¡kÔ¡"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uniformément [ynifç{memA)] adv.": {
+		"lingala": [{
+				"na loléngé lÉ¡kÔ¡": {
+					"def": "na motíndo mÉ¡kÔ¡",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uniformiser [ynifç{mize] v.tr.": {
+		"lingala": [{
+				"kotíya loléngé lÉ¡kÔ¡, kosanginya": {
+					"def": "kokómisa loléngé lÉ¡kÔ¡",
+					"ex": "kosanginya boyékoli"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uniformité [ynifç{mite] n.f.": {
+		"lingala": [{
+				"bokokanisi, boúlanisi": {
+					"def": "ezalela ya eye ezalí loléngé lÉ¡kÔ¡",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unijambiste [yniZA)bist] adj. et n.": {
+		"lingala": [{
+				"-a lokolo lÉ¡kÔ¡": {
+					"def": "óyo azali sé na lokolo lÉ¡kÔ¡",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unilingue [ynilE)g] adj. et n.": {
+		"lingala": [{
+				"-a lokóta lÉ¡kÔ¡": {
+					"def": "óyo alobaka sé lokóta lÉ¡kÔ",
+					"ex": "moto wa lokóta lÉ¡kÔ¡, bagó ya lokóta lÉ¡kÔ¡"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unilinguisme [ynilE)gÁism] n.m.": {
+		"lingala": [{
+				"bolobi lokóta sé lÉ¡kÔ¡": {
+					"def": "ekela ya koloba sé lokóta lÉ¡kÔ¡",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"union [ynjç)] n.f.": {
+		"lingala": [{
+				"lisangá": {
+					"def": "bosangani, ekela ya kozala esíká yÉ¡kÔ¡",
+					"ex": "lisangá lya basáli"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"unique [ynik] adj.": {
+		"lingala": [{
+				"-É¡kÔ¡mpámba, -É¡kÔ¡káka": {
+					"def": "óyo tô eye ezalí sé mÉ¡kÔ¡",
+					"ex": "mwÉana wa líkinda, mwÉana mÉ¡kÔ¡ mpámba"
+				}
+			}
+
+		],
+		"def": [
+			"qui est seul"
+		],
+		"ex": [
+			"un enfant unique"
+		]
+	},
+
+	"uniquement [ynikmA))] adv.": {
+		"lingala": [{
+				"bobÔ¥lÔ¥, sé, pá, paka": {
+					"def": "káka",
+					"ex": "bobÔ¥lÔ¥bÉana"
+				}
+			}
+
+		],
+		"def": [
+			"exclusivement, seulement"
+		],
+		"ex": [
+			"uniquement les enfants"
+		]
+	},
+
+	"unir [yni{] v.tr.": {
+		"lingala": [{
+				"kosangisa, kosanginya, koongisa, kosanganisa": {
+					"def": "kotíya esíká yÉ¡kÔ¡",
+					"ex": "kosangisa makási. kosangana"
+				}
+			}
+
+		],
+		"def": [
+			"mettre ensemble pour former un tout; associer, assembler"
+		],
+		"ex": [
+			"unir ses forces"
+		]
+	},
+
+	"unité [ynite] n.f.": {
+		"lingala": [{
+				"bomÉ¡kÔ¡": {
+					"def": "ezalela ya eye ezalí libóké",
+					"ex": "bomÉ¡kÔ¡ bwa ekólo"
+				}
+			}
+
+		],
+		"def": [
+			"caractère de ce qui forme un tout, un ensemble"
+		],
+		"ex": [
+			"l’unité d’un Etat"
+		]
+	},
+
+	"univers [ynivE{] n.m.": {
+		"lingala": [{
+				"molÔ¡ngÔ¡": {
+					"def": "lisangá lya bíns¡ biye bizali na nsé",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"ensemble de tout ce qui existe ; monde"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"universel, elle [ynivE{sEl] adj.": {
+		"lingala": [{
+				"-a molÔ¡ngÔ¡": {
+					"def": "eye etálí molÔ¡ngÔ¡mobimba",
+					"ex": "mobéko mwa molÔ¡ngÔ¡"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"universellement [ynivE{sElmA)] adv.": {
+		"lingala": [{
+				"na molÔ¡ngÔ¡": {
+					"def": "na molÔ¡ngÔ¡ mobimba",
+					"ex": "koyébana na molÔ¡ngÔ¡"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"universitaire [ynivE{site{] adj.": {
+		"lingala": [{
+				"-a etéyelo ya likoló, -a iniv¥sité, -a liniv¥sité": {
+					"def": "eye ezalí ya liniv¥sité",
+					"ex": "boyékoli bwa liniv¥sité"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"université [ynive{site] n.f.": {
+		"lingala": [{
+				"etéyelo ya likoló, iniv¥sité/liniv¥sité": {
+					"def": "etéyelo ya matéya ma likoló",
+					"ex": "komíkomisa na (l)iniv¥sité"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"Untel, Un tel, Unetelle, Une telle [œ)))tEl, yntEl] n.": {
+		"lingala": [{
+				"Sóngóló, Pakala, Fuláni, Bánkánga": {
+					"def": "nkómbó bom¥i mpÊ¡ ya kobyánga moto óyo balingi kotánga yÉe na nkómbó mpenzá ya yÉe tÔ¥",
+					"ex": "mobáli sóngólo, mwÉasí pakala"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urbain, aine [y{bE), En] adj. et n.": {
+		"lingala": [{
+				"-a engumba": {
+					"def": "eye ezalí tô etálí engumba",
+					"ex": "bato ba engumba"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urètre [y{Et{] n.m.": {
+		"lingala": [{
+				"lilusú lya soka": {
+					"def": "lilusú lya soka",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urgemment [y{ZamA)] adv.": {
+		"lingala": [{
+				"na lombángu, n¡kí": {
+					"def": "ntángo na bozili",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urgence [y{ZA)s] n.f.": {
+		"lingala": [{
+				"lombángu mpenzá, n¡kí mpenzá": {
+					"def": "ezalela ya eye ekosÔ¥ng¥ kozela tÔ¥",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urgent, ente [y{ZA), A)t] adj.": {
+		"lingala": [{
+				"-a lombángu, -a n¡kí": {
+					"def": "eye ekosálema ntángo na bozili",
+					"ex": "mpósá ya lombángu, mosálá mwa lombángu"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urine [y{in] n.f.": {
+		"lingala": [{
+				"masúba, masapo, minyá": {
+					"def": "limái moto akobimisaka na nzelá ya nzotó ya yÉe",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"uriner [y{ine] v.intr.": {
+		"lingala": [{
+				"kosúba, kosumba masapo tô minyá": {
+					"def": "kobimisa masúba libándá",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urinoir [y{inwa{] n.m.": {
+		"lingala": [{
+				"esúbelo": {
+					"def": "esíká elÔ¥ngÔ¥lÔ¥mí mpÊ¡ ya kosúba",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urne [y{n] n.f.": {
+		"lingala": [{
+				"sandúku ya vÔ¡ti": {
+					"def": "egbokoso epái mop¡ni abwákaka mokandá mwa vÔ¡ti",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"urticaire [y{tikE{] n.m.": {
+		"lingala": [{
+				"libibílí, lipípí": {
+					"def": "loléngé la mpándá ekobimaka na lomposo mpe ekopésaka mokosa",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usage [yzaZ] n.m.": {
+		"lingala": [{
+				"bosáleli": {
+					"def": "loléngé la kosálela elÔ¡k¡",
+					"ex": "bosáleli mb¥lí"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usagé, ée [yzaZe] adj.": {
+		"lingala": [{
+				"-a kala": {
+					"def": "eye basálélí míngi, eye ezalí ya sika tÔ¥",
+					"ex": "matalá ma kala"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usé, ée [yze] adj.": {
+		"lingala": [{
+				"bsálélá, -bébá": {
+					"def": "eye ebéba mpÊ¡ basálélá míngi",
+					"ex": "matalá basálélá, matala mabébá"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"user [yze] v.tr.indir.": {
+		"lingala": [{
+				"kosálela": {
+					"def": "kozwa bó esálele",
+					"ex": "kosálela masíni"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usine [yzin] n.f.": {
+		"lingala": [{
+				"izíni, lizíni, talyé": {
+					"def": "esíká bakosálaka bilÔ¡k¡ na masíni",
+					"ex": "lizíni lya masasú tô nzúngu"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"ustensile [ystA)sil] n.m.": {
+		"lingala": [{
+				"esálele": {
+					"def": "elÔ¡k¡ bakosálelaka na ndáko",
+					"ex": "bisalele bya kúku"
+				}
+			}
+
+		],
+		"def": [
+			"objet dont se sert souvent à la maison"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usuel, elle [yzÁEl] adj.": {
+		"lingala": [{
+				"-a mom¥s¥n¡": {
+					"def": "eye bokosálelaka míngi",
+					"ex": "liloba lya mom¥s¥n¡, esálele ya mom¥s¥n¡"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usure [yzy{] n.f.": {
+		"lingala": [{
+				"bokúfi": {
+					"def": "bobébi boúti na bosáleli",
+					"ex": "bokúfi bwa ekótó tô sapáto"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usurpateur, trice [yzy{patœ{, t{is] n.": {
+		"lingala": [{
+				"mobÔ¡t¡li, mokósi, mobúbi": {
+					"def": "moto akozwa elÔ¡k¡ tô bokonzi na nkó tô na lokutá",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"usurper [yzy{pe] v.tr.": {
+		"lingala": [{
+				"kobÔ¡t¡l¡, kokósa, kobúba": {
+					"def": "kozwa ntángo na likokí, na nkó tô na lokutá",
+					"ex": "kobÔ¡t¡l¡ bokonzi"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"utérin, ine [yte{E), in] adj.": {
+		"lingala": [{
+				"-a bomamá": {
+					"def": "óyo azalí ndeko epái ya bomamá",
+					"ex": "ndeko ya bomamá"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"utérus [yte{ys] n.m.": {
+		"lingala": [{
+				"ebótele": {
+					"def": "enama ezalí na libumu lya mwÉasí wápi zémi ekólaka",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"utile [ytil] adj.": {
+		"lingala": [{
+				"-a litómba": {
+					"def": "eye ezalí malámu, eye ebótaka mbuma",
+					"ex": "búku bwa litómba"
+				}
+			}
+
+		],
+		"def": [
+			""
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"utilement [ytilmA)] adv.": {
+		"lingala": [{
+				"na litómba": {
+					"def": "na loléngé na malámu tô la litómba",
+					"ex": ""
+				}
+			}
+
+		],
+		"def": [
+			"d’une manière utile"
+		],
+		"ex": [
+			""
+		]
+	},
+
+	"utiliser [ytilize] v.tr.": {
+		"lingala": [{
+				"kosálela": {
+					"def": "kosála na",
+					"ex": "kosálela masíni"
+				}
+			}
+
+		],
+		"def": [
+			"se servir de ; employer"
+		],
+		"ex": [
+			"utiliser une machine"
+		]
+	},
+
+	"utilité [ytilite] n.f.": {
+		"lingala": [{
+				"litómba": {
+					"def": "ekela ya kobóta mbuma, ya kozala na litómba",
+					"ex": "litómba lya masíni"
+				}
+			}
+
+		],
+		"def": [
+			"fait d’être utile ; avantage"
+		],
+		"ex": [
+			"l’utilité d’une machine"
+		]
+	}
+
+}

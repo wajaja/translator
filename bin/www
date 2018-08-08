@@ -1,0 +1,134 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var app = require('../app');
+var { translatePhrase, translatePhraseStr } = require('../server/translate');
+var debug = require('debug')('react:server');
+var http = require('http');
+
+/**
+ * Get port from environment and store in Express.
+ */
+
+var port = normalizePort(process.env.PORT || '3000');
+app.set('port', port);
+
+/**
+ * Create HTTP server.
+ */
+
+var server = http.createServer(app);
+var socket;
+
+/**
+ * Listen on provided port, on all network interfaces.
+ */
+
+server.listen(port);
+server.on('error', onError);
+server.on('listening', onListening);
+
+//var allowedOrigins = "http://localhost:* http://127.0.0.1:*";
+var io = require('socket.io').listen(server, {
+    log:false,
+    origins:'*:*'
+});
+
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+function normalizePort(val) {
+  var port = parseInt(val, 10);
+
+  if (isNaN(port)) {
+    // named pipe
+    return val;
+  }
+
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+
+  return false;
+}
+
+/**
+ * Event listener for HTTP server "error" event.
+ */
+
+function onError(error) {
+  if (error.syscall !== 'listen') {
+    throw error;
+  }
+
+  var bind = typeof port === 'string'
+    ? 'Pipe ' + port
+    : 'Port ' + port;
+
+  // handle specific listen errors with friendly messages
+  switch (error.code) {
+    case 'EACCES':
+      console.error(bind + ' requires elevated privileges');
+      process.exit(1);
+      break;
+    case 'EADDRINUSE':
+      console.error(bind + ' is already in use');
+      process.exit(1);
+      break;
+    default:
+      throw error;
+  }
+}
+
+/**
+ * Event listener for HTTP server "listening" event.
+ */
+
+function onListening() {
+  var addr = server.address();
+  console.log(addr);
+  var bind = typeof addr === 'string'
+    ? 'pipe ' + addr
+    : 'port ' + addr.port;
+  debug('Listening on ' + bind);
+}
+
+//on someone connected to socket
+io.sockets.on('connection', function(_socket) {
+    socket = _socket;
+    // console.log('socket connected');
+    socket.on('translate_phrase', function(data) {
+        var StartEvent = true,
+        phrase         = data['phrase'],  //canPlayType for user's browser
+        order          = data['order'],
+        source_lang    = data['source_lang'],
+        target_lang    = data['target_lang'],
+        uniqueString   = data['uniqueString'],
+        phrase_str     = phrase[1];
+        console.log('110', order, phrase.toString());
+
+        var translated = translatePhraseStr(phrase_str, order, uniqueString, source_lang, target_lang);
+        translated.then(phraseResolved, phraseRejected);
+    });
+});
+
+// console.log('456');
+// setTimeout(function() {
+//     socket.emit('phrase_translated', {'phrase' : 'translated 1000' });
+// }, 1000);
+
+
+function phraseResolved(data) {
+    console.log('order', data);
+    socket.emit('phrase_translated', data); //resolved
+}
+
+function phraseRejected(reason, order) {
+    console.log('tralating rejected');
+    console.log(reason, order);
+}

@@ -1,0 +1,114 @@
+{
+  "wagon  [vagç)] n.m.": {
+    "lingala": [{
+      "wagó nkó.": {
+        "def": "mótuka mobéndámí na engbunduka ",
+        "ex": " "
+      }
+    }],
+    "def": [
+      " véhicule tiré par une locomotive",
+      " "
+    ],
+    "ex": [
+      " ",
+      " "
+    ]
+  },
+  "wax  [waks] n.m.": {
+    "lingala": [{
+        "wákisi nkó.": {
+          "def": "elambá esálémí na ntokyá mpé ezalí na mayemi ",
+          "ex": "lípúta wákisi. "
+        }
+      },
+
+      {
+        "": {
+          "def": " ",
+          "ex": " "
+        }
+      }
+    ],
+    "def": [
+      " tissu de coton imprimé ",
+      " "
+    ],
+    "ex": [
+      "un pagne (en) wax ",
+      " "
+    ]
+  },
+  "week-end  [wikEnd] n.m.": {
+    "lingala": [{
+        "wikÔ¥ndi, nsúka ya pÔ¡s¡ nkó.": {
+          "def": "lói la nsúka ya pÔ¡s¡ ",
+          "ex": "kok¥nd¥ wikÔ¥ndi. "
+        }
+      },
+
+      {
+        "": {
+          "def": " ",
+          "ex": " "
+        }
+      }
+    ],
+    "def": [
+      " congé de fin de semaine ",
+      " "
+    ],
+    "ex": [
+      "partir en week-end, des week-ends ",
+      " "
+    ]
+  },
+  "whisky  [wiski] n.m.": {
+    "lingala": [{
+        "wisikí nkó.": {
+          "def": "masanga ma mÔ¡t¡ masálémí na mbuma lokóla masángu, makémba, b.n.b. ",
+          "ex": "molangi mwa wisikí. "
+        }
+      },
+
+      {
+        "": {
+          "def": " ",
+          "ex": " "
+        }
+      }
+    ],
+    "def": [
+      " eau-de-vie de grains (avoine, seigle, orge, maïs) ",
+      " "
+    ],
+    "ex": [
+      "une bouteille de whisky ",
+      " "
+    ]
+  },
+  "W.C.  [vese, dubl´vese] n.m.pl.": {
+    "lingala": [{
+        "z¡ng¡, kabinÔ¥ nkó.": {
+          "def": " esíká ya bosumbi ny¥í ",
+          "ex": " kok¥nd¥ na z¡ng¡. "
+        }
+      },
+
+      {
+        "": {
+          "def": " ",
+          "ex": " "
+        }
+      }
+    ],
+    "def": [
+      "abréviation de «water-closets», cabinets d’aisance ; toilettes, chiottes  ",
+      " "
+    ],
+    "ex": [
+      " aller aux W.C. ",
+      " "
+    ]
+  }
+}

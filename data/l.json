@@ -1,0 +1,4742 @@
+	{
+
+		"là  [la] adv.": {
+			"lingala": [{
+				"kúná": {
+					"def": "esíká ek¥sÔ¥ní na epái bazalí",
+					"ex": "áwa mpé kúna"
+				}
+			}],
+			"def": [
+				"dans un lieu différent de celui où on se trouve"
+			],
+			"ex": [
+				"ici et là"
+			]
+		},
+
+		"là-bas  [laba] adv.": {
+			"lingala": [{
+				"kúná": {
+					"def": "",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"là"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"labeur  [labœ{] n.m.": {
+			"lingala": [{
+				"mosálá monÔ¥n¥": {
+					"def": "mosála mwa mpási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"travail difficile et pénible"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laboratoire  [labç{atwa{] n.m.": {
+			"lingala": [{
+				"labô": {
+					"def": "esíká ya mosálá mwa famasiÔ¥n, mwa mónganga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"lieu où travaille un pharmacien, un médecin, etc"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laborieux, euse  [labç{jø, øz] adj.": {
+			"lingala": [{
+				"-a mpási": {
+					"def": "eye esÔ¥ngi mosálá míngi",
+					"ex": "mosálá mwa mpási"
+				}
+			}],
+			"def": [
+				"qui demande beaucoup d’effort; difficile, pénible, fatigant"
+			],
+			"ex": [
+				"un travail laborieux"
+			]
+		},
+
+		"labour  [labu{] n.m.": {
+			"lingala": [{
+				"botími, bobóngoli mabelé": {
+					"def": "mosálá mwa kobóngola mabelé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"travail de labourage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"labourage  [labu{aZ] n.m.": {
+			"lingala": [{
+				"bobóngoli mabelé, botími, botímoli": {
+					"def": "ekela ya kotímola",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de labourer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laboureur  [labu{œ{] n.m.": {
+			"lingala": [{
+				"motími, mobóngoli mabele": {
+					"def": "moto akotímaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui laboure"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"labyrinthe  [labi{E)t] n.m.": {
+			"lingala": [{
+				"ndáko ebúlungano": {
+					"def": "esíká ezalí kobúlunginya nzelá ya bobimi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"lieu où il est difficile de retrouver son chemin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lac  [lak] n.m.": {
+			"lingala": [{
+				"etíma, nzálé, láki": {
+					"def": "etando enÔ¥n¥ ya mái ezíngámí na mokili",
+					"ex": "etíma ya Kivu, ya Sádi"
+				}
+			}],
+			"def": [
+				"grande étendue d’eau à l’intérieur des terres"
+			],
+			"ex": [
+				"lac Kivu, Tchad"
+			]
+		},
+
+		"lacer  [lase] v.tr.": {
+			"lingala": [{
+				"kokanga, kolínga": {
+					"def": "kotingisa mikulu",
+					"ex": "kokanga singa ya sapáto"
+				}
+			}],
+			"def": [
+				"serrer, fermer avec des lacets"
+			],
+			"ex": [
+				"lacer ses chaussures"
+			]
+		},
+
+		"lacérer  [lase{e] v.tr.": {
+			"lingala": [{
+				"kopasolapasola": {
+					"def": "kokáta biténi biténi",
+					"ex": "kopasolapasola nkásá, bilambá, lomposo"
+				}
+			}],
+			"def": [
+				"mettre en pièces; déchirer"
+			],
+			"ex": [
+				"lacérer des papiers, des vêtements, une peau"
+			]
+		},
+
+		"lacet  [lasE] n.m.": {
+			"lingala": [{
+				"mokulu, singa": {
+					"def": "nkámba ya sapáto, ya moláto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"cordon pour serrer une chaussure, un vêtement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lâche  [lAS] adj.": {
+			"lingala": [{
+				"ebángabanga, eb¡lú": {
+					"def": "óyo abángaka míngi",
+					"ex": "kozala ebángabanga libosó lya likámá"
+				}
+			}],
+			"def": [
+				"qui manque de courage, recule devant le danger ; peureux, poltron"
+			],
+			"ex": [
+				"être lâche devant le danger"
+			]
+		},
+
+		"lâchement  [lASmA)] adv.": {
+			"lingala": [{
+				"na bobángi": {
+					"def": "na kobánga",
+					"ex": "kokíma na bobángi"
+				}
+			}],
+			"def": [
+				"d’une manière lâche, avec lâcheté, sans courage"
+			],
+			"ex": [
+				"fuir lâchement"
+			]
+		},
+
+		"lâcher  [lASe] v.tr.": {
+			"lingala": [{
+				"kotíka, kokangola, kofungola": {
+					"def": "kotíka, kokangola, kofungola",
+					"ex": "kokangola mbwá"
+				}
+			}],
+			"def": [
+				"laisser partir, laisser échapper, cesser de retenir ; libérer"
+			],
+			"ex": [
+				"lâcher un chien"
+			]
+		},
+
+		"lâcheté  [lASte] n.f.": {
+			"lingala": [{
+				"bob¡lú": {
+					"def": "bozángi makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manque de courage; poltronnerie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laconique  [lakçnik] adj.": {
+			"lingala": [{
+				"-a mokúsé": {
+					"def": "eye ezalí elaí tÊ¥",
+					"ex": "lísukúlu ya mokúsé, eyano ya mokúsé"
+				}
+			}],
+			"def": [
+				"dit en peu de mots, pas long ; bref, court"
+			],
+			"ex": [
+				"un discours, une réponse laconique"
+			]
+		},
+
+		"lacune  [lakyn] n.f.": {
+			"lingala": [{
+				"bozángi, bobóli": {
+					"def": "eye ezángí mpÔ¡elÔ¡k¡ ékoka",
+					"ex": "bozángi bwa mokandá"
+				}
+			}],
+			"def": [
+				"ce qui manque pour qu’une chose soit complète ; absence, manque, omission, trou, vide"
+			],
+			"ex": [
+				"des lacunes d’un texte"
+			]
+		},
+
+		"lacustre  [lakyst{] adj.": {
+			"lingala": [{
+				"-a etíma, -a nzálé": {
+					"def": "eye etálí etíma",
+					"ex": "nganda, moláko"
+				}
+			}],
+			"def": [
+				"d’un lac, sur un lac"
+			],
+			"ex": [
+				"un village lacustre"
+			]
+		},
+
+		"lagune  [lagyn] n.f.": {
+			"lingala": [{
+				"mongálá": {
+					"def": "lobÔ¡k¡ la mái ma mbú lokÔ¡tí ó mabelé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"étendue d’eau de mer située entre la terre ferme et un cordon littoral"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laïc, laïque  [laik] adj. et n.": {
+			"lingala": [{
+				"-a laíki, laíki": {
+					"def": "óyo azalí na lingómbá lyÔ¡kÔ¡tÊ¥",
+					"ex": "letá ya laíki"
+				}
+			}],
+			"def": [
+				"qui n’est pas religieux, qui est indépendant de toute religion"
+			],
+			"ex": [
+				"un Etat laïc"
+			]
+		},
+
+		"laideron  [lEd{ç)] n.m.": {
+			"lingala": [{
+				"m¡Ô¥sÔ¥nÔ¥, ekangá ya mwásí": {
+					"def": "el¥ngÔ¥mwásí ya kitÔ¡k¡ tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"jeune fille, jeune femme laide"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laideur  [lEdœ{] n.f.": {
+			"lingala": [{
+				"bobé, mabé": {
+					"def": "loléngé la eye ezalí kitÔ¡k¡ tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est laid, manque de beauté"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laid, laide  [lE, lEd] adj. et n.": {
+			"lingala": [{
+				"-bé": {
+					"def": "eye ezalí kitÔ¡k¡ tÊ¥",
+					"ex": "elambá ebé"
+				}
+			}],
+			"def": [
+				"qui n’est pas beau ; moche"
+			],
+			"ex": [
+				"un vêtement laid"
+			]
+		},
+
+		"laie  [lE] n.f.": {
+			"lingala": [{
+				"sombo mwásí": {
+					"def": "sombo ya mwásí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"femelle du sanglier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laine  [lEn] n.f.": {
+			"lingala": [{
+				"kunza": {
+					"def": "nsálá iwútí na nyama",
+					"ex": "kunza ya mpatá"
+				}
+			}],
+			"def": [
+				"poil doux, épais et frisé qui provient de certains animaux"
+			],
+			"ex": [
+				"laine de mouton"
+			]
+		},
+
+		"laineux, euse  [lEnø, øz] adj.": {
+			"lingala": [{
+				"kunzakunza, -a kunza": {
+					"def": "eye ezalí na nkunza, ewúlání na nkunza",
+					"ex": "elambá kunzakunza, nsúki ya kunza"
+				}
+			}],
+			"def": [
+				"qui contient beaucoup de laine, qui ressemble à de la laine"
+			],
+			"ex": [
+				"un tissu laineux, des cheveux laineux"
+			]
+		},
+
+		"laisse  [lEs] n.f.": {
+			"lingala": [{
+				"nkámba, nsinga": {
+					"def": "mokulu batingísí nyama mpÔ¡ya kokamba yangó",
+					"ex": "nkámba ya mbwá"
+				}
+			}],
+			"def": [
+				"lien avec lequel on attache un animal pour le conduire"
+			],
+			"ex": [
+				"la laisse d’un chien"
+			]
+		},
+
+		"laisser  [lese] v.tr.": {
+			"lingala": [{
+				"kotíka": {
+					"def": "kokanga tÊ¥",
+					"ex": "kotíka moto ák¥nd¥, kotíka bána básakana"
+				}
+			}],
+			"def": [
+				"ne pas empêcher de, autoriser, permettre de"
+			],
+			"ex": [
+				"laisser partir qqn, laisser les enfants jouer"
+			]
+		},
+
+		"laisser-aller  [leseale] n.m.": {
+			"lingala": [{
+				"bopoto": {
+					"def": "botáli mpámba",
+					"ex": "bopoto bwa eláteli"
+				}
+			}],
+			"def": [
+				"absence de soin, négligence"
+			],
+			"ex": [
+				"le laisser-aller d’une tenue, d’une posture"
+			]
+		},
+
+		"laisser-faire ou laissez-faire [lesefE{] n.m.": {
+			"lingala": [{
+				"botíki, botáli na míso": {
+					"def": "ezalela ya kotála sé na míso",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"attitude qui consiste à ne pas intervenir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laissez-passer  [lesepase] n.m.": {
+			"lingala": [{
+				"mokandá mwa nzelá ": {
+					"def": "mokandá mokopésa nzela ya kotámbola",
+					"ex": "kotúna, kolakisa mokandá mwa nzelá"
+				}
+			}],
+			"def": [
+				"autorisation de circuler, d’aller et venir, d’entrer et sortir"
+			],
+			"ex": [
+				"demander, présenter un laisser-passer"
+			]
+		},
+
+		"lait  [lE] n.m.": {
+			"lingala": [{
+				"m¡ku, mabÔ¥l¥, míliki": {
+					"def": "mái ma mpÔ¥mb¥ mabimaka na mabÔ¥l¥ ma mwásí mpé ma nyama ya mwásí",
+					"ex": "m¡ku mwa ngÔ¡mbÔ¥, mwa ntaba"
+				}
+			}],
+			"def": [
+				"liquide blanc que secrètent les seins de la femme et les mamelles des animaux"
+			],
+			"ex": [
+				"lait de vache, de chèvre"
+			]
+		},
+
+		"laiteux, euse  [lEtø, øz] adj.": {
+			"lingala": [{
+				"-m¡ku, -a mabÔ¥l¥": {
+					"def": "eye ezalí bÉo mabÔ¥l¥",
+					"ex": "mwinda mwa m¡ku"
+				}
+			}],
+			"def": [
+				"qui a la couleur, l’apparence du lait"
+			],
+			"ex": [
+				"une lumière laiteuse"
+			]
+		},
+
+		"lamantin  [lamA)tE)] n.m.": {
+			"lingala": [{
+				"lamatÔ¥": {
+					"def": "nyama ya mái enÔ¥n¥ ya mabÔ¥l¥ elíaka matíti mpé ebíkaka mp¥mbÔ¥ni ya mái",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand mammifère aquatique herbivore qui vit le long des côtes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lambeau  [lA)bo] n.m.": {
+			"lingala": [{
+				"limbusu": {
+					"def": "eténi ya elÔ¡k¡ etaú epasúká",
+					"ex": "limbusu lya elambá, elambá ya limbusu"
+				}
+			}],
+			"def": [
+				"morceau déchiré d’une matière souple et mince"
+			],
+			"ex": [
+				"des lambeaux d’étoffe, un vêtement en lambeaux"
+			]
+		},
+
+		"lame  [lam] n.f.": {
+			"lingala": [{
+				"etÔ¥bú, lotÔ¥bú, ekilí, míno": {
+					"def": "epái ekátaka ya esálele",
+					"ex": "etÔ¥bú ya mb¥lí, etÔ¥bú ya ekólolele"
+				}
+			}],
+			"def": [
+				"partie tranchante d’un instrument destiné à couper"
+			],
+			"ex": [
+				"la lame d’un couteau, une lame de rasoir"
+			]
+		},
+
+		"lamelle  [lamEl] n.f.": {
+			"lingala": [{
+				"mwá etébú": {
+					"def": "etébú ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"peite lame"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lamentable  [lamA)tabl] adj.": {
+			"lingala": [{
+				"-a mawa, -a boleli": {
+					"def": "eye epésaka mawa",
+					"ex": "liwá lya mawa, bilembo bya mawa"
+				}
+			}],
+			"def": [
+				"qui inspire la pitié; déplorable, pitoyable"
+			],
+			"ex": [
+				"une mort lamentable, des résultats lamentables"
+			]
+		},
+
+		"lamentation  [lamA)tasjç)] n.f.": {
+			"lingala": [{
+				"boleli, yélela ": {
+					"def": "kolela na mingóngó mikolakisa mpási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"plainte accompagnée de gémissements et de cris exprimant une grande douleur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lamenter (se)  [lamA)te] v.pron.": {
+			"lingala": [{
+				"komílela": {
+					"def": "kolela na mpási",
+					"ex": "komílela mpÔ¡ya bokpéi"
+				}
+			}],
+			"def": [
+				"se plaindre, gémir"
+			],
+			"ex": [
+				"se lamenter d’avoir échoué"
+			]
+		},
+
+		"laminer  [lamine] v.tr.": {
+			"lingala": [{
+				"kopalola, kopapola": {
+					"def": "kokómisa ekÔ¥na bolongoli ndámbo",
+					"ex": "kopalola ebendé"
+				}
+			}],
+			"def": [
+				"réduire une masse métallique en lames, en feuilles minces, diminuer l’épaisseur de"
+			],
+			"ex": [
+				"laminer le fer"
+			]
+		},
+
+		"lampadaire  [lA)padE{] n.m.": {
+			"lingala": [{
+				"mwínda": {
+					"def": "mwínda mosimbami mwa mabelé",
+					"ex": "mwínda mwa balabála"
+				}
+			}],
+			"def": [
+				"système d’éclairage dont le support repose par terre"
+			],
+			"ex": [
+				"lampadaire de rue"
+			]
+		},
+
+		"lampe  [la)p] n.f.": {
+			"lingala": [{
+				"mwínda": {
+					"def": "másíni ya bomónisi saa",
+					"ex": "mwínda mwa mafúta, mwa pit¡lÔ¡, mwa lotilíki"
+				}
+			}],
+			"def": [
+				"ustensile, appareil servant à éclairer"
+			],
+			"ex": [
+				"une lampe à huile, à pétrole, électrique"
+			]
+		},
+
+		"lampe aladin  [lA)paladE)] n.f.": {
+			"lingala": [{
+				"aladÔ¥": {
+					"def": "mwínda mwa pit¡lÔ¡na talatála elaí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(Afr.) lampe à pétrole au verre haut et étroit"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lampe-torche  [lA)ptç{S] n.f.": {
+			"lingala": [{
+				"tÔ¡l¡si": {
+					"def": "mwínda mwa lotilíki lwa líbenga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(Afr.) lampe électrique de poche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lance  [lA)s] n.f.": {
+			"lingala": [{
+				"lik¡ngÔ¡, likongá": {
+					"def": "ebuneli elaí ya libendé lip¡tú na esímbeli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"arme offensive à longue hampe terminée par un fer pointu"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lancement  [lA)smA)] n.m.": {
+			"lingala": [{
+				"bomai": {
+					"def": "ekela ya komaa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de lancer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lance-pierres  [lA)spjE{] n.m.inv.": {
+			"lingala": [{
+				"bilingongo, lási": {
+					"def": "ebwákele mabángá ya bána esálémí na ndembó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fronde d’enfant munie de deux élastiques pour lancer des pierres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lancer  [lA)se] v.tr.": {
+			"lingala": [{
+				"koma, kolÔ¡s¡, kobamba": {
+					"def": "kobwáka mosíká",
+					"ex": "koma libángá, ndembó"
+				}
+			}],
+			"def": [
+				"jeter avec force loin de soi"
+			],
+			"ex": [
+				"lancer une pierre, un ballon"
+			]
+		},
+
+		"landau  [lA)do] n.m.": {
+			"lingala": [{
+				"mótuka ya peké": {
+					"def": "motuka mwa mwána mosálámí na lipeké",
+					"ex": "kopúsa mótuka ya peké"
+				}
+			}],
+			"def": [
+				"voiture d’enfant à caisse fermée"
+			],
+			"ex": [
+				"pousser un landau"
+			]
+		},
+
+		"langage  [lA)gaZ] n.m.": {
+			"lingala": [{
+				"elobela, elobele, mangála": {
+					"def": "loléngé la koloba, nzelá ya koloba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"moyen de communication, manière de s’exprimer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"langue  [lA)g] n.f.": {
+			"lingala": [{
+				"lolémo": {
+					"def": "enama ezalí na káti ya mon¡k¡",
+					"ex": "lolémo la ngÔ¡mbÔ¡"
+				}
+			}],
+			"def": [
+				"organe charnu et mobile situé dans la bouche"
+			],
+			"ex": [
+				"langue de boeuf"
+			]
+		},
+
+		"languette  [lA)gEt] n.f.": {
+			"lingala": [{
+				"lolémo": {
+					"def": "elÔ¡k¡ patátálú bÉo lolémo",
+					"ex": "lolémo la mposo, la lípa"
+				}
+			}],
+			"def": [
+				"objet plat et mince qui a la forme d’une petite langue"
+			],
+			"ex": [
+				"une languette de cuir, de pain"
+			]
+		},
+
+		"languir  [lA)gi{] v.intr.": {
+			"lingala": [{
+				"kol¥mb¥": {
+					"def": "kozánga makási",
+					"ex": "kol¥mb¥ kozila moto"
+				}
+			}],
+			"def": [
+				"manquer d’énergie, d’entrain"
+			],
+			"ex": [
+				"languir d’attendre qqn"
+			]
+		},
+
+		"lanière  [lanjE{] n.f.": {
+			"lingala": [{
+				"fímbo": {
+					"def": "eténi elaí mpé ekÔ¥ya lomposo, la elÔ¡k¡ etaú",
+					"ex": "fímbo"
+				}
+			}],
+			"def": [
+				"bande longue et étroite de cuir, d’une matière souple"
+			],
+			"ex": [
+				"lanière d’un fouet"
+			]
+		},
+
+		"lanterne  [lA)tE{n] n.f.": {
+			"lingala": [{
+				"mwínda, tála": {
+					"def": "masíni ma kotálisa saa",
+					"ex": "kosímba mwínda na lobÔ¡k¡"
+				}
+			}],
+			"def": [
+				"appareil d’éclairage"
+			],
+			"ex": [
+				"tenir une lanterne à la main"
+			]
+		},
+
+		"laper  [lape] v.tr.": {
+			"lingala": [{
+				"kolÔ¥t¥, kolémbola": {
+					"def": "kom¥l¥ na bombéndi na lolémo",
+					"ex": "kolÔ¥t¥ mabÔ¥l¥, súpu"
+				}
+			}],
+			"def": [
+				"boire en tirant à coups de langue"
+			],
+			"ex": [
+				"laper du lait, une sauce"
+			]
+		},
+
+		"lapereau  [lap{o] n.m.": {
+			"lingala": [{
+				"mwána lapÔ¥": {
+					"def": "lapÔ¥ya mokÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"jeune lapin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lapider  [lapide] v.tr.": {
+			"lingala": [{
+				"kobamba, koboma": {
+					"def": "koma mabángá na, koboma na mabángá",
+					"ex": "kobamba moyíbi"
+				}
+			}],
+			"def": [
+				"attaquer, tuer à coups de pierres, jeter des pierres à"
+			],
+			"ex": [
+				"lapider un voleur"
+			]
+		},
+
+		"lapin, ine  [lapE), in] n.": {
+			"lingala": [{
+				"lapÔ¥": {
+					"def": "nyama ekÔ¥ya mabÔ¥l¥ elíaka matíti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit mammifère herbivore"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laps (de temps)  [laps] n.m.": {
+			"lingala": [{
+				"ngonga ekÔ¥, ndámbo ya ngonga, mwá ngonga": {
+					"def": "ngonga ya kowúmela tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"intervalle de temps"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"larcin  [la{sE)] n.m.": {
+			"lingala": [{
+				"moyíbi": {
+					"def": "boyíbi bokÔ¥",
+					"ex": "kosála moyíbi"
+				}
+			}],
+			"def": [
+				"petit vol"
+			],
+			"ex": [
+				"commettre un larcin"
+			]
+		},
+
+		"lard  [la{] n.m.": {
+			"lingala": [{
+				"mafúta ma ngúlu": {
+					"def": "mafúta ma kiló na lomposo la ngúlu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"couche de graisse épaisse dans le tissu sous-cutané du porc"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"large  [la{Z] adj.": {
+			"lingala": [{
+				"-nÔ¥n¥": {
+					"def": "eye ezalí na bonÔ¥n¥",
+					"ex": "simísi ntá enÔ¥n¥"
+				}
+			}],
+			"def": [
+				"qui a une grande largeur; ample"
+			],
+			"ex": [
+				"une chemise trop large"
+			]
+		},
+
+		"largement  [la{Z´mA)] adv.": {
+			"lingala": [{
+				"na bonÔ¥n¥, nyÔ¡ns¡": {
+					"def": "na loléngé lonÔ¥n¥, na etando",
+					"ex": "kofungola lininísa nyÔ¡ns¡"
+				}
+			}],
+			"def": [
+				"d’une manière large, sur une grande largeur ; grandement"
+			],
+			"ex": [
+				"ouvrir largement une fenêtre"
+			]
+		},
+
+		"largesse  [la{ZEs] n.f.": {
+			"lingala": [{
+				"likabo, libonza": {
+					"def": "ekela ya kokaba, bokaboli",
+					"ex": "kopésa na likabo"
+				}
+			}],
+			"def": [
+				"générosité"
+			],
+			"ex": [
+				"donner avec largesse"
+			]
+		},
+
+		"largeur  [la{Zœ{] n.f.": {
+			"lingala": [{
+				"libale, ngámbo ekúsé ya etando": {
+					"def": "etando ekÔ¥kokokisa na bolaí",
+					"ex": "libale likúsé lya etando ya mésá, ya balabála"
+				}
+			}],
+			"def": [
+				"dimension d’une surface, plus petite que la longueur"
+			],
+			"ex": [
+				"la largeur d’une table, d’une avenue"
+			]
+		},
+
+		"larguer  [la{ge] v.tr.": {
+			"lingala": [{
+				"kokpéisa, kobwákisa": {
+					"def": "kobwáka",
+					"ex": "kobwákisa mwásí, mobáli"
+				}
+			}],
+			"def": [
+				"jeter, lâcher, laisser tomber"
+			],
+			"ex": [
+				"larguer sa fiancée, son fiancé"
+			]
+		},
+
+		"larme  [la{m] n.f.": {
+			"lingala": [{
+				"mpízoli": {
+					"def": "mái ma míso",
+					"ex": "kotangisa mpízoli"
+				}
+			}],
+			"def": [
+				"liquide sécrété par les yeux"
+			],
+			"ex": [
+				"verser des larmes"
+			]
+		},
+
+		"larmoyant, ante  [la{mwajA), A)t] adj.": {
+			"lingala": [{
+				"-a mpízoli": {
+					"def": "óyo ezalí na mái ma míso",
+					"ex": "míso ma mpízoli"
+				}
+			}],
+			"def": [
+				"qui larmoie, pleure"
+			],
+			"ex": [
+				"des yeux larmoyants"
+			]
+		},
+
+		"larmoyer  [la{mwaje] v.intr.": {
+			"lingala": [{
+				"kolela": {
+					"def": "kobimisa mái ma míso",
+					"ex": "míso ya kolela"
+				}
+			}],
+			"def": [
+				"être humecté de larmes ; pleurer"
+			],
+			"ex": [
+				"des yeux qui larmoient"
+			]
+		},
+
+		"larron  [la{ç)] n.m.": {
+			"lingala": [{
+				"moyíbi": {
+					"def": "moto ayíbaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"voleur, brigand"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"larve  [la{v] n.f.": {
+			"lingala": [{
+				"ekpókólókó, likpókóló, engónga": {
+					"def": "máki ma nyama nkÔ¥k¥",
+					"ex": "bikpókólókó bya mbínzó"
+				}
+			}],
+			"def": [
+				"forme embryonnaire de certains animaux, spécialement des insectes"
+			],
+			"ex": [
+				"larves de chenilles"
+			]
+		},
+
+		"larynx  [la{E)ks] n.m.": {
+			"lingala": [{
+				"nzelá ya mongóngó": {
+					"def": "yÔ¡kÔ¡enama ya nzóto ekobimaka",
+					"ex": "edada ezalí yÔ¡kÔ¡ eténi ebimá na nzelá ya mongóngó mwa mobáli"
+				}
+			}],
+			"def": [
+				"organe creux situé à l’extrémité supérieure de la trachée"
+			],
+			"ex": [
+				"la pomme d’Adam est une saillie du larynx chez l’homme"
+			]
+		},
+
+		"lascar  [laska{] n.m.": {
+			"lingala": [{
+				"moto ya yaúli": {
+					"def": "moto wa mayÔ¥l¥ mabé",
+					"ex": "tálá bána bábalé ya yaúli"
+				}
+			}],
+			"def": [
+				"individu malin, qui fait le malin ; voyou"
+			],
+			"ex": [
+				"regardez ces deux petits lascars !"
+			]
+		},
+
+		"lasser  [lase] v.tr.": {
+			"lingala": [{
+				"kol¥mbisa, kotungisa": {
+					"def": "kopesa bol¥mbú",
+					"ex": "maloba maye mazalí kol¥mbisa ngáí"
+				}
+			}],
+			"def": [
+				"causer de la fatigue ; fatiguer, ennuyer"
+			],
+			"ex": [
+				"ce discours me lasse"
+			]
+		},
+
+		"lassitude  [lasityd] n.f.": {
+			"lingala": [{
+				"bol¥mbú, mpi": {
+					"def": "bozángi makási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fatigue, ennui, découragement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"las, lasse  [la, las] adj.": {
+			"lingala": [{
+				"-a kol¥mb¥": {
+					"def": "eye ezángí makási",
+					"ex": "kol¥mb¥ na kotámbola"
+				}
+			}],
+			"def": [
+				"fatigué"
+			],
+			"ex": [
+				"être las de marcher"
+			]
+		},
+
+		"latent, ente  [latA), A)t] adj.": {
+			"lingala": [{
+				"-a kobómbama": {
+					"def": "óyo ezalí kolakisama t¥, bil¥mbo bizalí komÔ¡n¡n¡ tÊ¥",
+					"ex": "bok¡n¡ ya kobómbama, likambo ya kobómbama"
+				}
+			}],
+			"def": [
+				"qui reste caché, qui ne se manifeste pas, dont les signes ne sont pas perceptibles"
+			],
+			"ex": [
+				"une maladie latente, un conflit latent"
+			]
+		},
+
+		"latex  [latEks] n.m.": {
+			"lingala": [{
+				"ndembó": {
+					"def": "mái ma mpÔ¥mb¥ makokangaka maútí na nzete isúsu",
+					"ex": "mái ya ndembó"
+				}
+			}],
+			"def": [
+				"sécrétion opaque, blanchâtre et coagulable provenant de certains végétaux; caoutchouc"
+			],
+			"ex": [
+				"du latex d’hévéa"
+			]
+		},
+
+		"latin, ine  [latE), in] adj.": {
+			"lingala": [{
+				"-a latÊ¥": {
+					"def": "ya nkóta latÊ¥",
+					"ex": "mikandá ya latÊ¥, lokóta ya latÊ¥"
+				}
+			}],
+			"def": [
+				"propre au latin, qui a trait au latin"
+			],
+			"ex": [
+				"alphabet latin, langue latine"
+			]
+		},
+
+		"latte  [lat] n.f.": {
+			"lingala": [{
+				"píto, libáyá": {
+					"def": "eténi ya libáyá tÉo ebendé patátálú mpé ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"pièce de bois, de métal, longue, plate et étroite"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"latter  [late] v.tr.": {
+			"lingala": [{
+				"kokanga pító": {
+					"def": "kokémbisa na mabáyá",
+					"ex": "kokanga pító na efelo, na masamba"
+				}
+			}],
+			"def": [
+				"garnir de lattes"
+			],
+			"ex": [
+				"latter un mur, un plafond"
+			]
+		},
+
+		"laudateur, trice  [lodatœ{, t{is] n.": {
+			"lingala": [{
+				"mokúmisi": {
+					"def": "moto óyo akúmisaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui loue, dit des louanges"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laudatif, ive  [lodatif, iv] adj.": {
+			"lingala": [{
+				"-a lokúmu, -a bokúmisi": {
+					"def": "eye epésaka lokúmu tÉo ekúmisaka",
+					"ex": "maloba ma bokúmisi"
+				}
+			}],
+			"def": [
+				"qui dit des louanges; élogieux"
+			],
+			"ex": [
+				"un discours laudatif"
+			]
+		},
+
+		"lavabo  [lavabo] n.m.": {
+			"lingala": [{
+				"sÉani, lavabó": {
+					"def": "mbÔ¥ki ya bosukoli mabÔ¡k¡, el¡ngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"cuvette pour se laver les mains, le visage"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lavadaire ou lavadère [lavadE{] n.m.": {
+			"lingala": [{
+				"bói ya bilamba, mosukoli mpe mongomi bilambá": {
+					"def": "moto azalí na mosálá mwa kosukola mpé kongoma bilambá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"domestique chargé de laver et de repasser le linge"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lavage  [lavaZ] n.m.": {
+			"lingala": [{
+				"bosukoli": {
+					"def": "ekela ya kosukola",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de laver"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lave  [lav] n.f.": {
+			"lingala": [{
+				"libánga": {
+					"def": "libángá lya mái líwútí na ngómbá ya mÔ¡t¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"roche en fusion qui sort d’un volcan, cette roche refroidie et solidifiée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lave-glace  [lavglas] n.m.": {
+			"lingala": [{
+				"esukolele talatála": {
+					"def": "esálele mpÊ¡ ya kosukola talatála ya mótuka",
+					"ex": "bisukolele talatála"
+				}
+			}],
+			"def": [
+				"dispositif pour laver le pare-brise d’une automobile; essuie-glace"
+			],
+			"ex": [
+				"des lave-glaces"
+			]
+		},
+
+		"lave-linge  [lavlE)Z] n.m.inv.": {
+			"lingala": [{
+				"esukolele bilambá": {
+					"def": " masíni ma bosukoli bilambá",
+					"ex": "bisukolele bilambá"
+				}
+			}],
+			"def": [
+				"machine à laver le linge"
+			],
+			"ex": [
+				"des lave-linge"
+			]
+		},
+
+		"lavement  [lavmA)] n.m.": {
+			"lingala": [{
+				"botóngoli": {
+					"def": "kokotisa mái na libumu na nzelá ya masÔ¡kÔ¡mpÔ¡ya bosukoli libumu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"injection par l’anus d’un liquide purgatif"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"laver  [lave] v.tr.": {
+			"lingala": [{
+				"kosukola": {
+					"def": "kopétola na máyi",
+					"ex": "kosukola bilambá, sÉani"
+				}
+			}],
+			"def": [
+				"nettoyer avec un liquide"
+			],
+			"ex": [
+				"laver le linge, la vaisselle"
+			]
+		},
+
+		"lave-vaisselle  [lavvEsEl] n.m.inv.": {
+			"lingala": [{
+				"masíni ya kosukola sÉani": {
+					"def": "masíni mpÔ¡bosukoli sÉani",
+					"ex": "masíni ya kosukola sÉani"
+				}
+			}],
+			"def": [
+				"machine pour laver la vaisselle"
+			],
+			"ex": [
+				"des lave-vaisselle"
+			]
+		},
+
+		"laxatif, ive  [laksatif, iv] adj.": {
+			"lingala": [{
+				"-a botóngoli": {
+					"def": "eye esukolaka libumu, ekosálisaka mpÊ¡ ya bobimisi na bol¥mbú ny¥í",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui purge, nettoie; qui facilite l’évacuation des selles; purgatif"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"leader  [lidœ{] n.m.": {
+			"lingala": [{
+				"moyángeli": {
+					"def": "moto óyo azali mokambi ya lisangá, lingómbá, mokonzi, molobeli",
+					"ex": "moyángeli ya politíki, s¥ndiká"
+				}
+			}],
+			"def": [
+				"personne qui prend la tête d’un groupe, d’un mouvement ; chef, meneur, porte-parole"
+			],
+			"ex": [
+				"un leader politique, syndical"
+			]
+		},
+
+		"lécher  [leSe] v.tr.": {
+			"lingala": [{
+				"kolÔ¥t¥, kolÔ¥mbola": {
+					"def": "kolekisa lolémo na sÉani",
+					"ex": "kolÔ¥t¥ biléi, kolÔ¥mbola mb¥bu"
+				}
+			}],
+			"def": [
+				"passer la langue sur"
+			],
+			"ex": [
+				"lécher un plat, se lécher les lèvres"
+			]
+		},
+
+		"leçon  [l´sç)] n.f.": {
+			"lingala": [{
+				"matéya": {
+					"def": "maye molakisi apésaka na moyékoli mpÔ¡ya kotángá tÉo koyéba",
+					"ex": "koyékola matéya"
+				}
+			}],
+			"def": [
+				"ce qu’un enseignant donne à apprendre à un élève"
+			],
+			"ex": [
+				"apprendre, étudier sa leçon"
+			]
+		},
+
+		"lecteur, trice  [lEktœ{, t{is] n.": {
+			"lingala": [{
+				"motángi": {
+					"def": "moto azalí kotánga",
+					"ex": "motángi zoloná"
+				}
+			}],
+			"def": [
+				"personne qui lit"
+			],
+			"ex": [
+				"lecteur d’un journal"
+			]
+		},
+
+		"lecture  [lEkty{] n.f.": {
+			"lingala": [{
+				"litángi, botángi, kotánga": {
+					"def": "ekela ya kotánga búku, zoloná",
+					"ex": "kolinga kotánga"
+				}
+			}],
+			"def": [
+				"action de lire des livres, des journaux"
+			],
+			"ex": [
+				"aimer la lecture"
+			]
+		},
+
+		"légalement  [legalmA)] adv.": {
+			"lingala": [{
+				"¥ngÔ¥bÔ¥nÔ¥na mobéko": {
+					"def": "na ndéngé mobéko motíndí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière légale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"légalité  [legalite] n.f.": {
+			"lingala": [{
+				"botósi mobéko, bolóngani na mobéko": {
+					"def": "loléngé la eye ezalí Ô¥ngÔ¥bÔ¥nÔ¥na mobéko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est légal"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"légal, ale, aux  [legal, o] adj.": {
+			"lingala": [{
+				"¥ngÔ¥bÔ¥nÔ¥na mobéko": {
+					"def": "eye ewúti na mobéko, el¡ngÔ¡bání na mobéko",
+					"ex": "ekela Ô¥ngÔ¥bÔ¥nÔ¥ na mobéko, mokáno Ô¥ngÔ¥bÔ¥nÔ¥na mobéko"
+				}
+			}],
+			"def": [
+				"qui résulte de la loi, est conforme à la loi"
+			],
+			"ex": [
+				"un acte légal, une décision légale"
+			]
+		},
+
+		"légendaire  [leZA)dE{] adj.": {
+			"lingala": [{
+				"-a lisapo, ekómá lisapo, ekendá nsango": {
+					"def": "eye etálí lisapo",
+					"ex": "lisoló, moto akendá nsango"
+				}
+			}],
+			"def": [
+				"qui est de la nature de la légende; fabuleux, imaginaire"
+			],
+			"ex": [
+				"un récit, un personnage légendaire"
+			]
+		},
+
+		"légende  [leZA)d] n.f.": {
+			"lingala": [{
+				"lisapo": {
+					"def": "lisoló lya kokámwisa",
+					"ex": "lisapo la Soundiata"
+				}
+			}],
+			"def": [
+				"récit populaire fabuleux, merveilleux"
+			],
+			"ex": [
+				"la légende de Soundjata"
+			]
+		},
+
+		"légèrement  [leZE{mA)] adv.": {
+			"lingala": [{
+				"pÔ¥pÔ¥lÔ¥, mokÔ¥": {
+					"def": "na ndéngé ya mokÔ¥",
+					"ex": "kokíma, kopumbwa pÔ¥pÔ¥l¥"
+				}
+			}],
+			"def": [
+				"d’une manière légère, sans peser, avec agilité"
+			],
+			"ex": [
+				"courir, sauter légèrement"
+			]
+		},
+
+		"légèreté  [leZE{te] n.f.": {
+			"lingala": [{
+				"botu, mobúlú": {
+					"def": "bizaleli bibé",
+					"ex": "kosála, kokamba na mobúlú"
+				}
+			}],
+			"def": [
+				"manque de sérieux, de réflexion, de prudence"
+			],
+			"ex": [
+				"agir, se conduire avec légèreté"
+			]
+		},
+
+		"léger, ère  [leZe, E{] adj.": {
+			"lingala": [{
+				"el¥mbá, -a bol¥mbú, makási tÊ¥, -kÔ¥": {
+					"def": "ezángí makási, bonÔ¥n¥",
+					"ex": "likÔ¡fi lil¥mbá, mpÔ¡tá ekÔ¥, masanga makási tÊ¥."
+				}
+			}],
+			"def": [
+				"faible, pas fort, pas grave"
+			],
+			"ex": [
+				"un coup léger, une blessure légère, un vin léger"
+			]
+		},
+
+		"légiférer  [leZife{e] v.intr.": {
+			"lingala": [{
+				"kokela mibéko": {
+					"def": "kosála mibéko",
+					"ex": "palemá ekelaka mibéko"
+				}
+			}],
+			"def": [
+				"faire des lois"
+			],
+			"ex": [
+				"le Parlement légifère"
+			]
+		},
+
+		"législateur, trice  [leZislatœ{,t{is] n.": {
+			"lingala": [{
+				"mokeli mibéko": {
+					"def": "moto akosálaka mibéko mpÔ¡na baímbóka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"celui qui fait les lois, qui donne des lois à un peuple"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"législatif, ive  [leZislatif, iv] adj.": {
+			"lingala": [{
+				"-a palemá, -a badepité": {
+					"def": "eye etálí palemá, ndáko ya mibéko, badepité",
+					"ex": "map¡nami ya badepité"
+				}
+			}],
+			"def": [
+				"qui concerne l’assemblée législative, l’assemblée nationale, les députés"
+			],
+			"ex": [
+				"des élections législatives"
+			]
+		},
+
+		"législation  [leZislasjç)] n.f.": {
+			"lingala": [{
+				"mibéko": {
+					"def": "mibéko míns¡ mya mbóka yÔ¡kÔ¡",
+					"ex": "mibéko mya satrafrika, ya giné, ya kotedivwál¥"
+				}
+			}],
+			"def": [
+				"ensemble des lois d’un pays"
+			],
+			"ex": [
+				"la législation centrafricaine, guinéenne, ivoirienne"
+			]
+		},
+
+		"législature  [leZislaty{] n.f.": {
+			"lingala": [{
+				"eleko ya palema": {
+					"def": "eleko epésámi mpÔ¡ya mosálá ya baímibéko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"période pour laquelle une assemblée législative est élue"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"légitime  [leZitim] adj.": {
+			"lingala": [{
+				"Ô¥ngÔ¥bÔ¥nÔ¥na mobéko, -yébání na mobéko": {
+					"def": "eye eyébání, esálémí Ô¥ngÔ¥bÔ¥nÔ¥na mobéko, Ô¥ngÔ¥bÔ¥nÔ¥na mamá mobéko",
+					"ex": "mwána ayébání na letá"
+				}
+			}],
+			"def": [
+				"qui est reconnu par la loi, établi conformément à la loi, à laconstitution"
+			],
+			"ex": [
+				"un enfant légitime, un gouvernement légitime"
+			]
+		},
+
+		"légitimement  [leZitimmA)] adv.": {
+			"lingala": [{
+				"na ndéngé ya mobéko": {
+					"def": "na ndéngé eye endimámí na mobéko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière légitime"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"légitimer  [leZitime] v.tr.": {
+			"lingala": [{
+				"koyébanisa na mobéko, koyÔ¥ng¥binya na mobéko": {
+					"def": "kokómisa Ô¥ngÔ¥bÔ¥nÔ¥na mobéko",
+					"ex": "koyebanisa mwána na mobéko,koyÔ¥ng¥binya bokonzi"
+				}
+			}],
+			"def": [
+				"rendre légitime"
+			],
+			"ex": [
+				"légitimer un enfant, un pouvoir"
+			]
+		},
+
+		"légitimité  [leZitimite] n.f.": {
+			"lingala": [{
+				"boyébani na mobéko boyÔ¥ngibinyi na mobéko": {
+					"def": "ezaleli ya eye eyÔ¥ngÔ¥bínyí na mobéko",
+					"ex": "boyébani ya mbulamatari na mobéko"
+				}
+			}],
+			"def": [
+				"caractère de ce qui est légitime"
+			],
+			"ex": [
+				"légitimité d’un gouvernement"
+			]
+		},
+
+		"legs  [lEg] n.m.": {
+			"lingala": [{
+				"lisangó": {
+					"def": "eye batíkélí na moto mosúsu",
+					"ex": "lisangó lya bankÔ¡k¡"
+				}
+			}],
+			"def": [
+				"héritage"
+			],
+			"ex": [
+				"le legs de nos ancêtres"
+			]
+		},
+
+		"léguer  [lege] v.tr.": {
+			"lingala": [{
+				"kotíkela": {
+					"def": "kotíka bÉo lisangó",
+					"ex": "kotíkela mwána ndáko, kotíkela nÔ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"donner en héritage"
+			],
+			"ex": [
+				"léguer une maison à son enfant, à son neveu"
+			]
+		},
+
+		"légume  [legym] n.m.": {
+			"lingala": [{
+				"ndúnda": {
+					"def": "molóná moye biténi bisúsu bilíamaka (nkásá, mposo, mbuma...)",
+					"ex": "kokóna ndúnda"
+				}
+			}],
+			"def": [
+				"plante potagère dont certaines parties (feuilles, gousses, graines, etc.) entrent dans l’alimentation humaine"
+			],
+			"ex": [
+				"planter des légumes"
+			]
+		},
+
+		"lendemain  [lA)dmE)] n.m.": {
+			"lingala": [{
+				"lóbí": {
+					"def": "m¡k¡l¡ molandí l¥lÔ¡",
+					"ex": "lóbí mpé ndÔ¥l¥"
+				}
+			}],
+			"def": [
+				"jour qui suit celui dont on parle"
+			],
+			"ex": [
+				"demain et le lendemain"
+			]
+		},
+
+		"lentement  [lA)tmA)] adv.": {
+			"lingala": [{
+				"malÔ¥mb¥, na moi": {
+					"def": "na loléngé la mbángu tÊ¥",
+					"ex": "kotámbola malÔ¥mb¥"
+				}
+			}],
+			"def": [
+				"d’une manière lente"
+			],
+			"ex": [
+				"marcher lentement"
+			]
+		},
+
+		"lenteur  [lA)tœ{] n.f.": {
+			"lingala": [{
+				"lomoi, mol¥k¥s¥n¡, lom¡ngí": {
+					"def": "loléngé la bozángi mbángu",
+					"ex": "lomoi la nkóbá"
+				}
+			}],
+			"def": [
+				"carctère de ce qui est lent, manque de rapidité, de vitesse"
+			],
+			"ex": [
+				"la lenteur de la tortue"
+			]
+		},
+
+		"lent, lente  [lA), lA)t] adj.": {
+			"lingala": [{
+				"malÔ¥mb¥, -a moi, -a mbángu tÊ¥": {
+					"def": "eye ezalí na mbángu tÊ¥ nkóbá",
+					"ex": "ezalí nyama ya mbángu tÊ¥"
+				}
+			}],
+			"def": [
+				"qui n’est pas rapide, qui manque de rapidité"
+			],
+			"ex": [
+				"la tortue est un animal lent"
+			]
+		},
+
+		"léopard  [leçpa{] n.m.": {
+			"lingala": [{
+				"nk¡i, k¡pí": {
+					"def": "loléngé la nk¡i la Afríka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"panthère d’Afrique"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lèpre  [lEp{] n.f.": {
+			"lingala": [{
+				"maba": {
+					"def": "bok¡n¡ bwa mik¡l¡b¡ mikoyambenelaka",
+					"ex": "m¡k¡ni ya maba"
+				}
+			}],
+			"def": [
+				"maladie infectieuse et contagieuse"
+			],
+			"ex": [
+				"malade atteint de la lèpree"
+			]
+		},
+
+		"lépreux, euse  [lep{ø, øz] adj. et n.": {
+			"lingala": [{
+				"-a maba": {
+					"def": "óyo azalí na maba",
+					"ex": "mwasi wa maba"
+				}
+			}],
+			"def": [
+				"qui est atteint de la lèpre, qui a la lèpre"
+			],
+			"ex": [
+				"une femme lépreuse, une lépreuse"
+			]
+		},
+
+		"léproserie  [lep{çz{i] n.f.": {
+			"lingala": [{
+				"lopitálo ya maba": {
+					"def": "lopitálo epái wápi basálisaka bato ya maba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"hôpital où l’on soigne les lépreux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"léser  [leze] v.tr.": {
+			"lingala": [{
+				"kosála mabé, kobébisa": {
+					"def": "kosála moto mabé, kopésa mpási na motéma",
+					"ex": "kosála moto mabé, kobébisa bolámu bwa ye"
+				}
+			}],
+			"def": [
+				"causer du tort à, blesser"
+			],
+			"ex": [
+				"léser qqn, les intérêts de qqn"
+			]
+		},
+
+		"lésiner  [lezine] v.intr.": {
+			"lingala": [{
+				"kobómba na bonyím": {
+					"def": "kobómba na bonyími",
+					"ex": "kobomba nyÔ¡s¡, kosála ekonzo tÊ¥"
+				}
+			}],
+			"def": [
+				"épargner avec avarice"
+			],
+			"ex": [
+				"lésiner sut tout, ne pas lésiner sur les moyens = utiliser tous les moyens possibles"
+			]
+		},
+
+		"lésion  [lezjç)] n.f.": {
+			"lingala": [{
+				"mbóngwána, mpótá": {
+					"def": "bobóngoli bwa enama tÉo elÔ¡k¡, mpÔotá",
+					"ex": "mpótá ya loposo, ya mokúwa"
+				}
+			}],
+			"def": [
+				"modification de la forme normale d’un organe, blessure"
+			],
+			"ex": [
+				"lésion cutanée (= de la peau), osseuse (= de l’os)"
+			]
+		},
+
+		"Lesotho  [lesoto] n.m.": {
+			"lingala": [{
+				"Lesotó": {
+					"def": "yÔ¡kÔ¡ekólo ya Afríka ya ng¥lÔ¥, mbóka mokonzi Maseru",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat de l’Afrique australe, capitale Maseru"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lessive  [lesiv] n.f.": {
+			"lingala": [{
+				"bosukoli bilambá": {
+					"def": "ekela ya kosukola bilambá",
+					"ex": "kosukola bilamba"
+				}
+			}],
+			"def": [
+				"action de lessiver, de laver le linge ; lavage"
+			],
+			"ex": [
+				"faire la lessive"
+			]
+		},
+
+		"lessiver  [lesive] v.tr.": {
+			"lingala": [{
+				"kosukola": {
+					"def": "kosukola na sabúni",
+					"ex": "kosukola efelo, pavemá"
+				}
+			}],
+			"def": [
+				"laver avec de la lessive"
+			],
+			"ex": [
+				"lessiver un mur, le sol"
+			]
+		},
+
+		"leste  [lEst] adj.": {
+			"lingala": [{
+				"(-a) kúlúlú, wúlúlú, pÔ¥pÔ¥lÔ¥, -a mbángu, -a ntÔ¡ki": {
+					"def": "eye ezángí bozitó",
+					"ex": "kozala na lobÔ¡k¡ la ntÔ¡ki"
+				}
+			}],
+			"def": [
+				"qui a de la légèreté, de l’agilité, de la rapidité dans les mouvements"
+			],
+			"ex": [
+				"avoir la main leste = être prompt à frapper"
+			]
+		},
+
+		"lestement  [lEst´mA)] adv.": {
+			"lingala": [{
+				"kúlúlú (wúlúlú), na mbángu, na ntÔ¡ki": {
+					"def": "na loléngé la mbángu",
+					"ex": "kobalola, kobÔ¥t¥ na mbángu"
+				}
+			}],
+			"def": [
+				"d’une manière leste, rapide et adroite"
+			],
+			"ex": [
+				"tourner, frapper lestement"
+			]
+		},
+
+		"lettre  [lEt{] n.f.": {
+			"lingala": [{
+				"mokandá": {
+					"def": "nkómá bakotíndela moto",
+					"ex": "kokoma, kozwa, kotínda mokandá"
+				}
+			}],
+			"def": [
+				"écrit que l’on adresse à qqn"
+			],
+			"ex": [
+				"écrire, envoyer, expédier, recevoir une lettre"
+			]
+		},
+
+		"lettré, ée  [let{e] adj. et n.": {
+			"lingala": [{
+				"moto ya mikanda, nganga mikandá, z¥l¥k¡nÔ¥, kaláka": {
+					"def": "moto óyo ayébi kotánga mpé kokoma, moto ya mayÔ¥l¥",
+					"ex": "bato ba mikandá mpé bayínga"
+				}
+			}],
+			"def": [
+				"qui sait lire et écrire; cultivé, instruit"
+			],
+			"ex": [
+				"les lettrés et les non-lettrés"
+			]
+		},
+
+		"leu (à la queue leu -) [alakølølø] loc.adv.": {
+			"lingala": [{
+				"na m¡l¡ngÔ¡ya nsombo": {
+					"def": "na mol¡ngÔ¡mÔ¡kÔ¡nsima ya moníngá",
+					"ex": "kotámbola na mol¡ngÔ¡ ya nsombo"
+				}
+			}],
+			"def": [
+				"à la file les uns derrière les autres"
+			],
+			"ex": [
+				"marcher à la queue leu leu"
+			]
+		},
+
+		"leurre  [lœ{] n.m.": {
+			"lingala": [{
+				"lokutá, bokósi": {
+					"def": "bozángi bosÊ¡lÔ¡",
+					"ex": "elaká êná ezalí lokutá"
+				}
+			}],
+			"def": [
+				"tromperie, duperie, bluff"
+			],
+			"ex": [
+				"cette promesse est un leurre"
+			]
+		},
+
+		"leurrer  [lœ{e] v.tr.": {
+			"lingala": [{
+				"kokósa": {
+					"def": "kobúka lokutá",
+					"ex": "komíkósa"
+				}
+			}],
+			"def": [
+				"tromper, duper, bluffer"
+			],
+			"ex": [
+				"se laisser leurrer"
+			]
+		},
+
+		"levain  [l´vE)] n.m.": {
+			"lingala": [{
+				"lokwéza": {
+					"def": "nkísi ya kovímbisa mápa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"pâte pour faire lever le pain"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"levant  [l´vA)] adj.": {
+			"lingala": [{
+				"-a kobima, -a kotána": {
+					"def": "eye ekobimaka, ekolamukaka",
+					"ex": "mói mwa kobima"
+				}
+			}],
+			"def": [
+				"qui se lève"
+			],
+			"ex": [
+				"le soleil levant"
+			]
+		},
+
+		"Liban  [libA)] n.m.": {
+			"lingala": [{
+				"Libâ, Libáno": {
+					"def": "ekólo ya Azíya ya wÔ¥sti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat d’Asie occidentale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libanais, aise  [libanE, Ez] adj. et n.": {
+			"lingala": [{
+				"-a libâ, moílibâ, mwána mbóka libâ": {
+					"def": "ya ekólo Libâ, epái ya eloli",
+					"ex": "magazíni ya moílibâ, mwána-mbóka ya Libâ"
+				}
+			}],
+			"def": [
+				"du Liban, (Afr.) du proche-orient"
+			],
+			"ex": [
+				"un magasin libanais, un(e) Libanais(e)"
+			]
+		},
+
+		"libation  [libasjç)] n.f.": {
+			"lingala": [{
+				"bopési bankÔ¡k¡, bosopi mpÔ¡ya bankÔ¡k¡": {
+					"def": "ekela ya kosopa ndámbo ya masanga o mabélé yambo ya bomeli mpÔ¡ya lokúmu la bakÔ¡k¡",
+					"ex": "bosopi mpÔ¡ ya bankÔ¡k¡"
+				}
+			}],
+			"def": [
+				"(Afr.) action de verser sur le sol, en l’honneur des ancêtres, quelques gouttes de la boisson que l’on va consommer"
+			],
+			"ex": [
+				"faire une (des) libation(s)"
+			]
+		},
+
+		"libellule  [libelyl] n.f.": {
+			"lingala": [{
+				"sátongé": {
+					"def": "epimbwela ya mapapú mak¥sÔ¥ní",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"insecte à deux ailes inégales"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libéralement  [libe{almA)] adv.": {
+			"lingala": [{
+				"na bokabi, na makabo": {
+					"def": "na ndéngé ya boyébi kokaba",
+					"ex": "kopésa na bokabi"
+				}
+			}],
+			"def": [
+				"d’une manière libérale, avec générosité ; généreusement, largement, abondamment"
+			],
+			"ex": [
+				"donner libéralement"
+			]
+		},
+
+		"libéralité  [libe{alite] n.f.": {
+			"lingala": [{
+				"likabo, bokabi": {
+					"def": "mom¥s¥n¡ mwa kokaba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"disposition à donner généreusement ; générosité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libéral, ale, aux  [libe{al, o] adj.": {
+			"lingala": [{
+				"mokabi, -a mokabo": {
+					"def": "moto óyo akabaka",
+					"ex": "mokonzi mokabi"
+				}
+			}],
+			"def": [
+				"qui donne facilement; généreux"
+			],
+			"ex": [
+				"un patron libéral"
+			]
+		},
+
+		"libérateur, trice  [libe{atœ{, t{is] n. et adj.": {
+			"lingala": [{
+				"mosíkoli, mobíkisi, mokángoli": {
+					"def": "óyo akangolí na boúmbu, na minyÔ¡k¡",
+					"ex": "mosíkoli ya baímbóka"
+				}
+			}],
+			"def": [
+				"qui libère, délivre d’une contrainte, d’une oppression, d’une servitude; émancipateur, sauveur"
+			],
+			"ex": [
+				"le libérateur d’un peuple"
+			]
+		},
+
+		"libération  [libe{asjç)] n.f.": {
+			"lingala": [{
+				"bonsÔ¡mi, bokangoli, nsíko": {
+					"def": "ekela ya kosikola, ya kokómisa nsÔ¡mí",
+					"ex": "bokangoli moto wa b¡lÔ¡k¡"
+				}
+			}],
+			"def": [
+				"action de libérer, de rendre libre; délivrance"
+			],
+			"ex": [
+				"libération d’un prisonnier"
+			]
+		},
+
+		"libérer  [libe{e] v.tr.": {
+			"lingala": [{
+				"kokangola, kobíkisa, kosikola": {
+					"def": "kokómisa nsÔ¡mí, kopésa bonsÔ¡mí",
+					"ex": "kokangola mokangemi"
+				}
+			}],
+			"def": [
+				"rendre libre, mettre en liberté ; délivrer"
+			],
+			"ex": [
+				"libérer un prisonnier"
+			]
+		},
+
+		"libéré, ée  [libe{e] adj.": {
+			"lingala": [{
+				"-a bonsÔ¡mí, nsÔ¡mí, -kangólámi": {
+					"def": "óyo azali ya kokangolama",
+					"ex": "mokangemi ya kokangolama, etúka ya nsÔ¡mí"
+				}
+			}],
+			"def": [
+				"rendu libre, mis en liberté; affranchi, délivré"
+			],
+			"ex": [
+				"un prisonnier libéré, une région libérée"
+			]
+		},
+
+		"Libéria  [libe{ja] n.m.": {
+			"lingala": [{
+				"Libélia": {
+					"def": "ekólo ya Afríka ya wÔ¥sti, mbóka mokonzi Molóvia",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat de l’Afrique occidentale, capitale Monronvia"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libérien, enne  [libe{jE), En] adj. et n.": {
+			"lingala": [{
+				"-a Libéliá, moílibeliá, mwána mbóka Libeliá": {
+					"def": "ya Libélia",
+					"ex": "mwána mbóka ya Libélia"
+				}
+			}],
+			"def": [
+				"du Libéria"
+			],
+			"ex": [
+				"un(e) Libérien(ne)"
+			]
+		},
+
+		"liberté  [libE{te] n.f.": {
+			"lingala": [{
+				"bonsÔ¡mí, lípandá": {
+					"def": "ezalela ya moto tÉo lisangá ya nsÔ¡mí",
+					"ex": "bonsÔ¡mí ya kotámbola"
+				}
+			}],
+			"def": [
+				"état, situation d’une personne ou d’une société libre, libérée; autonomie, indépendance"
+			],
+			"ex": [
+				"la liberté d’aller et venir"
+			]
+		},
+
+		"libraire  [lib{E{] n.": {
+			"lingala": [{
+				"motÔ¥ki búku": {
+					"def": "moto óyo asálaka mombóngo ya búku, azalí na magazíni ya búku",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui fait le commerce des livres, qui tient une librairie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"librairie  [lib{e{i] n.f.": {
+			"lingala": [{
+				"magazíni ya búku": {
+					"def": "magazíni epái batÔ¥kaka babúku",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"magasin où l’on vend des livres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libre  [lib{] adj.": {
+			"lingala": [{
+				"nsÔ¡mí": {
+					"def": "moto óyo azalí moúmbu tÊ¥, mokangemi tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui n’est pas esclave, prisonnier ; autonome, indépendant"
+			],
+			"ex": [
+				"un homme, un peuple libre"
+			]
+		},
+
+		"librement  [lib{´mA)] adv.": {
+			"lingala": [{
+				"na bonsÔ¡mí bÔ¡ns¡": {
+					"def": "kotámbola, koloba na bonsÔ¡mí bÔ¡ns¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière libre, sans contrainte, en toute liberté"
+			],
+			"ex": [
+				"circuler, parler librement"
+			]
+		},
+
+		"Libye  [libi] n.f.": {
+			"lingala": [{
+				"Libía": {
+					"def": "ekólo ya Afríka ya likoló, na mbóka mokonzi Tripoli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat de l’Afrique du nord, capitale Tripoli"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"libyen, enne  [libjE), En] adj. et n.": {
+			"lingala": [{
+				"ya libía": {
+					"def": "mwána mbóka Libía",
+					"ex": "mwána mbóka Libía"
+				}
+			}],
+			"def": [
+				"de Libye"
+			],
+			"ex": [
+				"un(e) Libyen(ne)"
+			]
+		},
+
+		"licenciement  [lisA))simA)] n.m.": {
+			"lingala": [{
+				"bolongoli na mosálá": {
+					"def": "ekela ya kolongola moto na mosálá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de licencier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"licencier  [lisA)sje] v.t.": {
+			"lingala": [{
+				"kolongola na mosálá": {
+					"def": "kobengana moto na mosálá",
+					"ex": "kolongola mosáli na mosálá"
+				}
+			}],
+			"def": [
+				"priver de son emploi ; congédier, renvoyer"
+			],
+			"ex": [
+				"licencier un employé"
+			]
+		},
+
+		"licencié, ée  [lisA)sje] adj.": {
+			"lingala": [{
+				"molongwi, molongolami": {
+					"def": "óyo balongólí",
+					"ex": "mosáli molongolami"
+				}
+			}],
+			"def": [
+				"qui est congédié, renvoyé"
+			],
+			"ex": [
+				"un employé licencié"
+			]
+		},
+
+		"licite  [lisit] adj.": {
+			"lingala": [{
+				"-lingísámí": {
+					"def": "eye epekísámí tÊ¥ na mobéko",
+					"ex": "litómbá lilingísámí"
+				}
+			}],
+			"def": [
+				"qui n’est pas défendu, interdit par la loi; autorisé"
+			],
+			"ex": [
+				"un gain, un profit licite"
+			]
+		},
+
+		"lie  [li] n.f.": {
+			"lingala": [{
+				"mb¡t¡, limb¡t¡": {
+					"def": "eye limáyi litíkaka na nsé ya nzúngu tÉo molangi tÉo etíele esúsu",
+					"ex": "mb¡t¡ ya vínu, ya masanga"
+				}
+			}],
+			"def": [
+				"dépôt qu’un liquide fermenté laisse au fond du récipient qui le contient"
+			],
+			"ex": [
+				"lie de vin, de bière"
+			]
+		},
+
+		"lien  [ljE)] n.m.": {
+			"lingala": [{
+				"ekangeli": {
+					"def": "óyo ekangísí bato bábalé tÉo baíké",
+					"ex": "ekangeli ya libótá, ya bondekó, ya libála"
+				}
+			}],
+			"def": [
+				"ce qui unit entre elles deux ou plusieurs personnes"
+			],
+			"ex": [
+				"lien de parenté, d’amitié, de mariage"
+			]
+		},
+
+		"lier  [lje] v.tr.": {
+			"lingala": [{
+				"kokanga, kokangisa": {
+					"def": "kotíya nsinga na nsima",
+					"ex": "kokanga libóké, nkóni"
+				}
+			}],
+			"def": [
+				"attacher, immobiliser, serrer avec un lien"
+			],
+			"ex": [
+				"lier une gerbe, un fagot"
+			]
+		},
+
+		"liesse  [ljEs] n.f.": {
+			"lingala": [{
+				"es¥ng¡ enÔ¥n¥, nsáí": {
+					"def": "bosepeli bonÔ¥n¥ ya bato baíké",
+					"ex": "bato na nsáí"
+				}
+			}],
+			"def": [
+				"grande joie, allégresse collective"
+			],
+			"ex": [
+				"une foule en liesse"
+			]
+		},
+
+		"lieutenant  [ljøtnA)] n.m.": {
+			"lingala": [{
+				"lietená": {
+					"def": "mokonzi wa basodá na mpÔ¥tÔ¥ya kati káti ya kapitÔ¥ni mpé sulietená",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"officier de l’armée dont le grade se situe entre le capitaine et le sous-lieutenant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lieu, lieux  [ljø] n.m.": {
+			"lingala": [{
+				"esíká, palási": {
+					"def": "epái",
+					"ex": "esíká ya likámá"
+				}
+			}],
+			"def": [
+				"endroit, place"
+			],
+			"ex": [
+				"le lieu d’un accident"
+			]
+		},
+
+		"ligature  [ligaty{] n.f.": {
+			"lingala": [{
+				"bokangisi, bot¡ngi": {
+					"def": "lipasó ya kokanga, ya kokangisa na singa",
+					"ex": "bot¡ngi mosisá"
+				}
+			}],
+			"def": [
+				"opération consistant à fixer, réunir, serrer avec un lien"
+			],
+			"ex": [
+				"ligature d’un vaisseau sanguin"
+			]
+		},
+
+		"ligaturer  [ligaty{e] v.tr.": {
+			"lingala": [{
+				"kotonga, kokangisa": {
+					"def": "kokanga na nsinga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fixer, réunir, serrer avec une ligature, un lien"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lignage  [li¯aZ] n.m.": {
+			"lingala": [{
+				"libótá": {
+					"def": "bato baútí na nkÔ¡k¡ mÔ¡kÔ¡",
+					"ex": "libótá lya bomama, libótá lya botatá"
+				}
+			}],
+			"def": [
+				"ensemble de personnes issues du même ancêtre"
+			],
+			"ex": [
+				"lignage matrilinéaire, patrilinéaire"
+			]
+		},
+
+		"ligne  [li¯] n.f.": {
+			"lingala": [{
+				"m¡kÔ¡lÔ¡tÔ¡, mol¡ngÔ¡": {
+					"def": "molandano mwa nkomá",
+					"ex": "mokÔ¡lÔ¡tÔ¡ nsémba, mogúmbámí, mokáná, kokáta mokÔ¡lÔ¡lÔ¡"
+				}
+			}],
+			"def": [
+				"trait continu"
+			],
+			"ex": [
+				"ligne droite, courbe, brisé ; tracer une ligne"
+			]
+		},
+
+		"lignée  [li¯e] n.f.": {
+			"lingala": [{
+				"bána, libóta": {
+					"def": "lisangá lya bato baútí na nkÔ¡k¡ mÔ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des descendants d’un même ancêtre; descendance, postérité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"ligoter  [ligçte] v.tr.": {
+			"lingala": [{
+				"kokanga na nsinga": {
+					"def": "kokanga moto na nkámba mpÔ¡ya komópekisa kosálela mabÔ¡k¡ na makolo",
+					"ex": "kokanga moto wa b¡lÔ¡k¡ na nsinga"
+				}
+			}],
+			"def": [
+				"attacher, lier (qqn) solidement avec une corde en empêchant l’usage des mains et des jambes ; ficeler"
+			],
+			"ex": [
+				"ligoter un prisonnier"
+			]
+		},
+
+		"liguer  [lige] v.tr.": {
+			"lingala": [{
+				"kosangisa": {
+					"def": "kotíya esíká yÔ¡kÔ¡ya likambo litálí báns¡",
+					"ex": "kosangisa bayini"
+				}
+			}],
+			"def": [
+				"unir pour une action commune"
+			],
+			"ex": [
+				"liguer les mécontents"
+			]
+		},
+
+		"limace  [limas] n.f.": {
+			"lingala": [{
+				"momb¥mbÔ¥": {
+					"def": "loléngé la momb¥mbÔ¥mozángá ekpókólókó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"escargot terrestre sans coquille"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"limaçon  [limasç)] n.m.": {
+			"lingala": [{
+				"momb¥mbÔ¥": {
+					"def": "",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"escargot"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"limbes  [lE)b] n.f.pl.": {
+			"lingala": [{
+				"límb¥": {
+					"def": "(o eyamba ya katolíko) esíká wápi ek¥nd¥k¥ milímo ya bána bakúlá batísimo tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(chez les catholiques) lieu de séjour des âmes d’enfants morts sans baptême"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lime  [lim] n.f.": {
+			"lingala": [{
+				"lími, mosio": {
+					"def": "esáleli ya ebendé na mínu mpÔ¡ya kokómisa bibendé patátálú",
+					"ex": "lími lya manzáka"
+				}
+			}],
+			"def": [
+				"outil à main formée d’une lame d’acier hérissée de dents qui sert à polir des matières dures"
+			],
+			"ex": [
+				"lime à ongles"
+			]
+		},
+
+		"limer  [lime] v.tr.": {
+			"lingala": [{
+				"kokusa, kotÔ¥nd¥": {
+					"def": "kosálela lími mpÔ¡ya kokÔ¡ndisa, kokómisa patátálú",
+					"ex": "kokusa manzáka"
+				}
+			}],
+			"def": [
+				"travailler à la lime pour dégrossir, polir"
+			],
+			"ex": [
+				"limer les ongles"
+			]
+		},
+
+		"limite  [limit] n.f.": {
+			"lingala": [{
+				"ndelo, nsúka, esúkeli": {
+					"def": "eye ekabólí bitando, bitúká",
+					"ex": "ndelo ya elanga"
+				}
+			}],
+			"def": [
+				"ce qui sépare deux terrains, deux territoires ; frontière"
+			],
+			"ex": [
+				"limite d’un champ"
+			]
+		},
+
+		"limiter  [limite] v.tr.": {
+			"lingala": [{
+				"kokáta ndelo": {
+					"def": "kotíya ndelo",
+					"ex": "kokáta ndelo ya elanga"
+				}
+			}],
+			"def": [
+				"fixer, donner des limites à"
+			],
+			"ex": [
+				"limiter un champ"
+			]
+		},
+
+		"limité, ée  [limite] adj.": {
+			"lingala": [{
+				"-a ndelo, -a nsúka, -kÔ¥": {
+					"def": "eye ezalí na ndelo",
+					"ex": "bokonzi bwa ndelo, eleko ekÔ¥"
+				}
+			}],
+			"def": [
+				"qui a des limites; réduit, restreint"
+			],
+			"ex": [
+				"un pouvoir limité, une durée limitée"
+			]
+		},
+
+		"limitrophe  [limit{çf] adj.": {
+			"lingala": [{
+				"-a ndelo, -a mp¥mbÔ¥ni, -a zóngázóngá": {
+					"def": "eye ezali na ndelo, na nsúka ya mbóka",
+					"ex": "bikólo ya ndelo, bato bazali na ndelo"
+				}
+			}],
+			"def": [
+				"qui est situé à la limite, à la frontière d’un pays; frontalier"
+			],
+			"ex": [
+				"un pays limitrophe, des populations limitrophes"
+			]
+		},
+
+		"limoger  [limçZe] v.tr.": {
+			"lingala": [{
+				"kolongola": {
+					"def": "kolongola kaláka na mosálá",
+					"ex": "kolongola mondÔ¥lÔ¥mbóka"
+				}
+			}],
+			"def": [
+				"écarter un haut fonctionnaire de son poste"
+			],
+			"ex": [
+				"limoger un préfet, un gouverneur"
+			]
+		},
+
+		"limonade  [limçnad] n.f.": {
+			"lingala": [{
+				"lim¡nádi": {
+					"def": "masanga masálÔ¥mí na mái, sukáli mpé ndímo ngai",
+					"ex": "kom¥l¥ lim¡nádi"
+				}
+			}],
+			"def": [
+				"boisson gazeuse à base d’eau, de sucre et de jus de citron; citronnade"
+			],
+			"ex": [
+				"boire une limonade"
+			]
+		},
+
+		"limpide  [lE)pid] adj.": {
+			"lingala": [{
+				"sángí sángí, pÔ¥pÔ¥pÔ¥, mpÔ¥mbÔ¥": {
+					"def": "eye ezalí saa, polélé, tá bopéto",
+					"ex": "mái sángí sángí"
+				}
+			}],
+			"def": [
+				"très clair, pur, transparent"
+			],
+			"ex": [
+				"une eau limpide"
+			]
+		},
+
+		"limpidité  [lE)pidite] n.f.": {
+			"lingala": [{
+				"bopéto, bosángísángí": {
+					"def": "loléngé la eye ezalí sángí sángí, polélé, pÔ¥pÔ¥pÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qualité de ce qui est limpide ; clarté, pureté, transparence"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"linceul  [lE)sœl] n.m.": {
+			"lingala": [{
+				"mal¥káni": {
+					"def": "elambá ya kokunda mowéi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"pièce d’étoffe dans laquelle on ensevelit un mort"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"linge  [lE)Z] n.m.": {
+			"lingala": [{
+				"elambá": {
+					"def": "bilambá basálelaka na ndáko (moláto, bopangwisi)",
+					"ex": "kosukola, kongoma elambá"
+				}
+			}],
+			"def": [
+				"ensemble des pièces de tissu utilisées pour les besoins domestiques (habillement, nettoyage)"
+			],
+			"ex": [
+				"laver, repasser le linge"
+			]
+		},
+
+		"linteau  [lE)to] n.m.": {
+			"lingala": [{
+				"l¥tÊ¡, motÔ¡nd¡": {
+					"def": "eye elÔ¥ndisaka bifelo",
+					"ex": "l¥tÊ¡ ya ezibeli, ya lininísa"
+				}
+			}],
+			"def": [
+				"pièce horizontale (de bois, de métal) qui soutient une maçonnerie"
+			],
+			"ex": [
+				"linteau de porte, de fenêtre"
+			]
+		},
+
+		"lionceau  [ljç)so] n.m.": {
+			"lingala": [{
+				"mwána nkósi, mwána ntambo": {
+					"def": "nkósi ya el¥ngÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"jeune lion, petit du lion"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lion, lionne  [ljç), ljçn] n.": {
+			"lingala": [{
+				"nkósi, ntambwe": {
+					"def": "nyama enÔ¥n¥ ya libótá lya púsu elíaka mosuni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand mammifère carnivore de la famille des félins"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lippu, ue  [lipy] adj.": {
+			"lingala": [{
+				"-a mb¥b¡ inÔ¥n¥": {
+					"def": "ezalí na mb¥b¡ inÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a de grosses lèvres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"liquéfier  [likefje] v.tr.": {
+			"lingala": [{
+				"konyángola, konyángwisa": {
+					"def": "kokómisa mái",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre liquide, faire fondre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"liqueur  [likœ{] n.f.": {
+			"lingala": [{
+				"masanga makási, masanga": {
+					"def": "masanga ma sukáli malángbisaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"boisson sucrée alcoolisée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"liquide  [likid] adj.": {
+			"lingala": [{
+				"-a mái, -a mái mái": {
+					"def": "eye etíolaka",
+					"ex": "sabúni ya mái"
+				}
+			}],
+			"def": [
+				"qui coule"
+			],
+			"ex": [
+				"un savon liquide"
+			]
+		},
+
+		"liquider  [likide] v.tr.": {
+			"lingala": [{
+				"kosílisa, kosúkisa": {
+					"def": "kopésa eyano ya libélá, ya nsúka na",
+					"ex": "kosílisa nyongo"
+				}
+			}],
+			"def": [
+				"régler définitivement, en finir avec"
+			],
+			"ex": [
+				"liquider une dette"
+			]
+		},
+
+		"lire  [li{] v.tr.": {
+			"lingala": [{
+				"kotánga": {
+					"def": "koyéba mpé kos¡s¡la nkomá",
+					"ex": "koyéba kotánga mpé kokoma, kotánga mokanda"
+				}
+			}],
+			"def": [
+				"identifier et comprendre ce qui est écrit (lettres de l’alphabet, textes) ; déchiffrer, décoder"
+			],
+			"ex": [
+				"savoir lire et écrire, lire une lettre"
+			]
+		},
+
+		"lisible  [lizibl] adj.": {
+			"lingala": [{
+				"-a kotánga, -a botángi": {
+					"def": "eye bakokí kotánga, kotánga na mpási tÊ¥",
+					"ex": "nkomá ya kotánga"
+				}
+			}],
+			"def": [
+				"qui peut être lu, facile à lire"
+			],
+			"ex": [
+				"une écriture lisible"
+			]
+		},
+
+		"lisiblement  [lizibl´mA)] adv.": {
+			"lingala": [{
+				"na ndéngé ya botángi": {
+					"def": "na ndéngé ya kotánga",
+					"ex": "kokoma na ndéngé ya botángi"
+				}
+			}],
+			"def": [
+				"d’une manière lisible"
+			],
+			"ex": [
+				"écrire lisiblement"
+			]
+		},
+
+		"lisse  [lis] adj.": {
+			"lingala": [{
+				"patátálú, s¥mb¥ s¥mb¥, l¥nd¥l¥nd¥, sÔ¥lisÔ¥li": {
+					"def": "eye ezálí na bikákátú tÊ¥",
+					"ex": "lomposo s¥mb¥ s¥mb¥"
+				}
+			}],
+			"def": [
+				"qui ne présente pas d’inégalités à la surface ; poli"
+			],
+			"ex": [
+				"une peau lisse"
+			]
+		},
+
+		"lisser  [lise] v.tr.": {
+			"lingala": [{
+				"kos¥mbisa": {
+					"def": "kos¥mbisa",
+					"ex": "kos¥mbisa etando, elambá, nsúki"
+				}
+			}],
+			"def": [
+				"rendre lisse"
+			],
+			"ex": [
+				"lisser une surface, un vêtement, les cheveux"
+			]
+		},
+
+		"liste  [list] n.f.": {
+			"lingala": [{
+				"nkóndo, lísit¥": {
+					"def": "maloba, nkómbo bakomí milandáni mÔ¡kÔ¡mÔ¡kÔ¡",
+					"ex": "kosála nkóndo ya bayékoli ba kelási yÔ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"suite de mots, de noms inscrits les uns au-dessous des autres"
+			],
+			"ex": [
+				"dresser, établir, faire une liste des élèves d’une classe"
+			]
+		},
+
+		"lit  [li] n.m.": {
+			"lingala": [{
+				"mbÔ¥to, elálelo": {
+					"def": "esíka ya kolála mp¡ngí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"meuble sur lequel on se couche pour dormir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"litige  [litiZ] n.m.": {
+			"lingala": [{
+				"likambo, matáta": {
+					"def": "bowélani boye bob¡ngí na bosámbisi",
+					"ex": "kosílisa likambo"
+				}
+			}],
+			"def": [
+				"contestation donnant matière à procès"
+			],
+			"ex": [
+				"régler un litige"
+			]
+		},
+
+		"litigieux, euse  [litiZø, øz] adj.": {
+			"lingala": [{
+				"-a likambo, -a matáta, -a ntembe": {
+					"def": "eye ezalí tÉo ekokí kozala na matáta",
+					"ex": "likambo lya matáta"
+				}
+			}],
+			"def": [
+				"qui est ou peut être en litige, contesté ou contestable; contentieux"
+			],
+			"ex": [
+				"un cas litigieux"
+			]
+		},
+
+		"litre  [lit{] n.m.": {
+			"lingala": [{
+				"lít¥l¥": {
+					"def": "lomeko la limáyi likokáni na desimÔ¥t¥l¥ kíb¥ yÔ¡kÔ¡",
+					"ex": "lít¥l¥ ya mái, ya mabÔ¥l¥"
+				}
+			}],
+			"def": [
+				"unité de mesure de volume valant un décimètre cube"
+			],
+			"ex": [
+				"un litre d’eau, de lait"
+			]
+		},
+
+		"littérature  [lite{aty{] n.f.": {
+			"lingala": [{
+				"nkomá nzéngá, maloba manzéngá, litelatíli": {
+					"def": "nkoma tÉo maloba ma bonzéngá",
+					"ex": "litelatíli ya nkomá, ya maloba"
+				}
+			}],
+			"def": [
+				"ensemble des productions, orales ou écrites considérées comme belles"
+			],
+			"ex": [
+				"littérautre écrite, orale"
+			]
+		},
+
+		"littoral, ale, aux  [litç{al, o] adj.": {
+			"lingala": [{
+				"-a ns¥l¥": {
+					"def": "ya ndelo ya mbú",
+					"ex": "etando ya ns¥l¥ ya ekólo"
+				}
+			}],
+			"def": [
+				"qui appartient aux bords de la mer, de l’océan"
+			],
+			"ex": [
+				"zone littorale d’un pays"
+			]
+		},
+
+		"livraison  [liv{Ezç)] n.f.": {
+			"lingala": [{
+				"botíki bilÔ¡k¡": {
+					"def": "ekela ya kopésa elÔ¡k¡ na moto asÔ¥ngákí",
+					"ex": "mokandá mwa botíki bilÔ¡k¡"
+				}
+			}],
+			"def": [
+				"action de livrer, remise d’un objet à la personne à qui il est destiné"
+			],
+			"ex": [
+				"bon de livraison"
+			]
+		},
+
+		"livre  [liv{] n.m.": {
+			"lingala": [{
+				"búku": {
+					"def": "makomí mazalí na nkásá nzíké ikangémí libóké",
+					"ex": "kokoma, kotánga búku"
+				}
+			}],
+			"def": [
+				"texte écrit comportant un grand nombre de pages reliées en un volume"
+			],
+			"ex": [
+				"écrire, lire une livre"
+			]
+		},
+
+		"livrer  [liv{e] v.tr.": {
+			"lingala": [{
+				"kotíka, kosundolela, kobimisa": {
+					"def": "kopésa na, kotíkela moto elÔ¡k¡",
+					"ex": "kotíka moto ya mabé na bazúzi"
+				}
+			}],
+			"def": [
+				"mettre à la disposition"
+			],
+			"ex": [
+				"livrer un coupable à la justice"
+			]
+		},
+
+		"livresque  [liv{Esk] adj.": {
+			"lingala": [{
+				"-a búku, -a mokanda": {
+					"def": "eye eúti sé na búku",
+					"ex": "mayÔ¥l¥ ma búku"
+				}
+			}],
+			"def": [
+				"qui est tiré uniquement des livres"
+			],
+			"ex": [
+				"des connaissances livresques"
+			]
+		},
+
+		"livret  [liv{E] n.m.": {
+			"lingala": [{
+				"búku kÔ¥k¥": {
+					"def": "mwá búku",
+					"ex": "búku ekÔ¥ya libóta, ya bobómbi mos¡l¡"
+				}
+			}],
+			"def": [
+				"petit livre"
+			],
+			"ex": [
+				"livret de famille, d’épargne"
+			]
+		},
+
+		"livreur, euse  [liv{œ{, øz] n.": {
+			"lingala": [{
+				"mokaboli masandísi": {
+					"def": "moto atíkelaka basómbi masandísi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui fait la livraison des marchandises vendues"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lob  [lçb] n.m.": {
+			"lingala": [{
+				"lÔ¡b¥": {
+					"def": "bolekisi ndembó likoló lya motó ya moníngá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(en sport) coup consistant à faire passer le ballon par-dessus la tête de l’adversaire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lobe  [lçb] n.m.": {
+			"lingala": [{
+				"bongbúngútulú": {
+					"def": "enama ya nzóto ya ligbúngútulu",
+					"ex": "bogbúngútulu bwa litóyi"
+				}
+			}],
+			"def": [
+				"partie arrondie d’un organe"
+			],
+			"ex": [
+				"le lobe de l’oreille"
+			]
+		},
+
+		"lober  [lçbe] v.tr.": {
+			"lingala": [{
+				"kol¡bé": {
+					"def": "kosála lÔ¡b¥, kokósa na lÔ¡b¥",
+					"ex": "kol¡bé moyambi"
+				}
+			}],
+			"def": [
+				"faire un lob à, tromper par un lob"
+			],
+			"ex": [
+				"lober un gardien de but"
+			]
+		},
+
+		"localité  [lçkalite] n.f.": {
+			"lingala": [{
+				"mbóka, lokalitê": {
+					"def": "etando ekÔ¥wápi bato bafándí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite agglomération, village"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"local, ale, aux  [lçkal, o] adj.": {
+			"lingala": [{
+				"": {
+					"def": "eye eútí epái esúsu tÊ¥, na mbóka mopaya tÊ¥",
+					"ex": "mim¥s¥n¡ mya esíká, zoloná ya mbóka"
+				}
+			}],
+			"def": [
+				"propre à un lieu, à une région, (Afr.) qui ne vient pas de l’étranger"
+			],
+			"ex": [
+				"des coutumes locales, un journal local"
+			]
+		},
+
+		"locataire  [lçkatE{] n.": {
+			"lingala": [{
+				"mofúteli, lokatÔ¥l¥": {
+					"def": "moto óyo afutelaka ndáko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui prend un logement en location"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"location  [lçkasjç)] n.f.": {
+			"lingala": [{
+				"bofúteli, bofútisi": {
+					"def": "ekela ya kofútela tÉo kofútisa",
+					"ex": "bofúteli tÉo bofútisi ndáko, mótuka"
+				}
+			}],
+			"def": [
+				"action donner ou de prendre à loyer"
+			],
+			"ex": [
+				"la location d’une maison, d’un véhicule"
+			]
+		},
+
+		"locomotive  [lçkçmçtiv] n.f.": {
+			"lingala": [{
+				"engbunduka, mikadó": {
+					"def": "masíni ekotámbolaka na láyi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"véhicule qui circule sur des rails"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"locuteur, trice  [lçkytœ{, t{is] n.": {
+			"lingala": [{
+				"molobi": {
+					"def": "moto óyo azalí koloba",
+					"ex": "molobi ya fulfud¥, lingála, bambara, sángÔ¡"
+				}
+			}],
+			"def": [
+				"personne qui parle"
+			],
+			"ex": [
+				"locuteur du fulfulde, du lingala, du bambara, du sango"
+			]
+		},
+
+		"logement  [lçZmA)] n.m.": {
+			"lingala": [{
+				"ndáko, elálelo": {
+					"def": "síká ya kolála",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"local d’habitation"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loger  [lçZe] v.tr.": {
+			"lingala": [{
+				"kofánda, kolála": {
+					"def": "kozala na ndáko",
+					"ex": "kofánda na engumba, na lotÔ¥l¥"
+				}
+			}],
+			"def": [
+				"avoir son logement à un endroit ; habiter"
+			],
+			"ex": [
+				"loger en ville, à l’hôtel"
+			]
+		},
+
+		"logique  [lçZik] adj.": {
+			"lingala": [{
+				"-a sémba": {
+					"def": "eye ezalí sémba, elÔ¡ngÔ¡báni na makanisi",
+					"ex": "makanisi ma sémba"
+				}
+			}],
+			"def": [
+				"correct dans sa forme"
+			],
+			"ex": [
+				"un raisonnement logique"
+			]
+		},
+
+		"logiquement  [lçZikmA)] adv.": {
+			"lingala": [{
+				"na sémba": {
+					"def": "na loléngé la sémba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière logique"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loi  [lwa] n.f.": {
+			"lingala": [{
+				"mobéko, motíndo": {
+					"def": "mopésámí na mokonzi mpÔ¡ya bato báns¡",
+					"ex": "mibéko mya mbóka, mitíndo mya Nzámbe"
+				}
+			}],
+			"def": [
+				"règle établie par une autorité et imposée à tous"
+			],
+			"ex": [
+				"les lois d’un pays, les lois de Dieu"
+			]
+		},
+
+		"loin  [lwE)] adv.": {
+			"lingala": [{
+				"mosíká": {
+					"def": "na ntáká esí",
+					"ex": "kok¥nd¥, kozala mosíká"
+				}
+			}],
+			"def": [
+				"(exprime le lieu) à une longue distance"
+			],
+			"ex": [
+				"aller, être loin"
+			]
+		},
+
+		"lointain, aine  [lwE)tE), En] adj.": {
+			"lingala": [{
+				"mosíká, esí": {
+					"def": "eye ezalí mosíká (na ntáká tÉo na ntángo) óyo ezalí ó esíká tó eleko esí",
+					"ex": "ekólo esí, eleko esí"
+				}
+			}],
+			"def": [
+				"qui est loin (dans l’espace ou dans le temps)"
+			],
+			"ex": [
+				"un pays lointain, une époque lointaine"
+			]
+		},
+
+		"loisir  [lwazi{] n.m.": {
+			"lingala": [{
+				"bopémi, lisan¡": {
+					"def": "bopémi, lisan¡",
+					"ex": "ntángo ya bopémi"
+				}
+			}],
+			"def": [
+				"repos"
+			],
+			"ex": [
+				"des moments de loisir"
+			]
+		},
+
+		"lombric  [lç)b{ik] n.m.": {
+			"lingala": [{
+				"mpambu, lipiká": {
+					"def": "mosÔ¡pi mwa mabelé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"verre de terre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"longe  [lç)Z] n.f.": {
+			"lingala": [{
+				"mok¡ng¡": {
+					"def": "mok¡ng¡ mwa nyama",
+					"ex": "mok¡ng¡ mwa ngúlu"
+				}
+			}],
+			"def": [
+				"partie du dos d’un animal (de l’échine à la queue)"
+			],
+			"ex": [
+				"une longe de porc"
+			]
+		},
+
+		"longer  [lç)Ze] v.tr.": {
+			"lingala": [{
+				"kotámbola mokúlá mokúlá": {
+					"def": "kotámbola mp¥mbÔ¥ni ya",
+					"ex": "kotámbola mokúlá mokúlá"
+				}
+			}],
+			"def": [
+				"marcher le long de, en suivant le bord de"
+			],
+			"ex": [
+				"longer une rivière"
+			]
+		},
+
+		"longévité  [lç)Zevite] n.f.": {
+			"lingala": [{
+				"bomoi bolaí": {
+					"def": "bowúmeli bwa bomoi",
+					"ex": "bomoi bolaí bwa moto"
+				}
+			}],
+			"def": [
+				"longue durée de la vie"
+			],
+			"ex": [
+				"longévité de l’homme"
+			]
+		},
+
+		"longtemps  [lç)tA)] adv.": {
+			"lingala": [{
+				"téé, tíí": {
+					"def": "na ngonga elaí",
+					"ex": "kozila tíí"
+				}
+			}],
+			"def": [
+				"pendant un long moment"
+			],
+			"ex": [
+				"attendre longtemps"
+			]
+		},
+
+		"longueur  [lç)gœ{] n.f.": {
+			"lingala": [{
+				" bolaí, bosándá": {
+					"def": "bonÔ¥n¥ bwa elÔ¡k¡ ngámbo na ngámbo",
+					"ex": "bolaí bwa nzete, bwa nzelá"
+				}
+			}],
+			"def": [
+				"dimension d’une chose en allant d’une extrémité à l’autre"
+			],
+			"ex": [
+				"la longueur d’un bâton, d’un chemin"
+			]
+		},
+
+		"long, longue  [lç), lç)g] adj.": {
+			"lingala": [{
+				"-a kowúmela": {
+					"def": "eye ekowúmelaka míngi",
+					"ex": "ngonga elaí, lói elaí"
+				}
+			}],
+			"def": [
+				"qui dure longtemps"
+			],
+			"ex": [
+				"un long moment, de longues vacances"
+			]
+		},
+
+		"lopin  [lçpE)] n.m.": {
+			"lingala": [{
+				"eténi, ndámbo": {
+					"def": "eténi ekÔ¥ya mabelé",
+					"ex": "eténi ya mabelé"
+				}
+			}],
+			"def": [
+				"petit morceau (de terrain)"
+			],
+			"ex": [
+				"un lopin de terre"
+			]
+		},
+
+		"loquace  [lçkas] n.": {
+			"lingala": [{
+				"-a mak¥lÔ¥l¥, mos¡pi, es¡pa": {
+					"def": "óyo alobaka míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui parle beacoup; bavard"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loquacité  [lçkasite] n.f.": {
+			"lingala": [{
+				"mak¥lÔ¥l¥, bosopi": {
+					"def": "mom¥s¥n¡ mwa koloba míngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"habitude de parler beaucoub"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loque  [lçk] n.f.": {
+			"lingala": [{
+				"linuká, limbúsú, lÔ¡ki": {
+					"def": "eténi ya elambá epasúká",
+					"ex": "koníka na linuká"
+				}
+			}],
+			"def": [
+				"morceau d’étoffe déchirée; chiffon, lambeau (Belgique, Afr.) serpillière"
+			],
+			"ex": [
+				"frotter avec une loque"
+			]
+		},
+
+		"loquet  [lçkE] n.m.": {
+			"lingala": [{
+				"ekangeli, efungeli": {
+					"def": "ebende ya kokanga ndáko eye ekákemaka na káti ya esúsu ebakémí na libáyá ya ezipeli",
+					"ex": "kotómbola, kobalola ekangeli"
+				}
+			}],
+			"def": [
+				"fermeture de porte constituée d’une tige mobile qui vient se bloquer dans une pièce fixée dans l’encadrement"
+			],
+			"ex": [
+				"soulever, tourner le loquet"
+			]
+		},
+
+		"loqueteux, euse  [lçktø, øz] adj.": {
+			"lingala": [{
+				"embusu, en¥ngú": {
+					"def": "óyo alátí limbusu",
+					"ex": "mobangé en¥ngú"
+				}
+			}],
+			"def": [
+				"qui est vêtu de loques, de haillons"
+			],
+			"ex": [
+				"un vieillard loqueteux"
+			]
+		},
+
+		"lorgner  [lç{¯e] v.tr.": {
+			"lingala": [{
+				"kotála na sÔ¡ngÔ¥ya líso, konÔ¡ng¡, kotálatala": {
+					"def": "kotála na mpósa",
+					"ex": "kotálatala el¥ngÔ¥mobali, mos¥ka, nsósó ya kotumba"
+				}
+			}],
+			"def": [
+				"regarder, observer avec insistance, avec convoitise"
+			],
+			"ex": [
+				"lorgner un jeune homme, une jeune fille, un poulet rôti"
+			]
+		},
+
+		"lorsque  [lç{sk] conj. de temps": {
+			"lingala": [{
+				"ntángo": {
+					"def": "na ngonga ya",
+					"ex": "ntángo okoyá nakom¡n¡ yÔ¡"
+				}
+			}],
+			"def": [
+				"au moment où, quand"
+			],
+			"ex": [
+				"lorque tu viendras je te verrai"
+			]
+		},
+
+		"lot  [lo] n.m.": {
+			"lingala": [{
+				"eténi, likabo": {
+					"def": "ndámbo ya elÔ¡k¡ bakabóli na bato baíké",
+					"ex": "kokabola elÔ¡k¡ na biténi bísáto bikokáná"
+				}
+			}],
+			"def": [
+				"partie d’un tout partagé entre plusieurs personnes; part"
+			],
+			"ex": [
+				"partager qqn en trois lots égaux"
+			]
+		},
+
+		"lotir  [lçti{] v.tr.": {
+			"lingala": [{
+				"kokabola": {
+					"def": "kokátá na biténi biíké",
+					"ex": "kokabola mabelé"
+				}
+			}],
+			"def": [
+				"partager en plusieurs lots"
+			],
+			"ex": [
+				"lotir un terrains"
+			]
+		},
+
+		"LOtissement  [lçtismA)] n.m.": {
+			"lingala": [{
+				"bokaboli mabelé, mabelé bakabólí ": {
+					"def": "bokaboli mabelé na mapángo ya kotéka, mabelé bakabólí",
+					"ex": "kofánda na mabelé bakabólí"
+				}
+			}],
+			"def": [
+				"division d’un terrain en parcelles vendues séparément; terrain ainsi morcelé"
+			],
+			"ex": [
+				"habiter dans un lotissement"
+			]
+		},
+
+		"loto  [lçto] n.m.": {
+			"lingala": [{
+				"lob¥s¥, tombolá, zeké": {
+					"def": "lisan¡ lya zeké ya kop¡n¡ limeló lisengélí kolongisa mosani",
+					"ex": "kobÔ¥t¥ zeké, kozwa tombolá, kopola na tombolá"
+				}
+			}],
+			"def": [
+				"jeu de hasard consistant à choisir sur un bulletin des numéros qui gagnent s’ils correspondent aux numéros tirés au sort"
+			],
+			"ex": [
+				"jouer, gagner, perdre au loto"
+			]
+		},
+
+		"louange  [lwA)Z] n.f.": {
+			"lingala": [{
+				"lokúmu, bokúmisi, longónya": {
+					"def": "maloba ma bokúmisi, litátoli lya bokúmisi kopésa lokúmu na moto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"discours par lequel on loue qqn, témoignage d’admiration; compliments, félicitations"
+			],
+			"ex": [
+				"faire, prodiguer des louanges à qqn"
+			]
+		},
+
+		"loubard  [luba{] n.m.": {
+			"lingala": [{
+				"moto wa yaúli, shége": {
+					"def": "el¥ngÔ¥ya lingómbá ya babandí",
+					"ex": "lingómbá lya bato ba yaúli"
+				}
+			}],
+			"def": [
+				"jeune délinquant qui fait partie d’une bande ; voyou"
+			],
+			"ex": [
+				"une bande de loubards"
+			]
+		},
+
+		"louche  [luS] adj.": {
+			"lingala": [{
+				"-a mayÔ¥l¥ mabé, -a lomp¥kÔ¥, -a molílí": {
+					"def": "óyo azángí bosémbo",
+					"ex": "moto wa mayÔ¥l¥ mabé, likambo ya molílí"
+				}
+			}],
+			"def": [
+				"qui ne paraît pas honnête, qui n’inspire pas confiance"
+			],
+			"ex": [
+				"un individu louche, une affaire louche"
+			]
+		},
+
+		"loucher  [luSe] v.intr.": {
+			"lingala": [{
+				"kotála na mp¥kÔ¥": {
+					"def": "kozala na líso liv¥nÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avoir des yeux qui ne regardent pas dans la même direction"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loucheur, euse  [luSœ{, øz] n.": {
+			"lingala": [{
+				"moto ya líso liv¥nÔ¡": {
+					"def": "moto óyo atálaka na mp¥kÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui louche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"louer  [lwe] v.tr.": {
+			"lingala": [{
+				"kokúmisa, kosánzola": {
+					"def": "kotómbola lokúmu la",
+					"ex": "kokúmisa Nzámbe, moíntÔ¡ki"
+				}
+			}],
+			"def": [
+				"célébrer les mérites de ; exalter, glorifier, honorer"
+			],
+			"ex": [
+				"louer Dieu, un artiste"
+			]
+		},
+
+		"loufoque  [lufçk] adj.": {
+			"lingala": [{
+				"aúli, elémá": {
+					"def": "mwá ligbóm",
+					"ex": "moto yaúli"
+				}
+			}],
+			"def": [
+				"un peu fou ; extravagant, farfelu"
+			],
+			"ex": [
+				"un type complètement loufoque"
+			]
+		},
+
+		"loup  [lu] n.m.": {
+			"lingala": [{
+				"mbwá ya zámba": {
+					"def": "nyama ya mabÔ¥l¥ eliáka nsuni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mammifère carnivore à l’allure de chien, chien sauvage, (Afr.) lycaon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loupe  [lup] n.f.": {
+			"lingala": [{
+				"lúp¥, talatálá ya bokólisi, manÔ¥ti ya bokólisi": {
+					"def": "talatála ya bokolisi bilílí",
+					"ex": "kotánga, kotála elÔ¡k¡ na lúp¥"
+				}
+			}],
+			"def": [
+				"lunette grossissante qui donne des objets une image agrandie"
+			],
+			"ex": [
+				"lire, regarder qch avec une loupe"
+			]
+		},
+
+		"louper  [lupe] v.tr.": {
+			"lingala": [{
+				"kozánga, kokpéya": {
+					"def": "kosála tÊ¥, kozwa tÊ¥",
+					"ex": "kozánga momekano, engbunduka"
+				}
+			}],
+			"def": [
+				"rater, manquer"
+			],
+			"ex": [
+				"louper un examen, un train"
+			]
+		},
+
+		"lourdement  [lu{d´mA)] adv.": {
+			"lingala": [{
+				"na bozitó, na kiló": {
+					"def": "na loléngé la kiló",
+					"ex": "komíyékama na kiló likoló lya mpango"
+				}
+			}],
+			"def": [
+				"avec lourdeur ; pesamment"
+			],
+			"ex": [
+				"s’appuyer lourdement sur sa canne"
+			]
+		},
+
+		"lourdeur  [lu{dœ{] n.f.": {
+			"lingala": [{
+				"bozitó, kiló": {
+					"def": "ezaleli ya eye ezalí kiló",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui pèse, de ce qui est lourd; pesanteur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lourd, lourde  [lu{, lu{d] adj.": {
+			"lingala": [{
+				"-a bozitó, -a kiló": {
+					"def": "eye ezalí na kiló, kaká mpÔ¡ya kom¥m¥",
+					"ex": "libóké ya bozitó"
+				}
+			}],
+			"def": [
+				"qui pèse, qui est difficile à porter ; pesant"
+			],
+			"ex": [
+				"un paquet lourd"
+			]
+		},
+
+		"louveteau  [luvto] n.m.": {
+			"lingala": [{
+				"mwána mbwá ya zámba": {
+					"def": "mwána ya mbwá ya zámba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit du loup, jeune loup"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"louvoiement  [luvwamA)] n.m.": {
+			"lingala": [{
+				"botatabani": {
+					"def": "ekela ya kotatabana",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de louvoyer, de tergiverser"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"louvoyer  [luvwaje] v.intr.": {
+			"lingala": [{
+				"kotatabana, kolukaluka": {
+					"def": "koluka nzela yambo ya kosála likambo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"faire de nombreux détours pour arriver à ses fins; tergiverser"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loyalement  [lwajalmA)] adv.": {
+			"lingala": [{
+				"na bosémbo, na bosÊ¡lÔ¡": {
+					"def": "na loléngé ya bosémbo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière loyale, avec loyauté, franchise, sincérité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"loyal, ale, aux  [lwajal, o] adj.": {
+			"lingala": [{
+				"-a bosémbo, -a sÊ¡lÔ¡": {
+					"def": "óyo azalí sémba, azalí na bosémbo",
+					"ex": "moníngá wa bosémbo, lisoló lya bosÊ¡lÔ¡"
+				}
+			}],
+			"def": [
+				"franc, sincère"
+			],
+			"ex": [
+				"un ami loyal, une discussion loyale"
+			]
+		},
+
+		"loyauté  [lwajote] n.f.": {
+			"lingala": [{
+				"bosémbo, bosÊ¡lÔ¡": {
+					"def": "bosémbo, bosÊ¡lÔ¡",
+					"ex": "kondima libúnga, kondima bokpéi na bosÊ¡lÔ¡"
+				}
+			}],
+			"def": [
+				"honnêteté, probité, sincérité"
+			],
+			"ex": [
+				"reconnaître ses erreurs, sa défaite avec loyauté"
+			]
+		},
+
+		"loyer  [lwaje] n.m.": {
+			"lingala": [{
+				"mbÔ¡ng¡ ya ndáko": {
+					"def": "mbÔ¡ng¡ basÔ¥ngí mpÔ¡ya kofút¥la ndáko",
+					"ex": "kofúta mbÔ¡ng¡ ya ndáko"
+				}
+			}],
+			"def": [
+				"prix demandé pour la location d’une habitation"
+			],
+			"ex": [
+				"payer son loyer"
+			]
+		},
+
+		"lubrifier  [lyb{ifje] v.tr.": {
+			"lingala": [{
+				"kos¥lumisa, kopakola mafúta": {
+					"def": "kokómisa mos¥lú",
+					"ex": "kos¥lumisa lulemá"
+				}
+			}],
+			"def": [
+				"rendre glissant avec une graisse ; graisser"
+			],
+			"ex": [
+				"lubrifier un roulement à billes"
+			]
+		},
+
+		"lucide  [lysid] adj.": {
+			"lingala": [{
+				"míso ga, míso makási, polélé polélé": {
+					"def": "moto óyo azali komÔ¡n¡, koyébá mpé koloba makambo polélé polélé",
+					"ex": "moto ya polélé polélé, moí politíki ya míso ga"
+				}
+			}],
+			"def": [
+				"qui perçoit, comprend, exprime les choses avec clarté et netteté; clairvoyant, perspicace"
+			],
+			"ex": [
+				"un homme lucide, une politique lucide"
+			]
+		},
+
+		"lucidement  [lysidmA)] adv.": {
+			"lingala": [{
+				"na polélé": {
+					"def": "na ndéngé ya kobómbama tÊ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière lucide"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lucidité  [lysidite] n.f.": {
+			"lingala": [{
+				"míso makási, mayÔ¥l¥": {
+					"def": "ezaleli ya moto óyo azalí míso ga",
+					"ex": "mok¡ni óyo azalí na míso makási kínó liwá"
+				}
+			}],
+			"def": [
+				"qualité de celui qui est lucide, conscience claire; clairvoyance, perspicacité"
+			],
+			"ex": [
+				"un malade qui garde sa lucidité jusqu’à la mort"
+			]
+		},
+
+		"luciole  [lysjçl] n.f.": {
+			"lingala": [{
+				"tÔ¥nitÔ¥ni": {
+					"def": "nyama nkÔ¥k¥ eye eng¥ng¥k¥ na butú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"insecte luminescent vivant autour des marigots"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lucratif, ive  [lyk{atif, iv] adj.": {
+			"lingala": [{
+				"-a mbano, -a mbÔ¡ng¡": {
+					"def": "eye epésaka mos¡l¡, eye ezalí na litómbá",
+					"ex": "mosálá mwa mbano"
+				}
+			}],
+			"def": [
+				"qui rapporte de l’argent, qui procure un gain, un profit"
+			],
+			"ex": [
+				"un travail lucratif"
+			]
+		},
+
+		"lucre  [lyk{] n.m.": {
+			"lingala": [{
+				"mbano, litómbá": {
+					"def": "mbano eye balukaka na lokósó",
+					"ex": "mpósá ya mbano"
+				}
+			}],
+			"def": [
+				"gain, profit qu’on recherche avec avidité"
+			],
+			"ex": [
+				"l’appât, le goût du lucre"
+			]
+		},
+
+		"luette  [lÁEt] n.f.": {
+			"lingala": [{
+				"edáda, elála": {
+					"def": "mbuma ya nsuni na ebandeli ya mongóngó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"saillie charnue au fond de la bouche, qui prolonge le voile du palais"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lueur  [lÁœ{] n.f.": {
+			"lingala": [{
+				"bobú, bong¥ngi": {
+					"def": "mwá mwínda",
+					"ex": "bobú ya buzí"
+				}
+			}],
+			"def": [
+				"lumière faible"
+			],
+			"ex": [
+				"la lueur d’une bougie"
+			]
+		},
+
+		"lugubre  [lygyb{] adj.": {
+			"lingala": [{
+				"-a mawa, malíli": {
+					"def": "eye ezalí na mawa",
+					"ex": "ndáko ya mawa"
+				}
+			}],
+			"def": [
+				"qui est très triste ; macabre, sinistre"
+			],
+			"ex": [
+				"une maison lugubre"
+			]
+		},
+
+		"luire  [lÁi{] v.intr.": {
+			"lingala": [{
+				"kong¥ng¥, kopela": {
+					"def": "kopésa mwínda",
+					"ex": "mwésé mozalí kong¥ng¥"
+				}
+			}],
+			"def": [
+				"produire de la lumière ; briller"
+			],
+			"ex": [
+				"le soleil luit"
+			]
+		},
+
+		"luisant, ante  [lÁizA), A)t] adj.": {
+			"lingala": [{
+				"-a kong¥ng¥": {
+					"def": "eye ekong¥ng¥k¥",
+					"ex": "ebendé ya kong¥ng¥"
+				}
+			}],
+			"def": [
+				"qui luit, brille; brillant"
+			],
+			"ex": [
+				"un métal luisant"
+			]
+		},
+
+		"lui, elle  [lÁi, El] pron. pers.": {
+			"lingala": [{
+				"yÉe": {
+					"def": "eye ekolakisaka moto wa básáto wa lisoló",
+					"ex": "yÉe, yÉe mpé ngáí"
+				}
+			}],
+			"def": [
+				"marque la troisième personne du singulier"
+			],
+			"ex": [
+				"lui, elle et moi"
+			]
+		},
+
+		"lumière  [lymjE{] n.f.": {
+			"lingala": [{
+				"mwínda, mÔ¡t¡": {
+					"def": "eye ekop¥l¥k¥ mpé elingisaka komÔ¡n¡",
+					"ex": " mwínda mwa mwésé"
+				}
+			}],
+			"def": [
+				"ce qui éclaire et permet de voir"
+			],
+			"ex": [
+				"la lumière du soleil"
+			]
+		},
+
+		"luminaire  [lyminE{] n.m.": {
+			"lingala": [{
+				"mwínda, epela": {
+					"def": "esálele ekopésaka mwínda",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"appareil d’éclairage ; lampe"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"luminescent, ente  [lyminEsA), A)t] adj.": {
+			"lingala": [{
+				"-a kong¥ng¥, -ng¥ngisaka": {
+					"def": "eye epésaka mwínda ntángo na molungé",
+					"ex": "tÔ¥nitÔ¥ni a kong¥ng¥"
+				}
+			}],
+			"def": [
+				"qui émet de la lumière sans aucune action de la chaleur, sans être incandescent"
+			],
+			"ex": [
+				"la luciole est luminescente"
+			]
+		},
+
+		"lumineusement  [lyminøzmA)] adv.": {
+			"lingala": [{
+				"polélépolélé, na polélé, na saa": {
+					"def": "na loléngé la polélé",
+					"ex": "kolimbola polélépolélé"
+				}
+			}],
+			"def": [
+				"d’une manière lumineuse, claire; clairement"
+			],
+			"ex": [
+				"expliquer qch lumineusement"
+			]
+		},
+
+		"lumineux, euse  [lyminø, øz] adj.": {
+			"lingala": [{
+				"-a mwínda, -a kong¥ng¥": {
+					"def": "eye epésaka mwínda",
+					"ex": "elÔ¡k¡ ya mwínda"
+				}
+			}],
+			"def": [
+				"qui émet de la lumière"
+			],
+			"ex": [
+				"un corps lumineux"
+			]
+		},
+
+		"luminosité  [lyminçzite] n.f.": {
+			"lingala": [{
+				"bomwínda, bong¥ngi": {
+					"def": "ezaleli ya eye ekopelaka, ekong¥ng¥k¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est lumineux, brillant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lunaire  [lynE{] adj.": {
+			"lingala": [{
+				"-a sánzá, lokóla sánzá": {
+					"def": "eye etálí sánzá, ezalí ya sánzá",
+					"ex": "mwínda mwa sánzá"
+				}
+			}],
+			"def": [
+				"de la lune, propre à la lune"
+			],
+			"ex": [
+				"la clarté lunaire"
+			]
+		},
+
+		"lundi  [lœ))di] n.m.": {
+			"lingala": [{
+				"m¡k¡l¡ mwa mosálá mÔ¡kÔ¡, l¥ndí": {
+					"def": "m¡k¡l¡ mwa yambo mwá mosálá, sima ya eyenga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"premier jour de la semaine, après dimanche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lune  [lyn] n.f.": {
+			"lingala": [{
+				"sánzá": {
+					"def": "ezólongani (sat¥lít¥) ya mabelé",
+					"ex": "bong¥ngi bwa sánzá"
+				}
+			}],
+			"def": [
+				"satellite de la terre"
+			],
+			"ex": [
+				"clair de lune"
+			]
+		},
+
+		"lunetier, ère  [lynetje, E{] n.": {
+			"lingala": [{
+				"mosáli tÉo motÔ¥ki manÔ¥ti": {
+					"def": "moto óyo asálaka tÉo atÔ¥kaka talatálá ya míso",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui fabrique ou vend des lunettes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lunette  [lynEt] n.f.": {
+			"lingala": [{
+				"talatálá ya míso, manÔ¥ti": {
+					"def": "talatálá íbale na nzeté ya yangó mpÔ¡na kobátela míso tÉo kobongisa botáli",
+					"ex": "koláta talatálá ya míso"
+				}
+			}],
+			"def": [
+				"(au pl.) paires de verres fixés à une monture et servant à protéger les yeux ou à corriger la vue"
+			],
+			"ex": [
+				"porter des lunettes"
+			]
+		},
+
+		"lunetterie  [lynEt{i] n.f.": {
+			"lingala": [{
+				"mosálá mwa kotÔ¥k¥ manÔ¥ti": {
+					"def": "mosálá mwa kotÔ¥k¥ manÔ¥ti",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"commerce des lunettes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lurette (il y a belle -)  [ly{Et] loc.fam.": {
+			"lingala": [{
+				"útó kala, kalakala": {
+					"def": "ewúmélí",
+					"ex": "ak¥ndá útó kala"
+				}
+			}],
+			"def": [
+				"il y a longtemps"
+			],
+			"ex": [
+				"il est parti il y a belle lurette"
+			]
+		},
+
+		"lusophone  [lyzçfçn] adj. et n.": {
+			"lingala": [{
+				"molobi potologÔ¥si": {
+					"def": "moto óyo alobaka nkóta ya bapotologÔ¥si",
+					"ex": "molobi potologÔ¥si, ekólo ya balobi potologÔ¥si"
+				}
+			}],
+			"def": [
+				"qui parle portugais, où l’on parle portugais"
+			],
+			"ex": [
+				"un lusophone, un pays lusophone"
+			]
+		},
+
+		"lustrer  [lyst{e] v.tr.": {
+			"lingala": [{
+				"kong¥ngisa, kotelisa": {
+					"def": "kongbuluta elÔ¡k¡ mpÊ¡ éng¥ng¥",
+					"ex": "kong¥ngisa ekótó, sapáto"
+				}
+			}],
+			"def": [
+				"rendre brillant en frottant"
+			],
+			"ex": [
+				"lustrer un cuir, des chaussures"
+			]
+		},
+
+		"lutte  [lyt] n.f.": {
+			"lingala": [{
+				"mpóngó, líbanda": {
+					"def": "etumba ya bato bábalé bakangání na nzóto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"combat de deux adversaires en corps à corps"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lutter  [lyte] v.intr.": {
+			"lingala": [{
+				"kobunda, kobundisa": {
+					"def": "kosála etumba",
+					"ex": "kobunda mpÔ¡ya kobíka, kobundisa mongúná"
+				}
+			}],
+			"def": [
+				"se battre, combattre, batailler"
+			],
+			"ex": [
+				"lutter pour la vie, contre un ennemi"
+			]
+		},
+
+		"lutteur, euse  [lytœ{, øz] n.": {
+			"lingala": [{
+				"mobuni, mobundi": {
+					"def": "moto óyo abundaka, abundaka mpóngó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui lutte, qui pratique la lutte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"luxueux, euse  [lyksÁø, øz] adj.": {
+			"lingala": [{
+				"-a nkita, ya m¡s¡l¡, kitÔ¡kÔ¡koleka": {
+					"def": "eye ezalí na nkita mpé kitÔ¡k¡",
+					"ex": "ndáko itÔ¡k¡ koleka"
+				}
+			}],
+			"def": [
+				"riche et magnifique"
+			],
+			"ex": [
+				"une maison luxueuse"
+			]
+		},
+
+		"luxure  [lyksy{] n.f.": {
+			"lingala": [{
+				"bondúmbá, pitê": {
+					"def": "mpósá ya nzóto koleka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"pratique immodérée des plaisirs sexuels ; débauche"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lycaon  [likaç))] n.m.": {
+			"lingala": [{
+				"mbwá ya zámba": {
+					"def": "Afríka, mbwá ebíkaka na zámba bakobéngaka na libúngá lú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(Afr.) chien sauvage, improprement appelé loup"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lycée  [lise] n.m.": {
+			"lingala": [{
+				"lisé": {
+					"def": "etéyelo ya ntéi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"établissement public d’enseignement secondaire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lycéen, enne  [liseE), En] n.": {
+			"lingala": [{
+				"moyékoli wa lisé": {
+					"def": "moyékoli atángaka na lisé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"élève d’un lycée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"lyncher  [lE)Se] v.tr.": {
+			"lingala": [{
+				"kobÔ¥t¥ b¥t¥, konyÔ¡k¡l¡": {
+					"def": "kobÔ¥t¥ moto eye ekokí kom¥m¥ moto na liwá",
+					"ex": "babÔ¥tibÔ¥ti ye na bato ebelé"
+				}
+			}],
+			"def": [
+				"faire subir à qqn de graves violences, des brutalités pouvant entraîner la mort"
+			],
+			"ex": [
+				"il a été lynché par la foule"
+			]
+		}
+	}
