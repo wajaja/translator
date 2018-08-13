@@ -3,6 +3,7 @@ import _            from 'lodash'
 import Immutable    from 'immutable'
 import Select       from 'react-select';
 import { Link }     from 'react-router-dom'
+import { Helmet }   from "react-helmet";
 const io  = require('socket.io-client');
 const uniqueString = require('unique-string');
 
@@ -301,6 +302,7 @@ class Page extends PureComponent {
                                           isSearchable={false}
                                           name="source"
                                           value={sourceLang}
+                                          instanceId="source-1"
                                           onChange={this.sourceChange}
                                           options={sourceOptions}
                                         />
@@ -334,6 +336,7 @@ class Page extends PureComponent {
                                           isRtl={false}
                                           isSearchable={false}
                                           name="target"
+                                          instanceId="target-2"
                                           value={targetLang}
                                           onChange={this.targetChange}
                                           options={targetOptions}

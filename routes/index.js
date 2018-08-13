@@ -2,16 +2,19 @@ var express             = require('express');
 var mongoose            = require('mongoose');
 var bcrypt              = require('bcrypt');
 var jwt                 = require('jsonwebtoken'); // used to create, sign, and verify tokens
+var url                 = require('url');
 var app                 = require('../app');
 var UserSchema          = require('../app/models/user'); // get our mongoose model
 var LanguageSchema      = require('../app/models/language'); // get our mongoose model
 var {
     translatePhraseStr
 }                       = require('../server/translate');
+var renderFullPage      = require('./renderFullPage');
 
 var router      = express.Router();
 var User        = mongoose.model('User', UserSchema);
 var Language    = mongoose.model('Language', LanguageSchema);
+
 
 // route to authenticate a user (POST http://localhost:8080/api/login_check)
 router.post('/api/login_check', function(req, res) {
@@ -148,25 +151,42 @@ router.get(`/api/users/:id`, function(req, res) {
     });
 });
 
-router.get('/login', function(req, res, next) {
-
-
-    res.render('index', {
-        title: 'Traducteur. Français - lingala',
-        css: process.env.NODE_ENV == 'PRODUCTION' ? '/css/styles.min.css' : '/css/styles.css',
-    });
-});
+// router.get('/login', function(req, res, next) {
+//
+//     let params = {
+//         url: req.url,
+//         title: 'Traducteur. Français - lingala',
+//         preloadedState: {
+//             Translator: {
+//                 access_token: 'myToken'
+//             }
+//         }
+//     }
+//
+//     // res.send('index rendered');
+//     renderFullPage(req, res, params);
+// });
 
 router.all('*', function(req, res, next) {
 
     var sessData = req.session;
     // sessData.someAttribute = "foo";
     // var someAttribute = req.session.someAttribute;
+    console.log('url_parts', req.originalUrl);
 
-    res.render('index', {
+    let params = {
+        url: req.originalUrl,
         title: 'Traducteur. Français - lingala',
-        css: process.env.NODE_ENV == 'PRODUCTION' ? '/css/styles.min.css' : '/css/styles.css',
-    });
+        preloadedState: {
+            Translator: {
+                access_token: 'myToken'
+            }
+        }
+    }
+
+    // res.render('index', {title: 'some title', r: 'jkg'});
+    // res.send('index rendered');
+    renderFullPage(req, res, params);
 });
 
 // route middleware to verify a token

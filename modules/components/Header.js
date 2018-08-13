@@ -7,8 +7,9 @@ const Header = (props) => {
         	<div className="container">
         		<div className="navbar-header">
                     <div className="navbar-brand">
-                        <span className="bar-brand-txt prefix">XYZ</span>
-                        <span className="bar-brand-txt">Traduction</span>
+                        <Link to="/" className="bar-brand-txt">
+                            <h1>XYZ Traduction</h1>
+                        </Link>
                     </div>
                 </div>
 	            <div className="navbar-rght">
@@ -20,13 +21,13 @@ const Header = (props) => {
                                 <div className="navs-lk">
                                     <Link to="/" className="gb-nv-ho">
                                         <span className="auto-ico"></span>
-                                        <span className="auto-txt">Text</span>
+                                        <h4 className="auto-txt">Text</h4>
                                     </Link>
                                 </div>
                                 <div className="navs-lk">
                                     <Link to="/interveners" className="gb-nv-ho">
                                         <span className="interv-ico"></span>
-                                        <span className="interv-txt">Intervenant</span>
+                                        <h4 className="interv-txt">Intervenant</h4>
                                     </Link>
                                 </div>
                             </div>

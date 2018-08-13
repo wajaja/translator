@@ -6,6 +6,7 @@ var express      = require('express'),
     // favicon      = require('serve-favicon'),
     //http://blog.slatepeak.com/creating-a-simple-node-express-api-authentication-system-with-passport-and-jwt/
     bodyParser  = require('body-parser'),
+    helmet      = require('helmet'),
 
     morgan      = require('morgan'),
     mongoose    = require('mongoose'),
@@ -27,6 +28,9 @@ var app = express();
 // =======================
 // configuration =========
 // =======================
+app.use(helmet()) //It's best to use Helmet early in your middleware stack so that its headers are sure to be set.
+app.use(helmet.noCache()) //disable client-side caching
+app.use(helmet.xssFilter()) // Sets "X-XSS-Protection: 1; mode=block".
 mongoose.connect(config.database); // connect to database
 app.set('appSecret', config.secret); // secret variable
 
@@ -39,10 +43,13 @@ app.set('view engine', 'ejs');
 // app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(bodyParser.json());  // TODO Explain
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(express.static(path.join(__dirname, 'public')));
+const projectRoot = path.resolve(__dirname, '../translator');
+// app.use('build', express.static(__dirname))
+app.use('/build', express.static(path.join(projectRoot, '/build')));
+app.use(express.static(path.join(projectRoot, '/public')));
 // Log requests to console
 app.use(morgan('dev'));
-app.use('/', routes);
+app.use('*', routes);
 
 app.use(function(req, res, next) {
     var err = new Error('Not Found');
@@ -50,14 +57,15 @@ app.use(function(req, res, next) {
     next(err);
 });
 
+app.set('trust proxy', 1) // trust first proxy
 app.use(session({
     secret: '91005translator',
     resave: false,
     saveUninitialized: true,
-    // store: new RedisStore({
-    //     client: client,
-    //
-    // }),
+    store: new RedisStore({
+        client: client,
+
+    }),
     cookie: { maxAge: 60000 }
 }))
 
@@ -66,20 +74,20 @@ app.use(session({
  */
 if (app.get('env') === 'development') {
     app.use(function(err, req, res, next) {
-        res.status(err.status || 500);
-        res.render('error', {
-            message: err.message,
-            error: err
-        });
+        res.status(err.status || 500)
+           .send({
+                message: err.message,
+                errori: err.toString()
+            });
     });
 }
 
 app.use(function(err, req, res, next) {
-    res.status(err.status || 500);
-    res.render('error', {
-        message: err.message,
-        error: {}
-    });
+    res.status(err.status || 500)
+       .send({
+            message: err.message,
+            erroro: err.toString()
+        });
 });
 
 module.exports = app;

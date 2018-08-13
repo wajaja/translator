@@ -52,6 +52,8 @@ function francais_lingala(str, order, uniqueString) {
                     return {'word_type':'aspect', 'val': '', 'translated': false, 'pos': index};
                 } else if(/^[A-Z]/.test(w) && index !== 0) {
                     return {'word_type':'noum', 'val': _w, 'translated': false, 'pos': index};
+                } else if(parseInt(w, 10)) {
+                    return {'word_type':'number', 'val': w, 'translated': false, 'pos': index};
                 }
                 //article
                 else if(articles_keys.indexOf(w) >= 0) {
@@ -200,16 +202,27 @@ function francais_lingala(str, order, uniqueString) {
                 //check if the prevType is an auxiliaire and check the end of the current word
                 else if(prevType.nature === 'auxiliare' && /[ééesésites]$/.test(_w)) {
                     console.log('auxiliare..................');
-                    let trans = findVerb(w.slice());
+                    let verb = findVerb(w.slice());
                     prevType  = {}; //reset prevType
-                    composed_verb = !!trans ? true : false;
-                    return {
-                        'word_type': 'verb',
-                        'translated': true,
-                        'val': !!trans ? trans : ' ' + _w, //if word not founded then return the french version
-                        'attach': getAttachedChar(_w),
-                        'mode': 'ákí',                      // composed_verb mode
-                        'pos': index
+                    if(verb.trans !== -1) {
+                        return {
+                            'word_type': 'verb',
+                            'translated': true,
+                            'val': !!verb ? verb : ' ' + _w, //if word not founded then return the french version
+                            'attach': getAttachedChar(_w),
+                            'mode': 'ákí',                      // composed_verb mode
+                            'pos': index
+                        }
+                    } else if(findWord(w).val !== -1) {
+                        let trans = findWord(w);
+                        return {
+                            'word_type': 'word',
+                            'translated': true,
+                            'val':  trans,
+                            'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
+                            'attach': getAttachedChar(_w),
+                            'pos': index
+                        }
                     }
                 }
 
@@ -298,8 +311,8 @@ function francais_lingala(str, order, uniqueString) {
                             'translated': false,
                             'attach': getAttachedChar(_w),
                         }
-                    } else if(verb = _guessVerb(w, index, aspect)) {
-                        console.log('300 iiiiiiiiiiiiiiiiiiiiii', verb);
+                    } else if(_guessVerb(w, index, aspect).trans !== -1) {
+                        let verb = _guessVerb(w, index, aspect);
                         if(verb.trans !== -1) {
                             let begining = verb.begining;
                             prevType    = {};
@@ -322,7 +335,6 @@ function francais_lingala(str, order, uniqueString) {
                             };
                         }
                     }
-
                 }
             } else {
                 return ' '; //return empty str
@@ -433,8 +445,8 @@ function francais_lingala(str, order, uniqueString) {
                 return _phrase + ' '  + prefixVerbal + _conjuguer('', verbVal, fullMode) + ' ';
             }
 
-            console.log('jusquiciiiiiiiiiiiiiiii');
-            return idx == 0 ? currWord.val : _phrase + ' ' + currWord.val + ' ';
+            let __val = (typeof currWord === 'object') ? currWord.val : '';
+            return idx == 0 ? __val : _phrase + ' ' + __val + ' ';
         }, '');
 
         resolved = resolved + negative_phr_end + end_phrase;
@@ -472,6 +484,7 @@ function francais_lingala(str, order, uniqueString) {
 function _guessVerb(w, index, aspect){
     //1. verbs_er
     //if word's length less than
+    let begining = '';
     if(w.length <= 2) {
         return {
             'mode': '',
@@ -556,17 +569,15 @@ function _guessVerb(w, index, aspect){
             return {'end': '', 'group': 'er', 'index': index}
         }
     }); //longest
-    verb = {};
+
     if(_end['end'].length <= 0) { //note verb
         /**
          * slice(0 -0) will produce a mistake
          * @type {[type]}
          */
-        console.log('iciiiiiooooooooooooooooooooooooooooooooooooooooooo');
         begining = w; //
     } else {
         begining = w.slice(0, -(_end['end'].length)); //
-        console.log('ddddddddddddàoooooooooooooooooooooooooooooo');
         if(begining.length <= 2) {
             begining = w.slice(0, 3); // get 3 first char at beginnig
         }
@@ -672,25 +683,28 @@ function getAuxiliareMode(auxi, pos, aspect) {
  * @return      {[type]}         [description]
  */
 function _conjuguer(prefix, verbVal, mode) {
-    let _arr    = verbVal.split(' ');      // e.g: kozala na => get kozala
-    let _val    = _arr[0];
-    let radical = _val.slice(2); //remove 'ko' at the start
-    let $return = '';
-    let builded = (
-        prefix +
-        radical.slice(0, -1) +  //remove last char before appling conjugaison
-        mode
-    );
-    //build composed verb e.g: "kobwáka o nsé"
-    for (var i = 0; i < _arr.length; i++) {
-        if(i === 0) {
-            $return += builded;
-        } else {
-            $return += _arr[i];
+    if(typeof verbVal === 'string') {
+        let _arr    = verbVal.split(' ');      // e.g: kozala na => get kozala
+        let _val    = _arr[0];
+        let radical = _val.slice(2); //remove 'ko' at the start
+        let $return = '';
+        let builded = (
+            prefix +
+            radical.slice(0, -1) +  //remove last char before appling conjugaison
+            mode
+        );
+        //build composed verb e.g: "kobwáka o nsé"
+        for (var i = 0; i < _arr.length; i++) {
+            if(i === 0) {
+                $return += builded;
+            } else {
+                $return += _arr[i];
+            }
         }
+        return $return;
+    } else {
+        return verbVal;
     }
-
-    return $return;
 }
 
 /**

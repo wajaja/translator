@@ -64,29 +64,9 @@ class App extends Component {
      */
     render() {
         return (
-            <div id="root">
+            <div id="root" suppressHydrationWarning={true}>
                 <AppHeader />
                 {this.props.children}
-                <div className="foo">
-                    <div className="foo-a">
-                        <div className="foo-lft">
-                            <div className="foo-opt">
-                                À propos de la Traduction
-                            </div>
-                            <div className="foo-opt">
-                                Confidentialité et conditions d'utilisation
-                            </div>
-                        </div>
-                        <div className="foo-rght">
-                            <div className="foo-opt">
-                                Aide
-                            </div>
-                            <div className="foo-opt">
-                                @copyright . 2018
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         )
     }

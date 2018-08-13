@@ -53,9 +53,8 @@ filewalker("./data", function(err, data){
         return fs.readFile(url, function(err, data) {
             if(err) {
                 console.log(err);
-            }
-            ;
-            raw = data.toString();
+            };
+            let raw = data.toString();
             raw = raw.replace(/\\n/g, "\\n")
                      .replace(/\\'/g, "\\'")
                      .replace(/\\"/g, '\\"')
@@ -202,7 +201,8 @@ exports.findVerb = function findVerb(str) {
     console.log('wordPos', keys[wordPos]);
 
     if(wordPos !== -1) {
-        let _wordPos_toBig = _wordPos_toSmall = wordPos;
+        let _wordPos_toBig = wordPos,
+        _wordPos_toSmall = wordPos;
 
         /**increment
         *commented because all words have't nature defined
@@ -268,12 +268,13 @@ function get_female_ending(str) {
     } else if(str.slice(-2) === 've') {
         return str.slice(0, -2) + 'f';  //return wordPos ended by 'al'
     }
-    else if(end = str.slice(-1)) {
-        let end_arr = str.slice(-3).split('');
+    else if(str.slice(-1) === 'e') {
+        let end = str.slice(-1),
+        end_arr = str.slice(-3).split('');
         if(end_arr[0] === end_arr[1])
             return str.slice(0, -2); //chatte => chat
-        else if(end === 'e')
-            return  str.slice(0, -1); //chatte => chat
+        else if(end === 'e') //marchand => marchande
+            return  str.slice(0, -1);
         else
             return -1;
     }

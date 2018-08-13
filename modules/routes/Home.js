@@ -1,5 +1,6 @@
 import React    from 'react'
 import { Page }     from 'components'
+import Foot         from './Foot'
 
 class Home extends React.PureComponent{
     constructor(props) {
@@ -14,6 +15,9 @@ class Home extends React.PureComponent{
                     <Page
                         {...this.props} />
                 </div>
+                <Foot
+                    location={this.props.location}
+                    />
             </div>
         )
     }
