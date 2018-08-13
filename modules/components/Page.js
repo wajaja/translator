@@ -1,4 +1,4 @@
-import React, { PureComponent, Fragment }        from 'react'
+import React, { Component, Fragment }        from 'react'
 import _            from 'lodash'
 import Immutable    from 'immutable'
 import Select       from 'react-select';
@@ -27,7 +27,7 @@ const targetOptions = [
   { value: 'tshiluba', label: 'Tshiluba' }
 ];
 
-class Page extends PureComponent {
+class Page extends Component {
     constructor(props) {
         super(props)
 

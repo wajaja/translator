@@ -10,10 +10,12 @@ const ended_with_au = [
 ]
 
 const irregular_fm_keys = [
-    'heroïne', 'niece', 'servante', 'poule', 'princesse', 'déesse', 'louve', 'duchesse', 'ogresse'
+    'heroïne', 'niece', 'servante', 'poule', 'princesse', 'déesse', 'louve', 'duchesse', 'ogresse',
+    'douce', 'folle', 'molle', 'vieille', 'fraiche'
 ];
 const irregular_fm_values = [
-    'heros', 'neveu', 'serviteur', 'coq', 'prince', 'dieu', 'loup', 'duc', 'ogre'
+    'heros', 'neveu', 'serviteur', 'coq', 'prince', 'dieu', 'loup', 'duc', 'ogre',
+    'doux', 'foux', 'mou', 'vieux', 'frais'
 ];
 
 exports.ended_with_au       = ended_with_au;

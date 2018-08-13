@@ -201,10 +201,11 @@ function francais_lingala(str, order, uniqueString) {
 
                 //check if the prevType is an auxiliaire and check the end of the current word
                 else if(prevType.nature === 'auxiliare' && /[ééesésites]$/.test(_w)) {
-                    console.log('auxiliare..................');
-                    let verb = findVerb(w.slice());
+                    let verb = findVerb(w);
+                    console.log('typeof',  typeof verb);
                     prevType  = {}; //reset prevType
-                    if(verb.trans !== -1) {
+                    if(verb !== -1) {
+                        console.log('first.........', verb);
                         return {
                             'word_type': 'verb',
                             'translated': true,
@@ -214,6 +215,7 @@ function francais_lingala(str, order, uniqueString) {
                             'pos': index
                         }
                     } else if(findWord(w).val !== -1) {
+                        console.log('let findWord')
                         let trans = findWord(w);
                         return {
                             'word_type': 'word',
@@ -591,7 +593,7 @@ function _guessVerb(w, index, aspect){
 }
 
 function getVerbMode(end, aspect) {
-    let mode    = 'a';
+    let mode    = 'a',
     gr_name     = end['group'],     //e.g: group['er']
     group_arr   = verbs[gr_name],
     end_pos     = group_arr.lastIndexOf(end);

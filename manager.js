@@ -146,8 +146,8 @@ exports.findWord = function findWord(str, strict) {
                 }
             }
             //
-            else if (get_plural_ending(str) !== -1) {
-                let singular = get_plural_ending(str)
+            else if (guess_sing_from_plu(str) !== -1) {
+                let singular = guess_sing_from_plu(str)
                 wordPos     = binarySearch(keys, singular, true);
 
                 if(wordPos >= 0) {
@@ -157,9 +157,9 @@ exports.findWord = function findWord(str, strict) {
                         'val': get_it_in_Lingala(jsonObject, wordPos, 'plural') //masculin pluriel
                     }
                 }
-                else if(get_female_ending(singular) !== -1) { //feminin-pluriel
-                    let female = get_female_ending(singular);
-                    wordPos     = binarySearch(keys, female, true);
+                else if(guess_male_from_female(singular) !== -1) { //feminin-pluriel
+                    let male = guess_male_from_female(singular);
+                    wordPos     = binarySearch(keys, male, true);
                     if(wordPos >= 0) {
                         // get_it_in_Lingala(jsonObject, wordPos, 'female');
                         return {
@@ -176,16 +176,27 @@ exports.findWord = function findWord(str, strict) {
                     }
                 }
             }
-            else if(get_female_ending(str) !== -1) { //feminin-singulier
-                let female = get_female_ending(str);
-                wordPos     = binarySearch(keys, female, true);
-                if(wordPos >=0)
+            else if(guess_male_from_female(str) !== -1) { //feminin-singulier
+                let male = guess_male_from_female(str);
+                wordPos     = binarySearch(keys, male, true);
+                if(wordPos >=0) {
                     return {
                         'number': 'singular',
                         'things': things_word,
                         'val': get_it_in_Lingala(jsonObject, wordPos, 'female')
                     }
+                } else if(male.slice(-3) === 'eur'){ // for the word like heureux who its female is heureuse
+                    let _male = male.slice(0, -3) + 'eux';
+                    wordPos    = binarySearch(keys, _male, true);
+                    console.log('internnnnnnnnnnnnnnnnnnnnnnnnnnn ', male, _male, wordPos);
+                    return {
+                        'number': 'singular',
+                        'things': things_word,
+                        'val': get_it_in_Lingala(jsonObject, wordPos, 'female')
+                    }
+                }
             } else {
+                console.log('return..................... -1');
                 return -1;
             }
         }
@@ -241,7 +252,7 @@ exports.findVerb = function findVerb(str) {
     }
 }
 
-function get_plural_ending(str) {
+function guess_sing_from_plu(str) {
     if(str.slice(-3) === 'aux') {
         if(ended_with_au.indexOf(str))
             return str.slice(0, -1);  //return string ended by 'au'
@@ -256,7 +267,7 @@ function get_plural_ending(str) {
     }
 }
 
-function get_female_ending(str) {
+function guess_male_from_female(str) {
     if(irregular_fm_keys.indexOf(str) >= 0) {
         return irregular_fm_values[irregular_fm_keys.indexOf(str)];
     }
@@ -317,7 +328,7 @@ function get_it_in_Lingala(jsonObject, index, accord /*,context*/){
 
         } else if(accord === 'female') {
             //TODO accord
-            _word    = _word + ' ya mwÉasí';
+            _word    = _word + '' /*' ya mwÉasí'*/;
         } else {
             return _word;
         }
