@@ -31,7 +31,7 @@ var app = express();
 app.use(helmet()) //It's best to use Helmet early in your middleware stack so that its headers are sure to be set.
 app.use(helmet.noCache()) //disable client-side caching
 app.use(helmet.xssFilter()) // Sets "X-XSS-Protection: 1; mode=block".
-mongoose.connect(config.database); // connect to database
+mongoose.connect(config.database, { useNewUrlParser: true }); // connect to database
 app.set('appSecret', config.secret); // secret variable
 
 /**

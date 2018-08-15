@@ -30,24 +30,24 @@ const Header = (props) => {
                                         <span className="interv-txt">Intervenant</span>
                                     </Link>
                                 </div>
-                                {!this.props.access_token &&
+                                {!props.access_token &&
                                     <div className="navs-lk">
                                         <Link to="/login" className="gb-nv-btn">
                                             Connexion
                                         </Link>
                                     </div>
                                 }
-                                {!this.props.access_token &&
+                                {!props.access_token &&
                                     <div className="navs-lk">
                                         <Link to="/signup" className="gb-nv-btn">
                                             Inscription
                                         </Link>
                                     </div>
                                 }
-                                {this.props.access_token &&
+                                {props.access_token &&
                                     <div className="navs-lk">
                                         <div className="gb-nv-btn">
-                                            {this.props.user.name}
+                                            {props.user.name}
                                         </div>
                                     </div>
                                 }
