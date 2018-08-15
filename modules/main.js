@@ -27,6 +27,11 @@ require('./style.scss')
  */
 const appElm = document.getElementById('app')
 
+// Grab the state from a global variable injected into the server-generated HTML
+const preloadedState = window.__PRELOADED_STATE__
+
+// Allow the passed state to be garbage-collected
+delete window.__PRELOADED_STATE__
 
 /**
  * store
@@ -36,6 +41,7 @@ export const store = createStore(
         ...reducers,
         form: formReducer
     }),
+    preloadedState,
     compose(
         applyMiddleware(thunk),
         (typeof window !== 'undefined' && window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())
@@ -59,7 +65,8 @@ history        = createHistory({
 hydrate((
     <Provider store={store}>
         <Router history={history}>
-            <App
+            <App 
+                store={store}
                 location={location}
                 dispatch={store.dispatch}>
                 <Root

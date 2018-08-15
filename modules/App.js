@@ -2,8 +2,8 @@ import React, { Component, cloneElement } from 'react'
 import { connect } from 'react-redux'
 import { withRouter } from 'react-router'
 
+import setAuthorizationToken from 'utils/set-authorization-token'
 import { trans as transActions,} from 'actions'
-
 import { Header, } from 'components'
 
 @connect(state => ({
@@ -12,7 +12,7 @@ import { Header, } from 'components'
 /**
  * AppHeader component
  */
-class AppHeader extends React.PureComponent {
+class AppHeader extends Component {
 
     /**
      * render
@@ -34,8 +34,18 @@ class AppHeader extends React.PureComponent {
  */
 class App extends Component {
 
-    componentWillMount() {
-        // instantiate a new client (client side)
+    componentWillMount () {
+        const { dispatch, access_token } = this.props;
+        if(access_token) {
+            setAuthorizationToken(access_token);
+        }
+    }
+
+    componentDidMount() {
+        const { dispatch, access_token } = this.props;
+        if(access_token) {
+            setAuthorizationToken(access_token);
+        }
     }
 
     /**
@@ -49,13 +59,6 @@ class App extends Component {
 
     shouldComponentUpdate(nextProps, nextState) {
         return this.props !== nextProps
-    }
-
-    /**
-     * componentDidMount
-     */
-    componentDidMount() {
-        const { dispatch } = this.props
     }
 
     /**
@@ -74,5 +77,6 @@ class App extends Component {
 }
 
 export default withRouter(connect(state => ({
-    tokens: state.Tokens,
+    user: state.User,
+    access_token:   state.Translator.access_token,
 }))(App))

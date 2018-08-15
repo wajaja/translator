@@ -28,6 +28,7 @@ nav{
     vertical-align: top;
     margin-right: 50px;
     font-weight: 600;
+    font-size: 13px;
     top: 4px;
     &:last-child{
         margin-right: 0px !important;
@@ -85,6 +86,7 @@ body{
         }
 
         button{
+            cursor: pointer;
             padding: 3px 6px;
             min-width: 80px;
             font-size: 14px;
@@ -191,8 +193,9 @@ textarea{
     font-size: 24px;
     overflow: hidden;
     word-wrap: break-word;
-    min-height: 150px;
     padding: 0 10px;
+    min-height: 160px;
+    background: #f6f6fe;
 }
 .inp-mdl, .inp-btm{
     padding: 10px 0;
@@ -202,6 +205,7 @@ textarea{
 }
 .foo{
     position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
     height: 50px;
@@ -210,6 +214,19 @@ textarea{
     color: #727377;
     font-size: 13px;
     font-family: sans-serif;
+    a{
+        color: #727377;
+    }
+    .foo-opt-sh{
+        position: relative;
+        top: -6px;
+    }
+    .clss-network__share-button{
+        cursor: pointer;
+    }
+    .clss-network__share-count{
+        display: none;
+    }
 }
 .foo-a{
     padding: 15px 60px;
@@ -231,11 +248,11 @@ textarea{
 .interv-ico{
     display: inline-block;
     vertical-align: top;
-    top: -4px;
+    top: -5px;
     background: transparent url(http://127.0.0.1:3000/images/if_support_477135.png) 50% 50% no-repeat;
     background-size: cover;
-    width: 32px !important;
-    height: 32px !important;
+    width: 30px !important;
+    height: 30px !important;
     position: relative;
     border: none;
     font-size: 20px;
@@ -243,11 +260,11 @@ textarea{
 .auto-ico{
     display: inline-block;
     vertical-align: top;
-    top: -4px;
+    top: -5px;
     background: transparent url(http://127.0.0.1:3000/images/296923-128.png) 50% 50% no-repeat;
     background-size: cover;
-    width: 32px !important;
-    height: 32px !important;
+    width: 30px !important;
+    height: 30px !important;
     position: relative;
     border: none;
     font-size: 20px;
@@ -297,4 +314,22 @@ textarea{
     color: red;
     height: unset !important;
     margin: unset !important;
+}
+.abt-ctnr, .hlp-ctnr, .priv-ctnr, .no-m-ctnr{
+    padding-top: 30px;
+    .abt-ctnr-1{
+        display: block;
+        padding: 0 80px;
+        p{
+            font-size: 15px;
+        }
+    }
+}
+.clss-network{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 5px;
+}
+.next-ft{
+    margin-top: 40px;
 }

@@ -49,15 +49,7 @@ app.use('/build', express.static(path.join(projectRoot, '/build')));
 app.use(express.static(path.join(projectRoot, '/public')));
 // Log requests to console
 app.use(morgan('dev'));
-app.use('*', routes);
-
-app.use(function(req, res, next) {
-    var err = new Error('Not Found');
-    err.status = 404;
-    next(err);
-});
-
-app.set('trust proxy', 1) // trust first proxy
+//The session middleware won't get called for any requests that get handled by router
 app.use(session({
     secret: '91005translator',
     resave: false,
@@ -68,6 +60,15 @@ app.use(session({
     }),
     cookie: { maxAge: 60000 }
 }))
+app.use('/', routes);
+
+app.use(function(req, res, next) {
+    var err = new Error('Not Found');
+    err.status = 404;
+    next(err);
+});
+
+app.set('trust proxy', 1) // trust first proxy
 
 /**
  * Logging

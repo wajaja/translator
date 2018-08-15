@@ -8,7 +8,7 @@ const Header = (props) => {
         		<div className="navbar-header">
                     <div className="navbar-brand">
                         <Link to="/" className="bar-brand-txt">
-                            <h1>XYZ Traduction</h1>
+                            <h4>XYZ Traduction</h4>
                         </Link>
                     </div>
                 </div>
@@ -25,11 +25,32 @@ const Header = (props) => {
                                     </Link>
                                 </div>
                                 <div className="navs-lk">
-                                    <Link to="/interveners" className="gb-nv-ho">
+                                    <Link to="/interveners" className="gb-nv-int">
                                         <span className="interv-ico"></span>
                                         <span className="interv-txt">Intervenant</span>
                                     </Link>
                                 </div>
+                                {!this.props.access_token &&
+                                    <div className="navs-lk">
+                                        <Link to="/login" className="gb-nv-btn">
+                                            Connexion
+                                        </Link>
+                                    </div>
+                                }
+                                {!this.props.access_token &&
+                                    <div className="navs-lk">
+                                        <Link to="/signup" className="gb-nv-btn">
+                                            Inscription
+                                        </Link>
+                                    </div>
+                                }
+                                {this.props.access_token &&
+                                    <div className="navs-lk">
+                                        <div className="gb-nv-btn">
+                                            {this.props.user.name}
+                                        </div>
+                                    </div>
+                                }
                             </div>
                         </div>
                         <div className="rgth-in-nav">

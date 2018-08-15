@@ -84,7 +84,7 @@ function francais_lingala(str, order, uniqueString) {
                 }
 
                 else if(["q'", "que"].indexOf(w) >= 0) {
-                    verb_mod = 'conditionnel';
+                    // verb_mod = 'conditionnel';  //// TODO: 
                     return {'word_type':'condition', 'val': '', 'translated': false, 'pos': index}
                 }
 

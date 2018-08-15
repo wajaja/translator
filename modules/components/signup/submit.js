@@ -3,14 +3,17 @@ import axios               from 'axios'
 import jwtDecode           from 'jwt-decode'
 import { BASE_PATH }       from 'config/api'
 import setAuthorizationToken from 'utils/set-authorization-token'
+import { User as UserActions, } from 'actions'
 
-function submit(values) {
+function submit(values, dispatch, props) {
     return axios.post(  BASE_PATH + '/api/signup', values).then(
         res => {
             const data = res.data;
             if(data.success) {
                 localStorage.setItem && localStorage.setItem('xyz_translator_token', data.token);
                 setAuthorizationToken(data.token);
+                dispatch(UserActions.setUser(data.user));
+                props.history.push('/');
             } else {
                 throw new SubmissionError(data.message);
             }

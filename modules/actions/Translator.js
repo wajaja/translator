@@ -12,17 +12,41 @@ export const LOAD = 'TRANSLATOR::LOAD'
 export const _load = (response) => ({ type: LOAD, response, })
 
 /**
+* SET_USER
+* @type {string}
+*/
+export const SET_AUTH = 'USER::SET_AUTH'
+/**
+ * _loadResponse
+ * @param response
+ * @private
+ */
+export const seIsAuthencated = (status) => ({ type: "USER::SET_AUTH", status, })
+
+/**
  * load
  * Get notifications from API for user
  * Redux Action
  * Reference: http://redux.js.org/docs/basics/Actions.html
  * @returns {Function}
  */
-export function load() {
+export function loadUser(userId) {
     return (dispatch, getState) => {
-        return new Promise((resolve => {
-            resolve()
-        }))
+        return axios.post( BASE_PATH + 'api/users/' + userId, values).then(
+            res => {
+                const data = res.data;
+                // if(data.success) {
+                //     localStorage.setItem && localStorage.setItem('xyz_user_token', data.token);
+                //     setAuthorizationToken(data.token);
+                // } else {
+                //     throw new SubmissionError(data.message);
+                // }
+                // dispatch(setCurrentUser(jwtDecode(token)));
+            },
+            err => {
+                throw new SubmissionError(err)
+            }
+        )
     }
 }
 

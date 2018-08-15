@@ -51,7 +51,8 @@ function renderFullPage(req, res, params) {
                 basename=''
                 location={url}
                 context={context}>
-                <App>
+                <App 
+                    store={store}>
                     <Root location={{}} />
                 </App>
             </StaticRouter>

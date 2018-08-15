@@ -109,7 +109,6 @@ exports.findWord = function findWord(str, strict) {
 
     if(strict) {    //find exact word
         if(wordPos >= 0 && removeAccents(keys[wordPos].split(' ')[0]).toLowerCase() === removeAccents(str).toLowerCase()) {
-            console.log('caaaaaaaaaaaaaaaacaaaaaaaaaaa', keys[wordPos].split(' ')[0]);
             return {
                 things: things_word,
                 'number': 'singular',

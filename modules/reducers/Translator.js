@@ -1,5 +1,9 @@
 import { Translator as TranslatorActions, } from 'actions'
 
+export const initialState = {
+    access_token: null,
+    seIsAuthencated: false,
+}
 
 /**
  * Translator Activity
@@ -10,10 +14,18 @@ import { Translator as TranslatorActions, } from 'actions'
  * @returns {*}
  * @constructor
  */
-function Translator(state = [], action) {
+function Translator(state = initialState, action) {
 
     switch (action.type) {
         case TranslatorActions.LOAD:
+            if (action.response) {
+                return [
+                    ...action.response,
+                ]
+            }
+            return state
+
+        case TranslatorActions.SET_AUTH:
             if (action.response) {
                 return [
                     ...action.response,

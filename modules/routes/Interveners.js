@@ -16,17 +16,18 @@ const  Interveners = ({ match, location }) => {
             <div className="hm-ctnr-a">
                 <div className="hm-ctnr-b">
                     <div className="l">
+                        <div className="next-ft">
+                            Fonctionalité avenir...
+                        </div>
+                        <p className="par-msg">
+                            Contrubution à l'evolution de la langue
+                        </p>
                     </div>
                     <div className="r">
                         {is_auth && <div className="tp-is-auth"></div>}
                         {!is_auth &&
                             <div className="auth-lks">
-                                <Link to="/login" className="login-btn">
-                                    Connexion
-                                </Link>
-                                <Link to="/signup" className="signup-btn">
-                                    Inscription
-                                </Link>
+
                             </div>
                         }
                     </div>

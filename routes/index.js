@@ -10,6 +10,7 @@ var {
     translatePhraseStr
 }                       = require('../server/translate');
 var renderFullPage      = require('./renderFullPage');
+var verifyToken         = require('./verifyToken');
 
 var router      = express.Router();
 var User        = mongoose.model('User', UserSchema);
@@ -38,16 +39,21 @@ router.post('/api/login_check', function(req, res) {
                 if(result) {
                     var token = jwt.sign({
                       email: req.body.email,
-                    }, '91005translator', { expiresIn: '1h' });
+                  }, '91005translator', { expiresIn: '1d' });
 
                     //set access_token in session
                     let sessData = req.session;
-                    sessData.access_token = 'Bearer ' + token;
+                    sessData.access_token = token;
 
                     // return the information including token as JSON
                     return res.json({
                         success: true,
-                        token: token
+                        token: token,
+                        user: {
+                            id: user.id,
+                            name: user.name,
+                            email: user.email
+                        }
                     });
 
                     console.log('31', result);
@@ -86,7 +92,7 @@ router.post('/api/signup', function(req, res) {
             })
 
             // save the sample user
-            user.save(function(err) {
+            user.save(function(err, savedUser) {
                 if (err) {
                     console.log(err.message);
                     if(err.message.indexOf('E11000 duplicate key error index') >= 0 &&
@@ -106,12 +112,17 @@ router.post('/api/signup', function(req, res) {
 
                 //set access_token in session
                 let sessData = req.session;
-                sessData.access_token = 'Bearer ' + token;
+                sessData.access_token = token;
 
                 // return the information including token as JSON
                 return res.json({
                     success: true,
-                    token: token
+                    token: token,
+                    user: {
+                        id: savedUser.id,
+                        name: savedUser.name,
+                        email: savedUser.email
+                    }
                 });
             });
         }
@@ -137,8 +148,19 @@ router.post('/api/translate', function(req, res) {
 
 });
 
+router.get('/api/users/me', verifyToken, function(req, res) {
+
+    User.findById(req.userId, { password: 0 }, function (err, user) {
+        if (err) return res.json({"message":"There was a problem finding the user."});
+
+        if (!user) return res.json({err:"No user found."});
+
+        res.json(user);
+    });
+});
+
 // route to return all users (GET http://localhost:8080/api/users)
-router.get('/api/users', function(req, res) {
+router.get('/api/users', verifyToken, function(req, res) {
     User.find({}, function(err, users) {
         res.json(users);
     });
@@ -179,7 +201,7 @@ router.all('*', function(req, res, next) {
         title: 'Traducteur. Français - lingala',
         preloadedState: {
             Translator: {
-                access_token: 'myToken'
+                access_token: sessData.access_token
             }
         }
     }
