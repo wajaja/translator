@@ -16,9 +16,6 @@ var env = new webpack.DefinePlugin({
 const plugins = [
     new ExtractTextPlugin('./css/styles.min.css', {
         allChunks: true
-    }),
-    new webpack.optimization.minimize({
-        compressor: { warnings: false }
     })
 ];
 
