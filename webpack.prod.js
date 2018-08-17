@@ -17,7 +17,7 @@ const plugins = [
     new ExtractTextPlugin('./css/styles.min.css', {
         allChunks: true
     }),
-    new webpack.optimize.UglifyJsPlugin({
+    new webpack.optimization.minimize({
         compressor: { warnings: false }
     })
 ];

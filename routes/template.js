@@ -1,4 +1,5 @@
 var serialize = require('serialize-javascript');
+var css = process.env.NODE_ENV == 'PRODUCTION' ? '/css/styles.min.css' : '/css/styles.css',
 
 export default ({ body, title, preloadedState }) => {
     return `
@@ -11,7 +12,7 @@ export default ({ body, title, preloadedState }) => {
             <meta name="viewport" content="initial-scale=1.0">
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
             <link href="https://fonts.googleapis.com/css?family=Assistant:300&subset=all" rel="stylesheet">
-            <link rel="stylesheet" href="/build/css/styles.css" />
+            <link rel="stylesheet" href=${css} />
         </head>
         <body>
             <div id="app">${body}</div>
