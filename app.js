@@ -3,7 +3,7 @@
  */
 var express      = require('express'),
     path         = require('path'),
-    // favicon      = require('serve-favicon'),
+    favicon      = require('serve-favicon'),
     //http://blog.slatepeak.com/creating-a-simple-node-express-api-authentication-system-with-passport-and-jwt/
     bodyParser  = require('body-parser'),
     helmet      = require('helmet'),
@@ -24,6 +24,7 @@ require('./manager');
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app = express();
+var projectRoot = path.resolve(__dirname, '../translator');
 
 // =======================
 // configuration =========
@@ -40,10 +41,9 @@ app.set('appSecret', config.secret); // secret variable
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-// app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use(favicon(path.join(projectRoot, 'public/images', 'zxt4.png')));
 app.use(bodyParser.json());  // TODO Explain
 app.use(bodyParser.urlencoded({ extended: false }));
-const projectRoot = path.resolve(__dirname, '../translator');
 // app.use('build', express.static(__dirname))
 app.use('/build', express.static(path.join(projectRoot, '/build')));
 app.use(express.static(path.join(projectRoot, '/public')));

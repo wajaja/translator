@@ -22,9 +22,9 @@ const sourceOptions = [
 ];
 
 const targetOptions = [
-  { value: 'lingala', label: 'Lingala' },
-  { value: 'sango', label: 'Sango' },
-  { value: 'tshiluba', label: 'Tshiluba' }
+  { value: 'lingala', label: 'Lingala' }
+  // ,{ value: 'sango', label: 'Sango' }
+  // ,{ value: 'tshiluba', label: 'Tshiluba' }
 ];
 
 class Page extends Component {

@@ -8,7 +8,7 @@ const Header = (props) => {
         		<div className="navbar-header">
                     <div className="navbar-brand">
                         <Link to="/" className="bar-brand-txt">
-                            <h4>XYZ Traduction</h4>
+                            <span className="brand-ico"></span>
                         </Link>
                     </div>
                 </div>

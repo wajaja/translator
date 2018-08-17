@@ -257,6 +257,18 @@ textarea{
     border: none;
     font-size: 20px;
 }
+.brand-ico{
+    display: inline-block;
+    vertical-align: top;
+    top: -3px;
+    background: transparent url(http://127.0.0.1:3000/images/xyztraduction.png) 50% 50% no-repeat;
+    background-size: contain;
+    width: 120px !important;
+    height: 45px !important;
+    position: relative;
+    border: none;
+    font-size: 20px;
+}
 .auto-ico{
     display: inline-block;
     vertical-align: top;
