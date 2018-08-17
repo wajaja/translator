@@ -25,6 +25,7 @@ var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app = express();
 var projectRoot = path.resolve(__dirname, '../translator');
+console.log(path.join(projectRoot, 'public/images', 'zxt4.png'));
 
 // =======================
 // configuration =========
@@ -41,7 +42,7 @@ app.set('appSecret', config.secret); // secret variable
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-app.use(favicon(path.join(projectRoot, 'public/images', 'zxt4.png')));
+// app.use(favicon(path.join(projectRoot, 'public/images', 'zxt4.png')));
 app.use(bodyParser.json());  // TODO Explain
 app.use(bodyParser.urlencoded({ extended: false }));
 // app.use('build', express.static(__dirname))
