@@ -7,6 +7,13 @@ nav{
     background: #d5d9e6;
     border-bottom: 1px solid #bcbdbf;
     height: 50px;
+    .container{
+        position: absolute;
+        width: 100%;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
 }
 .navbar{
     top: 0;

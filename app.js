@@ -24,7 +24,7 @@ require('./manager');
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app = express();
-var projectRoot = path.resolve(__dirname, '../translator');
+var projectRoot = path.resolve(__dirname, 'translator');
 console.log(path.join(projectRoot, 'public/images', 'zxt4.png'));
 
 // =======================
