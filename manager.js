@@ -49,8 +49,7 @@ filewalker("./data", function(err, data){
         var arr  = url.split('/');
         var file = url.replace(/\\/g, "/");
          //arr[arr.length - 1];  //c://some-existent-path/file
-        var key  = file.split('/')[3].split('.')[0];                //[ 'c:', 'translator', 'data', 'a' ]
-        console.log(arr, file);
+        var key  = file.split('/')[file.split('/').length - 1].split('.')[0]; //file.split('/')[3];                //[ 'c:', 'translator', 'data', 'a' ]
         return fs.readFile(url, function(err, data) {
             if(err) {
                 console.log(err);

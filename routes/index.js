@@ -194,7 +194,7 @@ router.all('*', function(req, res, next) {
     var sessData = req.session;
     // sessData.someAttribute = "foo";
     // var someAttribute = req.session.someAttribute;
-    console.log('url_parts', req.originalUrl);
+    console.log('url_parts', process.env.NODE_ENV);
 
     let params = {
         url: req.originalUrl,
