@@ -20,11 +20,10 @@ var express      = require('express'),
 
 
 require('./manager');
-
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
-var app = express();
-var projectRoot = path.resolve(__dirname, 'translator');
+var app    = express();
+var projectRoot = (process.platform === 'win32') ? path.resolve(__dirname, 'translator') : '/var/www/translator/translator';
 console.log(path.join(projectRoot, 'public/images', 'zxt4.png'));
 
 // =======================
@@ -61,6 +60,7 @@ app.use(session({
     }),
     cookie: { maxAge: 60000 }
 }))
+
 app.use('/', routes);
 
 app.use(function(req, res, next) {

@@ -8,6 +8,7 @@ var app = require('../app');
 var { translatePhrase, translatePhraseStr } = require('../server/translate');
 var debug = require('debug')('react:server');
 var http = require('http');
+var httpProxy = require('http-proxy');
 
 /**
  * Get port from environment and store in Express.
@@ -16,10 +17,24 @@ var http = require('http');
 var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
+
+if(process.env.NODE_ENV == 'production') {
+    // Create your proxy server and set the target in the options.
+    // Create the HTTPS proxy server in front of a HTTP server
+    httpProxy.createServer({
+        target: {
+            host: 'localhost',
+            port: 3000
+        },
+        ssl: {
+            key: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/privkey.pem', 'utf8'),
+            cert: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/fullchain.pem', 'utf8')
+        }
+    }).listen(8000);
+}
 /**
  * Create HTTP server.
  */
-
 var server = http.createServer(app);
 var socket;
 
