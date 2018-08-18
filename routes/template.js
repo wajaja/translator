@@ -1,6 +1,5 @@
 var serialize = require('serialize-javascript');
-var css = process.env.NODE_ENV == 'PRODUCTION' ? 'build/css/styles.min.css' : 'build/css/styles.css';
-var app_js = process.env.NODE_ENV == 'PRODUCTION' ? 'build/css/styles.min.css' : 'build/css/styles.css';
+var css = process.env.NODE_ENV == 'production' ? 'build/css/styles.min.css' : 'build/css/styles.css';
 
 export default ({ body, title, preloadedState }) => {
     return `
