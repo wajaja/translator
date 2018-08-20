@@ -55,7 +55,9 @@ server.on('listening', onListening);
 //var allowedOrigins = "http://localhost:* http://127.0.0.1:*";
 var io = require('socket.io').listen(server, {
     log:false,
-    origins:'*:*'
+    origins:'*:*',
+    transports: ['websocket', 'polling', 'flashsocket'],
+
 });
 
 /**

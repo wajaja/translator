@@ -12,7 +12,6 @@ function submit(values, dispatch, props) {
     return axios.post( BASE_PATH + 'api/login_check', values).then(
             res => {
                 const data = res.data;
-                console.log('data', data);
                 if(data.success) {
                     localStorage.setItem && localStorage.setItem('xyz_translator_token', data.token);
                     setAuthorizationToken(data.token);

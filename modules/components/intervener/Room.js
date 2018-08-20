@@ -30,7 +30,6 @@ class Room extends PureComponent {
 
     componentDidUpdate(prevProps, prevState) {
         if(this.props !== prevProps) {
-            console.log('data changed inside our component');
         }
     }
 

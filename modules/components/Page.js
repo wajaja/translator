@@ -119,8 +119,6 @@ class Page extends Component {
                         });
                     }
                 }, (err) => {
-                    console.log('error in translator');
-                    console.log('promise rejected with status', err);
                 }
             )
         this.setState({sentences: splitIntoSentences(text)});
@@ -164,8 +162,6 @@ class Page extends Component {
                                 });
                             }
                         }, (err) => {
-                            console.log('error in translator');
-                            console.log('promise rejected with status', err);
                         }
                     )
             })
@@ -187,12 +183,10 @@ class Page extends Component {
 
     sourceChange = (option) => {
         this.setState({sourceLang: option });
-        console.log(`Option selected:`, option);
     }
 
     targetChange = (option) => {
         this.setState({targetLang: option });
-        console.log(`Option selected:`, option);
     }
 
     componentWillUmount() {
@@ -245,7 +239,6 @@ class Page extends Component {
                     //phrase Object
                     let phrase = getEditedSentence(_next, cursorPos),
                     results = this.state.results;
-                    // console.log(phrase);
                     //Promise !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
                 }

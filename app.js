@@ -24,7 +24,14 @@ var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app    = express();
 var projectRoot = (process.platform === 'win32') ? path.resolve(__dirname, 'translator') : '/var/www/translator/translator';
-console.log(path.join(projectRoot, 'public/images', 'zxt4.png'));
+
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "X-Requested-With");
+    res.header("Access-Control-Allow-Headers", "Origin, Content-Type, X-Auth-Token");
+    res.header("Access-Control-Allow-Methods", "PUT, GET, POST, DELETE, OPTIONS");
+    next();
+});
 
 // =======================
 // configuration =========
@@ -41,7 +48,7 @@ app.set('appSecret', config.secret); // secret variable
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-// app.use(favicon(path.join(projectRoot, 'public/images', 'zxt4.png')));
+app.use(favicon(path.join(projectRoot, 'public/images', 'zxt4.png')));
 app.use(bodyParser.json());  // TODO Explain
 app.use(bodyParser.urlencoded({ extended: false }));
 // app.use('build', express.static(__dirname))

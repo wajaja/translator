@@ -11,7 +11,6 @@ class Result extends Component {
 
     render() {
         const { results, translating, sentences } = this.props;
-        console.log(sentences);
         return(
             <div className="result-ctnr">
                 <div className="result-ctnr-a">
