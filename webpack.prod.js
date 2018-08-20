@@ -52,7 +52,7 @@ module.exports = [{
                             loader: 'string-replace-loader',
                             options: {
                                 search:'"http://127.0.0.1:3000',
-                                replace:'"http://traduction.xyz',
+                                replace:'"https://traduction.xyz',
                                 flags:'g'
                             }
                         },
