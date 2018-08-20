@@ -1,19 +1,27 @@
 import React, { Component, Fragment }        from 'react'
 import _            from 'lodash'
 import Immutable    from 'immutable'
-import Select       from 'react-select';
 import { Link }     from 'react-router-dom'
-import { Helmet }   from "react-helmet";
+import { Helmet }             from 'react-helmet'
 const io  = require('socket.io-client');
 const uniqueString = require('unique-string');
-
-import { Input, Output } from 'components'
 import {
     getEditedSentence,
     getLastSentence,
     splitIntoSentences
 }                        from 'utils/funcs'
 import Translator        from 'utils/Translator'
+import MyLoadable    from './MyLoadable'
+
+const Input = MyLoadable({
+    loader: () => import('./source/Input'),
+});
+const Output = MyLoadable({
+    loader: () => import('./target/Output'),
+});
+const Select = MyLoadable({
+    loader: () => import('react-select'),
+});
 
 const socket = io.connect('http://:3000');
 

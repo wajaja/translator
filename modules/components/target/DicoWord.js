@@ -1,5 +1,9 @@
 import React, { Component } from 'react'
-import { Definition }  from 'components'
+import MyLoadable    from '../MyLoadable'
+
+const Definition = MyLoadable({
+    loader: () => import('../Definition'),
+});
 
 class DicoWord extends Component {
     constructor(props) {

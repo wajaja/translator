@@ -1,6 +1,6 @@
 import React                from 'react'
 import { Auth }             from 'actions';
-import { Field, reduxForm } from 'redux-form'
+import { reduxForm, Field }        from 'redux-form'
 import submit               from './submit'
 
 const renderField = ({ input, label, type, meta: { touched, error } }) => (

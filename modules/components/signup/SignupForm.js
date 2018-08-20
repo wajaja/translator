@@ -1,5 +1,5 @@
 import React from 'react'
-import { Field, FieldArray, reduxForm } from 'redux-form'
+import { FieldArray, reduxForm, Field } from 'redux-form'
 import submit from './submit'
 // import validate from './validate'
 

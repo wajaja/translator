@@ -8,7 +8,9 @@ var {
     applyMiddleware,
     compose
 }                      = require('redux')
-var formReducer        = require('redux-form')
+import {
+    reducer as formReducer
+}                       from 'redux-form'
 var thunk              = require('redux-thunk')
 var reducers           = require('../modules/reducers')
 var { Provider }       = require('react-redux')
@@ -19,10 +21,15 @@ var App                = require('../modules/App').default
 var Root               = require('../modules/Root').default
 const createHistory    = require('history/createMemoryHistory').default;
 
+import Loadable         from 'react-loadable';
+import { getBundles }   from 'react-loadable/webpack'
+// import the manifest generated with in build
+import stats            from '../build/react-loadable.json';
+
 function renderFullPage(req, res, params) {
     const context = {};
+    let   modules = [];
     const { preloadedState, url, title } = params;
-
     const history = createHistory({
         initialEntries: [ url ],   // The initial URLs in the history stack
         initialIndex: 0,                // The starting index in the history stack
@@ -46,26 +53,31 @@ function renderFullPage(req, res, params) {
     // Render the component to a string
     // renderStylesToString from react-select doc for SSR
     const body = renderStylesToString(renderToString(
-        <Provider store={store}>
-            <StaticRouter
-                basename=''
-                location={url}
-                context={context}>
-                <App 
-                    store={store}>
-                    <Root location={{}} />
-                </App>
-            </StaticRouter>
-        </Provider>
+        <Loadable.Capture report={moduleName => modules.push(moduleName)}>
+            <Provider store={store}>
+                <StaticRouter
+                    basename=''
+                    location={url}
+                    context={context}>
+                    <App
+                        store={store}>
+                        <Root />
+                    </App>
+                </StaticRouter>
+            </Provider>
+        </Loadable.Capture>
     ))
 
     // Grab the initial state from our Redux store
     const finalState = store.getState()
+    let bundles = getBundles(stats, modules);
+    console.log('bundles', bundles.length);
 
     // Send the rendered page back to the client
     res.send(template({
         body,
         title,
+        bundles,    //code spliting
         preloadedState: finalState
     }))
 }

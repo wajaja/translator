@@ -1,9 +1,15 @@
 import React 				from 'react';
 import { connect } 			from 'react-redux';
 import { Link, withRouter } from 'react-router-dom';
-import { LoginForm,  } 	    from 'components';
-import Foot                 from './Foot'
-import { Helmet }           from 'react-helmet'
+import { MyLoadable }         from 'components'
+import { Helmet }             from 'react-helmet'
+
+const LoginForm = MyLoadable({
+    loader: () => import('../components/login/LoginForm'),
+});
+const Foot = MyLoadable({
+    loader: () => import('./Foot'),
+});
 
 class Login extends React.Component{
     constructor(props) {
@@ -23,7 +29,7 @@ class Login extends React.Component{
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>Login</title>
-                    <link rel="canonical" href="http://mysite.com/example" />
+                    <link rel="canonical" href="http://traduction.xyz/login" />
                 </Helmet>
                 <div className="hm-ctnr-a">
                     <LoginForm

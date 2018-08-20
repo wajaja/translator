@@ -1,5 +1,10 @@
 import React, { Fragment }  from 'react'
 import { connect }      from 'react-redux'
+import { MyLoadable }   from 'components'
+
+// const LoadableRoom = MyLoadable({
+//     loader: () => import('components/Room'),
+// });
 
 const default_list = [
     'Lingala -> Français', 'Français -> Lingala',

@@ -14,12 +14,13 @@ class Profil extends React.Component{
     }
 
     render() {
+        const username = 'test';
         return(
             <div className="hm-ctnr">
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>{this.props.user.firstname}</title>
-                    <link rel="canonical" href="http://mysite.com/example" />
+                    <link rel="canonical" href={`http://www.traduction.xyz/${username}`} />
                 </Helmet>
                 <div className="hm-ctnr-a">
                     this is a user profile

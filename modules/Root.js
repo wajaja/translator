@@ -1,13 +1,33 @@
 import React             from 'react';
 import { Switch, Route } from 'react-router'
-const Home              = require('./routes/Home').default
-const Login             = require('./routes/Login').default
-const Signup            = require('./routes/Signup').default
-const Interveners       = require('./routes/Interveners').default
-const About             = require('./routes/About').default
-const Help              = require('./routes/Help').default
-const Privacy           = require('./routes/Privacy').default
-const NoMatch           = require('./routes/NoMatch').default
+import MyLoadable    from './components/MyLoadable'
+
+const Home = MyLoadable({
+    loader: () => import('./routes/Home'),
+});
+const Login = MyLoadable({
+    loader: () => import('./routes/Login'),
+});
+const Signup = MyLoadable({
+    loader: () => import('./routes/Signup'),
+});
+const Interveners = MyLoadable({
+    loader: () => import('./routes/Interveners'),
+});
+const About = MyLoadable({
+    loader: () => import('./routes/About'),
+});
+const Help = MyLoadable({
+    loader: () => import('./routes/Help'),
+});
+const Privacy = MyLoadable({
+    loader: () => import('./routes/Privacy'),
+});
+const NoMatch = MyLoadable({
+    loader: () => import('./routes/NoMatch'),
+});
+
+
 
 /**
  * rootRoute

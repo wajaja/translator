@@ -1,10 +1,15 @@
 import React 				from 'react';
 import { connect } 			from 'react-redux';
 import { Link, withRouter } from 'react-router-dom';
-import { SignupForm,  } 	from 'components';
-import Foot                 from './Foot'
-import { Helmet }           from 'react-helmet'
+import { MyLoadable }       from 'components'
+import { Helmet }             from 'react-helmet'
 
+const SignupForm = MyLoadable({
+    loader: () => import('../components/signup/SignupForm'),
+});
+const Foot = MyLoadable({
+    loader: () => import('./Foot'),
+});
 
 class Signup extends React.Component{
     constructor(props) {

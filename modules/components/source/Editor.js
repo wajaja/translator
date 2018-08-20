@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import autosize from 'autosize';
-import ReactTextareaAutocomplete from "@webscopeio/react-textarea-autocomplete";
-
+import ReactTextareaAutocomplete from '@webscopeio/react-textarea-autocomplete'
 
 const Item = ({ entity: { name, char } }) => <div className="inlined">{`${name}: ${char}`}</div>;
 

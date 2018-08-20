@@ -14,6 +14,7 @@ import {
 import thunk            from 'redux-thunk'
 import * as reducers    from 'reducers'
 import { Router,  }     from 'react-router-dom'
+import Loadable         from 'react-loadable';
 const createHistory     = require('history/createBrowserHistory').default
 const App               = require('./App').default
 const Root              = require('./Root').default
@@ -44,7 +45,7 @@ export const store = createStore(
     preloadedState,
     compose(
         applyMiddleware(thunk),
-        (typeof window !== 'undefined' && window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())
+        (typeof window !== 'undefined' && window.__REDUX_DEVTOOLS_EXTENSION__ ) ? window.__REDUX_DEVTOOLS_EXTENSION__() : f => f //redux devtool not installed
     )
 )
 
@@ -59,20 +60,25 @@ history        = createHistory({
     // A function to use to confirm navigation with the user (see below)
     //getUserConfirmation: (message, callback) => callback(window.confirm(message))
 });
+
 /**
  * render Provider
+ * Loadable.preloadReady() method on the client to preload the loadable components that were included on the page.
+ * it returns a promise, which on resolution means that we can hydrate our app.
  */
-hydrate((
-    <Provider store={store}>
-        <Router history={history}>
-            <App 
-                store={store}
-                location={location}
-                dispatch={store.dispatch}>
-                <Root
+Loadable.preloadReady().then(() => {
+    hydrate((
+        <Provider store={store}>
+            <Router history={history}>
+                <App
+                    store={store}
                     location={location}
-                    dispatch={store.dispatch}/>
-            </App>
-        </Router>
-    </Provider>
-), appElm)
+                    dispatch={store.dispatch}>
+                    <Root
+                        location={location}
+                        dispatch={store.dispatch}/>
+                </App>
+            </Router>
+        </Provider>
+    ), appElm)
+});

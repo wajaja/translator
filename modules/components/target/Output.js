@@ -1,9 +1,17 @@
 import React    from 'react'
-import Result   from './Result'
-import Improve  from './Improve'
-import DicoWord from './DicoWord'
+import MyLoadable    from '../MyLoadable'
 
-class Output extends React.PureComponent{
+const DicoWord = MyLoadable({
+    loader: () => import('./DicoWord'),
+});
+const Improve = MyLoadable({
+    loader: () => import('./Improve'),
+});
+const Result = MyLoadable({
+    loader: () => import('./Result'),
+});
+
+class Output extends React.Component{
     constructor(props) {
         super(props)
     }

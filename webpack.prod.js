@@ -2,6 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 const nodeExternals = require('webpack-node-externals');
+const ReactLoadablePlugin = require('react-loadable/webpack').ReactLoadablePlugin;  //TODO in opinion
 // var InlineEnviromentVariablesPlugin = require('inline-environment-variables-webpack-plugin');
 
 const PATH = {
@@ -14,6 +15,9 @@ var env = new webpack.DefinePlugin({
 })
 
 const plugins = [
+    new ReactLoadablePlugin({
+      filename: './build/react-loadable.json',
+    }),
     new ExtractTextPlugin('./css/styles.min.css', {
         allChunks: true
     })
@@ -41,7 +45,21 @@ module.exports = [{
             },
             {
                 test: /\.s?css$/,
-                loader: ExtractTextPlugin.extract('css-loader!sass-loader'),
+                loader: ExtractTextPlugin.extract({
+                    fallback: "style-loader",
+                    use: [
+                        {
+                            loader: 'string-replace-loader',
+                            options: {
+                                search:'"http://127.0.0.1:3000',
+                                replace:'"http://traduction.xyz',
+                                flags:'g'
+                            }
+                        },
+                        { loader: 'css-loader' },
+                        { loader: 'sass-loader' }
+                    ]
+                }),
             }
         ]
     },
@@ -57,6 +75,18 @@ module.exports = [{
         extensions: ['*', '.js', '.jsx']
     },
     plugins: plugins,
+    optimization: {
+        splitChunks: {
+            cacheGroups: {
+                //Write splitChunks configuration in optimization object in root of the webpack config object.
+                commons: {
+                    test: /[\\/]node_modules[\\/]/,
+                    name: "vendor",
+                    chunks: "all"
+                }
+            }
+        }
+    }
 },
 //server side rendering config
 {

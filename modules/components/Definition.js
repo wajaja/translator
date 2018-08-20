@@ -1,7 +1,6 @@
 import React from 'react'
 
-
-export default Definition = ({data}) => {
+const Definition = ({data}) => {
 
     return (
         <div className="def-ctnr">
@@ -9,3 +8,5 @@ export default Definition = ({data}) => {
         </div>
     )
 }
+
+export default Definition

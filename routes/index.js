@@ -201,7 +201,7 @@ router.all('*', function(req, res, next) {
         preloadedState: {
             Translator: {
                 access_token: sessData.access_token
-            }
+            },
         }
     }
 

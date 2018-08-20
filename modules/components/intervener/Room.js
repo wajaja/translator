@@ -1,5 +1,10 @@
 import React, { PureComponent, Fragment }   from 'react'
 import { connect }  from 'react-redux'
+import { MyLoadable }   from 'components'
+
+// const LoadableThread = MyLoadable({
+//     loader: () => import('components/Thread'),
+// });
 
 const Thread = ({ thread }) => {
     const { text, translated, translated_by, text_by, text_at, translated_at } = thread
@@ -39,7 +44,7 @@ class Room extends PureComponent {
                         <div className="room-lft-a">
                             {others_to_me.map(function(thread, i) {
                                 return(
-                                    <Thread key={i} thread={thread} />
+                                    <LoadableThread key={i} thread={thread} />
                                 )
                             })}
                             {!me_to_others.length && <div> you have'nt translated for other</div>}
@@ -54,7 +59,7 @@ class Room extends PureComponent {
                         <div className="room-rght-a">
                             {me_to_others.map(function(thread, i) {
                                 return(
-                                    <Thread key={i} thread={thread} />
+                                    <LoadableThread key={i} thread={thread} />
                                 )
                             })}
                             {!me_to_others.length && <div> you have'nt translated for other</div>}

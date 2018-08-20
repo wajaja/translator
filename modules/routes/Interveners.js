@@ -1,5 +1,5 @@
 import React        from 'react'
-import { Page, Intervener, Room }     from 'components'
+import { Page, Intervener, Room, AnimatedLoading }     from 'components'
 import { Link, Route }     from 'react-router-dom'
 import Foot                 from './Foot'
 import { Helmet }           from 'react-helmet'
@@ -11,16 +11,19 @@ const  Interveners = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Interveners</title>
-                <link rel="canonical" href="http://mysite.com/example" />
+                <link rel="canonical" href="http://traduction.xyz/interveners" />
             </Helmet>
             <div className="hm-ctnr-a">
                 <div className="hm-ctnr-b">
                     <div className="l">
                         <div className="next-ft">
-                            Fonctionalité avenir...
+                            Bientôt...
+                        </div>
+                        <div className="next-anim">
+                            <AnimatedLoading />
                         </div>
                         <p className="par-msg">
-                            Contrubution à l'evolution de la langue
+
                         </p>
                     </div>
                     <div className="r">

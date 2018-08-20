@@ -1,7 +1,15 @@
-import React        from 'react'
-import Editor       from './Editor'
-import DicoWord     from './DicoWord'
-import Suggestions  from './Suggestions'
+import React             from 'react'
+import MyLoadable    from '../MyLoadable'
+
+const Editor = MyLoadable({
+    loader: () => import('./Editor'),
+});
+const Suggestions = MyLoadable({
+    loader: () => import('./Suggestions'),
+});
+const DicoWord = MyLoadable({
+    loader: () => import('./DicoWord'),
+});
 
 class Input extends React.PureComponent{
     constructor(props) {

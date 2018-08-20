@@ -1,7 +1,13 @@
 import React, { Component }    from 'react'
-import { Page }     from 'components'
-import Foot         from './Foot'
-import { Helmet }   from 'react-helmet'
+import { Helmet }             from 'react-helmet'
+import { MyLoadable }         from 'components'
+
+const Page = MyLoadable({
+    loader: () => import('../components/Page'),
+});
+const Foot = MyLoadable({
+    loader: () => import('./Foot'),
+});
 
 class Home extends Component{
     constructor(props) {
