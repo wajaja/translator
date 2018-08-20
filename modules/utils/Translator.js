@@ -4,7 +4,7 @@ import axios                from 'axios'
 import { Input, Output }    from 'components'
 import { BASE_PATH }        from 'config/api'
 
-const socket = io.connect('http://:3000');
+const socket = io.connect(BASE_PATH);
 // import print from './printer';
 
 export default class Translator {
@@ -31,7 +31,7 @@ export default class Translator {
             'uniqueString': uniqueString
         };
         socket.emit('translate_phrase', data);
-        return axios.post(BASE_PATH + 'api/translate', data) 
+        return axios.post(BASE_PATH + '/api/translate', data)
         //Emit tranlate event to server throught socket.io
         // this._cache.push(phrase);
     }
