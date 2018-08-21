@@ -29,22 +29,22 @@ var proxy;
 if(process.env.NODE_ENV == 'production') {
     // Create your proxy server and set the target in the options.
     // Create the HTTPS proxy server in front of a HTTP server
-    proxy = httpProxy.createProxyServer({
-        target: {
-            host: '127.0.0.1',
-            port: 3000
-        },
-        ssl: {
-            key: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/privkey.pem', 'utf8'),
-            cert: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/fullchain.pem', 'utf8')
-        }
-    });
-    // Listen to the `upgrade` event and proxy the
-    // WebSocket requests as well.
-    //
-    server.on('upgrade', function (req, socket, head) {
-        proxy.ws(req, socket, head);
-    });
+    // proxy = httpProxy.createProxyServer({
+    //     target: {
+    //         host: '127.0.0.1',
+    //         port: 3000
+    //     },
+    //     ssl: {
+    //         key: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/privkey.pem', 'utf8'),
+    //         cert: fs.readFileSync('/etc/letsencrypt/live/traduction.xyz/fullchain.pem', 'utf8')
+    //     }
+    // });
+    // // Listen to the `upgrade` event and proxy the
+    // // WebSocket requests as well.
+    // //
+    // server.on('upgrade', function (req, socket, head) {
+    //     proxy.ws(req, socket, head);
+    // });
 } else {
     //
     // Create your proxy server and set the target in the options.
