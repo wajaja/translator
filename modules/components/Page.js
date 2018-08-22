@@ -73,7 +73,12 @@ class Page extends Component {
 
     onKeyUp(key){
         if(key === 'Backspace') {
-            this._translate();
+            const textArr = this.state.text.split('');
+            if(textArr[textArr.length - 1] == " ") {
+                this._translate();
+            } else {
+                
+            }
         }
         else if(key === ' ') {
             if(this.lastPressedKey === ' ') {

@@ -10,8 +10,12 @@ const  Interveners = ({ match, location }) => {
         <div className="hm-ctnr">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Interveners</title>
-                <link rel="canonical" href="http://traduction.xyz/interveners" />
+                <title>Activités de Traduction</title>
+                <link rel="canonical" href="https://traduction.xyz/interveners" />
+                <meta name="description" content="XYZ-Traduction - une traduction interactive" />
+                <meta property="og:title" content="Vos activités de traduction" />
+                <meta property="og:url" content="https://traduction.xyz/interveners" />
+                <meta property="og:description" content="XYZ-Traduction - une traduction interactive" />
             </Helmet>
             <div className="hm-ctnr-a">
                 <div className="hm-ctnr-b">

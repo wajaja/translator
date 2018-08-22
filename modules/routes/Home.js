@@ -21,7 +21,11 @@ class Home extends Component{
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>XZY . traduction français - lingala</title>
-                    <link rel="canonical" href="http://www.traduction.xyz" />
+                    <link rel="canonical" href="https://traduction.xyz" />
+                    <meta name="description" content="Traduction instantanée des textes en lingala" />
+                    <meta property="og:title" content="XYZ - traduction" />
+                    <meta property="og:url" content="https://traduction.xyz" />
+                    <meta property="og:description" content="XYZ - Traduction : La traduction instantanée des textes en lingala" />
                 </Helmet>
                 <div className="hm-ctnr-a">
                     <Page

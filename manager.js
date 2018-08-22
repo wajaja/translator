@@ -132,7 +132,6 @@ exports.findWord = function findWord(str, strict) {
             //['aux', 'als'] => ['al', 'al']
             if(irregular_pl_keys.indexOf(str) >= 0) {
                 let singular = irregular_pl_values[irregular_pl_keys.indexOf(str)];
-                console.log('75', singular, str);
                 wordPos     = binarySearch(keys, singular, true);
                 if(wordPos >= 0) {
                     return {
@@ -187,7 +186,6 @@ exports.findWord = function findWord(str, strict) {
                 } else if(male.slice(-3) === 'eur'){ // for the word like heureux who its female is heureuse
                     let _male = male.slice(0, -3) + 'eux';
                     wordPos    = binarySearch(keys, _male, true);
-                    console.log('internnnnnnnnnnnnnnnnnnnnnnnnnnn ', male, _male, wordPos);
                     return {
                         'number': 'singular',
                         'things': things_word,
@@ -195,7 +193,6 @@ exports.findWord = function findWord(str, strict) {
                     }
                 }
             } else {
-                console.log('return..................... -1');
                 return -1;
             }
         }
@@ -208,7 +205,6 @@ exports.findVerb = function findVerb(str) {
     var keys        = Object.keys(jsonObject);
     var wordPos     = binarySearch(keys, str, false);
     let verbs_arr   = [];
-    console.log('wordPos', keys[wordPos]);
 
     if(wordPos !== -1) {
         let _wordPos_toBig = wordPos,
@@ -221,7 +217,6 @@ exports.findVerb = function findVerb(str) {
         while (removeAccents(keys[(_wordPos_toBig+1)]).startsWith(removeAccents(str))) {
             _wordPos_toBig++;
             if(keys[_wordPos_toBig].indexOf(' v.') >= 0){
-                console.log('102', str, keys[_wordPos_toBig]);
                 verbs_arr.push({order: _wordPos_toBig, val: keys[_wordPos_toBig]});
             }
         }
@@ -233,17 +228,13 @@ exports.findVerb = function findVerb(str) {
         while (removeAccents(keys[(_wordPos_toSmall-1)]).startsWith(removeAccents(str))) {
             _wordPos_toSmall--;
             if(keys[_wordPos_toSmall].indexOf(' v.') >= 0){
-                console.log('102', str, keys[_wordPos_toSmall]);
                 verbs_arr.push({"order": _wordPos_toSmall, "val": keys[_wordPos_toSmall]});
             }
         }
 
-        console.log('233 verbs_arr', verbs_arr);
-
         var min_obj = verbs_arr.filter(e => typeof e === 'object').sort((a, b) => a.val.length - b.val.length)[0];
         //if there is not object from array then use the first one wordPos
         let _pos = typeof min_obj === 'object' ? min_obj["order"] : wordPos;
-        console.log('236 min_pos', _pos);
 
         return get_it_in_Lingala(jsonObject, _pos, 'singular');
     } else {
@@ -304,7 +295,6 @@ function get_it_in_Lingala(jsonObject, index, accord /*,context*/){
         _words   = _wordStr.split(',');     //get all signification in lingala
         _word    = _words[(Math.floor(Math.random() * _words.length))].split('/')[0]; //get just one writted word way
         _cls_key = o['cls'];        //get array of string classes on word object of dic =>  ["Mo-ba-"]
-        console.log('_cls_arr', _cls_arr);
 
         //human class group
         if(_cls_key !== undefined) {

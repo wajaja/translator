@@ -84,7 +84,7 @@ function francais_lingala(str, order, uniqueString) {
                 }
 
                 else if(["q'", "que"].indexOf(w) >= 0) {
-                    // verb_mod = 'conditionnel';  //// TODO: 
+                    // verb_mod = 'conditionnel';  //// TODO:
                     return {'word_type':'condition', 'val': '', 'translated': false, 'pos': index}
                 }
 
@@ -188,7 +188,6 @@ function francais_lingala(str, order, uniqueString) {
                         findWord(w).val !== -1) {
                     let trans = findWord(w);
                     prevType  = {}; //reset prevType
-                    console.log('186', trans);
                     return {
                         'word_type': 'word',
                         'translated': true,
@@ -202,10 +201,8 @@ function francais_lingala(str, order, uniqueString) {
                 //check if the prevType is an auxiliaire and check the end of the current word
                 else if(prevType.nature === 'auxiliare' && /[ééesésites]$/.test(_w)) {
                     let verb = findVerb(w);
-                    console.log('typeof',  typeof verb);
                     prevType  = {}; //reset prevType
                     if(verb !== -1) {
-                        console.log('first.........', verb);
                         return {
                             'word_type': 'verb',
                             'translated': true,
@@ -215,7 +212,6 @@ function francais_lingala(str, order, uniqueString) {
                             'pos': index
                         }
                     } else if(findWord(w).val !== -1) {
-                        console.log('let findWord')
                         let trans = findWord(w);
                         return {
                             'word_type': 'word',
@@ -235,7 +231,6 @@ function francais_lingala(str, order, uniqueString) {
                     let trans = findWord(w, true),
                     _prev_trans = findWord(prevType.val);
                     trans.val = _prev_trans.val + ' ' + trans.val; //also return translated of pron_per when not conjuged
-                    console.log('+++++++++++++++++++++', trans);
                     return {
                         'word_type': 'word',
                         'translated': true,
@@ -248,7 +243,6 @@ function francais_lingala(str, order, uniqueString) {
 
                 else if(prevType.nature === 'pron_per' && _guessVerb(w, index, aspect).trans !== -1 ) {
                     let verb = _guessVerb(w, index, aspect);
-                    console.log('234   iiiiiiiiiiiiiiiiiiiiii', verb);
                     if(verb.trans !== -1) {
                         let begining = verb.begining;
                         prevType    = {};
@@ -424,10 +418,8 @@ function francais_lingala(str, order, uniqueString) {
             else if(!!currWord && currWord.word_type === 'verb') {
                 let fullMode = currWord.mode + ' ' + aspect;
                 let verbVal  = currWord.val;
-                console.log('364', verbVal);
                 //ignore the auxiliare when phrase has composed_verb
                 if(composed_verb && (verbVal === 'kozala na' || verbVal === 'kozala')) {
-                    console.log('compsed verbe detected in that sentence');
                     composed_verb = false;
                     return  _phrase + ' ';
                 }

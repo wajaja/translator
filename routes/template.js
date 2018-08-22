@@ -4,12 +4,16 @@ var css = process.env.NODE_ENV == 'production' ? 'build/css/styles.min.css' : 'b
 export default ({ body, title, bundles, preloadedState }) => {
     return `
     <!DOCTYPE html>
-    <html>
+    <html lang="fr-FR" xmlns:og="http://ogp.me/ns#">
         <head>
             <title>${title}</title>
-            <meta charset="UTF-8">
-            <meta http-equiv="Content-Type" content="text/html">
-            <meta name="viewport" content="initial-scale=1.0">
+            <meta charset="UTF-8" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta http-equiv="Content-Type" content="text/html" />
+            <meta name="viewport" content="initial-scale=1.0" />
+            <meta property="og:type" content="website" />
+            <meta property="og:image" content="https://traduction.xyz/images/xyztraduction.png" />
+            <meta property="og:site_name" content="XYZ Traduction" />
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
             <link href="https://fonts.googleapis.com/css?family=Assistant:300&subset=all" rel="stylesheet">
             <link rel="stylesheet" href=${css} />

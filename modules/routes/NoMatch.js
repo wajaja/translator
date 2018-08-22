@@ -8,8 +8,12 @@ const  NoMatch = ({ match, location }) => {
         <div className="hm-ctnr">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Error</title>
-                <link rel="canonical" href={`http://www.traduction.xyz/${match.url}`} />
+                <title>Page introuvable</title>
+                <link rel="canonical" href={`https://traduction.xyz/${match.url}`} />
+                <meta name="description" content="Page introuvable" />
+                <meta property="og:title" content="Page introuvable sur XYZ - Traduction" />
+                <meta property="og:url" content={`https://traduction.xyz/${match.url}`} />
+                <meta property="og:description" content="Page introuvable sur XYZ - Traduction" />
             </Helmet>
             <div className="hm-ctnr-a">
                 <div className="hm-ctnr-b">
