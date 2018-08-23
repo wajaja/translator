@@ -102,8 +102,9 @@ class Page extends Component {
             targetLang,
             uniqueString
         }         = this.state,  //current text
+
         cursorPos = this.lastCursorPos,
-        phrase    = getEditedSentence(text, cursorPos),
+        phrase    = getEditedSentence(text + ' ', cursorPos),
         order     = phrase.order;
         // results     = this.state.results;
         this.translator
