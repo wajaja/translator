@@ -22,12 +22,10 @@ var Language    = mongoose.model('Language', LanguageSchema);
 // route to authenticate a user (POST http://localhost:8080/api/login_check)
 router.post('/api/login_check', function(req, res) {
     // find the user
-    console.log('body', req.body);
     User.findOne({
         email: req.body.email
     }, function(err, user) {
         // console.log('26', err);
-        if (err) console.log('jiffj');
         if (!user) {
             res.json({ success: false, message: 'Authentication failed. User not found.' });
         } else if (user) {
@@ -57,8 +55,6 @@ router.post('/api/login_check', function(req, res) {
                         token: token,
                         user: _user
                     });
-
-                    console.log('31', result);
                 }
                 return res.status(401).json({
                     failed: err
@@ -103,7 +99,6 @@ router.post('/api/signup', function(req, res) {
             // save the sample user
             user.save(function(err, savedUser) {
                 if (err) {
-                    console.log(err.message);
                     if(err.message.indexOf('E11000 duplicate key error index') >= 0 &&
                        err.message.indexOf('translator.users.$email_1') >=0) {
                         return res.json({

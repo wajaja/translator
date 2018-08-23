@@ -18,7 +18,6 @@ class Login extends React.Component{
 
     componentDidUpdate(prevProps, prevState) {
         if(this.props.login !== prevProps.login) {
-            console.log('data changed');
         }
     }
 

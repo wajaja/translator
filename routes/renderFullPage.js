@@ -74,7 +74,6 @@ function renderFullPage(req, res, params) {
     // Grab the initial state from our Redux store
     const finalState = store.getState()
     let bundles = getBundles(stats, modules);
-    console.log('bundles', bundles.length);
 
     // Send the rendered page back to the client
     res.send(template({

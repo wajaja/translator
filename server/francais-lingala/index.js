@@ -346,7 +346,6 @@ function francais_lingala(str, order, uniqueString) {
         demonstratif = '',
         negative_phr_end = '';
         let resolved     = translated_words.reduce(function(_phrase, currWord, idx){
-            console.log('278', currWord);
             if(currWord === ' ') {
                 return _phrase + ' ';
             }

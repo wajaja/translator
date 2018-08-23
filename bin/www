@@ -126,7 +126,7 @@ function onError(error) {
 
 function onListening() {
   var addr = server.address();
-  console.log(addr);
+  //console.log(addr);
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
     : 'port ' + addr.port;
@@ -145,7 +145,7 @@ io.sockets.on('connection', function(_socket) {
         target_lang    = data['target_lang'],
         uniqueString   = data['uniqueString'],
         phrase_str     = phrase[1];
-        console.log('110', order, phrase.toString());
+        //console.log('110', order, phrase.toString());
 
         var translated = translatePhraseStr(phrase_str, order, uniqueString, source_lang, target_lang);
         translated.then(phraseResolved, phraseRejected);
@@ -159,11 +159,11 @@ io.sockets.on('connection', function(_socket) {
 
 
 function phraseResolved(data) {
-    console.log('order', data);
+    //console.log('order', data);
     socket.emit('phrase_translated', data); //resolved
 }
 
 function phraseRejected(reason, order) {
-    console.log('tralating rejected');
-    console.log(reason, order);
+    //console.log('tralating rejected');
+    //console.log(reason, order);
 }

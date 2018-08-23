@@ -52,7 +52,7 @@ filewalker("./data", function(err, data){
         var key  = file.split('/')[file.split('/').length - 1].split('.')[0]; //file.split('/')[3];                //[ 'c:', 'translator', 'data', 'a' ]
         return fs.readFile(url, function(err, data) {
             if(err) {
-                console.log(err);
+                //console.log(err);
             };
             let raw = data.toString();
             raw = raw.replace(/\\n/g, "\\n")
