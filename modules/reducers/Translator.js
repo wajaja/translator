@@ -2,7 +2,7 @@ import { Translator as TranslatorActions, } from 'actions'
 
 export const initialState = {
     access_token: null,
-    seIsAuthencated: false,
+    isAuthenticated: false,
 }
 
 /**
@@ -26,12 +26,10 @@ function Translator(state = initialState, action) {
             return state
 
         case TranslatorActions.SET_AUTH:
-            if (action.response) {
-                return [
-                    ...action.response,
-                ]
-            }
-            return state
+            return Object.assign({}, state, {isAuthenticated: action.status})
+
+        case TranslatorActions.SET_TOKEN:
+            return Object.assign({}, state, {access_token: action.token})
 
         case TranslatorActions.PUSH_SENTENCE:
             return state.map((item) => {

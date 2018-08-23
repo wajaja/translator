@@ -21,7 +21,19 @@ export const SET_AUTH = 'USER::SET_AUTH'
  * @param response
  * @private
  */
-export const seIsAuthencated = (status) => ({ type: "USER::SET_AUTH", status, })
+export const setAuth = (status) => ({ type: SET_AUTH, status, })
+
+/**
+* SET_USER
+* @type {string}
+*/
+export const SET_TOKEN = 'USER::SET_TOKEN'
+/**
+ * _loadResponse
+ * @param response
+ * @private
+ */
+export const setToken = (token) => ({ type: SET_TOKEN, token, })
 
 /**
  * load

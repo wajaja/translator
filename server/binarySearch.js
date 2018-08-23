@@ -50,22 +50,19 @@ function binarySearch(ar, el, strict) {
                         return mid;
                     } else {
                         //iterate all keys startsWith el
-                        console.log('heree.........', _val, el);
                         while (removeAccents(ar[(mid+1)]).startsWith(removeAccents(el))) {
                             mid++;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
                             _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
-                            console.log('iterate.........', _el);
                             //
                             if(_val.endsWith(el)) //return index of key ended by el string
                                 return mid;
                         }
-                        
+
                         while (removeAccents(ar[(mid-1)]).startsWith(removeAccents(el))) {
                             mid--;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
                             _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
-                            console.log('iterate.........------', _el);
                             if(_val.endsWith(el))
                                 return mid;
                         }

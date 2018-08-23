@@ -42,6 +42,10 @@ nav{
         margin-right: 0px !important;
     }
 }
+.gb-nv-btn{
+    text-transform: capitalize;
+    /*color: #137bfe;*/
+}
 body{
     background: #f3f4f7;
 }
@@ -64,14 +68,15 @@ body{
         font-weight: 600;
         color: #0a3075;
         height: unset;
+        margin-top: 0px;
     }
     form{
-        width: 340px;
+        width: 320px;
         margin-top: 50px;
         border: 1px solid #d8d9de;
         background: #f0f1fb;
         border-radius: 4px;
-        padding: 20px 40px;
+        padding: 20px 30px;
         font-family: sans-serif;
         font-size: 14px;
         font-weight: 600;
@@ -83,6 +88,7 @@ body{
         }
         .form-btm{
             height: 28px;
+            margin-top: 40px !important;
         }
         input{
             width: 260px;
@@ -96,15 +102,14 @@ body{
         button{
             cursor: pointer;
             padding: 3px 6px;
-            min-width: 80px;
-            font-size: 14px;
-            font-weight: 600;
+            min-width: 70px;
+            font-size: 13px;
             color: #eff2f5;
             background: #3671f3;
             border: 1px solid #3671f3;
             position: absolute;
             right: 0;
-            border-radius: 3px;
+            border-radius: 2px;
         }
         ul{
             margin: 10px 0 5px;
@@ -202,13 +207,14 @@ textarea{
     overflow: hidden;
     word-wrap: break-word;
     padding: 0 10px;
-    min-height: 160px;
+    min-height: 158px;
     background: #f6f6fe;
 }
 .inp-mdl, .inp-btm{
-    padding: 10px 0;
-    color: #6c7080;
-    font-size: 14px;
+    padding: 10px 15px;
+    color: #686c79;
+    font-size: 13px;
+    font-weight: 600;
     font-family: sans-serif;
 }
 .foo{
@@ -285,6 +291,19 @@ textarea{
     background-size: cover;
     width: 30px !important;
     height: 30px !important;
+    position: relative;
+    border: none;
+    font-size: 20px;
+}
+.loading{
+    display: inline-block;
+    vertical-align: top;
+    left: 135px;
+    top: 2px;
+    background: transparent url("http://127.0.0.1:3000/images/processing.gif") 50% 50% no-repeat;
+    background-size: contain;
+    width: 26px !important;
+    height: 26px !important;
     position: relative;
     border: none;
     font-size: 20px;

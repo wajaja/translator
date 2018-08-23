@@ -1,24 +1,19 @@
 var serialize = require('serialize-javascript');
 var css = process.env.NODE_ENV == 'production' ? 'build/css/styles.min.css' : 'build/css/styles.css';
 
-export default ({ body, title, bundles, preloadedState }) => {
+export default ({ body, title, bundles, helmet, preloadedState }) => {
     return `
     <!DOCTYPE html>
-    <html lang="fr-FR" xmlns:og="http://ogp.me/ns#">
+    <html xmlns:og="http://ogp.me/ns#" ${helmet.htmlAttributes.toString()}>
         <head>
-            <title>${title}</title>
-            <meta charset="UTF-8" />
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta http-equiv="Content-Type" content="text/html" />
-            <meta name="viewport" content="initial-scale=1.0" />
-            <meta property="og:type" content="website" />
-            <meta property="og:image" content="https://traduction.xyz/images/xyztraduction.png" />
-            <meta property="og:site_name" content="XYZ Traduction" />
+            ${helmet.title.toString()}
+            ${helmet.meta.toString()}
+            ${helmet.link.toString()}
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
             <link href="https://fonts.googleapis.com/css?family=Assistant:300&subset=all" rel="stylesheet">
             <link rel="stylesheet" href=${css} />
         </head>
-        <body>
+        <body ${helmet.bodyAttributes.toString()}>
             <div id="app">${body}</div>
             <script>
               // WARNING: See the following for security issues around embedding JSON in HTML:

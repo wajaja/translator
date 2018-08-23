@@ -1,6 +1,7 @@
-import React, { Component, cloneElement } from 'react'
-import { connect } from 'react-redux'
-import { withRouter } from 'react-router'
+import React, { Component } from 'react'
+import { connect }      from 'react-redux'
+import { withRouter }   from 'react-router'
+import { Helmet }       from 'react-helmet'
 
 import setAuthorizationToken from 'utils/set-authorization-token'
 import { trans as transActions,} from 'actions'
@@ -68,7 +69,25 @@ class App extends Component {
     render() {
         return (
             <div id="root" suppressHydrationWarning={true}>
-                <AppHeader />
+                <Helmet
+                    encodeSpecialCharacters={true}
+                    titleTemplate="traduction.xyz - %s"
+                    defaultTitle="Traduction. Français - lingala">
+                        <html lang="fr-FR" />
+                        <body />
+                        <title>Traducteur. Français - lingala</title>
+                        <meta charset="UTF-8" />
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+                        <meta http-equiv="Content-Type" content="text/html" />
+                        <meta name="viewport" content="initial-scale=1.0" />
+                        <meta property="og:type" content="website" />
+                        <meta property="og:image" content="https://traduction.xyz/images/xyztraduction.png" />
+                        <meta property="og:site_name" content="XYZ Traduction" />
+                </Helmet>
+                <AppHeader
+                    user={this.props.user}
+                    isAuthenticated={this.props.isAuthenticated}
+                    />
                 {this.props.children}
             </div>
         )
@@ -79,4 +98,5 @@ class App extends Component {
 export default withRouter(connect(state => ({
     user: state.User,
     access_token:   state.Translator.access_token,
+    isAuthenticated: state.Translator.isAuthenticated
 }))(App))

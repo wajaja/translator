@@ -14,6 +14,7 @@ var {
 require('./utils/String.prototype.allReplace');
 
 var aspectArr = ['souvent', 'habitude', 'parfois'];     //check aspect before conjugaison
+var specials_chars = ['#', '@', "+", ';', ',', '/', ':', '-', '*', '_'];
 var end_chars = ['.', '!', '?'];                        // check the end of phrase
 var composed_verb = false;                              //var that keep if verb is in composed form
 
@@ -35,6 +36,9 @@ function francais_lingala(str, order, uniqueString) {
         var translated_words = words.map(function(_w, index) {
 
             let w = _w.toLowerCase().replace(/[.!?,;]/g, '');            //LowerCase
+            if(specials_chars.indexOf(_w) >= 0) {
+                return {'word_type':'char', 'val': _w, 'translated': false, 'pos': index};
+            }
 
             if(end_chars.indexOf(_w) >= 0) {
                 // w = w.replace(/[.!?,;]/g, '');   // replace .!? attached to word

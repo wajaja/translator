@@ -9,7 +9,7 @@ import {
 }                           from 'actions'
 
 function submit(values, dispatch, props) {
-    return axios.post( BASE_PATH + 'api/login_check', values).then(
+    return axios.post( BASE_PATH + '/api/login_check', values).then(
             res => {
                 const data = res.data;
                 if(data.success) {
@@ -17,6 +17,7 @@ function submit(values, dispatch, props) {
                     setAuthorizationToken(data.token);
                     dispatch(UserActions.setUser(data.user));
                     dispatch(TranslatorActions.setAuth(true));
+                    dispatch(TranslatorActions.setToken(data.token));
                     props.history.push('/');
                 } else {
                     throw new SubmissionError(data.message);

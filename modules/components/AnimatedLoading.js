@@ -2,8 +2,8 @@ import React        from 'react';
 
 const AnimatedLoading = () => {
     return(
-        <div class="view_port">
-            <div class="cylon_eye"></div>
+        <div className="view_port">
+            <div className="cylon_eye"></div>
         </div>
     )
 }

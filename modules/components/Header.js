@@ -2,6 +2,7 @@ import React        from 'react'
 import { Link }     from 'react-router-dom'
 
 const Header = (props) => {
+
     return(
         <nav  className="navbar navbar-default navbar-fixed-top">
         	<div className="container">
@@ -30,21 +31,22 @@ const Header = (props) => {
                                         <span className="interv-txt">Intervenant</span>
                                     </Link>
                                 </div>
-                                {!props.access_token &&
+                                {!props.isAuthenticated &&
                                     <div className="navs-lk">
                                         <Link to="/login" className="gb-nv-btn">
                                             Connexion
                                         </Link>
                                     </div>
                                 }
-                                {!props.access_token &&
+                                {!props.isAuthenticated &&
                                     <div className="navs-lk">
                                         <Link to="/signup" className="gb-nv-btn">
                                             Inscription
                                         </Link>
                                     </div>
                                 }
-                                {props.access_token &&
+                                
+                                {props.isAuthenticated &&
                                     <div className="navs-lk">
                                         <div className="gb-nv-btn">
                                             {props.user.name}

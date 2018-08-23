@@ -27,9 +27,9 @@ function User(state = initialState, action) {
 
         case UserActions.SET_USER:
             if (action.user) {
-                return user
+                return action.user
             }
-            
+
             return state
 
         case UserActions.PUSH_WORD:

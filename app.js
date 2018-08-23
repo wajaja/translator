@@ -65,7 +65,7 @@ app.use(session({
         client: client,
 
     }),
-    cookie: { maxAge: 60000 }
+    cookie: { maxAge: 86400000 } //1 day
 }))
 
 app.use('/', routes);
@@ -99,4 +99,5 @@ app.use(function(err, req, res, next) {
         });
 });
 
+exports.redisClient = client;
 module.exports = app;

@@ -11,6 +11,8 @@ var {
 }                       = require('../server/translate');
 var renderFullPage      = require('./renderFullPage');
 var verifyToken         = require('./verifyToken');
+var redis               = require("redis"),
+redisClient             = redis.createClient();
 
 var router      = express.Router();
 var User        = mongoose.model('User', UserSchema);
@@ -42,18 +44,18 @@ router.post('/api/login_check', function(req, res) {
                   }, '91005translator', { expiresIn: '1d' });
 
                     //set access_token in session
-                    let sessData = req.session;
-                    sessData.access_token = token;
-
+                    req.session.access_token = token;
+                    const _user = {
+                        id: user.id,
+                        name: user.name,
+                        email: user.email
+                    }
+                    redisClient.set('user', JSON.stringify(_user));
                     // return the information including token as JSON
                     return res.json({
                         success: true,
                         token: token,
-                        user: {
-                            id: user.id,
-                            name: user.name,
-                            email: user.email
-                        }
+                        user: _user
                     });
 
                     console.log('31', result);
@@ -68,28 +70,35 @@ router.post('/api/login_check', function(req, res) {
 
 
 router.post('/api/signup', function(req, res) {
-    const body = req.body;
-    console.log('checking...', body);
+    const body = req.body,
+    { email, name, password } = body
 
-    bcrypt.hash(body.password, 10, function(err, hash){
+    //
+    bcrypt.hash(password, 10, function(err, hash){
         if(err) {
-            return res.status(500).json({
-                error: err
-            });
+            return res.json({ success: false, message: 'Mot de passe invalid.' });
         } else {
             // create a sample user
+            if(!name || (name && name.length < 3)) {
+                return res.json({ success: false, message: 'Nom invalid.' });
+            } else if(!email || (email && (/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[A-Za-z]+$/.test(email) == false))) {
+                return res.json({ success: false, message: 'Email invalid.' });
+            }
+
             var user = new User({
                 name: body.name,
                 email: body.email,
                 password: hash,
-                admin: true
+                // admin: true
             });
 
             var languages = body.languages;
 
-            languages.forEach(function(l, i) {
-                user.languages.push({'title': l});
-            })
+            if(languages && languages.forEach) {
+                languages.forEach(function(l, i) {
+                    user.languages.push({'title': l});
+                })
+            }
 
             // save the sample user
             user.save(function(err, savedUser) {
@@ -108,21 +117,21 @@ router.post('/api/signup', function(req, res) {
 
                 var token = jwt.sign({
                   email: req.body.email,
-                }, '91005translator', { expiresIn: '1h' });
+              }, '91005translator', { expiresIn: '1d' });
 
                 //set access_token in session
-                let sessData = req.session;
-                sessData.access_token = token;
-
+                req.session.access_token = token;
+                const _user = {
+                    id: savedUser.id,
+                    name: savedUser.name,
+                    email: savedUser.email
+                }
+                redisClient.set('user', JSON.stringify(_user));
                 // return the information including token as JSON
                 return res.json({
                     success: true,
                     token: token,
-                    user: {
-                        id: savedUser.id,
-                        name: savedUser.name,
-                        email: savedUser.email
-                    }
+                    user: _user
                 });
             });
         }
@@ -194,20 +203,50 @@ router.all('*', function(req, res, next) {
     var sessData = req.session;
     // sessData.someAttribute = "foo";
     // var someAttribute = req.session.someAttribute;
+    var user = null,
+    isAuthenticated = false,
+    token = sessData.access_token;
 
-    let params = {
-        url: req.originalUrl,
-        title: 'Traducteur. Français - lingala',
-        preloadedState: {
-            Translator: {
-                access_token: sessData.access_token
-            },
-        }
+
+    jwt.verify(token, '91005translator', function(err, decoded) {
+        if (!err)
+            isAuthenticated = true;
+    });
+
+    if((['/login', '/signup'].indexOf(req.originalUrl) >= 0) && isAuthenticated) {
+        return res.redirect('/');
     }
 
-    // res.render('index', {title: 'some title', r: 'jkg'});
-    // res.send('index rendered');
-    renderFullPage(req, res, params);
+    if(isAuthenticated) {
+        redisClient.get("user", function(err, userStr) {
+            user = JSON.parse(userStr); // userStr is null when the key is missing
+            let params = {
+                url: req.originalUrl,
+                title: 'Traducteur. Français - lingala',
+                preloadedState: {
+                    Translator: {
+                        access_token: sessData.access_token,
+                        isAuthenticated: isAuthenticated
+                    },
+                    User: user
+                }
+            }
+            renderFullPage(req, res, params);
+        });
+    } else {
+        let params = {
+            url: req.originalUrl,
+            title: 'Traducteur. Français - lingala',
+            preloadedState: {
+                Translator: {
+                    access_token: sessData.access_token,
+                    isAuthenticated: isAuthenticated
+                },
+            }
+        }
+        // res.send('index rendered');
+        renderFullPage(req, res, params);
+    }
 });
 
 // route middleware to verify a token

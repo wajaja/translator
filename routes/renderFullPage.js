@@ -11,6 +11,7 @@ var {
 import {
     reducer as formReducer
 }                       from 'redux-form'
+import { Helmet }       from 'react-helmet'
 var thunk              = require('redux-thunk')
 var reducers           = require('../modules/reducers')
 var { Provider }       = require('react-redux')
@@ -68,6 +69,8 @@ function renderFullPage(req, res, params) {
         </Loadable.Capture>
     ))
 
+    const helmet = Helmet.renderStatic();
+
     // Grab the initial state from our Redux store
     const finalState = store.getState()
     let bundles = getBundles(stats, modules);
@@ -78,6 +81,7 @@ function renderFullPage(req, res, params) {
         body,
         title,
         bundles,    //code spliting
+        helmet,
         preloadedState: finalState
     }))
 }

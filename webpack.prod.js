@@ -93,7 +93,7 @@ module.exports = [{
     target: 'node',
     externals: [nodeExternals()],
     mode: 'production',
-    entry: path.resolve(__dirname, './bin/www'),
+    entry: path.resolve(__dirname, './bin/cluster.js'),
     output: {
         path: PATH.build_dir,
         filename: 'server.js',

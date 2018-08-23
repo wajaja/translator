@@ -36,6 +36,7 @@ const LoginForm = props => {
       />
       {error && <strong>{error}</strong>}
       <div className="form-btm">
+        {!!submitting && <div className="loading"></div>}
         <button type="submit" disabled={submitting}>
           Log In
         </button>

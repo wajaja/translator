@@ -41,9 +41,13 @@ const renderLanguages = ({ fields, meta: { error } }) => (
 )
 
 const SignupForm = props => {
-  const { error, handleSubmit, pristine, reset, submitting } = props
+  const { error, handleSubmit, pristine, reset, submitting, signupState } = props;
+  const submitError = !!signupState ?
+                      !!signupState.submitErrors ? Object.values(signupState.submitErrors).join().split(',').join('') : ""
+                      : "";
   return (
     <form onSubmit={handleSubmit(submit)}>
+      {!!submitError && <div className="err-msg">{submitError}</div>}
       <div className="frm-msg-ttl">Signup</div>
       <Field
         name="name"
@@ -66,6 +70,7 @@ const SignupForm = props => {
       <FieldArray name="languages" component={renderLanguages} />
       {error && <strong>{error}</strong>}
       <div className="form-btm">
+        {!!submitting && <div className="loading"></div>}
         <button type="submit" disabled={submitting}>
           Signup
         </button>
