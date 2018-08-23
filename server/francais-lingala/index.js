@@ -77,7 +77,7 @@ function francais_lingala(str, order, uniqueString) {
 
                 //article
                 else if(preposition_keys.indexOf(w) >= 0) {
-                    prevType = {};
+                    prevType = {nature: 'prep', nombre: ''};
                     return {
                         'word_type':'prep',
                         'val': preposition_vals[preposition_keys.indexOf(w)],
@@ -102,6 +102,18 @@ function francais_lingala(str, order, uniqueString) {
                 }
                 //pronom personnel
                 else if(pronon_personnel_keys.indexOf(w) >= 0) {
+                    if(prevType.nature == 'prep') {
+                        let trans = findWord(w);
+                        prevType    = {}; //do nothing on prevType (because the pron_per was already translated as word: eg. Avec vous...)
+                        return {
+                            'word_type': 'word',
+                            'translated': true,
+                            'val':  trans,
+                            'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
+                            'attach': getAttachedChar(_w),
+                            'pos': index
+                        }
+                    }
                     prevType    = {nature: 'pron_per', nombre: '', val: w};
                     return {
                         'word_type':'pron_per',
@@ -275,6 +287,17 @@ function francais_lingala(str, order, uniqueString) {
                 //     };
                 // }
                 //find Word
+                //test by length (juste char; return it)
+                else if(w.length == 1) {
+                    return {
+                        'word_type': 'word',
+                        'translated': false,
+                        'val':  w,
+                        'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
+                        'attach': getAttachedChar(_w),
+                        'pos': index
+                    }
+                }
                 else if(typeof findWord(w) === 'object' && findWord(w).val !== -1) {
                     let trans = findWord(w);
 
@@ -711,7 +734,7 @@ function _conjuguer(prefix, verbVal, mode) {
 function getAttachedChar(_w) {
     if([',', ';'].indexOf(_w) >= 0) {
         // w = w.replace(/[.!?,;]/g, '');   // replace .!? attached to word
-        return [',', ';'][[',', ';'].indexOf(w)]; //set end phrase' s char
+        return  [',', ';'][[',', ';'].indexOf(w)]; //set end phrase' s char
     }
     return '';
 }

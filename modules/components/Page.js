@@ -77,11 +77,12 @@ class Page extends Component {
             if(textArr[textArr.length - 1] == " ") {
                 this._translate();
             } else {
-                
+                this.setState({translating: true})
             }
         }
         else if(key === ' ') {
             if(this.lastPressedKey === ' ') {
+                this.setState({translating: true})
             } else {
                 this._translate();
             }
@@ -89,6 +90,7 @@ class Page extends Component {
         else if(key === '.' || key === '!' || key === '?') {
             this._translate();
         } else {
+            this.setState({translating: true})
         }
         this.lastPressedKey = key
     }
@@ -120,7 +122,8 @@ class Page extends Component {
 
                         this.setState({
                             results: results.toJS(),
-                            alertMsg: alertMsg
+                            translating: false,
+                            alertMsg: alertMsg,
                         });
                     }
                 }, (err) => {
@@ -146,7 +149,6 @@ class Page extends Component {
             arr     = splitIntoSentences(text);
             arr.forEach((phrase, i) => {
                 let order = phrase.order;
-
                 this.translator
                     .translatePhrase(phrase, order, uniqueString, sourceLang.value, targetLang.value)
                     .then(
@@ -163,6 +165,7 @@ class Page extends Component {
 
                                 this.setState({
                                     results: results.toJS(),
+                                    translating: false,
                                     alertMsg: alertMsg
                                 });
                             }
@@ -286,7 +289,7 @@ class Page extends Component {
     }
 
     render() {
-        const { results, text, translasting, sentences, sourceLang, targetLang } = this.state;
+        const { results, text, translating, sentences, sourceLang, targetLang } = this.state;
         const is_auth = false;
         return(
             <div className="pg-ctnr">
@@ -324,7 +327,7 @@ class Page extends Component {
                                 onCut={this.onCut}
                                 onKeyUp={this.onKeyUp}
                                 onPaste={this.onPaste}
-                                translasting={translasting}
+                                translating={translating}
                                 inputChange={this.inputChange}
                                 onCaretPositionChange={this.onCaretPositionChange}
                                 handleSuggestionClick={this.handleSuggestionClick}
@@ -351,13 +354,19 @@ class Page extends Component {
                                         />
                                     </Fragment>
                                 </div>
+                                <div className="pg-rght-rght">
+                                    <button className="btn btn-primary btn-sm trans-btn" onClick={this._translate}>
+                                        Traduire
+                                    </button>
+                                </div>
                             </div>
+
                             <Output
                                 {...this.props}
                                 text={text}
                                 results={results}
                                 sentences={sentences}
-                                translasting={translasting}
+                                translating={translating}
                                 inputChange={this.inputChange}
                                 toggleImprove={this.toggleImprove}
                                 submitImproved={this.improveSentence}

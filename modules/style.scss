@@ -15,6 +15,25 @@ nav{
         margin: 0 auto;
     }
 }
+.global-nav-right-in{
+    font-family: sans-serif;
+    .log-out-btn{
+        cursor: pointer;
+        color: #007bff;
+        font-size: 12px;
+        padding: 4px 3px 0px 1px;
+        border: 1px solid #ccc;
+        font-family: sans-serif;
+        position: relative;
+        background: #fff;
+        top: -5px;
+    }
+    .logout-txt{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 4px;
+    }
+}
 .navbar{
     top: 0;
     position: fixed;
@@ -33,11 +52,11 @@ nav{
     display: inline-block;
     position: relative;
     vertical-align: top;
-    letter-spacing: .5px;
+    letter-spacing: .3px;
     margin-right: 50px;
     font-weight: 600;
-    font-size: 14px;
-    top: 4px;
+    font-size: 13px;
+    top: 5px;
     &:last-child{
         margin-right: 0px !important;
     }
@@ -109,6 +128,7 @@ body{
             border: 1px solid #3671f3;
             position: absolute;
             right: 0;
+            outline: none !important;
             border-radius: 2px;
         }
         ul{
@@ -200,6 +220,9 @@ textarea{
     .inp-mdl, .inp-btm{
         background: #f3f4f7;
     }
+    .pg-rght-rght{
+        float: right;
+    }
 }
 .result-ctnr{
     box-sizing: border-box;
@@ -209,6 +232,9 @@ textarea{
     padding: 0 10px;
     min-height: 158px;
     background: #f6f6fe;
+}
+.inlined{
+    display: inline;
 }
 .inp-mdl, .inp-btm{
     padding: 10px 15px;
@@ -291,6 +317,18 @@ textarea{
     background-size: cover;
     width: 30px !important;
     height: 30px !important;
+    position: relative;
+    border: none;
+    font-size: 20px;
+}
+.logout-ico{
+    display: inline-block;
+    vertical-align: top;
+    top: -2px;
+    background: transparent url("http://127.0.0.1:3000/images/if_logout_173050.png") 50% 50% no-repeat;
+    background-size: cover;
+    width: 22px !important;
+    height: 22px !important;
     position: relative;
     border: none;
     font-size: 20px;

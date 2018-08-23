@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
-import { connect }      from 'react-redux'
-import { withRouter }   from 'react-router'
-import { Helmet }       from 'react-helmet'
-
-import setAuthorizationToken from 'utils/set-authorization-token'
-import { trans as transActions,} from 'actions'
-import { Header, } from 'components'
+import React, { Component }     from 'react'
+import { connect }              from 'react-redux'
+import { withRouter }           from 'react-router'
+import { Helmet }               from 'react-helmet'
+import  axios                   from 'axios'
+import setAuthorizationToken    from 'utils/set-authorization-token'
+import { Header, }              from 'components'
+import { BASE_PATH }            from 'config/api'
 
 @connect(state => ({
     header: state.Header,
@@ -35,6 +35,8 @@ class AppHeader extends Component {
  */
 class App extends Component {
 
+
+
     componentWillMount () {
         const { dispatch, access_token } = this.props;
         if(access_token) {
@@ -47,6 +49,21 @@ class App extends Component {
         if(access_token) {
             setAuthorizationToken(access_token);
         }
+    }
+
+    logout() {
+        axios.post( BASE_PATH + '/api/logout').then(
+            res => {
+                localStorage.removeItem && localStorage.removeItem('xyz_translator_token');
+                setAuthorizationToken('');
+                dispatch(UserActions.setUser({}));
+                dispatch(TranslatorActions.setAuth(false));
+                dispatch(TranslatorActions.setToken(''));
+                this.props.history.push('/');
+            },
+            err => {
+                console.log('error', err)
+        })
     }
 
     /**
@@ -85,6 +102,7 @@ class App extends Component {
                         <meta property="og:site_name" content="XYZ Traduction" />
                 </Helmet>
                 <AppHeader
+                    logout={this.logout}
                     user={this.props.user}
                     isAuthenticated={this.props.isAuthenticated}
                     />

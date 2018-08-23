@@ -38,19 +38,25 @@ const Header = (props) => {
                                         </Link>
                                     </div>
                                 }
-                                {!props.isAuthenticated &&
-                                    <div className="navs-lk">
+                                {!props.isAuthenticated && <div className="navs-lk">
                                         <Link to="/signup" className="gb-nv-btn">
                                             Inscription
                                         </Link>
                                     </div>
                                 }
-                                
+
                                 {props.isAuthenticated &&
                                     <div className="navs-lk">
                                         <div className="gb-nv-btn">
                                             {props.user.name}
                                         </div>
+                                    </div>
+                                }
+                                {props.isAuthenticated && <div className="navs-lk lg-out">
+                                        <button className="btn btn-default btn-sm log-out-btn" onClick={props.logout}>
+                                            <div className="logout-ico"></div>
+                                            <div className="logout-txt">Se déconnecter</div>
+                                        </button>
                                     </div>
                                 }
                             </div>

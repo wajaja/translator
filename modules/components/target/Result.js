@@ -28,7 +28,7 @@ class Result extends Component {
                             }
                         })}
                     </div>
-                    {translating && <div className="inlined">...</div>}
+                    {translating && <div className="inlined in-progess"> ...</div>}
                 </div>
             </div>
         )

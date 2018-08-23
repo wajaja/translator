@@ -67,7 +67,7 @@ filewalker("./data", function(err, data){
             raw = raw.replace(/[\u0000-\u0019]+/g,"");
             var obj = JSON.parse(raw);
             dictionnary[key] = obj;
-            console.log('key......', key);
+            // console.log('key......', key);
 
             /**
              * Generator

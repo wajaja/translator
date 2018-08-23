@@ -37,9 +37,9 @@ router.post('/api/login_check', function(req, res) {
                     });
                 }
                 if(result) {
-                    var token = jwt.sign({
-                      email: req.body.email,
-                  }, '91005translator', { expiresIn: '1d' });
+                    let token = jwt.sign({
+                        id: user.id,
+                    }, '91005translator', { expiresIn: '1d' });
 
                     //set access_token in session
                     req.session.access_token = token;
@@ -48,7 +48,7 @@ router.post('/api/login_check', function(req, res) {
                         name: user.name,
                         email: user.email
                     }
-                    redisClient.set('user', JSON.stringify(_user));
+                    redisClient.set(`user_${_user.id}`, JSON.stringify(_user));
                     // return the information including token as JSON
                     return res.json({
                         success: true,
@@ -63,7 +63,6 @@ router.post('/api/login_check', function(req, res) {
         }
     });
 });
-
 
 router.post('/api/signup', function(req, res) {
     const body = req.body,
@@ -81,14 +80,14 @@ router.post('/api/signup', function(req, res) {
                 return res.json({ success: false, message: 'Email invalid.' });
             }
 
-            var user = new User({
+            let user = new User({
                 name: body.name,
                 email: body.email,
                 password: hash,
                 // admin: true
             });
 
-            var languages = body.languages;
+            let languages = body.languages;
 
             if(languages && languages.forEach) {
                 languages.forEach(function(l, i) {
@@ -110,9 +109,9 @@ router.post('/api/signup', function(req, res) {
                     }
                 }
 
-                var token = jwt.sign({
-                  email: req.body.email,
-              }, '91005translator', { expiresIn: '1d' });
+                let token = jwt.sign({
+                    id: savedUser.id,
+                }, '91005translator', { expiresIn: '1d' });
 
                 //set access_token in session
                 req.session.access_token = token;
@@ -121,7 +120,7 @@ router.post('/api/signup', function(req, res) {
                     name: savedUser.name,
                     email: savedUser.email
                 }
-                redisClient.set('user', JSON.stringify(_user));
+                redisClient.set(`user_${_user.id}`, JSON.stringify(_user));
                 // return the information including token as JSON
                 return res.json({
                     success: true,
@@ -177,35 +176,40 @@ router.get(`/api/users/:id`, function(req, res) {
     });
 });
 
-// router.get('/login', function(req, res, next) {
-//
-//     let params = {
-//         url: req.url,
-//         title: 'Traducteur. Français - lingala',
-//         preloadedState: {
-//             Translator: {
-//                 access_token: 'myToken'
-//             }
-//         }
-//     }
-//
-//     // res.send('index rendered');
-//     renderFullPage(req, res, params);
-// });
+// route to authenticate a user (POST http://localhost:8080/api/login_check)
+router.post('/api/logout', function(req, res) {
+        //set access_token in session
+    let sessData = req.session,
+    token = sessData.access_token;
+    jwt.verify(token, '91005translator', function(err, decoded) {
+        if (!err)
+        req.userId = decoded.id;
+    });
+    redisClient.set(`user_${req.userId}`, JSON.stringify({}));
+    req.session.access_token = '';
+
+    return res.json({
+        success: true,
+        token: null,
+        user: null
+    });;
+});
 
 router.all('*', function(req, res, next) {
 
-    var sessData = req.session;
+    let sessData = req.session;
     // sessData.someAttribute = "foo";
     // var someAttribute = req.session.someAttribute;
-    var user = null,
+    let user = null,
     isAuthenticated = false,
     token = sessData.access_token;
 
 
     jwt.verify(token, '91005translator', function(err, decoded) {
-        if (!err)
+        if (!err && decoded.id) {
             isAuthenticated = true;
+            req.userId = decoded.id;
+        }
     });
 
     if((['/login', '/signup'].indexOf(req.originalUrl) >= 0) && isAuthenticated) {
@@ -213,7 +217,7 @@ router.all('*', function(req, res, next) {
     }
 
     if(isAuthenticated) {
-        redisClient.get("user", function(err, userStr) {
+        redisClient.get(`user_${req.userId}`, function(err, userStr) {
             user = JSON.parse(userStr); // userStr is null when the key is missing
             let params = {
                 url: req.originalUrl,
