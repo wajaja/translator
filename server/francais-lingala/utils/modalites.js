@@ -9,6 +9,8 @@ exports.articles_vals = [
     '',   '',   '',     "",  '',    '',    '',    'o', 'o',     "o",
     '',       'na', 'na', 'ya'
 ];
+exports.prefix_pronominal_keys = ['m', 'me', 't', 'te', "s", "se"];
+exports.prefix_pronominal_vals = ['nga', 'nga', 'yo', "yo",  'ye', 'ye'];
 
 exports.preposition_keys = [
     'à', 'après', 'avant', "dans", 'de', 'depuis', 'dès', 'en', 'jusque', "pendant",

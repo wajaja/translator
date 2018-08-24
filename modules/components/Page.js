@@ -56,6 +56,7 @@ class Page extends Component {
         }
 
         this.onKeyUp = this.onKeyUp.bind(this);
+        this._trans_iterator = this._trans_iterator.bind(this);
         this.translator = new Translator();
     }
 
@@ -104,7 +105,8 @@ class Page extends Component {
         }         = this.state,  //current text
 
         cursorPos = this.lastCursorPos,
-        phrase    = getEditedSentence(text + ' ', cursorPos),
+        __text    = (text + ' ').replace(/[\n]/g, " ↵ "),   //corrected text  (line break...)
+        phrase    = getEditedSentence(__text, cursorPos),
         order     = phrase.order;
         // results     = this.state.results;
         this.translator
@@ -137,53 +139,49 @@ class Page extends Component {
         this.lastCursorPos = pos;
     }
 
-    _trans_iterator = () => {
+    async _trans_iterator(strPasted){
         //splitIntoSentences
         //check phrases range where lastCursorPos ...
-        this.timeout = window.setTimeout(() => {
-            let {
-                text,
-                sourceLang,
-                targetLang,
-                uniqueString
-            }       = this.state,
-            arr     = splitIntoSentences(text);
-            arr.forEach((phrase, i) => {
-                let order = phrase.order;
-                this.translator
-                    .translatePhrase(phrase, order, uniqueString, sourceLang.value, targetLang.value)
-                    .then(
-                        (res) => {
-                            if(res.data) {
-                                let data     = res.data,
-                                alertMsg     = '',
-                                phrase       = data.phrase,
-                                order        = data.order,
-                                results      = Immutable.fromJS(this.state.results).set(order, phrase);
-
-                                if(alertMsg)
-                                    alertMsg = data.alertMsg
-
-                                this.setState({
-                                    results: results.toJS(),
-                                    translating: false,
-                                    alertMsg: alertMsg
-                                });
-                            }
-                        }, (err) => {
+        //https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795
+        let {
+            text,
+            sourceLang,
+            targetLang,
+            uniqueString,
+            // results
+        }       = this.state;
+        text    = strPasted ? strPasted : text;
+        let __text = (text + ' ').replace(/[\n]/g, " ↵ "),   //corrected text  (line break...)
+        arr        = splitIntoSentences(__text);
+        for (const phrase of arr) {
+            let order = phrase.order;
+            await this.translator
+                .translatePhraseAsync(phrase, order, uniqueString, sourceLang.value, targetLang.value).then(
+                    (res) => {
+                        if(res.data) {
+                            let data     = res.data,
+                            phrase       = data.phrase,
+                            order        = data.order,
+                            results      = Immutable.fromJS(this.state.results).set(order, phrase);
+                            console.log("results.toJS()", results.toJS());
+                            this.setState({results: results.toJS()});
                         }
-                    )
-            })
-            this.setState({sentences: arr});
-        }, 0)
+                    }, (err) => {}
+                )
+        }
+        // console.log('Done')
+        this.setState({translating: false})
     }
 
     onCut = () => {
         this._trans_iterator();
     }
 
-    onPaste = () => {
-        this._trans_iterator();
+    onPaste = (e) => {
+        this.timeout = window.setTimeout(() => {
+            let text = this.state.text;
+            this._trans_iterator(text);
+        }, 5)
     }
 
     toggleImprove = () => {

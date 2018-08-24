@@ -36,6 +36,18 @@ export default class Translator {
         // this._cache.push(phrase);
     }
 
+    translatePhraseAsync(phrase, order, uniqueString, source_lang, target_lang) {
+        // const is_cached = this.checkIncache(phrase);
+        const data = {
+            'order': order,
+            'phrase' : phrase,
+            'source_lang': source_lang,
+            'target_lang': target_lang,
+            'uniqueString': uniqueString
+        };
+        return axios.post(BASE_PATH + '/api/translate', data)
+    }
+
     translatePhraseSync(phrase, order, uniqueString) {
         //Emit tranlate event to server throught socket.io
         socket.emit('translate_phrase', {'phrase' : phrase, 'order': order, 'uniqueString': uniqueString });

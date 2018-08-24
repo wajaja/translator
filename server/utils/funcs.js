@@ -19,11 +19,14 @@ exports.splitIntoSentences =  function splitIntoSentences(str) {
     * g modifier: global. All matches (don't return after first match)
     **/
 
-    var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
-    var m, s=[];
+    var re =  /(\w[^.!?\n]+[.!?\n]+"?)\s?/g;
+    var m, order = 0, s=[];
+    str = str + '.';
 
     while ((m = re.exec(str)) != null) {
+        m['order'] = order
         s.push(m);
+        order = order + 1;
     }
     return s;
 }

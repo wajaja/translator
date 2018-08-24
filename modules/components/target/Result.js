@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 
 class Result extends Component {
     constructor(props) {
@@ -8,7 +8,7 @@ class Result extends Component {
     // shouldComponentUpdate(nextProps, nextState) {
     //     return this.props.results !== nextProps.results;
     // }
-
+    //.replace(/[\n]/g, "<br/>")
     render() {
         const { results, translating, sentences } = this.props;
         return(
@@ -19,8 +19,18 @@ class Result extends Component {
                             if(key !== 'undefined') {
                                 return (
                                     <span key={i}>
-                                        {results[key]}
-                                        {!!sentences.length && !!sentences[key] && sentences[key][1].slice(-1)}
+                                        {results[key].split('\n').map((item, __i) => {
+                                            return (
+                                                <Fragment key={__i}>
+                                                    {item}
+                                                    {((results[key].split('\n').length - 1) === __i) &&
+                                                        translating &&
+                                                        <div className="inlined in-progess"> . . .</div>
+                                                    }
+                                                    <br/>
+                                                </Fragment>
+                                            )
+                                        })}
                                     </span>
                                 )
                             } else {
@@ -28,11 +38,11 @@ class Result extends Component {
                             }
                         })}
                     </div>
-                    {translating && <div className="inlined in-progess"> ...</div>}
                 </div>
             </div>
         )
     }
 }
 
+//{!!sentences.length && !!sentences[key] && sentences[key][1].slice(-1)}
 export default Result

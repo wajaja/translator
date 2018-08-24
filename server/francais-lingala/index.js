@@ -7,6 +7,8 @@ var {
     articles_keys, ends_ajd_ord,
     demonstratifs_keys,
     demonstratifs_vals,
+    prefix_pronominal_keys,
+    prefix_pronominal_vals,
     ends_verbs, excepted_verbs,
     verb_avoir, verb_etre, articles_vals,
     preposition_vals, preposition_keys
@@ -14,13 +16,23 @@ var {
 require('./utils/String.prototype.allReplace');
 
 var aspectArr = ['souvent', 'habitude', 'parfois'];     //check aspect before conjugaison
-var specials_chars = ['#', '@', "+", ';', ',', '/', ':', '-', '*', '_'];
+var specials_chars = ['#', '@', "+", ';', ',', '/', ':', '-', '*', '_', '↵'];
 var end_chars = ['.', '!', '?'];                        // check the end of phrase
 var composed_verb = false;                              //var that keep if verb is in composed form
 
 function francais_lingala(str, order, uniqueString) {
+    str = str
+             // .replace(/["']/g, "") //Be carefull !!!!!!!
+             .replace(/\\/g, " ")
+             .replace(/["]/g, " ")
+             .allReplace({
+                ',': ' ,',
+                ';': ' ;',
+                ':': ' :',
+            })
+    console.log('strrtrtrtrtr', str);
     return new Promise(function(resolve, reject) {
-        let words = str.split(' ');
+        let words = str.split(/["' ]/g);     //split into word
         words = words.filter(str => str !== ' ');   //remove empty string
 
         let form    = '',               //phrase form 'negative, interrogative, exclammative, ...'
@@ -36,6 +48,7 @@ function francais_lingala(str, order, uniqueString) {
         var translated_words = words.map(function(_w, index) {
 
             let w = _w.toLowerCase().replace(/[.!?,;]/g, '');            //LowerCase
+            console.log('_w', _w, w);
             if(specials_chars.indexOf(_w) >= 0) {
                 return {'word_type':'char', 'val': _w, 'translated': false, 'pos': index};
             }
@@ -46,19 +59,15 @@ function francais_lingala(str, order, uniqueString) {
             }
 
             if(w) {
-
-                let single_q_arr = w.split("'");
-                if(single_q_arr.length === 2)    // remove single quote char
-                    w = single_q_arr[1];
-
                 //check for "nom propre" starting with uppercase
                 if(aspectArr.indexOf(w) >= 0) {
                     return {'word_type':'aspect', 'val': '', 'translated': false, 'pos': index};
-                } else if(/^[A-Z]/.test(w) && index !== 0) {
+                } else if(/^[A-Z]/.test(_w) && index === 0) { //Noum at 0
                     return {'word_type':'noum', 'val': _w, 'translated': false, 'pos': index};
-                } else if(parseInt(w, 10)) {
+                } else if(parseInt(_w, 10)) { //Number
                     return {'word_type':'number', 'val': w, 'translated': false, 'pos': index};
                 }
+
                 //article
                 else if(articles_keys.indexOf(w) >= 0) {
                     // .........
@@ -75,6 +84,17 @@ function francais_lingala(str, order, uniqueString) {
                     }
                 }
 
+                //prefix for pronominal verb
+                else if(prefix_pronominal_keys.indexOf(w) >= 0) {
+                    //prevType = {nature: 'pref_pronominal', nombre: nombre, val: w, lastType: prevType};
+                    return {
+                        'word_type':'pref_pronominal',
+                        'val': prefix_pronominal_vals[prefix_pronominal_keys.indexOf(w)],
+                        'translated': true,
+                        'pos': index
+                    }
+                }
+
                 //article
                 else if(preposition_keys.indexOf(w) >= 0) {
                     prevType = {nature: 'prep', nombre: ''};
@@ -86,6 +106,8 @@ function francais_lingala(str, order, uniqueString) {
                         'pos': index
                     }
                 }
+
+
 
                 else if(["q'", "que"].indexOf(w) >= 0) {
                     // verb_mod = 'conditionnel';  //// TODO:
@@ -237,6 +259,16 @@ function francais_lingala(str, order, uniqueString) {
                             'attach': getAttachedChar(_w),
                             'pos': index
                         }
+                    } else {
+
+                        return {
+                            'word_type': 'word',
+                            'translated': false,
+                            'val':  w,
+                            'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
+                            'attach': getAttachedChar(_w),
+                            'pos': index
+                        }
                     }
                 }
 
@@ -257,6 +289,32 @@ function francais_lingala(str, order, uniqueString) {
                     }
                 }
 
+                else if(prevType.nature === 'pref_pronominal' && _guessVerb(w, index, aspect).trans !== -1 ) {
+                    let verb = _guessVerb(w, index, aspect);
+                    prevType    = prevType.lastType;
+                    let attach = ' ' + prefix_pronominal_vals[prefix_pronominal_keys.indexOf(prevType.val)];
+                    if(verb.trans !== -1) {
+                        let val = verb.trans
+                        return {
+                            'translated': true,
+                            'word_type': 'verb',
+                            'mode': verb.mode,
+                            'val': val,
+                            'attach': attach,
+                            'pos': index
+                        };
+                    } else {
+                        return {
+                            'translated': true,
+                            'word_type': 'verb',
+                            'mode': verb.mode,
+                            'val': w,
+                            'attach': attach,
+                            'pos': index
+                        };
+                    }
+                }
+
                 else if(prevType.nature === 'pron_per' && _guessVerb(w, index, aspect).trans !== -1 ) {
                     let verb = _guessVerb(w, index, aspect);
                     if(verb.trans !== -1) {
@@ -267,6 +325,15 @@ function francais_lingala(str, order, uniqueString) {
                             'word_type': 'verb',
                             'mode': verb.mode,
                             'val': verb.trans,
+                            'attach': getAttachedChar(_w),
+                            'pos': index
+                        };
+                    } else {
+                        return {
+                            'translated': true,
+                            'word_type': 'verb',
+                            'mode': '',
+                            'val': w,
                             'attach': getAttachedChar(_w),
                             'pos': index
                         };
@@ -335,6 +402,7 @@ function francais_lingala(str, order, uniqueString) {
                             'attach': getAttachedChar(_w),
                         }
                     } else if(_guessVerb(w, index, aspect).trans !== -1) {
+                        console.log('ramenaire', w)
                         let verb = _guessVerb(w, index, aspect);
                         if(verb.trans !== -1) {
                             let begining = verb.begining;
@@ -357,10 +425,28 @@ function francais_lingala(str, order, uniqueString) {
                                 'pos': index
                             };
                         }
+                    } else {
+                        prevType    = {};
+                        //TODO !!!!!!!!!!!
+                        //TODO participe present detection
+                        return {
+                            'translated': false,
+                            'word_type': 'word',
+                            'val': _w, // original word
+                            'attach': getAttachedChar(_w),
+                            'pos': index
+                        };
                     }
                 }
             } else {
-                return ' '; //return empty str
+                prevType    = {nature: undefined};
+                return {
+                    'translated': false,
+                    'word_type': 'undefined',
+                    'val': _w, // original word
+                    'attach': getAttachedChar(_w),
+                    'pos': index
+                };
             }
         })
 
@@ -369,6 +455,7 @@ function francais_lingala(str, order, uniqueString) {
         demonstratif = '',
         negative_phr_end = '';
         let resolved     = translated_words.reduce(function(_phrase, currWord, idx){
+            console.log('currWord', currWord)
             if(currWord === ' ') {
                 return _phrase + ' ';
             }
@@ -436,6 +523,13 @@ function francais_lingala(str, order, uniqueString) {
                 return $return;
             }
 
+            else if(!!currWord && currWord.word_type === 'pref_pronominal') {
+                // prefixVerbal = 'a';
+                let $return = _phrase + currWord.val + ' ' + demonstratif + ' ';
+                demonstratif = '';
+                return $return;
+            }
+
             else if(!!currWord && currWord.word_type === 'prep') {
                 let $return = _phrase + currWord.val + currWord.attach + ' ';
                 return $return;
@@ -482,7 +576,11 @@ function francais_lingala(str, order, uniqueString) {
                                'Ê¥': String.fromCharCode(603, 770),  //ɛ̂
                                '¥': String.fromCharCode(603),  //ɜ
                                '¡': String.fromCharCode(596),  //ɔ
+                               '↵': '\n', //TODO
+                               'undefined': ' ',
+                               '-1': ' ',
                            })
+        console.log('resolved', resolved)
         resolve({
             'phrase' : resolved.slice(0, -1),  //remove the end point
             'uniqueString': uniqueString,
@@ -614,7 +712,7 @@ function getVerbMode(end, aspect) {
     let mode    = 'a',
     gr_name     = end['group'],     //e.g: group['er']
     group_arr   = verbs[gr_name],
-    end_pos     = group_arr.lastIndexOf(end);
+    end_pos     = group_arr.lastIndexOf(end['end']);
 
     if('er' === gr_name && end_pos < 12)
         mode = 'ákí';      //passe eloigne

@@ -21,7 +21,7 @@ const  Help = ({ match, location }) => {
                         <div className="hlp-ctnr-1">
                             <h5>Contact</h5>
                             <p className="par">
-                                Avez vous besoin d'aide ? envoyez nous un email à traduction_xyz@gmail.com
+                                Avez vous besoin d'aide ? envoyez nous un email à xyztraduction@gmail.com
                             </p>
                         </div>
                     </div>

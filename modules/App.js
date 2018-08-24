@@ -5,6 +5,10 @@ import { Helmet }               from 'react-helmet'
 import  axios                   from 'axios'
 import setAuthorizationToken    from 'utils/set-authorization-token'
 import { Header, }              from 'components'
+import {
+    User as UserActions,
+    Translator as TranslatorActions
+}                               from 'actions'
 import { BASE_PATH }            from 'config/api'
 
 @connect(state => ({
@@ -51,7 +55,8 @@ class App extends Component {
         }
     }
 
-    logout() {
+    logout = () => {
+        const { dispatch } = this.props;
         axios.post( BASE_PATH + '/api/logout').then(
             res => {
                 localStorage.removeItem && localStorage.removeItem('xyz_translator_token');

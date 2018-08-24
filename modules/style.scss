@@ -229,12 +229,15 @@ textarea{
     font-size: 24px;
     overflow: hidden;
     word-wrap: break-word;
+    white-space: pre-line;
     padding: 0 10px;
     min-height: 158px;
     background: #f6f6fe;
 }
 .inlined{
     display: inline;
+    word-wrap: break-word;
+    white-space: pre-line;
 }
 .inp-mdl, .inp-btm{
     padding: 10px 15px;

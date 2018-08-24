@@ -19,18 +19,20 @@ export function splitIntoSentences(str) {
     * g modifier: global. All matches (don't return after first match)
     **/
 
-    var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
-    var m, s=[];
+    var re =  /(\w[^.!?\n]+[.!?\n]+"?)\s?/g;
+    var m, order = 0, s=[];
     str = str + '.';
 
     while ((m = re.exec(str)) != null) {
+        m['order'] = order
         s.push(m);
+        order = order + 1;
     }
     return s;
 }
 
 export function getSentenceRanges(str) {
-    var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
+    var re =  /(\w[^.!?\n]+[.!?\n]+"?)\s?/g;
     var m, s=[];
     str = str + '.'; //issued: "without this; the phrase number (phNb) will be phNb -1"
 
@@ -47,7 +49,7 @@ export function getSentenceRanges(str) {
  * @return {[type]}           [description]
  */
 export function getEditedSentence(str, cursorPos) {
-    var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
+    var re =  /(\w[^.!?\n]+[.!?\n]+"?)\s?/g;
     var m, phrase = {}, order, s=[];
     str = str + '.';
 
@@ -79,7 +81,7 @@ export function getEditedSentence(str, cursorPos) {
 
 //https://stackoverflow.com/questions/25188325/split-paragraph-into-sentences-when-paragraph-ends-with-quotes-using-javascript
 export function getLastSentence(str) {
-    var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
+    var re =  /(\w[^.!?\n]+[.!?\n]+"?)\s?/g;
     var m;
     str = str + '.';
 

@@ -22,7 +22,7 @@ class Editor extends Component {
     }
 
     onPaste = (e) => {
-        this.props.onPaste();
+        this.props.onPaste(e);
     }
 
     onCut = (e) => {
