@@ -1,4 +1,4 @@
-var { findVerb, findWord }  = require('../../manager');
+var { findVerb, findWord }  = require('./manager');
 var { verbs }               = require('./utils/verbs');
 var { removeAccents }       = require('./utils/funcs');
 var {
@@ -13,7 +13,7 @@ var {
     verb_avoir, verb_etre, articles_vals,
     preposition_vals, preposition_keys
 }                           = require('./utils/modalites');
-require('./utils/String.prototype.allReplace');
+require('./../utils/String.prototype.allReplace');
 
 var aspectArr = ['souvent', 'habitude', 'parfois'];     //check aspect before conjugaison
 var specials_chars = ['#', '@', "+", ';', ',', '/', ':', '-', '*', '_', '↵'];

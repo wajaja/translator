@@ -1,12 +1,12 @@
 var fs              = require('fs');
 var jsonfile        = require('jsonfile');
-var { filewalker }  = require('./server/filewalker');
-var { binarySearch } = require('./server/binarySearch');
-var { removeAccents } = require('./server/utils/funcs');
+var { filewalker }  = require('./../filewalker');
+var { binarySearch } = require('./binarySearch');
+var { removeAccents } = require('./utils/funcs');
 var {
     irregular_pl_keys, irregular_pl_values, ended_with_au,
     irregular_fm_keys, irregular_fm_values
-}                   = require('./server/utils/accords');
+}                   = require('./utils/accords');
 
 /**
  * [dictionnary     A big object where all the words will be placed]
@@ -16,7 +16,7 @@ var dictionnary = {};
 var things_word = false;
 
 //see at ./server/filewalker.js
-filewalker("./data", function(err, data){
+filewalker("./data/fr_lga", function(err, data){
     if(err){
         throw err;
     }
@@ -33,7 +33,6 @@ filewalker("./data", function(err, data){
     function next() {
         const url = data[i++];
         if (!url) {
-
             // Object.keys(newlyCreatedObj).sort().forEach(function(key) {
             //       createdObj[key] = newlyCreatedObj[key];
             // });
@@ -72,7 +71,7 @@ filewalker("./data", function(err, data){
             raw = raw.replace(/[\u0000-\u0019]+/g,"");
             var obj = JSON.parse(raw);
             dictionnary[key] = obj;
-            // console.log('key......', key);
+            console.log('key......', key);
 
             /**
              * Generator

@@ -19,7 +19,8 @@ var express      = require('express'),
     client      = redis.createClient();
 
 
-require('./manager');
+require('./server/francais-lingala/manager');
+
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app    = express();

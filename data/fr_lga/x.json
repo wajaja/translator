@@ -1,0 +1,52 @@
+{
+    "xylophone  [gzilçfçn] n.m.":{
+	   "lingala" : [
+		  {
+			 "kp¥ngb¥, kw¥ngw¥ nkó.": {
+				"def": "esálele ya mizíki ezalí na biténi bya nzeté bakobÔ¥t¥k¥ yangó ya mwâ fimbo",
+				"ex": "kobÔ¥t¥ kp¥ngb¥. "
+			 }
+		  },
+
+		  {
+			 "": {
+				"def": " ",
+				"ex": " "
+			 }
+		  }
+	   ],
+	   "def":[
+		  "instrument de musique formé de lames de bois de longueurs différentes, sur lequel on frappe avec deux petits marteaux de bois; madimba ",
+		  " "
+	   ],
+	   "ex":[
+		  " jouer du xylophone ",
+		  " "
+	   ]
+    },
+    "xylophoniste  [gzilçfçnist] n.":{
+	   "lingala" : [
+		  {
+			 "mobÔ¥ti kp¥ngb¥ nkó. ": {
+				"def": "moto akobÔ¥t¥k¥ kp¥ngb¥ ",
+				"ex": " "
+			 }
+		  },
+
+		  {
+			 "": {
+				"def": " ",
+				"ex": " "
+			 }
+		  }
+	   ],
+	   "def":[
+		  "musicien qui joue du xylophone ",
+		  " "
+	   ],
+	   "ex":[
+		  " ",
+		  " "
+	   ]
+    }
+}

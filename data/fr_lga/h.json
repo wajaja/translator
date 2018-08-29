@@ -1,0 +1,3580 @@
+	{
+
+		"habile  [abil] adj.": {
+			"lingala": [{
+				"-a ntÔ¡ki": {
+					"def": "óyo ayébí kosála elÔ¡k¡ malámu, nganga",
+					"ex": "mosáli wa ntÔ¡ki"
+				}
+			}],
+			"def": [
+				"qui sait bien faire qch, adroit, expert"
+			],
+			"ex": [
+				"un ouvrier habile"
+			]
+		},
+
+		"habilement  [abilmA)] adv.": {
+			"lingala": [{
+				"na ntÔ¡ki": {
+					"def": "na malámu mpenzá, na loléngé la ntÔ¡ki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière habile, avec habileté"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habileté  [abilte] n.f.": {
+			"lingala": [{
+				"ntÔ¡ki": {
+					"def": "ezalela ya boyébi mpenzá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qualité d’une personne habile ; adresse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habiliter  [abilite] v.tr.": {
+			"lingala": [{
+				"kopésa mayÔ¥l¥": {
+					"def": "kokómisa moto mayÔ¥l¥ mpÊ¡ akoka kosálela makokí maye",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"rendre légalement habile, apte à exercer un droit"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habillement  [abijmA)] n.m.": {
+			"lingala": [{
+				"moláto, bilambá": {
+					"def": "lisangá lya bilambá biye moto akolátaka",
+					"ex": "moláto monzéngá, bilambá kitÔ¡k¡"
+				}
+			}],
+			"def": [
+				"ensemble de vêtements que l’on porte"
+			],
+			"ex": [
+				"un bel habillement"
+			]
+		},
+
+		"habiller  [abije] v.tr.": {
+			"lingala": [{
+				"kolátisa": {
+					"def": "kotíya elambá na nzóto",
+					"ex": "kolátisa mwÉana"
+				}
+			}],
+			"def": [
+				"couvrir de vêtements"
+			],
+			"ex": [
+				"habiller un enfant"
+			]
+		},
+
+		"habit  [abi] n.m.": {
+			"lingala": [{
+				"elambá, moláto": {
+					"def": "elÔ¡k¡ moto akolátaka na nzóto",
+					"ex": "koláta elambá"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"vêtement"
+			],
+			"ex": [
+				"porter un habit"
+			]
+		},
+
+		"habitant, ante  [abitA)), A)t] n.": {
+			"lingala": [{
+				"moí-mbóka, mo-mbóka": {
+					"def": "moto óyo azalí kofánda na esíká yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui habite à un endroit"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habitat  [abita] n.m.": {
+			"lingala": [{
+				"esíká, efándelo": {
+					"def": "esíká ya kobíka tÉo ya kofánda",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"lieu de vie, mode de peuplement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habitation  [abitasjç)] n.f.": {
+			"lingala": [{
+				"ndáko, efándelo, lopángo": {
+					"def": "esíká ya kofánda",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-", "lo-ma-"],
+			"def": [
+				"lieu où l’on habite; maison, demeure"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habiter  [abite] v.tr.": {
+			"lingala": [{
+				"kofánda, komónga, kobíka": {
+					"def": "kozala na esíká ya kofánda",
+					"ex": "kofánda na engumba, kofánda na Dakar"
+				}
+			}],
+			"def": [
+				"avoir son logement à"
+			],
+			"ex": [
+				"habiter la ville, habiter Dakar"
+			]
+		},
+
+		"habitude  [abityd] n.f.": {
+			"lingala": [{
+				"mom¥s¥n¡, mokéto": {
+					"def": "loléngé la kozala",
+					"ex": "kozala na mom¥s¥n¡ ya kom¥l¥ likáyá"
+				}
+			}],
+			"def": [
+				"manière ordinaire d’agir, coutume"
+			],
+			"ex": [
+				"avoir l’habitude fumer"
+			]
+		},
+
+		"habituellement  [abitÁElmA)] adv.": {
+			"lingala": [{
+				"na mom¥s¥n¡, na mokéto": {
+					"def": "na loléngé la mik¡l¡ míns¡, na loléngé la mom¥s¥n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière habituelle, fréquente, ordinaire; ordinairement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"habituel, elle  [abitÁEl] adj.": {
+			"lingala": [{
+				"-a mom¥s¥n¡, -a mokéto": {
+					"def": "eye ya mik¡l¡ míns¡",
+					"ex": "mbéba ya mom¥s¥n¡"
+				}
+			}],
+			"def": [
+				"ordinaire, normal"
+			],
+			"ex": [
+				"un défaut habituel"
+			]
+		},
+
+		"habituer  [abitÁe] v.tr.": {
+			"lingala": [{
+				"kom¥s¥nisa, kom¥sinya": {
+					"def": "kopésa mim¥s¥n¡",
+					"ex": "kom¥s¥nisa mwÉana na bosÊ¡lÔ¡"
+				}
+			}],
+			"def": [
+				"rendre familier par l’habitude, accoutumer"
+			],
+			"ex": [
+				"habituer un enfant à dire la vérité"
+			]
+		},
+
+		"habitué, ée  [abitÁe] n.": {
+			"lingala": [{
+				"mom¥s¥ni": {
+					"def": "moto óyo azalí na mom¥s¥n¡ mwa kok¥nd¥ esíká yÉ¡kÔ¡",
+					"ex": "mom¥s¥ni wa bále"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui fréquente un endroit"
+			],
+			"ex": [
+				"un habitué des bars, des cafés"
+			]
+		},
+
+		"hache  [’aS] n.f.": {
+			"lingala": [{
+				"sóka, ekoko, epóndo, epasoli, kisengéle": {
+					"def": "esálele mpÊ¡ na kokáta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"instrument pour couper, fendre"
+			],
+			"ex": [
+				"un coup de hache"
+			]
+		},
+
+		"haché, ée  [’aSe] adj.": {
+			"lingala": [{
+				"-a kokÔ¥k¥, -a kok¥kita": {
+					"def": "eye ekátémí biténi biténi ",
+					"ex": "nyama ya kokÔ¥k¥, nyama ya kokÔ¥kita"
+				}
+			}],
+			"def": [
+				"coupés en tout petits morceaux"
+			],
+			"ex": [
+				"de la viande hachée"
+			]
+		},
+
+		"hacher  [’aSe] v.tr.": {
+			"lingala": [{
+				"kokÔ¥k¥, kokÔ¥kita": {
+					"def": "kokáta biténi biténi",
+					"ex": "kokÔ¥k¥ tÉo kokÔ¥kita nsuni ya nyama"
+				}
+			}],
+			"def": [
+				"couper en tout petits morceaux"
+			],
+			"ex": [
+				"hacher de la viande"
+			]
+		},
+
+		"hachisch V.": {
+			"lingala": [{
+				"bángi": {
+					"def": "",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"haschisch"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hachoir  [’aSwa{] n.m.": {
+			"lingala": [{
+				"mb¥lí ya kokáta nyama": {
+					"def": "mb¥lí enÔ¥n¥ mpÊ¡ ya kokÔ¥k¥ tÉo kokáta nyama",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand couteau pour hacher la viande"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hagard, arde  [’aga{, a{d] adj.": {
+			"lingala": [{
+				"-a nkándá": {
+					"def": "eye ezalí na nkándá",
+					"ex": "etáleli ya nkándá, mÉ²so mya nkándá"
+				}
+			}],
+			"def": [
+				"qui a l’air farouche, égaré"
+			],
+			"ex": [
+				"un regard hagard"
+			]
+		},
+
+		"haie  [’E] n.f.": {
+			"lingala": [{
+				"lobálá": {
+					"def": "lopángo lozíngámí na myeté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"clôture faite d’arbustes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"haillon  [’ajç)] n.m.": {
+			"lingala": [{
+				"limbúsú": {
+					"def": "elambá epaswání biténí biténi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"vêtement déchiré, lambeau"
+			],
+			"ex": [
+				"être en haillons"
+			]
+		},
+
+		"haine  [’En] n.f.": {
+			"lingala": [{
+				"-a boyini": {
+					"def": "eye ezalí na boyini",
+					"ex": "etáleli ya boyini, maloba ma boyini"
+				}
+			}],
+			"def": [
+				"sentiment violent qui pousse à vouloir du mal à qqn"
+			],
+			"ex": [
+				"l’amour et la haine"
+			]
+		},
+
+		"haïr  [’ai{] v.tr.": {
+			"lingala": [{
+				"koyina": {
+					"def": "kolinga moto tÔ¥, kozala na nkándá na moto",
+					"ex": "koyina mongúná wa yÉe"
+				}
+			}],
+			"def": [
+				"avoir de la haine pour, détester"
+			],
+			"ex": [
+				"haïr son ennemi"
+			]
+		},
+
+		"haleine  [alEn] n.m.": {
+			"lingala": [{
+				"mpéma": {
+					"def": "mop¥p¥ mokobimaka na mimpúlúlú ntángo moto azalí kopéma",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"air qui sort des poumons quand on respire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"haletant, ante  [’altA), A)t] adj.": {
+			"lingala": [{
+				"-a mpéma ekúsé": {
+					"def": "óyo azalí kopéma mbángumbángu mpé na mpási",
+					"ex": "mongóngó mwa mpéma ekúsé"
+				}
+			}],
+			"def": [
+				"qui respire vite et difficilement, essouflé"
+			],
+			"ex": [
+				"une voix haletante"
+			]
+		},
+
+		"haleter  [’alte] v.intr.": {
+			"lingala": [{
+				"kopéma mbángu mbángu": {
+					"def": "kopéma n¡kí nÔ¡kí",
+					"ex": "kopéma mbángu mbángu mpÊ¡ ya bobángi"
+				}
+			}],
+			"def": [
+				"respirer vite et bruyamment"
+			],
+			"ex": [
+				"haleter de peur"
+			]
+		},
+
+		"halte  [’alt] n.f.": {
+			"lingala": [{
+				"lotÔ¥m¥, botÔ¥mi, botÔ¥lÔ¥misi": {
+					"def": "ekela ya kotÔ¥m¥, ekela kotíka kotámbola",
+					"ex": "kosála lotÔ¥m¥"
+				}
+			}],
+			"def": [
+				"arrêt"
+			],
+			"ex": [
+				"faire une halte"
+			]
+		},
+
+		"hamac  [’amak] n.m.": {
+			"lingala": [{
+				"tipói": {
+					"def": "monyáma mokangemi na nsÔ¡ngÔ¥na yángo na mwa nzéte mpé bakosálela yángo bó mbéto",
+					"ex": "kolála na tipói"
+				}
+			}],
+			"def": [
+				"filet suspendu par ses deux extrémités qui sert de lit"
+			],
+			"ex": [
+				"dormir dans un hamac"
+			]
+		},
+
+		"hameau  [’amo] n.m.": {
+			"lingala": [{
+				"mbóka, etúká, etúlúká": {
+					"def": "mabóké makÔ¥ma ndáko ya mbóka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit groupe isolé d’habitations rurales"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hameçon  [’amsç)] n.m.": {
+			"lingala": [{
+				"ndÔ¡b¡": {
+					"def": "ebendé ekÔ¥ekangémí na nsinga wápi bakotyáka mpambo mpÊ¡ na kolÔ¡b¡ mbísi",
+					"ex": "kokanga mbísi na ndÔ¡b¡"
+				}
+			}],
+			"def": [
+				"petit engin de métal que l’on accroche avec un appât à un fil pour attraper les poissons"
+			],
+			"ex": [
+				"pêcher avec un hameçon"
+			]
+		},
+
+		"hamster  [’amstE{] n.m.": {
+			"lingala": [{
+				"motómba": {
+					"def": "loléngé la mpóko ya zámba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte de gros rongeur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hanche  [’A)S] n.f.": {
+			"lingala": [{
+				"lokéto, lilongo, lizongo": {
+					"def": "eténi ya nzóto ezwámí katikáti ya libumu mpé bib¥l¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"partie latérale du corps, entre la taille et le haut de la cuisse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"handicap  [’A)dikap] n.m.": {
+			"lingala": [{
+				"etÔ¥mÔ¡, elÔ¥mÔ¥, bobÔ¡sÔ¡nÔ¡ ": {
+					"def": "mbéba ya nzóto tÉo ya mayÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"infirmité physique ou mentale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"handicaper  [’A)dikape] v.tr.": {
+			"lingala": [{
+				"kol¥misa, kotÔ¥ngisa, kotÔ¥mwisa": {
+					"def": "kopekisa moto kosála makambo masúsu na bolongóláká yÉe makokí masúsu ma nzóto tÉo ma mayÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mettre en état d’infériorité, défavoriser, désavantager"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"handicapé, ée  [’A)dikape] adj. et n.": {
+			"lingala": [{
+				"moténgoli ; ebÔ¡sÔ¡nÔ¡, elÔ¥mÔ¥n¥": {
+					"def": "óyo azalí na mbéba ya nzóto tÉo ya mayÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui a un handicap physique ou mental"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hangar  [’A)ga{] n.m.": {
+			"lingala": [{
+				"libandaúli, ekpánga, lingumbá, lingÔ¡ngÔ¡": {
+					"def": "esíká etongámí bobÔ¥lÔ¥na nzeté mpé ezipámí sé na motÔ¡nd¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"construction ouverte formée d’un toit élevé sur des piliers, entrepôt"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hanneton  [’antç)] n.m.": {
+			"lingala": [{
+				"mbokono, mbokongele": {
+					"def": "loléngé la epimbwélá ezwámí na masálá to bilanga",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte d’insecte de jardin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hanter  [’A)te] v.tr.": {
+			"lingala": [{
+				"kotámbola na, kofánda na, kozala na": {
+					"def": "kozala na moto bipái bíns¡",
+					"ex": "makisini mabé mazalí na ngáí"
+				}
+			}],
+			"def": [
+				"fréquenter de manière habituelle, familière; obséder"
+			],
+			"ex": [
+				"un mauvais souvenir qui me hante"
+			]
+		},
+
+		"hantise  [’A)tiz] n.f.": {
+			"lingala": [{
+				"moloka": {
+					"def": "bobángi bosangáni na motungisi",
+					"ex": "moloka mwa bolóngi tÔ¥"
+				}
+			}],
+			"def": [
+				"inquiétude mêlée d’obsession"
+			],
+			"ex": [
+				"la hantise d’échouer"
+			]
+		},
+
+		"happer  [’ape] v.tr.": {
+			"lingala": [{
+				"kogbama, kotámba": {
+					"def": "kozwa na mbálákáká mpé na makási",
+					"ex": "nd¥k¥ ekotámba nyama nkÔ¥k¥"
+				}
+			}],
+			"def": [
+				"attraper brusquement et violemment"
+			],
+			"ex": [
+				"un oiseau qui happe les insectes"
+			]
+		},
+
+		"harangue  [’a{A)g] n.f.": {
+			"lingala": [{
+				"lisikúlu, maloba": {
+					"def": "maloba mpÊ¡ na lisánga lya bato",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"discours solennel à l’intention d’une assemblée"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"haranguer  [’a{A)ge] v.tr.": {
+			"lingala": [{
+				"kosopa, koloba, kosála lisikúlu": {
+					"def": "koloba libosó lya bato",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"adresser une harangue à, faire un discours devant"
+			],
+			"ex": [
+				"haranguer une foule"
+			]
+		},
+
+		"harassant, ante  [’a{asA), A)t] adj.": {
+			"lingala": [{
+				"-a bol¥mbisi": {
+					"def": "eye el¥mbisaka",
+					"ex": "mosálá mwa bol¥mbisi"
+				}
+			}],
+			"def": [
+				"qui harasse; très fatigant, épuisant"
+			],
+			"ex": [
+				"un travail harassant"
+			]
+		},
+
+		"harassement  [’a{asmA)] n.m.": {
+			"lingala": [{
+				"bol¥mbi makási": {
+					"def": "ekela ya kol¥mb¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fatigue extrême, épuisement, lassitude"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harasser  [’a{ase] v.tr.": {
+			"lingala": [{
+				"kol¥mbisa": {
+					"def": "kolongola bokási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"accabler de fatigue, fatiguer beaucoup, épuiser"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harceler  [’a{s´le] v.tr.": {
+			"lingala": [{
+				"kotúmola": {
+					"def": "koluka moto na etumba, kobundisa",
+					"ex": "kotúmola mongúná"
+				}
+			}],
+			"def": [
+				"poursuivre de petites attaques répétées"
+			],
+			"ex": [
+				"harceler un ennemi"
+			]
+		},
+
+		"harde  [’a{d] n.f.": {
+			"lingala": [{
+				"etónga": {
+					"def": "lisangá lya nyama ya zámba",
+					"ex": "etónga ya mbólókó, etónga ya nsombo"
+				}
+			}],
+			"def": [
+				"troupeau de bêtes sauvages"
+			],
+			"ex": [
+				"une harde d’antilopes, de sangliers"
+			]
+		},
+
+		"hardiesse  [’a{djEs] n.f": {
+			"lingala": [{
+				"mpíko, nkónzo": {
+					"def": "ezalela ya eye ezalí na moléndé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère de ce qui est hardi; audace"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hardiment  [’a{dimA)] adv": {
+			"lingala": [{
+				"na mpíko": {
+					"def": "na moléndé",
+					"ex": "kobuna, kobunda na mpíko"
+				}
+			}],
+			"def": [
+				"d’une manière hardie, avec hardiesse, avec courage; audacieusement, courageusement"
+			],
+			"ex": [
+				"se battre hardiment"
+			]
+		},
+
+		"hardi, ie  [’a{di] adj.": {
+			"lingala": [{
+				"-a mpíko": {
+					"def": "eye ezalí na moléndé",
+					"ex": "mobundi wa mpíko, mwángo mwa mpíko"
+				}
+			}],
+			"def": [
+				"audacieux, courageux"
+			],
+			"ex": [
+				"un guerrier hardi, un projet hardi"
+			]
+		},
+
+		"harem  [’a{Em] n.m.": {
+			"lingala": [{
+				"bambanda": {
+					"def": "lisangá lya bÉasí ba mobáli mÉ¡kÔ¡mpé bafándí bangó báns¡ esíká yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ensemble des femmes d’un même homme et qui habitent dans une même concession"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hareng  [’a{A)] n.m.": {
+			"lingala": [{
+				"lamÔ¥l¥": {
+					"def": "loléngé la mbísi ya mbú, mbísi ya lamÔ¥l¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte de poisson de mer"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hargne  [’a{¯] n.f.": {
+			"lingala": [{
+				"nkándá": {
+					"def": "mabé",
+					"ex": "koyanola na nkándá"
+				}
+			}],
+			"def": [
+				"mauvaise humeur qui se manifeste par l’agressivité; méchanceté"
+			],
+			"ex": [
+				"répondre avec hargne"
+			]
+		},
+
+		"hargneusement  [’a{¯øzmA)] adv.": {
+			"lingala": [{
+				"na nkándá": {
+					"def": "na loléngé la mabé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière hargneuse, avec hargne; méchamment"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hargneux, euse  [’a{¯ø, øz] adj.": {
+			"lingala": [{
+				"-a nkándá, -bé": {
+					"def": "eye ezalí mabé",
+					"ex": "liloba lya nkándá"
+				}
+			}],
+			"def": [
+				"qui manifeste de la hargne ; méchant"
+			],
+			"ex": [
+				"une parole hargneuse"
+			]
+		},
+
+		"haricot  [’a{iko] n.m.": {
+			"lingala": [{
+				"lidÔ¥su, nkúnd¥": {
+					"def": "molóná mokÔ¥ moye mokobótaka mbuma mpé mposo iye ili ́yamaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"plante potagère dont on consomme les gousses et les graines"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harmattan  [’a{matA)] n.m.": {
+			"lingala": [{
+				"mop¥p¥": {
+					"def": "mpéma ya molungé motóndi putulú eye ewútih na Salá; eleko ya yangó",
+					"ex": ""
+				}
+			}],
+			"cls": ["mo-mi-"],
+			"def": [
+				"vent chaud et sec, chargé de poussière, qui vient du Sahara; saison où souffle ce vent"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harmonica  [a{mçnika] n.m.": {
+			"lingala": [{
+				"amoniká": {
+					"def": "esálele ya mizíki",
+					"ex": "kobÔ¥t¥ amoniká"
+				}
+			}],
+			"def": [
+				"instrument de musique dont on fait vibrer les languettes en soufflant"
+			],
+			"ex": [
+				"jouer de l’harmonica"
+			]
+		},
+
+		"harmonie  [a{mçni] n.f.": {
+			"lingala": [{
+				"bobémbani": {
+					"def": "ekela ya koyókana, ya kok¥nd¥ nzelá yÉ¡kÔ¡",
+					"ex": "bobémbani bwa mingóngó, bobémbani bwa lángi"
+				}
+			}],
+			"def": [
+				"le fait de s’accorder, de s’entendre, d’aller bien ensemble"
+			],
+			"ex": [
+				"l’harmonie des sons, des couleurs"
+			]
+		},
+
+		"harmonieusement [a{mçnjøzmA)] adv.": {
+			"lingala": [{
+				"na bobémbani": {
+					"def": "na loléngé la boyókani, ya kok¥nd¥ nzelá yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière harmonieuse, avec harmonie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harmonieux, euse  [a{mçnjø, øz] adj.": {
+			"lingala": [{
+				"na bobémbani": {
+					"def": "na loléngé la boyókani, ya kok¥nd¥ nzelá yÉ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a de l’harmonie, agréable à l’oreille"
+			],
+			"ex": [
+				"des sons harmonieux, des couleurs harmonieuses"
+			]
+		},
+
+		"harmoniser  [a{mçnize] v.tr.": {
+			"lingala": [{
+				"kobémbisa": {
+					"def": "koyókanisa, kotíya boyókani",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mettre en harmonie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harmonium  [a{mçnjçm] n.m.": {
+			"lingala": [{
+				"am¡nyÔ¡m¥": {
+					"def": "esálele ya mizíki bakobÔ¥t¥k¥ na lisálisi lya misapi mpé lya mop¥p¥",
+					"ex": "kobÔ¥t¥ am¡nyÔ¡m¥"
+				}
+			}],
+			"def": [
+				"instrument de musique à clavier et à soufflerie"
+			],
+			"ex": [
+				"jouer de l’harmonium"
+			]
+		},
+
+		"harpon  [a{pç)] n.m.": {
+			"lingala": [{
+				"botúmá, motúmá": {
+					"def": "loléngé la ndÔ¡b¡ enÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte de grand hameçon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"harponner  [a{pçne] v.tr.": {
+			"lingala": [{
+				"kobwáka botúmá": {
+					"def": "kokanga na ndÔ¡b¡ enÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"accrocher avec un harpon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hasard  [’aza{] n.m.": {
+			"lingala": [{
+				"zeké, sánsi": {
+					"def": "nkÔ¡nz¡",
+					"ex": "na zeké"
+				}
+			}],
+			"def": [
+				"chance"
+			],
+			"ex": [
+				"par hasard"
+			]
+		},
+
+		"hasarder (se)  [’aza{de] v.pron.": {
+			"lingala": [{
+				"komítíya na likámá": {
+					"def": "komíkÔ¡tisa na likámá",
+					"ex": "komítyâ na likámá na zambá"
+				}
+			}],
+			"def": [
+				"s’exposer à un danger"
+			],
+			"ex": [
+				"se hasarder dans la forêt"
+			]
+		},
+
+		"hasardeux, euse  [’aza{dø, øz] adj.": {
+			"lingala": [{
+				"-a likámá": {
+					"def": "eye ezalí na likámá",
+					"ex": "mwángo mwa likámá"
+				}
+			}],
+			"def": [
+				"qui comporte des risques, des dangers"
+			],
+			"ex": [
+				"un projet hasardeux"
+			]
+		},
+
+		"haschisch, haschich ou hachisch  [aSiS] n.m.": {
+			"lingala": [{
+				"bángi": {
+					"def": "dyámba, likáyá lya makási",
+					"ex": "kobénda (kom¥l¥, kofuta) bángi"
+				}
+			}],
+			"def": [
+				"stupéfiant à base de chanvre"
+			],
+			"ex": [
+				"fumer du haschisch"
+			]
+		},
+
+		"hâte  [’At] n.f.": {
+			"lingala": [{
+				"lombángo": {
+					"def": "",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"hâte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hâter  [’Ate] v.tr.": {
+			"lingala": [{
+				"kotámbwisa": {
+					"def": "kokómisa mbángu",
+					"ex": "kotámbwisa makolo"
+				}
+			}],
+			"def": [
+				"rendre plus rapide"
+			],
+			"ex": [
+				"hâter le pas"
+			]
+		},
+
+		"hâtivement  [’AtivmA)] adv": {
+			"lingala": [{
+				"na lombángu, na monyake, na monyaki": {
+					"def": "na loléngé la mbángu mbángu, n¡kí n¡kí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière hâtive, rapide; à la hâte, rapidement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hausse  [’os] n.f.": {
+			"lingala": [{
+				"botómboli, bomatisi, bobutisi": {
+					"def": "ekela ya kobutisa",
+					"ex": "botómboli tÉo bomatisi ntálo"
+				}
+			}],
+			"def": [
+				"augmentation"
+			],
+			"ex": [
+				"hausse des prix"
+			]
+		},
+
+		"hausser  [’ose] v.tr.": {
+			"lingala": [{
+				"kotómbola, komatisa": {
+					"def": "kobutisa, kobakisa",
+					"ex": "kotómbola mongóngó"
+				}
+			}],
+			"def": [
+				"augmenter, mettre à un niveau plus élevé"
+			],
+			"ex": [
+				"hausser la voix"
+			]
+		},
+
+		"hautain, aine  [’otE), En] adj.": {
+			"lingala": [{
+				"-a lolÔ¥nd¡, -a lofúndu": {
+					"def": "eye tÉo óyo azalí na lofúndo",
+					"ex": "moto wa lolÔ¥ndo"
+				}
+			}],
+			"def": [
+				"arrogant, dédaigneux"
+			],
+			"ex": [
+				"une personne hautaine"
+			]
+		},
+
+		"hauteur  [’otœ{] n.f. ": {
+			"lingala": [{
+				"bosándá": {
+					"def": "bolái na botÔ¥l¥mi likoló",
+					"ex": "mÔ¥t¥l¥ íbalé ya bosándá"
+				}
+			}],
+			"def": [
+				"dimension dans le sens vertical; altitude"
+			],
+			"ex": [
+				"deux mètres de hauteur"
+			]
+		},
+
+		"haut-le-coeur  [’olkœ{] n.m.": {
+			"lingala": [{
+				"mpi, s¡pis¡pi": {
+					"def": "mpósá ya kosánza",
+					"ex": "koyóka mpi, koyínda motéma, koyóka motéma moíndo"
+				}
+			}],
+			"def": [
+				"nausée, dégout"
+			],
+			"ex": [
+				"avoir le haut-le-coeur"
+			]
+		},
+
+		"haut-parleur  [’opa{lœ{] n.m.": {
+			"lingala": [{
+				"ekólisi loláká, ekólisi mongóngó, ópalÔ¥l¥": {
+					"def": "esálele ekotínda loláka mosíká",
+					"ex": "bikólisi loláká bya ladyó"
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"appareil qui transmet les sons, les paroles"
+			],
+			"ex": [
+				"les hauts-parleurs d’une radio"
+			]
+		},
+
+		"haut, haute  [’o, ’ot] adj.": {
+			"lingala": [{
+				"-kási, -sándá": {
+					"def": "eye ezalí na bolaí na likoló",
+					"ex": "na loláká lokási"
+				}
+			}],
+			"def": [
+				"qui est à un niveau élevé"
+			],
+			"ex": [
+				"une voix haute"
+			]
+		},
+
+		"hebdomadaire  [EbdçmadE{] adj.": {
+			"lingala": [{
+				"-a pÔ¡s¡ na pÔ¡s¡": {
+					"def": "esálemaka tÉo eyáka mbala yÉ¡kÔ¡na pÔ¡s¡",
+					"ex": "zoloná ya pÔ¡s¡ na pÔ¡s¡"
+				}
+			}],
+			"def": [
+				"qui paraît, se passe, se renouvelle chaque semaine"
+			],
+			"ex": [
+				"un journal hebdomadaire"
+			]
+		},
+
+		"hébergement  [ebE{ZmA)] n.m": {
+			"lingala": [{
+				"bolálisi, boyambi": {
+					"def": "ekela ya kolálisa moto epái na yÉ¡, ekela ya koyámba moto",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action d’héberger"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héberger  [ebE{Ze] v.tr.": {
+			"lingala": [{
+				"koyamba": {
+					"def": "kolálisa moto na ndáko na yÉ¡s",
+					"ex": "koyamba moníngá"
+				}
+			}],
+			"def": [
+				"recevoir, loger chez soi"
+			],
+			"ex": [
+				"héberger un ami"
+			]
+		},
+
+		"hébéter  [ebete] v.tr.": {
+			"lingala": [{
+				"kozobisa": {
+					"def": "kokómisa moto zóba, kokómisa moto etúkú tÉo ebÔ¥bÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				" rendre stupide, ahuri"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hébétude  [ebetyd] n.f.": {
+			"lingala": [{
+				"bolémá, bozóba, bololé": {
+					"def": "ezalela ya bozóba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"état de stupidité, d’ahurissement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hectare  [Ekta{] n.m.": {
+			"lingala": [{
+				"ekitále": {
+					"def": "lomeko-mamá la etando ezwaka ále nkámá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de surface valant 100 ares"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hectogramme  [Ektçg{am] n.m.": {
+			"lingala": [{
+				"ekitogalám¥": {
+					"def": "lomeko-mamá la monÔ¥n¥ ezwaka galám¥ nkámá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de masse valant 100 grammes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hectolitre  [Ektçlit{] n.m.": {
+			"lingala": [{
+				"ekitolít¥l¥": {
+					"def": "lomeko-mamá la bonÔ¥n¥ ezwaka (ekokání na) lít¥l¥ nkámá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de capacité valant 100 litres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hectomètre  [EktçmEt{] n.m.": {
+			"lingala": [{
+				"ekitomÔ¥t¥l¥": {
+					"def": "lomeko-mamá la bolaí ezwaka (ekokání na ) mÔ¥t¥l¥ nkámá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de longueur valant 100 mètres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hégémonie  [eZemçni] n.f.": {
+			"lingala": [{
+				"bopusi, boleki": {
+					"def": "ekela ya kozala likoló ya",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"supériorité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hélas!  [elAs] interj.": {
+			"lingala": [{
+				"mawa": {
+					"def": "liloba mpÊ¡ ya koyébisa mpi, mawa, es¥ng¡ tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"exprime le regret, la plainte, la tristesse : malheureusement"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héler  [’ele] v.tr.": {
+			"lingala": [{
+				"kobélela": {
+					"def": "kobénga moto na mosíká",
+					"ex": "kobélela moto"
+				}
+			}],
+			"def": [
+				"appeler de loin"
+			],
+			"ex": [
+				"héler qqn"
+			]
+		},
+
+		"hélice  [elis] n.f.": {
+			"lingala": [{
+				"pakapáka": {
+					"def": "esálele ya masúwa mpé mpÔ¥p¡",
+					"ex": "pakapáka ya mpÔ¥p¡"
+				}
+			}],
+			"def": [
+				"appareil formé de plusieurs pales qui tournent pour faire avancer un moteur"
+			],
+			"ex": [
+				"les hélices d’un avion"
+			]
+		},
+
+		"hélicoptère  [elikçptE{] n.m.": {
+			"lingala": [{
+				"elí": {
+					"def": "avyó ya pakapáka likoló mpé ekolongwaka na botómbwami sémba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avion dont les hélices sont placées au-dessus de l’appareil et qui décolle à la verticale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hémorragie  [emç{aZi] n.f.": {
+			"lingala": [{
+				"bobimi makilá, emolazí": {
+					"def": "bosopani bwa makilá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"écoulement de sang"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hémorroïdes  [emç{çid] n.f.pl.": {
+			"lingala": [{
+				"mosómbá, mofáti, mpo ́ta ya libumu": {
+					"def": "bok¡n¡ botutwisaka tÉo bovímbisaka monsisá mya monyutu tÉo lisÔ¡kÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"varices formées par la dilatation des veines de l’anus"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hennir  [’eni{] v.intr.": {
+			"lingala": [{
+				"kogánga": {
+					"def": "kobélela ya mpúnda",
+					"ex": "mpúnda ezalí kogánga"
+				}
+			}],
+			"def": [
+				"crier (en parlant du cheval)"
+			],
+			"ex": [
+				"le cheval hennit"
+			]
+		},
+
+		"hépatite  [epatit] n.f.": {
+			"lingala": [{
+				"epatíte": {
+					"def": "bok¡n¡ bwa mabale",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"maladie du foie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héraut  [’e{o] n.m.": {
+			"lingala": [{
+				"mosangeli, mosakoli": {
+					"def": "moto óyo akoyébisaka sango te moto monÔ¥n¥ tÉo likambo linÔ¥n¥ lizalí koyâ",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne chargée d’annoncer la venue de qqn d’important; annonciateur, messager"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"herbe  [E{b] n.f.": {
+			"lingala": [{
+				"litíti": {
+					"def": "mweté mokÔ¥mpé mokúsé mobimaka bipái bíns¡",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"plante fine et basse qui pousse partout"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"herbivore  [e{bivç{] adj. et n.": {
+			"lingala": [{
+				"moléi-matíti": {
+					"def": "eye ekolyáka matíti",
+					"ex": "nyama moléi-matíti, ntaba ezalí moléi-matíti"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui mange de l’herbe"
+			],
+			"ex": [
+				"un animal herbivore; la chèvre est herbivore"
+			]
+		},
+
+		"hérédité  [e{edite] n.f.": {
+			"lingala": [{
+				"lisangó": {
+					"def": "yÉ¡kÔ¡ ezalela ekozwamaka na libótá",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"caractère particulier qui se transmet de génération à génération"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hérésie  [e{ezi] n.f.": {
+			"lingala": [{
+				"bopengwi, boyengwi, bopendwi, bobúngi nzelá": {
+					"def": "makanisi maye mak¥sÔ¥ni na maye ma mom¥s¥n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"opinion contraire aux idées admises"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hérétique  [e{etik] adj.": {
+			"lingala": [{
+				"-a bopengwi, -a boyengwi, -a bopendwi, -a bobúngi nzelá": {
+					"def": "eye ezalí kolakisa nzelá ek¥sÔ¥ní na mom¥s¥n¡, óyo azalí kolakisa nzelá ek¥sÔ¥ni na mom¥s¥n¡",
+					"ex": "eyamba ya bopengwi"
+				}
+			}],
+			"def": [
+				"qui professe ou soutient une hérésie"
+			],
+			"ex": [
+				"une secte hérétique"
+			]
+		},
+
+		"hérisser  [’e{ise] I v.tr.": {
+			"lingala": [{
+				"kotómbola, kosémbola, kobébola, kokúmbola": {
+					"def": "kotÔ¥lÔ¥misa",
+					"ex": "nyáu etómbólí nkunza na yangó"
+				}
+			}],
+			"def": [
+				"dresser (ses poils, ses plumes) en parlant des animaux"
+			],
+			"ex": [
+				"le chat qui hérisse ses poils"
+			]
+		},
+
+		"hérisson  [’e{isç)] n.m.": {
+			"lingala": [{
+				"mboké, nzíngíní": {
+					"def": "loléngé la nyama eye nzóto na yangó etóndá nzúb¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mammifère au corps couvert de piquants"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héritage  [e{itaZ] n.m.": {
+			"lingala": [{
+				"lisangó, libulá, lipká, lipkéla, likwéla": {
+					"def": "ekela ya kozwa bilÔ¡k¡ mowéi atíkí",
+					"ex": "kopésa, kotíka lisangó"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"action d’hériter, ce qui est hérité"
+			],
+			"ex": [
+				"faire, laisser un héritage"
+			]
+		},
+
+		"hériter  [e{ite] v.intr.": {
+			"lingala": [{
+				"kosangola": {
+					"def": "kozwa lisangó",
+					"ex": "asangólí, azwí lisangó"
+				}
+			}],
+			"def": [
+				"recevoir par héritage"
+			],
+			"ex": [
+				"il a hérité"
+			]
+		},
+
+		"héritier, ère  [e{itje, E{] n.": {
+			"lingala": [{
+				"mosangoli": {
+					"def": "moto asangólí tÉo azwí bilÔ¡k¡ mowéi atíkí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui hérite des biens d’une personne morte"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hermaphrodite  [E{maf{çdit] n.m. et adj.": {
+			"lingala": [{
+				"mwÉasí-mobáli ": {
+					"def": "moto óyo azalí na nzóto ya mwÉasí mpé ya mobáli",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui présente les caractères des deux sexes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hermétique  [E{metik] adj.": {
+			"lingala": [{
+				"-a bokangami": {
+					"def": "eye ezalí kokangama makási",
+					"ex": "ezipeli ya bokangami makási"
+				}
+			}],
+			"def": [
+				"qui ferme complètement"
+			],
+			"ex": [
+				"une fermeture hermétique"
+			]
+		},
+
+		"herminette ou erminette [E{minEt] n.f.": {
+			"lingala": [{
+				"ngbá, ngwá": {
+					"def": "loléngé la sóka ekÔ¥epelí makási mpé ezalí ya kongúnzama",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite hache à tranchant recourbé"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hernie  [’E{ni] n.f.": {
+			"lingala": [{
+				"língúndu, ebole, elení": {
+					"def": "eténi ya nzóto ebimí na esíká na yangó ya mom¥s¥n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"excroisance formée par un organe sorti de sa cavité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héroïne  [e{çin] n.f.": {
+			"lingala": [{
+				"elombé mwÉasí": {
+					"def": "mwÉasí wa mpíko mpé moléndé",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"femme qui a un courage exceptionnel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héroïque  [e{çik] adj.": {
+			"lingala": [{
+				"-a bolombé": {
+					"def": "eye ezalí kolakisa bolombé",
+					"ex": "mpíko ya bolombé"
+				}
+			}],
+			"def": [
+				"qui manifeste de l’héroïsme"
+			],
+			"ex": [
+				"un courage héroïque"
+			]
+		},
+
+		"héroïquement  [e{çikmA)] adv.": {
+			"lingala": [{
+				"na bolombé, na mpíko": {
+					"def": "na loléngé la mpíko tÉo moléndé",
+					"ex": "kobuna na bolombé"
+				}
+			}],
+			"def": [
+				"d’une manière héroïque, très courageusement"
+			],
+			"ex": [
+				"se battre héroïquement"
+			]
+		},
+
+		"héroïsme  [e{çism] n.m.": {
+			"lingala": [{
+				"bolombé, mpíko": {
+					"def": "moléndé mokási",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"courage exceptionnel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héron  [e{ç)] n.m.": {
+			"lingala": [{
+				"punzébale, bolambá, mokoko, ndanda, ekÔ¥ng¥ngÔ¡mb¡": {
+					"def": "nd¥k¥ enÔ¥n¥ ezalaka míngi p¥n¥ na bitónga bya nyama",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand oiseau qui accompagne les troupeaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"héros  [’e{o] n.m.": {
+			"lingala": [{
+				"elombé": {
+					"def": "moto wa mpíko ekási",
+					"ex": ""
+				}
+			}],
+			"cls": ["e-bi-"],
+			"def": [
+				"homme qui a un courage exceptionnel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hésitant, ante  [ezitA), A)t] adj.": {
+			"lingala": [{
+				"-a botatabani": {
+					"def": "óyo azalí na botatabani, eye ezalí na botatabani",
+					"ex": "etámboli ya botatabani"
+				}
+			}],
+			"def": [
+				"qui hésite; indécis"
+			],
+			"ex": [
+				"un pas hésitant"
+			]
+		},
+
+		"hésitation  [ezitasjç)] n.f.": {
+			"lingala": [{
+				"motatabano, botatabani, ntembe": {
+					"def": "ekela ya kotatabana, ya kotyâ ntembe",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fait d’hésiter ; doute, incertitude"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hésiter  [ezite] v.intr.": {
+			"lingala": [{
+				"kotatabana, kokúbakuba, kotengatenga, koúba": {
+					"def": "kotíya ntembe, kozala na ntembe",
+					"ex": "kotatabana káti ya biyano bíbalé, kok¥nd¥ tÉo kotíkala"
+				}
+			}],
+			"def": [
+				"être dans un état de doute ; balancer, tergiverser"
+			],
+			"ex": [
+				"hésiter entre deux solutions, entre partir et rester"
+			]
+		},
+
+		"hétéroclite  [ete{çklit] adj.": {
+			"lingala": [{
+				"-a ndéngé na ndéngé, -a mobúlúmobúlú": {
+					"def": "eye esálámí na bilÔ¡k¡ ndéngé na ndéngé",
+					"ex": "bato ba ndéngé na ndéngé, bato mobúlúmobúlú"
+				}
+			}],
+			"def": [
+				"qui est composé d’éléments très différents"
+			],
+			"ex": [
+				"une foule hétéroclite"
+			]
+		},
+
+		"heure  [œ{] n.f.": {
+			"lingala": [{
+				"ngonga, ntángo, lÔ¥l¥ ": {
+					"def": "eténi ya ntúkú íbalé na inéi ya mok¡l¡ mÉ¡kÔ¡",
+					"ex": "na ngonga ya íbalé"
+				}
+			}],
+			"def": [
+				"division du temps équivalent à la vingt-quatrième partie du jour"
+			],
+			"ex": [
+				"dans deux heures"
+			]
+		},
+
+		"heureux, euse  [ø{ø, øz] adj.": {
+			"lingala": [{
+				"-a es¥ng¡": {
+					"def": "óyo azalí na es¥ng¡",
+					"ex": "moto wa es¥ng¡"
+				}
+			}],
+			"def": [
+				"qui jouit du bonheur"
+			],
+			"ex": [
+				"un homme heureux"
+			]
+		},
+
+		"heurt  [’œ{] n.m.": {
+			"lingala": [{
+				"botúti, botútani": {
+					"def": "libakú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"choc brutal"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"heurter  [’{te] I v.tr.": {
+			"lingala": [{
+				"kotúta, kondongba": {
+					"def": "kokónya, kokuma, kokónza",
+					"ex": "kotúta efelo"
+				}
+			}],
+			"def": [
+				"cogner contre"
+			],
+			"ex": [
+				"heurter le mur"
+			]
+		},
+
+		"hévéa  [evea] n.m.": {
+			"lingala": [{
+				"botópe, (mo)ndembó, eveyá": {
+					"def": "loléngé la mweté monÔ¥n¥ mobimisaka ndembó",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"arbre de grande taille qui produit un latex dont on tire le caoutchouc"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hibou, oux  [’ibu] n.m.": {
+			"lingala": [{
+				"ésulúngútú": {
+					"def": "lolengé la nd¥k¥ ekotámbolaka na butú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"oiseau rapace nocturne"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hic et nunc  [’ikEtnunk] loc. adv.": {
+			"lingala": [{
+				"s¥sÔ¥pi, sásaípi": {
+					"def": "áwa mpé sikáwa, sé l¥lÔ¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"ici et maintenant"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hideur  [’idœ{] n.f.": {
+			"lingala": [{
+				"bobé": {
+					"def": "kitÔ¡k¡ tÔ¥, bobé bolekí",
+					"ex": "bobé bwa elongi"
+				}
+			}],
+			"def": [
+				"laideur extrême"
+			],
+			"ex": [
+				"la hideur d’un visage"
+			]
+		},
+
+		"hideux, euse  [’idø, øz] adj.": {
+			"lingala": [{
+				"-bé, -a nsÔ¡m¡, -a mpi": {
+					"def": "mabé mpenzá",
+					"ex": "elongi ebé, elongi ya nsÔ¡m¡"
+				}
+			}],
+			"def": [
+				"très laid, répugnant"
+			],
+			"ex": [
+				"un visage hideux"
+			]
+		},
+
+		"hier  [jE{] adv. et n.m.": {
+			"lingala": [{
+				"lóbí, lóbí lolekí": {
+					"def": "mok¡l¡ libosó lya l¥lÔ¡",
+					"ex": "ayákí lóbí"
+				}
+			}],
+			"def": [
+				"jour avant aujourd’hui"
+			],
+			"ex": [
+				"il est venu hier"
+			]
+		},
+
+		"hiérarchie  [’je{a{Si] n.f.": {
+			"lingala": [{
+				"bokonzi": {
+					"def": "mb¡ngísámí Ô¥ngÔ¥bÔ¥nÔ¥na mol¡ngÔ¡mwa bokonzi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"organisation selon le degré d’importance, de pouvoir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hiérarchiser  [’je{a{Size] v.tr.": {
+			"lingala": [{
+				"kob¡ngisa": {
+					"def": "kotíya na molɔngÔ¡ ¥ngÔ¥bÔ¥nÔ¥na bokonzi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"organiser, ordonner selon une hiérarchie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hilarant, ante  [ila{A), A)t] adj.": {
+			"lingala": [{
+				"-a bos¥kisi": {
+					"def": "eye ekopésaka bos¥ki, eye ekosepelisaka",
+					"ex": "lisolo lya bos¥kisi"
+				}
+			}],
+			"def": [
+				"qui provoque le rire; amusant, comique, drôle"
+			],
+			"ex": [
+				"une histoire hilarante"
+			]
+		},
+
+		"hilare  [ila{] adj.": {
+			"lingala": [{
+				"-a bos¥ki, -a nsáí nsáí": {
+					"def": "óyo azalí kos¥k¥ tÉo azalí na es¥ng¡ makási",
+					"ex": "moto wa bos¥ki, moto wa nsáí nsáí"
+				}
+			}],
+			"def": [
+				"qui est dans un état de gaieté, qui rit volontiers; rigolard"
+			],
+			"ex": [
+				"un homme hilare"
+			]
+		},
+
+		"hilarité  [ila{ite] n.f.": {
+			"lingala": [{
+				"bos¥ki, es¥ng¡, nsaí": {
+					"def": "es¥ng¡ ya mbálákáká ekom¡nisama na bos¥ki",
+					"ex": "kotúmola es¥ng¡, nsáí"
+				}
+			}],
+			"def": [
+				"gaieté brusque qui se manifeste par le rire"
+			],
+			"ex": [
+				"provoquer l’hilarité générale"
+			]
+		},
+
+		"hippopotame  [ipçpçtam] n.m.": {
+			"lingala": [{
+				"ngubú": {
+					"def": "nyama enÔ¥n¥ ekofándaka na bibale",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"grand mammifère vivant dans les fleuves"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hirondelle  [i{ç)dEl] n.f.": {
+			"lingala": [{
+				"nyamp¥k¥, mbilambila": {
+					"def": "loléngé la nd¥k¥ ekotámbolaka bipaí bíns¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sorte d’oiseau migrateur"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hisser  [’ise] v.tr.": {
+			"lingala": [{
+				"kotómbola, komatisa": {
+					"def": "kobutisa likoló",
+					"ex": "kotómbola b¥ndÔ¥l¥ ya ekólo. komata"
+				}
+			}],
+			"def": [
+				"élever, faire monter"
+			],
+			"ex": [
+				"hisser le drapeau national"
+			]
+		},
+
+		"histoire  [istwa{] n.f.": {
+			"lingala": [{
+				"mokóló, lísitwále": {
+					"def": "lisoló lya makambo maleká",
+					"ex": "mokóló mwa mbóka, lísitwále lya mbóka"
+				}
+			}],
+			"def": [
+				"récit d’événements du passé"
+			],
+			"ex": [
+				"histoire d’un pays"
+			]
+		},
+
+		"historien, enne  [istç{jE), En] n.": {
+			"lingala": [{
+				"moí-mokóló, moí-lísitwále": {
+					"def": "moto azalí koyékola tÉo kotéya mokóló, tÉo mpé óyo azalí kokoma búku ya mokóló tÉo ya lísitwále",
+					"ex": ""
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui étudie ou enseigne l’histoire, qui écrit des livres d’histoire"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"historiette  [istç{jEt] n.f.": {
+			"lingala": [{
+				"lisapo": {
+					"def": "mwâ lisoló",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"petite histoire, anecdote"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"historique  [istç{ik] adj.": {
+			"lingala": [{
+				"-a mokóló, -a lísitwále": {
+					"def": "eye etálí mokóló tÉo lísitwále",
+					"ex": "búku ya mokóló, ya lísitwále"
+				}
+			}],
+			"def": [
+				"qui concerne l’histoire"
+			],
+			"ex": [
+				"un livre historique"
+			]
+		},
+
+		"historiquement  [istç{ikmA)] adv.": {
+			"lingala": [{
+				"na mokóló, na lísitwále": {
+					"def": "Ô¥ngÔ¥bÔ¥nÔ¥na mokóló tÉo lísitwále",
+					"ex": "ekela Ô¥ngÔ¥bÔ¥nÔ¥na mokóló tÉo na lísitwále"
+				}
+			}],
+			"def": [
+				"du point de vue de l’histoire"
+			],
+			"ex": [
+				"un fait historiquement exact"
+			]
+		},
+
+		"hocher  [’çSe] v.tr.": {
+			"lingala": [{
+				"koningisa, kotómbola": {
+					"def": "kom¥k¥m¥k¥",
+					"ex": "koningisa motó, kotómbola motó"
+				}
+			}],
+			"def": [
+				"remuer, bouger"
+			],
+			"ex": [
+				"hocher la tête"
+			]
+		},
+
+		"hochet  [’çSE] n.m.": {
+			"lingala": [{
+				"elefo": {
+					"def": "esálele ya mizíki esálémí na ekútu tÉo na elÔ¡k¡ ya loléngé la ekútu mpé ezalí na mbuma ikÔ¥ikÔ¥na káti ",
+					"ex": "koningisa elefo"
+				}
+			}],
+			"def": [
+				"instrument de musique fait d’une calebasse ou d’une poterie contenant des graines"
+			],
+			"ex": [
+				"agiter un hochet"
+			]
+		},
+
+		"hold-up  [’çldœp] n.m.inv.": {
+			"lingala": [{
+				"moyíbi, boyíbi": {
+					"def": "moyíbi na mandóki mpÊ¡ ya bobúkí bánki tÉo magazíni",
+					"ex": "koyíba na lisálisi lya mandóki"
+				}
+			}],
+			"def": [
+				"attaque à main armée pour dévaliser une banque, un magasin"
+			],
+			"ex": [
+				"commettre un hold-up"
+			]
+		},
+
+		"homélie  [çmeli] n.f.": {
+			"lingala": [{
+				"litéya": {
+					"def": "litéya lipésámí na loléngé la bondeko",
+					"ex": ""
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"sermon fait sur un ton familier"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"homicide  [çmisid] adj.": {
+			"lingala": [{
+				"bobomi moto": {
+					"def": "ekela ya koboma moto",
+					"ex": "bobomi moto na nkó tÔ¥"
+				}
+			}],
+			"def": [
+				"action de tuer un être humain; meurtre"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hommage  [çmaZ] n.m.": {
+			"lingala": [{
+				"lokúmu": {
+					"def": "elembo ya lim¥myá, ya botósi",
+					"ex": "kokúmisa moto, kopésa moto lokúmu"
+				}
+			}],
+			"def": [
+				"marque de respect, de soumission"
+			],
+			"ex": [
+				"rendre hommage à qqn"
+			]
+		},
+
+		"homme  [çm] n.m.": {
+			"lingala": [{
+				"moto": {
+					"def": "ekelámo wa makanisi",
+					"ex": "moto azalí nyama ekos¥k¥k¥"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"être humain"
+			],
+			"ex": [
+				"l’homme est un animal qui rit"
+			]
+		},
+
+		"homonyme  [çmçnim] n.m.": {
+			"lingala": [{
+				"ndoí": {
+					"def": "moto tÉo elÔ¡k¡ ezalí na nkómbó loléngé lÉ¡kÔ¡na moto tÉo elÔ¡k¡ esúsu",
+					"ex": "azalí ndoí wa yÉe"
+				}
+			}],
+			"cls": ["Ø-ba"],
+			"def": [
+				"personne, chose qui porte le même nom qu’une autre"
+			],
+			"ex": [
+				"c’est son homonyme"
+			]
+		},
+
+		"honnête  [çnEt] adj.": {
+			"lingala": [{
+				"-a bosémbo, sémba, sémbo": {
+					"def": "eye eÔ¥ngÔ¥bÔ¥ní na mibéko",
+					"ex": "moto sémba, moto sémbo"
+				}
+			}],
+			"def": [
+				"qui se conforme à la loi morale"
+			],
+			"ex": [
+				"un homme honnête"
+			]
+		},
+
+		"honnêtement  [çnEtmA)] adv.": {
+			"lingala": [{
+				"na bosémbo": {
+					"def": "na malámu, na alimá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière honnête"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honnêteté  [çnEtte] n.f.": {
+			"lingala": [{
+				"bosémbo, bosÊ¡lÔ¡": {
+					"def": "lib¡ngí lya moto azalí sémba tÉo alimá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qualité de celui, de ce qui est honnête"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honneur  [çnœ{] n.m.": {
+			"lingala": [{
+				"lokúmu": {
+					"def": "ekela ya kozala na lokúmu na mÉ²so ma bato mpé ya yÉ¡ mÉokÔ¡",
+					"ex": "moto wa lokúmu"
+				}
+			}],
+			"def": [
+				"fait de mériter l’estime des autres et de soi-même; dignité, fierté"
+			],
+			"ex": [
+				"un homme d’honneur"
+			]
+		},
+
+		"honnir  [çni{] v.tr.": {
+			"lingala": [{
+				"kosámbwisa": {
+					"def": "kobébisa lokúmu la moto, kolongola moto lokúmu",
+					"ex": "kosámbwisa moto"
+				}
+			}],
+			"def": [
+				"couvrir de honte"
+			],
+			"ex": [
+				"honnir qqn"
+			]
+		},
+
+		"honorabilité  [çnç{abilite] n.f.": {
+			"lingala": [{
+				"bonkúmú": {
+					"def": "ezalela ya moto wa lokúmu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"caractère d’une personne honorable"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honorable  [çnç{abl] adj.": {
+			"lingala": [{
+				"-a lokúmu, -a lim¥myá, -a botósi": {
+					"def": "eye es¥ngÔ¥lí na lokúmu mpé lim¥myá, óyo as¥ngÔ¥lí na lokúmu mpé lim¥myá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui mérite d’être honoré, estimé; respectable"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honorablement  [çnç{abl´mA)] adv.": {
+			"lingala": [{
+				"na lokúmu, na lim¥myá, na botósi": {
+					"def": "na loléngé la lokúmu, na loléngé la botósi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière honorable"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honorer  [çnç{e] v.tr.": {
+			"lingala": [{
+				"kom¥my¥, kokúmisa, kotósa": {
+					"def": "kopésa lokúmu na moto, kopésa moto lokúmu tÉo kiló",
+					"ex": "kom¥my¥ moto"
+				}
+			}],
+			"def": [
+				"manifester du respect pour qqn"
+			],
+			"ex": [
+				"honorer qqn"
+			]
+		},
+
+		"honte  [’ç)t] n.f. ": {
+			"lingala": [{
+				"nsÔ¡ni": {
+					"def": "liyóki lya mpási eúti na bosámbwi ",
+					"ex": "koyóka elÔ¡k¡ nsÔ¡ni, koyókisa moto nsÔ¡ni, kosámbwisa moto"
+				}
+			}],
+			"def": [
+				"sentiment pénible causé par le fait de se sentir déshonoré, humilié"
+			],
+			"ex": [
+				"avoir honte de qch, faire honte à qqn"
+			]
+		},
+
+		"honteusement  [’ç)tøzmA)] adv.": {
+			"lingala": [{
+				"na nsÔ¡ni": {
+					"def": "na loléngé la nsÔ¡ni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière honteuse"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"honteux, euse  [’ç)tø, øz] adj.": {
+			"lingala": [{
+				"-a nsÔ¡ni": {
+					"def": "eye ekoyókisa nsÔ¡ni, eye ekolongola lokúmu",
+					"ex": "ezalí nsÔ¡ni"
+				}
+			}],
+			"def": [
+				"qui cause de la honte, du déshonneur"
+			],
+			"ex": [
+				"c’est honteux!"
+			]
+		},
+
+		"hôpital, aux  [çpital, o] n.m.": {
+			"lingala": [{
+				"lopitálo": {
+					"def": "ndáko wápi bakosálisaka mak¡n¡ ndéngé na ndéngé, ndáko wápi bakopésaka masálisi na mak¡n¡ ndéngé na ndéngé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"établissement public où on dispense tous les soins médicaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hoquet  [’çkE] n.m.": {
+			"lingala": [{
+				"esekusékú, esésékú, lisekuséku, liséséku": {
+					"def": "mak¥lÔ¥l¥ maútí na bokangani bwa byÉ¡kÔ¡biténi bya ntólo",
+					"ex": "kosála lisekuséku"
+				}
+			}],
+			"def": [
+				"contraction spasmodique du diaphragme produisant un bruit caractéristique"
+			],
+			"ex": [
+				"avoir le hoquet"
+			]
+		},
+
+		"hoqueter  [’çkte] v.intr.": {
+			"lingala": [{
+				"kosékola, kosékuma": {
+					"def": "kosála lisekuséku",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avoir le hoquet"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horaire  [ç{E{] adj.": {
+			"lingala": [{
+				"-a ngonga yÉ¡kÔ¡": {
+					"def": "eye ekokáni na bolaí bwa ngonga yÉ¡kÔ¡",
+					"ex": "lifúta lya ngonga yÉ¡kÔ¡"
+				}
+			}],
+			"def": [
+				"qui correspond à la durée d’une heure"
+			],
+			"ex": [
+				"un salaire horaire"
+			]
+		},
+
+		"horizon  [ç{izç)] n.m.": {
+			"lingala": [{
+				"kongómbélá": {
+					"def": "mwésé mobimaka, molálaka na kongómbélá.",
+					"ex": "mwésé mobimaka, molálaka na kongómbélá"
+				}
+			}],
+			"def": [
+				"ligne circulaire qui semble séparer le ciel et la terre"
+			],
+			"ex": [
+				"le soleil se lève, se couche à l’horizon"
+			]
+		},
+
+		"horizontalement  [ç{izç)talmA)] adv.": {
+			"lingala": [{
+				"na boláli sémba": {
+					"def": "na loléngé la boláli sémba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"d’une manière horizontale"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horizontal, ale, aux  [ç{izç)tal, o] adj.": {
+			"lingala": [{
+				"-a boláli sémba, -a kolála sémba": {
+					"def": "eye ezalí ekalela na kongómbélá, eye ekokútana tÔ¥na kongómbélá ",
+					"ex": "mok¡lÔ¡tÔ¡mwa boláli sémba"
+				}
+			}],
+			"def": [
+				"parallèle à l’horizon"
+			],
+			"ex": [
+				"une ligne horizontale"
+			]
+		},
+
+		"horloge  [ç{lçZ] n.f. ": {
+			"lingala": [{
+				"sáa, sâ enÔ¥n¥": {
+					"def": "mÔ¡nt¥l¥ monÔ¥n¥ moye mokokí na boláti na lobÔ¡k¡ tÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"instrument non portatif pour mesurer le temps"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horlogerie  [ç{lçZ{i] n.f.": {
+			"lingala": [{
+				"bosáa": {
+					"def": "lizíni mpé mombóngo mwa sáa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"industrie, commerce d’un horloger"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horloger, ère  [ç{lçZE{, E{] adj. et n.": {
+			"lingala": [{
+				"moí-sáa ": {
+					"def": "moto akelaka, atÔ¥k¥k¥ tÉo ab¡ngisaka sáa",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui fabrique, vend ou répare les horloges"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horreur  [ç{œ{] n.f. ": {
+			"lingala": [{
+				"nsÔ¡m¡": {
+					"def": "bobángi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"réaction d’effroi et de dégoût"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"horrible  [ç{ibl] adj.": {
+			"lingala": [{
+				"-a nsÔ¡m¡, -a bobángi": {
+					"def": "eye ekopésa nsÔ¡m¡",
+					"ex": "mpótá ya nsÔ¡m¡"
+				}
+			}],
+			"def": [
+				"qui inspire de l’horreur, qui déplaît vivement, affreux, insupportable"
+			],
+			"ex": [
+				"une plaie horrible"
+			]
+		},
+
+		"horrifier  [ç{ifje] v.tr.": {
+			"lingala": [{
+				"koyókisa nsÔ¡m¡": {
+					"def": "kopésa moto nsÔ¡m¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"provoquer l’horreur chez"
+			],
+			"ex": [
+				"horrifier qqn"
+			]
+		},
+
+		"hors (de)  [’ç{] prép.": {
+			"lingala": [{
+				"na libándá": {
+					"def": "na libándá lya",
+					"ex": "na libándá lya ndáko"
+				}
+			}],
+			"def": [
+				"en dehors de, à l’extérieur de"
+			],
+			"ex": [
+				"hors de la maison"
+			]
+		},
+
+		"horticulture  [ç{tikylty{] n.f.": {
+			"lingala": [{
+				"bosálá, bilanga": {
+					"def": "mosálá tÉo ntÔ¡ki ya bosáli lisálá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"art de cultiver le jardin"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hospice  [çspis] n.m.": {
+			"lingala": [{
+				"ndáko-bakóló, ndáko-bitíké": {
+					"def": "esíká bakoyambaka mpé bakofándisaka banuná tÉo bitíké",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"établissement qui accueille les vieillards, les orphelins"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hospitalier, ère  [çspitalje, E{] adj.": {
+			"lingala": [{
+				"-a lopitálo": {
+					"def": "eye etálí mapitál",
+					"ex": "ndáko ya lopitálo"
+				}
+			}],
+			"def": [
+				"relatif aux hospices, aux hôpitaux"
+			],
+			"ex": [
+				"un centre hospitalier"
+			]
+		},
+
+		"hospitaliser  [çspitalize] v.tr.": {
+			"lingala": [{
+				"kokÔ¡tisa lopitálo": {
+					"def": "kotíya moto na lopitálo",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mettre à l’hôpital"
+			],
+			"ex": [
+				"hospitaliser un malade"
+			]
+		},
+
+		"hospitalité  [çspitalite] n.f.": {
+			"lingala": [{
+				"lonánga, boyambi": {
+					"def": "likanisi lya boyambi malámu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"esprit d’accueil"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hostie  [çsti] n.f.": {
+			"lingala": [{
+				"ostíya": {
+					"def": "komúnyo (na Eklézya katolíko), eténi ya límpa ezángí nkísi mpé libúngútulú",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"(Eglise catholique) petite rondelle de pain sans levain destinée à la communion"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hostile  [çstil] adj.": {
+			"lingala": [{
+				"-a bongúná": {
+					"def": "eye ezángí bondeko",
+					"ex": "liloba lya bongúná"
+				}
+			}],
+			"def": [
+				"qui n’est pas amical"
+			],
+			"ex": [
+				"une parole hostile"
+			]
+		},
+
+		"hostilité  [çstilite] n.f.": {
+			"lingala": [{
+				"bongúná": {
+					"def": "ezalela ezángí bondeko",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"attitude inamicale, agressivité"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hôtel  [çtEl] n.m.": {
+			"lingala": [{
+				"lotÔ¥l¥": {
+					"def": "ndáko moto akokí kofútela eténi ya boláli mpÊ¡ ya butú yÉ¡kÔ¡tô ebelé",
+					"ex": "kolála na lotÔ¥l¥"
+				}
+			}],
+			"def": [
+				"établissement où on peut louer une chambre pour une nuit ou plus"
+			],
+			"ex": [
+				"dormir à l’hôtel"
+			]
+		},
+
+		"hôte, hôtesse  [ot, otEs] n.": {
+			"lingala": [{
+				"moyambi": {
+					"def": "moto óyo akoyambaka bato",
+					"ex": "moyambi molámu"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"personne qui donne l’hospitalité, qui reçoit, accueille qqn"
+			],
+			"ex": [
+				"un hôte accueillant, une hôtesse accueillante"
+			]
+		},
+
+		"hotte  [’çt] n.f.": {
+			"lingala": [{
+				"lipÔ¡l¥": {
+					"def": "ek¡lÔ¡enÔ¥n¥ ezalí na nsinga bakom¥m¥k¥ yangó na mok¡ng¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				" grand panier avec bretelles que l’on porte sur le dos"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"houe  [’u] n.f.": {
+			"lingala": [{
+				"nkóngo": {
+					"def": "pikási ya ebendé mpé engumbamaka bakosálelaka yangó mpÊ¡ na kobalola mabelé",
+					"ex": "kobóngola mabelé na nkóngo"
+				}
+			}],
+			"def": [
+				"pioche à fer large et recourbé servant à remuer la terre"
+			],
+			"ex": [
+				"labourer la terre avec une houe"
+			]
+		},
+
+		"houle  [’ul] n.f.": {
+			"lingala": [{
+				"mbóngé": {
+					"def": "moningi mwa mái ma mbú moútí na mop¥p¥ mokási",
+					"ex": "mbóngé ya elanga ya míle"
+				}
+			}],
+			"def": [
+				"mouvement ondulatoire à la surface d’une mer agitée, qui rappelle une mer agitée"
+			],
+			"ex": [
+				"la houle d’un champ de mil"
+			]
+		},
+
+		"houleux, euse  [’ulø, øz] adj.": {
+			"lingala": [{
+				"-kási, -a mak¥lÔ¥l¥": {
+					"def": "eye ezalí mobúlú",
+					"ex": "mbú ya mak¥lÔ¥l¥, lisoló likási"
+				}
+			}],
+			"def": [
+				"animé par la houle; agité, mouvementé, tumultueux"
+			],
+			"ex": [
+				"une mer houleuse, un débat houleux"
+			]
+		},
+
+		"houspiller  [’uspije] v.tr.": {
+			"lingala": [{
+				"kodosa, kozómba, kogbamisa": {
+					"def": "kopálela",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"attaquer violemment en paroles, harceler de reproches, réprimander"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"huée  [’Áe] n.f.": {
+			"lingala": [{
+				"bozomeli, bowuloli, bogbomi": {
+					"def": "mogango mwa botyoli tÉo bofíngi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"cri de dérision ou d’hostilité"
+			],
+			"ex": [
+				"accueillir qqn par des huées"
+			]
+		},
+
+		"huer  [’Áe] v.tr.": {
+			"lingala": [{
+				"kowolola, kogbomela, kozomela": {
+					"def": "kogánga mpÊ¡ ya kos¥k¥ moto tÉo kotyola yÉe",
+					"ex": "kowolola molobi"
+				}
+			}],
+			"def": [
+				"pousser des cris, des clameurs de dérision ou d’hostilité contre qqn, conspuer, siffler"
+			],
+			"ex": [
+				"huer un orateur"
+			]
+		},
+
+		"huile  [Áil] n.f.": {
+			"lingala": [{
+				"mafúta": {
+					"def": "limái lya mafúta",
+					"ex": "mafúta ma ngúba, mafúta ma mbíla"
+				}
+			}],
+			"def": [
+				"liquide gras"
+			],
+			"ex": [
+				"huile d’arachide, de palme"
+			]
+		},
+
+		"huiler  [Áile] v.tr.": {
+			"lingala": [{
+				"kotíya mafúta": {
+					"def": "kopakola mafúta",
+					"ex": "kotíya mafúta na masíni"
+				}
+			}],
+			"def": [
+				"enduire, frotter d’huile"
+			],
+			"ex": [
+				"huiler une machine"
+			]
+		},
+
+		"huilerie  [Áil{i] n.f.": {
+			"lingala": [{
+				"kompaní mbíla": {
+					"def": "talyé tÉo izíni wápi basálaka mafúta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"usine où l’on fabrique des huiles végétales"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"huileux, euse  [Áilø, øz] adj.": {
+			"lingala": [{
+				"-a mafúta": {
+					"def": "eye etóndí mafúta",
+					"ex": "nsúki ya mafúta"
+				}
+			}],
+			"def": [
+				"qui est imbibé, plein d’huile"
+			],
+			"ex": [
+				"des cheveux huileux"
+			]
+		},
+
+		"huis clos (à -)  [’Áiklo] loc.adv.": {
+			"lingala": [{
+				"na nkukú, na bonkútú": {
+					"def": "na sekele, ntángo bato bazala wâna tÔ¥",
+					"ex": "bosámbi na nkukú, lisano lya ndembó na bonkútú"
+				}
+			}],
+			"def": [
+				"les portes étant fermées, sans que le public soit admis"
+			],
+			"ex": [
+				"un procès à huis clos, un match à huis clos"
+			]
+		},
+
+		"huissier  [Áisje] n.m.": {
+			"lingala": [{
+				"p¡l¡tÔ¡, wisyé": {
+					"def": "mosáli wa nsé óyo akoyambaka mpé akokÔ¡tisaka bapaya epái ya bakonzi",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fonctionnaire subalterne chargé d’accueillir et d’annoncer les visiteurs"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"huit  [’Áit, Ái] adj. num.inv.": {
+			"lingala": [{
+				"mwambe, mwambi": {
+					"def": "sambo bakísá mÉ¡kÔ¡",
+					"ex": "mik¡l¡ mwambe"
+				}
+			}],
+			"def": [
+				"card. sept plus un"
+			],
+			"ex": [
+				"huit jours"
+			]
+		},
+
+		"huitaine  [’ÁitEn] n.f.": {
+			"lingala": [{
+				"sÔ¡kÔ¡ mwambe": {
+					"def": "motángo p¥n¥ na mwambe",
+					"ex": "bato sÔ¡kÔ¡ mwambe"
+				}
+			}],
+			"def": [
+				"quantité d’environ huit"
+			],
+			"ex": [
+				"une huitaine de personnes"
+			]
+		},
+
+		"huitième  [’ÁitjEm] adj. et n.": {
+			"lingala": [{
+				"-a mwambe, -a mwambi": {
+					"def": "eye ezalí na mol¡ngÔ¡mwa mwambe",
+					"ex": "mok¡l¡ mwa mwambe"
+				}
+			}],
+			"def": [
+				"qui occupe le rang marqué par le nombre huit"
+			],
+			"ex": [
+				"le huitième jour"
+			]
+		},
+
+		"hululer ou ululer  [ylyle] v.intr.": {
+			"lingala": [{
+				"kogboma": {
+					"def": "kogánga na bolobaka mpÊ¡ ya nd¥k¥ ya butú",
+					"ex": "ésulúngútu egbómí"
+				}
+			}],
+			"def": [
+				"pousser son cri en parlant des oiseaux nocturnes, huer"
+			],
+			"ex": [
+				"le hibou hulule"
+			]
+		},
+
+		"humain, aine  [ymE), En] adj.": {
+			"lingala": [{
+				"-a bomoto, -a moto, -a bato": {
+					"def": "eye ezalí mpÊ¡ ya moto, eye etálí moto",
+					"ex": "nzóto ya moto"
+				}
+			}],
+			"def": [
+				"de l’homme, propre à l’homme"
+			],
+			"ex": [
+				"le corps humain"
+			]
+		},
+
+		"humanité  [ymanite] n.f.": {
+			"lingala": [{
+				"bomoto": {
+					"def": "ezalela ya moto",
+					"ex": "bomoto mpé bonzámbe bwa Yézu-Krístu"
+				}
+			}],
+			"def": [
+				"caractère humain"
+			],
+			"ex": [
+				"humanité et divinité de Jésus-Christ"
+			]
+		},
+
+		"humble  [œ))bl] adj.": {
+			"lingala": [{
+				"mosáwa, s¡k¥": {
+					"def": "óyo azalí na bosáwa",
+					"ex": "moto mosáwa"
+				}
+			}],
+			"def": [
+				"effacé, modeste, soumis"
+			],
+			"ex": [
+				"une personne humble"
+			]
+		},
+
+		"humblement  [œ))bl´mA)] adv.": {
+			"lingala": [{
+				"na bosáwa, na motéma s¡k¥": {
+					"def": "na bomíkitisi",
+					"ex": "koyanola na motéma s¡k¥"
+				}
+			}],
+			"def": [
+				"d’une manière humble; avec humilité, modestie; modestement"
+			],
+			"ex": [
+				"s’incliner, répondre humblement"
+			]
+		},
+
+		"humecter  [ymEkte] v.tr.": {
+			"lingala": [{
+				"kop¡lisa": {
+					"def": "kosopela mwâ mái",
+					"ex": "kop¡lisa elambá"
+				}
+			}],
+			"def": [
+				"mouiller légèrement"
+			],
+			"ex": [
+				"humecter un tissu"
+			]
+		},
+
+		"humer  [yme] v.tr.": {
+			"lingala": [{
+				"koyóka solo, kopéma": {
+					"def": "kobénda makási na zólo mpÊ¡ na koyóka solo mpímbó",
+					"ex": "koyóka solo ya malási, kopéma mop¥p¥ kitÔ¡k¡"
+				}
+			}],
+			"def": [
+				"aspirer profondément par le nez pour sentir (une bonne odeur)"
+			],
+			"ex": [
+				"humer un parfum, l’air frais"
+			]
+		},
+
+		"humeur  [ymœ{] n.f.": {
+			"lingala": [{
+				"liyóki": {
+					"def": "ezalela ya bobóto",
+					"ex": "liyóki lya nsái, liyóki lya mpi"
+				}
+			}],
+			"cls": ["li-ma-"],
+			"def": [
+				"disposition affective passagère"
+			],
+			"ex": [
+				"la bonne humeur (= gaieté mêlée d’optimisme), la mauvaise humeur (= tristesse mêlée de colère)"
+			]
+		},
+
+		"humide  [ymid] adj.": {
+			"lingala": [{
+				"-a mái, -a kopÔ¡l¡": {
+					"def": "eye ep¡lí mái",
+					"ex": "elambá ya mái, mÉ²so ma mái"
+				}
+			}],
+			"def": [
+				"mouillé"
+			],
+			"ex": [
+				"un tissu humide, les yeux humides"
+			]
+		},
+
+		"humidifier  [ymidifje] v.tr.": {
+			"lingala": [{
+				"kopÔ¡lisa": {
+					"def": "kokómisa mwâ mái",
+					"ex": "kop¡lisa elambá, kop¡lisa mabelé"
+				}
+			}],
+			"def": [
+				"rendre humide, humecter, mouiller"
+			],
+			"ex": [
+				"humidifier du linge, le sol"
+			]
+		},
+
+		"humidité  [ymidite] n.f.": {
+			"lingala": [{
+				"bobandú": {
+					"def": "mái, máimái",
+					"ex": "bobandú bwa mabelé"
+				}
+			}],
+			"def": [
+				"état de ce qui est humide"
+			],
+			"ex": [
+				"humidité du sol"
+			]
+		},
+
+		"humilier  [ymilje] v.tr.": {
+			"lingala": [{
+				"kosÔ¡kya, kosáola, kokitisa": {
+					"def": "kosámbwisa, koyókisa nsÔ¡ni",
+					"ex": "kokitisa moto libosó lya bato"
+				}
+			}],
+			"def": [
+				"couvrir de honte, blesser qqn dans son amour-propre, atteindre qqn dans sa fierté; abaisser, vexer"
+			],
+			"ex": [
+				"humilier qqn devant tout le monde"
+			]
+		},
+
+		"humilité  [ymilite] n.f.": {
+			"lingala": [{
+				"bosáwa": {
+					"def": "ezalela ya komíkitisa",
+					"ex": "koloba, koyanola na bósawa"
+				}
+			}],
+			"def": [
+				"sentiment de petitesse, de faiblesse; modestie"
+			],
+			"ex": [
+				"parler, répondre avec humilité"
+			]
+		},
+
+		"humoriste  [ymç{ist] adj. et n.": {
+			"lingala": [{
+				"-a bos¥ki": {
+					"def": "eye etálí bos¥ki tÉo ezalí na bos¥ki",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a de l’humour"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"humour  [ymu{] n.m.": {
+			"lingala": [{
+				"bos¥ki": {
+					"def": "eye ekos¥kisa",
+					"ex": "kosála na bos¥ki, koyanola na bos¥ki"
+				}
+			}],
+			"def": [
+				"ironie plaisante"
+			],
+			"ex": [
+				"avoir de l’humour, répondre avec humour"
+			]
+		},
+
+		"hurlement  [’y{l´mA)] n.m.": {
+			"lingala": [{
+				"bogángi, mogángo": {
+					"def": "ekela ya kogánga",
+					"ex": "bogángi bwa mpási"
+				}
+			}],
+			"def": [
+				"action de hurler, cri aigu et prolongé"
+			],
+			"ex": [
+				"un hurlement de douleur"
+			]
+		},
+
+		"hurler  [’y{le] v.intr.": {
+			"lingala": [{
+				"kogánga": {
+					"def": "kolela makási",
+					"ex": "kogánga na mpási"
+				}
+			}],
+			"def": [
+				"crier très fort"
+			],
+			"ex": [
+				"hurler de douleur"
+			]
+		},
+
+		"hurluberlu  [y{lybE{ly] n.m.": {
+			"lingala": [{
+				"eléngánú": {
+					"def": "moto wa motó likoló likoló, moto wa bozóba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne bizarre, étourdie, extravagante"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hutte  [’yt] n.f.": {
+			"lingala": [{
+				"mwánzá": {
+					"def": "mwâ ndáko ekÔ¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petite maison rudimentaire, cabane, cahute, paillote"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hydrophobe  [id{çfçb] adj. et n.": {
+			"lingala": [{
+				"-a bobángi mái, mobángi mái": {
+					"def": "óyo akobánga mái lokóla bok¡n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui a une peur maladive de l’eau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hydrophobie  [id{çfçbi] n.f.": {
+			"lingala": [{
+				"bobángi mái": {
+					"def": "ekela ya bobángi mái lokóla bok¡n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"peur maladive de l’eau"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hyène  [jEn, ’jEn] n.f.": {
+			"lingala": [{
+				"ekange, ngombólo": {
+					"def": "nyama ya zámba elyáka mintíka mya nyama ikúfí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mammifère qui se nourrit des restes des animaux morts"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hygiène  [iZEn] n.f.": {
+			"lingala": [{
+				"ekÔ¡lÔ¡ngÔ¡nÔ¥lÔ¥, bok¡lÔ¡ngÔ¡nú": {
+					"def": "bopéto, lisangá lya mibéko mpÊ¡ ya kobátela mpé kobÔ¡ngisa bokÔ¡lÔ¡ngÔ¡nú",
+					"ex": "bopéto wa nzóto"
+				}
+			}],
+			"def": [
+				"ensemble des règles pour protéger et améliorer la santé; propreté"
+			],
+			"ex": [
+				"hygiène du corps"
+			]
+		},
+
+		"hymne  [imn] n.m.": {
+			"lingala": [{
+				"loyémbo": {
+					"def": "nzémbo",
+					"ex": "loyémbo la ekólo"
+				}
+			}],
+			"def": [
+				"chant"
+			],
+			"ex": [
+				"hymne national"
+			]
+		},
+
+		"hypermarché  [ipE{ma{Se] n.m.": {
+			"lingala": [{
+				"magazíni enÔ¥n¥": {
+					"def": "magazíni wápi mosómbi yÉe mÉ¡kÔ¡akop¡n¡ bilÔ¡k¡ alíngi kosómba mpé akoyâ na yangó mpÊ¡ na kofúta mos¡l¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"très grand magasin de vente en libre-service"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hypertension  [ipE{tA)sjç)] n.f.": {
+			"lingala": [{
+				"tasyó likoló, tasyó ematí": {
+					"def": "tasyó koleka mom¥s¥n¡",
+					"ex": "kobÔ¥l¥ tasyó"
+				}
+			}],
+			"def": [
+				"tension artérielle supérieure à la normale"
+			],
+			"ex": [
+				"souffrir d’hypertension"
+			]
+		},
+
+		"hypnotiser  [ipnçtize] v.tr.": {
+			"lingala": [{
+				"kolálisa mp¡ngí": {
+					"def": "kom¥m¥ na mp¡ngí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"endormir artificiellement, fasciner, éblouir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hypocrisie  [ipçk{izi] n.f.": {
+			"lingala": [{
+				"bokíbisi, bokósi": {
+					"def": "bozángi bosémbo, bozángi alimá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"attitude qui consiste à afficher des sentiments, des vertus qu’on n’a pas"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"hypocrite  [ipçk{it] adj. et n.": {
+			"lingala": [{
+				"mokósi, mokíbisi": {
+					"def": "moto azángí bosémbo, ekósákosa ya moto",
+					"ex": "mokíbisi, mokósi"
+				}
+			}],
+			"cls": ["Mo-ba-"],
+			"def": [
+				"qui manifeste de l’hypocrisie, qui affiche des sentiments, des vertus qu’il n’a pas"
+			],
+			"ex": [
+				"un personnage hypocrite, un hypocrite"
+			]
+		}
+	}

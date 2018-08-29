@@ -1,0 +1,482 @@
+	{
+
+		"kaki  [kaki] adj.": {
+			"lingala": [{
+				"-a kakí": {
+					"def": "eye ezalí lángi manzáni",
+					"ex": "inifÔ¡m¥ ya kakí"
+				}
+			}],
+			"def": [
+				"d’une couleur brun-jaune"
+			],
+			"ex": [
+				"un uniforme kaki"
+			]
+		},
+
+		"kaolin  [kaçlE)] n. m.": {
+			"lingala": [{
+				"kaké, kakí": {
+					"def": "elambá ya lángi manzáni",
+					"ex": "koláta kakí"
+				}
+			}],
+			"def": [
+				"Argile blanche servant au maquillage rituel"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kapok  [kapçk] n.m.": {
+			"lingala": [{
+				"kapóka": {
+					"def": "nsálá tÉo nkunza ezwamaka na mbuma ya mÉ¡kÔ¡myeté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"duvet contenu dans les fruits du fromager"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kapokier  [kapçkje] n.m.": {
+			"lingala": [{
+				"mweté mwa kapóka": {
+					"def": "nzeté eye ekobótaka mbuma kapóka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"arbre dont le fruit est le kapok"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"karaté  [ka{ate] n.m.": {
+			"lingala": [{
+				"kalaté": {
+					"def": "lisano lya bobuni bowutí na ekólo Zapô",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"sport de combat d’origine japonaise"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"karatéka  [ka{ateka] n.": {
+			"lingala": [{
+				"moí-kalaté": {
+					"def": "mosani (mobuni) wa kalaté, moto akosanaka lisano lya kalaté",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui pratique le karaté"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"karité  [ka{ite] n.m.": {
+			"lingala": [{
+				"kalité": {
+					"def": "mwété mwa Afríka ya eloli mokobimisaka loléngé lÔ¡kÔ¡ la matéka matéka ma kalité",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Arbre d’Afrique occidentale appelé aussi arbre à beurre"
+			],
+			"ex": [
+				"Beurre de karité"
+			]
+		},
+
+		"Kenya  [kenja] n.m.": {
+			"lingala": [{
+				"Kénya": {
+					"def": "ekólo ya Afríka ya mony¥l¥ tÉo ¥stí, mbóka mokonzi Nairobí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"Etat de l’Afrique orientale, capitale Nairobi"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kenyan, ane  [kenjA), an] adj. et n.": {
+			"lingala": [{
+				"Kénya": {
+					"def": "ekólo ya Afríka ya mony¥l¥ tÉo ¥stí, mbóka mokonzi Nairobí",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"du Kenya"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"képi  [kepi] n.m.": {
+			"lingala": [{
+				"kepí": {
+					"def": "loléngé la enkoti",
+					"ex": "kepí ya pulúsi, koláta kepí"
+				}
+			}],
+			"def": [
+				"coiffure munie d’une visière"
+			],
+			"ex": [
+				"képi de policier, porter un képi"
+			]
+		},
+
+		"kermesse  [kE{mEs] n.f.": {
+			"lingala": [{
+				"k¥l¥mÔ¥si": {
+					"def": "fÔ¥ti ya zándo wápi bakolakisa bilÔ¡k¡ polélé",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"fête foraine en plein air"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kidnapper  [kidnape] v.tr.": {
+			"lingala": [{
+				"kokangisa, kobómba": {
+					"def": "kokanga moto na makási mpé kosénga lifúta",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"enlever une personne en exigeant une rançon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kidnappeur, euse  [kidnapœ{, øz] n.": {
+			"lingala": [{
+				"mobómbi": {
+					"def": "moto akobómba moto mpÊ¡ na kosÔ¥ng¥ mos¡l¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui enlève qqn pour obtenir de l’argent en échange"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kidnapping  [kidnapiN] n.m.": {
+			"lingala": [{
+				"bobómbi, bokangi na makási": {
+					"def": "ekela ya kokanga na makási mpÊ¡ na kosÔ¥ng¥ mos¡l¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"action de kidnapper; enlèvement, rapt"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kif-kif  [kifkif] adj. inv.": {
+			"lingala": [{
+				"kífikífi": {
+					"def": "eye ezalí ndéngé yÉ¡kÔ¡",
+					"ex": "ezalí kífikífi"
+				}
+			}],
+			"def": [
+				"pareil, semblable"
+			],
+			"ex": [
+				"c’est kif-kif !"
+			]
+		},
+
+		"kilomètre  [kilçmEt{] n.m.": {
+			"lingala": [{
+				"kilomÔ¥t¥l¥": {
+					"def": "emekele ya bolái ekokpá (tô ekozwa) mÔ¥t¥l¥ 1000",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de distance valant 1000 mètres"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kilométrer  [kilçmet{e] v.tr.": {
+			"lingala": [{
+				"komeka na mÔ¥t¥l¥": {
+					"def": "kozwa lomeko na lisálisi lya mÔ¥t¥l¥",
+					"ex": "komeka bolái bwa nzelá na mÔ¥t¥l¥"
+				}
+			}],
+			"def": [
+				"mesurer en kilomètres"
+			],
+			"ex": [
+				"kilométrer un trajet"
+			]
+		},
+
+		"kilo(gramme)  [kilçg{am] n.m.": {
+			"lingala": [{
+				"kilô, kilogalám¥": {
+					"def": "emekele ya bozitó ekokpá (tô ekozwa) gálam¥ 1000",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"unité de masse valant 1000 grammes"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kimbanguisme  [kimbA)gism] n.m.": {
+			"lingala": [{
+				"kimbángu": {
+					"def": "eyamba eúti na mísyoni",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"mouvement religieux d’inspiration protestante"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kimbanguiste  [kimbA)gist] n.": {
+			"lingala": [{
+				"moí-kimbángu": {
+					"def": "moyambi wa kimbángu",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"adepte du kimbanguisme"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kimono  [kimçno] adj.": {
+			"lingala": [{
+				"kimonó": {
+					"def": "loléngé la ngabúni tÉo zambala ya mabÔ¡k¡ manÔ¥n¥",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"longue tunique à manches larges"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kiosque  [kjçsk] n.m.": {
+			"lingala": [{
+				"etÔ¥k¥lo zoloná": {
+					"def": "ndáko ekÔ¥epái bokotÔ¥k¥k¥ zoloná",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"petit pavillon où l’on vend des journaux"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"klaxon  [klaksçn] n.m.": {
+			"lingala": [{
+				"pípí, losébá": {
+					"def": "bokébisi na lokito",
+					"ex": "kobÔ¥t¥ pípí tÉo losébá"
+				}
+			}],
+			"def": [
+				"avertisseur sonore"
+			],
+			"ex": [
+				"donner un coup de klaxon"
+			]
+		},
+
+		"klaxonner  [klaksçne] v.intr.": {
+			"lingala": [{
+				"kobÔ¥t¥ pípi tÉo losébá": {
+					"def": "kokébisa na nzelá ya pípi tÉo losébá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"avertir au moyen du klaxon, donner un coup de klaxon"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kleptomane ou cleptomane [klEptçman] n. et adj.": {
+			"lingala": [{
+				"moyíbi": {
+					"def": "moto ayíbaka",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"qui souffrre de kleptomanie"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kleptomanie  [klEptçmani] n.f.": {
+			"lingala": [{
+				"boyíbi, moyíbi": {
+					"def": "ezalela ya koyíba",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"manie de voler sans le savoir"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"knock-out ou K.-O.  [nçkawt, kao] n.m.inv. et adj. inv": {
+			"lingala": [{
+				"kifwáfwa": {
+					"def": "kawó",
+					"ex": "kokwéisa moto kifwáfwa, kozala kifwáfwa"
+				}
+			}],
+			"def": [
+				"qui est assomé"
+			],
+			"ex": [
+				"mettre un adversaire K.-O, être K.-O"
+			]
+		},
+
+		"kolatier V. colatier  [kçlatje] n.m.": {
+			"lingala": [{
+				"libelú, makásu, góro, mweté mwa mabelú": {
+					"def": "nzeté ekobótaka mabelú tÉo makáso",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"libelú, makásu, góro, mweté mwa mabelú"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"kora ou cora  [kç{a] n.f.": {
+			"lingala": [{
+				"koláta": {
+					"def": "ebÔ¥t¥l¥ ya mizíki ya Afríka ya eloli",
+					"ex": "kobÔ¥t¥ kolá"
+				}
+			}],
+			"def": [
+				"orte d’instrument à cordes d’Afrique occidentale"
+			],
+			"ex": [
+				"jouer de la kora"
+			]
+		},
+
+		"koriste ou coriste  [kç{ist] n.": {
+			"lingala": [{
+				"mobÔ¥ti kolá": {
+					"def": "moto akobÔ¥t¥k¥ kolá",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"personne qui joue de la kora"
+			],
+			"ex": [
+				""
+			]
+		},
+
+		"Kyrielle  [ki{jEl] n.f.": {
+			"lingala": [{
+				"mol¡ngÔ¡, lisangá": {
+					"def": "mol¡ngÔ¡",
+					"ex": "mol¡ngÔ¡mwa bÉana, mol¡ngÔ¡mwa mafíngá"
+				}
+			}],
+			"def": [
+				"longue suite ; ribambelle"
+			],
+			"ex": [
+				"une kyrielle d’enfants, une kyrielle d’injures"
+			]
+		},
+
+		"kyste  [kist] n.m.": {
+			"lingala": [{
+				"litútú": {
+					"def": "mbuma ekolakisa bok¡n¡",
+					"ex": ""
+				}
+			}],
+			"def": [
+				"boule pathologique; tumeur"
+			],
+			"ex": [
+				""
+			]
+		}
+	}
