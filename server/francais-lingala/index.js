@@ -62,12 +62,7 @@ function francais_lingala(str, order, uniqueString) {
                 //check for "nom propre" starting with uppercase
                 if(aspectArr.indexOf(w) >= 0) {
                     return {'word_type':'aspect', 'val': '', 'translated': false, 'pos': index};
-                } else if(/^[A-Z]/.test(_w) && index === 0) { //Noum at 0
-                    return {'word_type':'noum', 'val': _w, 'translated': false, 'pos': index};
-                } else if(parseInt(_w, 10)) { //Number
-                    return {'word_type':'number', 'val': w, 'translated': false, 'pos': index};
                 }
-
                 //article
                 else if(articles_keys.indexOf(w) >= 0) {
                     // .........
@@ -219,6 +214,12 @@ function francais_lingala(str, order, uniqueString) {
                         'val': trans.val, //we just need a value
                         'pos': index
                     }
+                }
+
+                else if(/^[A-Z]/.test(_w) && index === 0 ) { //Noum at 0
+                    return {'word_type':'noum', 'val': _w, 'translated': false, 'pos': index};
+                } else if(parseInt(_w, 10)) { //Number
+                    return {'word_type':'number', 'val': w, 'translated': false, 'pos': index};
                 }
                 //find Word
                 else if(prevType.nature === 'article' &&
@@ -579,6 +580,8 @@ function francais_lingala(str, order, uniqueString) {
                                '↵': '\n', //TODO
                                'undefined': ' ',
                                '-1': ' ',
+                               //TODO get error source for  [oákí, ...
+                               ' oákí': '', ' naákí': '', ' aákí': '', ' toákí': '', ' boákí': '', ' baákí': ''
                            })
         console.log('resolved', resolved)
         resolve({
