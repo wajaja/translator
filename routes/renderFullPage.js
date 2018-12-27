@@ -16,7 +16,6 @@ var thunk              = require('redux-thunk')
 var reducers           = require('../modules/reducers')
 var { Provider }       = require('react-redux')
 var { StaticRouter }   = require('react-router')
-
 var template           = require('./template').default
 var App                = require('../modules/App').default
 var Root               = require('../modules/Root').default
