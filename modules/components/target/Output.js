@@ -17,7 +17,7 @@ class Output extends React.Component{
     }
 
     render() {
-        let { results, text, improving, } = this.props
+        let { results, text, improving, metadatas } = this.props
 
         let result = results && results[0] ? results[0]['lingala'] : {}; //array
         let metadata = {};

@@ -106,4 +106,4 @@ const verbs = {
 };
 
 //verb not found use french
-exports.verbs = verbs
+export { verbs }

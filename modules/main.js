@@ -1,5 +1,5 @@
 import React            from 'react'
-import { render, hydrate }       from 'react-dom'
+import ReactDOM       from 'react-dom'
 import { Provider }     from 'react-redux'
 // import { syncHistoryWithStore } from 'react-router-redux'
 import {
@@ -15,7 +15,7 @@ import thunk            from 'redux-thunk'
 import * as reducers    from 'reducers'
 import { Router,  }     from 'react-router-dom'
 import Loadable         from 'react-loadable';
-const createHistory     = require('history/createBrowserHistory').default
+const createHistory     = require('history').createBrowserHistory
 const App               = require('./App').default
 const Root              = require('./Root').default
 
@@ -61,13 +61,17 @@ history        = createHistory({
     //getUserConfirmation: (message, callback) => callback(window.confirm(message))
 });
 
+//fix Warning msg ==> Expected server HTML to contain a matching <div> in <div>.
+//https://stackoverflow.com/questions/46865880/react-16-warning-expected-server-html-to-contain-a-matching-div-in-div-due
+const renderMethod = module.hot ? ReactDOM.render : ReactDOM.hydrate;
+
 /**
  * render Provider
  * Loadable.preloadReady() method on the client to preload the loadable components that were included on the page.
  * it returns a promise, which on resolution means that we can hydrate our app.
  */
 Loadable.preloadReady().then(() => {
-    hydrate((
+    renderMethod((
         <Provider store={store}>
             <Router history={history}>
                 <App

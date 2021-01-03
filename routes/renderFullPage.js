@@ -1,7 +1,7 @@
 var qs                 =  require('qs') // Add this at the top of the file
 var React              =  require('react')
 var { renderToString } =  require('react-dom/server')
-import { renderStylesToString } from 'emotion-server'
+import { renderStylesToString } from '@emotion/server'
 var {
     createStore,
     combineReducers,
@@ -19,7 +19,7 @@ var { StaticRouter }   = require('react-router')
 var template           = require('./template').default
 var App                = require('../modules/App').default
 var Root               = require('../modules/Root').default
-const createHistory    = require('history/createMemoryHistory').default;
+const createHistory    = require('history').createMemoryHistory;
 
 import Loadable         from 'react-loadable';
 import { getBundles }   from 'react-loadable/webpack'
@@ -84,5 +84,5 @@ function renderFullPage(req, res, params) {
     }))
 }
 
-module.exports = renderFullPage;
+export default renderFullPage;
 // export default renderFullPage

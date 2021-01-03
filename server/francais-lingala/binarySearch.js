@@ -1,4 +1,4 @@
-const { removeAccents } = require('./utils/funcs');
+const removeAccents = require('./utils/funcs').removeAccents;
 /*
  * http://jsfiddle.net/pkfst550/99/
  * Binary search in JavaScript.
@@ -46,6 +46,7 @@ function binarySearch(ar, el, strict) {
                 if(strict) {
                     let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
                     _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                    _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                     if(_val.endsWith(el)) {
                         return mid;
                     } else {
@@ -53,7 +54,8 @@ function binarySearch(ar, el, strict) {
                         while (removeAccents(ar[(mid+1)]).startsWith(removeAccents(el))) {
                             mid++;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
-                            _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                             //
                             if(_val.endsWith(el)) //return index of key ended by el string
                                 return mid;
@@ -62,7 +64,8 @@ function binarySearch(ar, el, strict) {
                         while (removeAccents(ar[(mid-1)]).startsWith(removeAccents(el))) {
                             mid--;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
-                            _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                             if(_val.endsWith(el))
                                 return mid;
                         }
@@ -88,4 +91,4 @@ function binarySearch(ar, el, strict) {
 //         return mid;
 // }
 
-exports.binarySearch = binarySearch;
+export { binarySearch };

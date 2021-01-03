@@ -18,8 +18,6 @@ const irregular_fm_values = [
     'doux', 'foux', 'mou', 'vieux', 'frais'
 ];
 
-exports.ended_with_au       = ended_with_au;
-exports.irregular_pl_keys   = irregular_pl_keys;
-exports.irregular_pl_values = irregular_pl_values;
-exports.irregular_fm_keys   = irregular_fm_keys;
-exports.irregular_fm_values = irregular_fm_values;
+export {
+	ended_with_au, irregular_pl_keys, irregular_pl_values, irregular_fm_keys, irregular_fm_values
+}

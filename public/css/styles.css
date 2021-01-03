@@ -48,7 +48,9 @@ body {
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  width: 1050px; }
+  width: 1050px; 
+  margin-bottom: 55px;
+}
   .hm-ctnr-a .frm-msg-ttl {
     font-size: 20px;
     font-weight: 600;
@@ -179,7 +181,8 @@ textarea {
   padding: 10px 0;
   color: #6c7080;
   font-size: 14px;
-  font-family: sans-serif; }
+  font-family: sans-serif; 
+}
 
 .foo {
   position: fixed;

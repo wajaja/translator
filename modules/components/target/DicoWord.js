@@ -10,6 +10,16 @@ class DicoWord extends Component {
         super(props)
     }
 
+    componentDidMount() {
+        console.log(this.props.metadatas)
+    }
+
+    componentDidUpdate(prevProp, prevState) {
+        if(prevProp.metadatas !== this.props.metadatas) {
+            console.log(this.props.metadatas)
+        }
+    }
+
     render() {
         return(
             <div className="">

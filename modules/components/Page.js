@@ -23,7 +23,9 @@ const Output = MyLoadable({
 const Select = MyLoadable({
     loader: () => import('react-select'),
 });
-
+const Suggestions = MyLoadable({
+    loader: () => import('./source/Suggestions'),
+});
 
 const socket = io.connect(BASE_PATH);
 
@@ -125,11 +127,13 @@ class Page extends Component {
 
                         this.setState({
                             results: results.toJS(),
+                            metadatas: data.metadatas,
                             translating: false,
                             alertMsg: alertMsg,
                         });
                     }
                 }, (err) => {
+                    alert('Erreur du serveur');
                 }
             )
         this.setState({sentences: splitIntoSentences(text)});
@@ -163,8 +167,11 @@ class Page extends Component {
                             phrase       = data.phrase,
                             order        = data.order,
                             results      = Immutable.fromJS(this.state.results).set(order, phrase);
-                            console.log("results.toJS()", results.toJS());
-                            this.setState({results: results.toJS()});
+                            
+                            this.setState({
+                                metadatas: data.metadatas,
+                                results: results.toJS()
+                            });
                         }
                     }, (err) => {}
                 )
@@ -288,7 +295,7 @@ class Page extends Component {
     }
 
     render() {
-        const { results, text, translating, sentences, sourceLang, targetLang } = this.state;
+        const { results, text, translating, sentences, sourceLang, targetLang, metadatas } = this.state;
         const is_auth = false;
         return(
             <div className="pg-ctnr">
@@ -323,6 +330,7 @@ class Page extends Component {
                                 {...this.props}
                                 text={text}
                                 results={results}
+                                metadatas={metadatas}
                                 onCut={this.onCut}
                                 onKeyUp={this.onKeyUp}
                                 onPaste={this.onPaste}
@@ -364,6 +372,7 @@ class Page extends Component {
                                 {...this.props}
                                 text={text}
                                 results={results}
+                                metadatas={metadatas}
                                 sentences={sentences}
                                 translating={translating}
                                 inputChange={this.inputChange}
@@ -373,6 +382,17 @@ class Page extends Component {
                                 />
                         </div>
                         <div className="alert-msg">{this.state.alertMsg}</div>
+                        <div className="inp-othr">
+                            <div className="inp-mdl">
+                                <Suggestions
+                                    {...this.props}
+                                    text={text}
+                                    results={results}
+                                    metadatas={metadatas}
+                                    handleClick={this.props.handleSuggestionClick}
+                                    />
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

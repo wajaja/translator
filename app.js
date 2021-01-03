@@ -1,6 +1,7 @@
 /**
  * Module Dependencies
  */
+var noCache      = require('nocache')
 var express      = require('express'),
     path         = require('path'),
     favicon      = require('serve-favicon'),
@@ -14,8 +15,9 @@ var express      = require('express'),
     jwt         = require('jsonwebtoken'),
     session     = require('express-session'),
     redis       = require("redis"),
+    csp         = require("helmet-csp"),
     RedisStore  = require('connect-redis')(session),
-    routes      = require('./routes/index'),
+    routes      = require('./routes/index').default,
     client      = redis.createClient();
 
 
@@ -24,7 +26,7 @@ require('./server/francais-lingala/manager');
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
 var app    = express();
-var projectRoot = (process.platform === 'win32') ? path.resolve(__dirname, 'translator') : '/var/www/translator/translator';
+var projectRoot = (process.platform === 'win32') ? path.resolve(__dirname, 'translator') : '/opt/nodejs/translator';
 
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
@@ -34,13 +36,33 @@ app.use(function(req, res, next) {
     next();
 });
 
+
 // =======================
 // configuration =========
 // =======================
 app.use(helmet()) //It's best to use Helmet early in your middleware stack so that its headers are sure to be set.
-app.use(helmet.noCache()) //disable client-side caching
+app.use(noCache()) //disable client-side caching
 app.use(helmet.xssFilter()) // Sets "X-XSS-Protection: 1; mode=block".
-mongoose.connect(config.database, { useNewUrlParser: true }); // connect to database
+
+app.use(
+    csp({
+        directives: {
+            defaultSrc: [`'self'`],
+            scriptSrc: [`'self'`, `'unsafe-inline'`, `code.jquery.com`, `stackpath.bootstrapcdn.com`, `fonts.googleapis.com`],
+            // objectSrc: ["'none'"],
+            styleSrc: [`'self'`, `'unsafe-inline'`,  `code.jquery.com`, `stackpath.bootstrapcdn.com`, `fonts.googleapis.com`],
+            objectSrc: [`'self'`, `'unsafe-inline'`],
+            fontSrc: [`'self'`, `'unsafe-inline'`,  `fonts.gstatic.com`],
+            upgradeInsecureRequests: [],
+        },
+        reportOnly: false,
+    })
+);
+
+mongoose.connect(
+    config.database, 
+    { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true, }
+); // connect to database
 app.set('appSecret', config.secret); // secret variable
 
 /**

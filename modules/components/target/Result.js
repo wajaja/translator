@@ -5,6 +5,18 @@ class Result extends Component {
         super(props)
     }
 
+    handlePhraseDbClick = (e) => {
+        console.log('handlePhraseClick', e.target, e.currentTarget);
+    }
+
+    onKeyPressed = (e) => {
+        console.log('onKeyPressed', e.target, e.currentTarget);
+        if(e.keyCode == 13)
+        {
+           e.preventDefault();
+        }
+    }
+
     // shouldComponentUpdate(nextProps, nextState) {
     //     return this.props.results !== nextProps.results;
     // }
@@ -15,14 +27,19 @@ class Result extends Component {
             <div className="result-ctnr">
                 <div className="result-ctnr-a">
                     <div className="inlined">
-                        {Object.keys(results).map(function(key, i) {
+                        {Object.keys(results).map((key, i) => {
                             if(key !== 'undefined') {
                                 return (
                                     <span key={i}>
-                                        {results[key].split('\n').map((item, __i) => {
+                                        {/* Handle enter char. */}
+                                        {results[key].split('\n').map((item, __i) => { 
                                             return (
                                                 <Fragment key={__i}>
-                                                    {item}
+                                                    <span 
+                                                        tabIndex="0"
+                                                        onKeyDown={this.onKeyPressed}
+                                                        onDoubleClick={(e) => this.handlePhraseDbClick(e)}
+                                                        dangerouslySetInnerHTML={{__html: item}} /> 
                                                     {((results[key].split('\n').length - 1) === __i) &&
                                                         translating &&
                                                         <div className="inlined in-progess"> . . .</div>

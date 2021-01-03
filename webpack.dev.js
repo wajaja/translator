@@ -1,5 +1,5 @@
 var webpack = require('webpack');
-var ExtractTextPlugin = require('extract-text-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const nodeExternals = require('webpack-node-externals');
 const ReactLoadablePlugin = require('react-loadable/webpack').ReactLoadablePlugin;  //TODO in opinion
 // var InlineEnviromentVariablesPlugin = require('inline-environment-variables-webpack-plugin');
@@ -18,14 +18,15 @@ var plugins = [
     new ReactLoadablePlugin({
       filename: './build/react-loadable.json',
     }),
-    new ExtractTextPlugin('./css/styles.css', {
+    new MiniCssExtractPlugin({
+        filename: './css/styles.css',
         allChunks: true
     }),
 ]
 
 module.exports = [{
     mode: 'development',
-    devtool: 'inline-source-map',
+    devtool: 'source-map',
     devServer: {
         contentBase: './dist'
     },
@@ -44,26 +45,29 @@ module.exports = [{
         rules: [
             {
                 test: /\.jsx?$/,
-                loaders: ['jsx-loader', 'babel-loader'],
+                loaders: ['babel-loader'],
                 exclude: /node_modules/,
             },
             {
                 test: /\.s?css$/,
-                loader: ExtractTextPlugin.extract({
-                    fallback: "style-loader",
-                    use: [
-                        {
-                            loader: 'string-replace-loader',
-                            options: {
-                                search:'"http://127.0.0.1:3000',
-                                replace:'"http://127.0.0.1:3000',
-                                flags:'g'
-                            }
+                use: [
+                    {
+                        loader: MiniCssExtractPlugin.loader,
+                        options: {
+                          hmr: process.env.NODE_ENV === 'development',
                         },
-                        { loader: 'css-loader' },
-                        { loader: 'sass-loader' }
-                    ]
-                }),
+                    },
+                    {
+                        loader: 'string-replace-loader',
+                        options: {
+                            search:'"http://127.0.0.1:3000',
+                            replace:'"http://127.0.0.1:3000',
+                            flags:'g'
+                        }
+                    },
+                    { loader: 'css-loader' },
+                    { loader: 'sass-loader' }
+                ]
             }
         ]
     },
@@ -118,7 +122,7 @@ module.exports = [{
         rules: [
             {
                 test: /\.jsx?$/,
-                loaders: ['jsx-loader', 'babel-loader'],
+                loaders: ['babel-loader'],
                 exclude: /node_modules/,
             }
             // ,{

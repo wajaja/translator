@@ -1,6 +1,6 @@
 //https://stackoverflow.com/questions/25188325/split-paragraph-into-sentences-when-paragraph-ends-with-quotes-using-javascript
 //return [[0, 1, index], [0, 1, index], [0, 1, index], ...]
-exports.splitIntoSentences =  function splitIntoSentences(str) {
+const splitIntoSentences =  function splitIntoSentences(str) {
     /**
     * /(\w[^.!?]+[.!?]+"?)\s?/g
     * 1st Capturing Group (\w[^.!?]+[.!?]+"?)
@@ -31,7 +31,7 @@ exports.splitIntoSentences =  function splitIntoSentences(str) {
     return s;
 }
 
-exports.getSentenceRanges = function getSentenceRanges(str) {
+const getSentenceRanges = function getSentenceRanges(str) {
     var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
     var m, s=[];
 
@@ -41,7 +41,7 @@ exports.getSentenceRanges = function getSentenceRanges(str) {
     return s;
 }
 
-exports.getEditedSentence = function getEditedSentence(str, cursorPos) {
+const getEditedSentence = function getEditedSentence(str, cursorPos) {
     var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
     var m, s=[], phrase, order;
 
@@ -59,7 +59,7 @@ exports.getEditedSentence = function getEditedSentence(str, cursorPos) {
 }
 
 //https://stackoverflow.com/questions/25188325/split-paragraph-into-sentences-when-paragraph-ends-with-quotes-using-javascript
-exports.getLastSentence = function getLastSentence(str) {
+const getLastSentence = function getLastSentence(str) {
     var re =  /(\w[^.!?]+[.!?]+"?)\s?/g;
     var m, s=[], phrase, order;
 
@@ -71,11 +71,11 @@ exports.getLastSentence = function getLastSentence(str) {
     return s[(s.length - 1)];
 }
 
-exports.splitIntoWords = function splitIntoWords(str) {
+const splitIntoWords = function splitIntoWords(str) {
     return str.split(/\s+/);
 }
 
-exports.checkSingleQuote = function checkSingleQuote(str) {
+const checkSingleQuote = function checkSingleQuote(str) {
     return str.split("'");
 }
 
@@ -89,14 +89,14 @@ exports.checkSingleQuote = function checkSingleQuote(str) {
 * it is now trivial to globally get rid of the diacritics,
 * which the Unicode standard conveniently groups as the Combining Diacritical Marks Unicode block.
 */
-exports.normalize = function normalize(str) {
+const normalize = function normalize(str) {
     return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "")
 }
 
 /**
 * https://gist.github.com/alisterlf/3490957
 */
-exports.removeAccents = function removeAccents(string) {
+const removeAccents = function removeAccents(string) {
     const accents =
         "ÀÁÂÃÄÅĄàáâãäåąßÒÓÔÕÕÖØÓòóôõöøóÈÉÊËĘèéêëęðÇĆçćÐÌÍÎÏìíîïÙÚÛÜùúûüÑŃñńŠŚšśŸÿýŽŻŹžżź";
     const accentsOut =
@@ -110,6 +110,13 @@ exports.removeAccents = function removeAccents(string) {
         .join("") : "";
 }
 
-// "lÉ²-mÉ²"
-// "mw-mi"
-// "e-mi" //milímo
+
+export {
+    removeAccents,
+    normalize,
+    checkSingleQuote,
+    splitIntoWords,
+    getLastSentence,
+    getEditedSentence,
+    getSentenceRanges,
+}

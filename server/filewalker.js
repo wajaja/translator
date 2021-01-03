@@ -41,4 +41,4 @@ function filewalker(dir, done) {
     });
 };
 
-exports.filewalker = filewalker;
+export default filewalker

@@ -1,41 +1,41 @@
 //Biblio "wikipedia"
 
 //to detect plural, check the end ['s', 'x']
-exports.articles_keys = [
+const articles_keys = [
     'le', 'la', 'les', "l'", 'un', 'une', 'des', 'du', 'de la', "de l'",
     'de les', 'au', 'aux', 'de'
 ];
-exports.articles_vals = [
+const articles_vals = [
     '',   '',   '',     "",  '',    '',    '',    'o', 'o',     "o",
     '',       'na', 'na', 'ya'
 ];
-exports.prefix_pronominal_keys = ['m', 'me', 't', 'te', "s", "se"];
-exports.prefix_pronominal_vals = ['nga', 'nga', 'yo', "yo",  'ye', 'ye'];
+const prefix_pronominal_keys = ['m', 'me', 't', 'te', "s", "se"];
+const prefix_pronominal_vals = ['nga', 'nga', 'yo', "yo",  'ye', 'ye'];
 
-exports.preposition_keys = [
+const preposition_keys = [
     'à', 'après', 'avant', "dans", 'de', 'depuis', 'dès', 'en', 'jusque', "pendant",
     'à côté', 'à droite', 'à gauche', "au-delà", 'à travers', 'chez', "jusqu'à",
     'avec', 'ou', 'où'
 ];
-exports.preposition_vals = [
+const preposition_vals = [
     'na', 'na sima', 'liboso', "natikati ya", 'ya', 'banda', 'útá', 'na', 'kínó', "ntángo ya",
     'mopanzí ya', 'na liboko ya mobali', 'na liboko ya mwÉasi', "na ngambo ya", 'zíngázingá', 'epái ya', 'kínó', 'na', 'kínó', "ntángo ya",
     'na', 'ata', 'epayi'
 ];
 
 //
-exports.ends_ajd_ord = [
+const ends_ajd_ord = [
     'premier', 'ière', 'ième', 'dernier'
 ];
 
-exports.demonstratifs_keys = [
+const demonstratifs_keys = [
     'ce', 'cette', 'ces', "c'", 'ceci', 'cela', 'ceux-ci', 'ceux-la',
     'mon', 'ton', 'son', 'notre', 'votre', 'leur',
     'ma', 'ta', 'sa', 'notre', 'votre', 'leur',
     'mes', 'tes', 'ses', 'nos', 'vos', 'leurs',
 ]
 
-exports.demonstratifs_vals = [
+const demonstratifs_vals = [
     'oyo', 'oyo', 'oyo', "oyo", 'oyo', 'wana', 'oyo', 'wana',
     'ya nga', 'ya yo', 'ya ye', 'ya biso', 'ya bino', 'ya bango',
     'ya nga', 'ya yo', 'ya ye', 'ya biso', 'ya bino', 'ya bango',
@@ -43,22 +43,22 @@ exports.demonstratifs_vals = [
 
 ]
 
-exports.ends_verbs = [
+const ends_verbs = [
     'er', 'ir', 'oir', 're'
 ]
-exports.excepted_verbs = [
+const excepted_verbs = [
     'aller', 'maudire'
 ]
 
-exports.pronon_personnel_keys = [
+const pronon_personnel_keys = [
     'j', 'je', 'tu', 'il', 'elle', 'lui', 'on', 'nous', 'vous', 'ils', 'elles', 'eux'
 ]
 
-exports.pronon_personnel_vals = [
+const pronon_personnel_vals = [
     'na', 'na', 'o', 'a', 'a', 'a', 'to', 'to', 'bo', 'ba', 'ba', 'ba'
 ]
 
-exports.verb_avoir = [
+const verb_avoir = [
     "ai", 'as', 'a', 'avons', 'avez', 'ont', //indicatif present
     'aie', 'aies', 'ait', 'ayons', 'ayez', 'aient', //Subjonctif Présent
     'aurais', 'aurais', 'aurait', 'aurions', 'auriez', 'auraient', //Conditionnel Présent
@@ -82,7 +82,7 @@ exports.verb_avoir = [
     'en ayant eu' //Gérondif Passé
 ]
 
-exports.verb_etre = [
+const verb_etre = [
     "suis", 'es', 'est', 'sommes', 'êtes', 'sont', //indicatif present
     'sois', 'sois', 'soit', 'soyons', 'soyez', 'soient', //Subjonctif Présent
     // ['ai été', 'as été', 'avons été', 'avez été', 'ont été'], //Passé composé
@@ -107,3 +107,22 @@ exports.verb_etre = [
     'en étant', //Gérondif Présent
     'en ayant été' //Gérondif Passé
 ]
+
+
+export {
+    articles_keys,
+    articles_vals,
+    prefix_pronominal_keys,
+    prefix_pronominal_vals,
+    preposition_keys,
+    preposition_vals,
+    ends_ajd_ord,
+    demonstratifs_keys,
+    demonstratifs_vals,
+    ends_verbs,
+    excepted_verbs,
+    pronon_personnel_keys,
+    pronon_personnel_vals,
+    verb_avoir,
+    verb_etre,
+}   

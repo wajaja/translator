@@ -22,6 +22,8 @@ function binarySearch(ar, el, strict) {
     var mid;
     var $return = -1;
 
+
+
     //for composed words
     if(el.split('-').length >= 2) {
         for (var i = 0; i < ar.length; i++) {
@@ -32,9 +34,10 @@ function binarySearch(ar, el, strict) {
         }
         return $return;
     } else {
-        while (low <= high) {
+        while (low <= high) { ///add here
             mid = Math.floor((low + high) / 2);
             // var cmp = el > ar[mid].substring(0, el.length);
+            
             var cmp = removeAccents(el).localeCompare(removeAccents(ar[mid].substring(0, el.length)));
             if (cmp > 0) {
                 low = mid + 1;
@@ -45,7 +48,8 @@ function binarySearch(ar, el, strict) {
             } else {
                 if(strict) {
                     let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
-                    _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                    _val    = _el.split(' ')[0]; //from e.g: "habile,  [abil] adj." to ===> habile,
+                    _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                     if(_val.endsWith(el)) {
                         return mid;
                     } else {
@@ -53,7 +57,8 @@ function binarySearch(ar, el, strict) {
                         while (removeAccents(ar[(mid+1)]).startsWith(removeAccents(el))) {
                             mid++;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
-                            _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                             //
                             if(_val.endsWith(el)) //return index of key ended by el string
                                 return mid;
@@ -62,7 +67,8 @@ function binarySearch(ar, el, strict) {
                         while (removeAccents(ar[(mid-1)]).startsWith(removeAccents(el))) {
                             mid--;
                             let _el = ar[mid],  //get e.g: "habile  [abil] adj.";
-                            _val = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _el.split(' ')[0]; //from e.g: "habile  [abil] adj." to habile
+                            _val    = _val.split(',')[0]; //from e.g: "habile," to ===> habile
                             if(_val.endsWith(el))
                                 return mid;
                         }
@@ -88,4 +94,5 @@ function binarySearch(ar, el, strict) {
 //         return mid;
 // }
 
-exports.binarySearch = binarySearch;
+export default binarySearch
+

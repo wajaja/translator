@@ -1,5 +1,5 @@
 var transFuncs = {};
-transFuncs.francais_lingala = require('./francais-lingala');
+transFuncs.francais_lingala = require('./francais-lingala').default;
 
 /**
  * [endsWithAny description]
@@ -14,6 +14,7 @@ transFuncs.francais_lingala = require('./francais-lingala');
 // }
 function translatePhraseStr(str, order, uniqueString, source, target) {
     const _func = transFuncs[(source + '_' + target)];
+
     return (typeof _func === 'function') ? _func(str, order, uniqueString)
                                          : new Promise((resolve, reject) => resolve({
                                              'phrase' : str.slice(0, -1),  //remove the end point
@@ -22,4 +23,6 @@ function translatePhraseStr(str, order, uniqueString, source, target) {
                                              'alertMsg': 'translation unavailable'
                                          }));
 }
-exports.translatePhraseStr = translatePhraseStr;
+export {
+	translatePhraseStr
+}

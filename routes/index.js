@@ -6,11 +6,9 @@ var url                 = require('url');
 var app                 = require('../app');
 var UserSchema          = require('../app/models/user'); // get our mongoose model
 var LanguageSchema      = require('../app/models/language'); // get our mongoose model
-var {
-    translatePhraseStr
-}                       = require('../server/translate');
-var renderFullPage      = require('./renderFullPage');
-var verifyToken         = require('./verifyToken');
+var translatePhraseStr  = require('../server/translate').translatePhraseStr;
+var renderFullPage      = require('./renderFullPage').default;
+var verifyToken         = require('./verifyToken').default;
 var redis               = require("redis"),
 redisClient             = redis.createClient();
 
@@ -144,8 +142,10 @@ router.post('/api/translate', function(req, res) {
 
     var translated = translatePhraseStr(phrase_str, order, uniqueString, source_lang, target_lang);
     return translated.then(function(data) {
+            console.log(data);
             return res.json(data);
         }, function(err) {
+            console.log('noooooooooooooooo', err);
             return res.json(err);
     });
 
@@ -275,4 +275,4 @@ router.all('*', function(req, res, next) {
 //     }
 // });
 
-module.exports = router;
+export default router;

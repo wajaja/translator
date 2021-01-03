@@ -75,6 +75,9 @@ body{
     position: relative;
     margin-top: 50px;
 }
+.alert-msg{
+    color: red;
+}
 .hm-ctnr-a{
     position: absolute;
     left: 0;
@@ -82,6 +85,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 1050px;
+    margin-bottom: 50px;
     .frm-msg-ttl{
         font-size: 20px;
         font-weight: 600;
@@ -240,11 +244,15 @@ textarea{
     white-space: pre-line;
 }
 .inp-mdl, .inp-btm{
-    padding: 10px 15px;
+    padding: 10px 0px;
     color: #686c79;
     font-size: 13px;
-    font-weight: 600;
     font-family: sans-serif;
+    .item-content {
+        margin-left: 20px;
+        font-size: 12px;
+        font-style: italic;
+    }
 }
 .foo{
     position: fixed;

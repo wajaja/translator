@@ -32,7 +32,7 @@ class Improve extends Component {
                         {!improving && <button
                                             className="btn btn-danger btn-sm"
                                             onClick={this.toggleImprove}>
-                                            amelierer
+                                            ameliorer
                                        </button>}
                     </div>
                     {improving &&

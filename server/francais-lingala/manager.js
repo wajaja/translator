@@ -1,12 +1,12 @@
 var fs              = require('fs');
 var jsonfile        = require('jsonfile');
-var { filewalker }  = require('./../filewalker');
-var { binarySearch } = require('./binarySearch');
-var { removeAccents } = require('./utils/funcs');
-var {
+import filewalker  from './../filewalker';
+import { binarySearch } from './binarySearch';
+import { removeAccents } from './utils/funcs';
+import {
     irregular_pl_keys, irregular_pl_values, ended_with_au,
     irregular_fm_keys, irregular_fm_values
-}                   = require('./utils/accords');
+}                   from './utils/accords';
 
 /**
  * [dictionnary     A big object where all the words will be placed]
@@ -71,7 +71,6 @@ filewalker("./data/fr_lga", function(err, data){
             raw = raw.replace(/[\u0000-\u0019]+/g,"");
             var obj = JSON.parse(raw);
             dictionnary[key] = obj;
-            console.log('key......', key);
 
             /**
              * Generator
@@ -105,31 +104,36 @@ filewalker("./data/fr_lga", function(err, data){
     next(); // starts iterating
 });
 
-exports.findWord = function findWord(str, strict) {
-    var firstChar   = removeAccents(str.charAt(0));
-    var jsonObject  = dictionnary[firstChar] || {};
-    var keys        = Object.keys(jsonObject);
-    var wordPos     = binarySearch(keys, str, true);
+const findWord = function findWord(str, posInPhrase, strict) {
+    let $return,
+    firstChar   = removeAccents(str.charAt(0)),
+    jsonObject  = dictionnary[firstChar] || {},
+    keys        = Object.keys(jsonObject),
+    wordPos     = binarySearch(keys, str, true)
 
     if(strict) {    //find exact word
         if(wordPos >= 0 && removeAccents(keys[wordPos].split(' ')[0]).toLowerCase() === removeAccents(str).toLowerCase()) {
-            return {
+            let val =  get_it_in_Lingala(jsonObject, wordPos, 'singular')
+            $return = {
                 things: things_word,
                 'number': 'singular',
-                'val': get_it_in_Lingala(jsonObject, wordPos, 'singular')
+                'metadata': get_metadata(jsonObject, wordPos, posInPhrase,  val, str),
+                'val': val
             }
         } else {
-            return -1;
+            $return = {};
         }
     }
 
     else {
 
         if(wordPos >= 0) {
-            return {
+            let val = get_it_in_Lingala(jsonObject, wordPos, 'singular')
+            $return = {
                 things: things_word,
                 'number': 'singular',
-                'val': get_it_in_Lingala(jsonObject, wordPos, 'singular')
+                'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                'val': val
             }
         } else {
             //maybe a plural form of...
@@ -138,13 +142,15 @@ exports.findWord = function findWord(str, strict) {
                 let singular = irregular_pl_values[irregular_pl_keys.indexOf(str)];
                 wordPos     = binarySearch(keys, singular, true);
                 if(wordPos >= 0) {
-                    return {
+                    let val = get_it_in_Lingala(jsonObject, wordPos, 'plural')
+                    $return = {
                         'number': 'plural',
                         'things': things_word,
-                        'val': get_it_in_Lingala(jsonObject, wordPos, 'plural')
+                        'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                        'val': val
                     }
                 } else {
-                    return 'not exist in dic';
+                    $return = {};
                 }
             }
             //
@@ -153,28 +159,33 @@ exports.findWord = function findWord(str, strict) {
                 wordPos     = binarySearch(keys, singular, true);
 
                 if(wordPos >= 0) {
-                    return {
+                    let val = get_it_in_Lingala(jsonObject, wordPos, 'plural') //masculin pluriel
+                    $return = {
                         'number': 'plural',
                         'things': things_word,
-                        'val': get_it_in_Lingala(jsonObject, wordPos, 'plural') //masculin pluriel
+                        'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                        'val': val
                     }
                 }
                 else if(guess_male_from_female(singular) !== -1) { //feminin-pluriel
                     let male = guess_male_from_female(singular);
                     wordPos     = binarySearch(keys, male, true);
                     if(wordPos >= 0) {
-                        // get_it_in_Lingala(jsonObject, wordPos, 'female');
-                        return {
+                        let val = get_it_in_Lingala(jsonObject, wordPos, 'plural');
+                        $return = {
                             'number': 'plural',
                             'things': things_word,
-                            'val': get_it_in_Lingala(jsonObject, wordPos, 'plural') + ' ya basí'
+                            'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                            'val': val + ' ya basí'
                         }
                     }
                 } else {
-                    return {
+                    let val = get_it_in_Lingala(jsonObject, singular, 'female') //feminin pluriel
+                    $return = {
                         'number': 'singular',
                         'things': things_word,
-                        'val': get_it_in_Lingala(jsonObject, singular, 'female') //feminin pluriel
+                        'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                        'val': val
                     }
                 }
             }
@@ -182,33 +193,39 @@ exports.findWord = function findWord(str, strict) {
                 let male = guess_male_from_female(str);
                 wordPos     = binarySearch(keys, male, true);
                 if(wordPos >=0) {
-                    return {
+                    let val = get_it_in_Lingala(jsonObject, wordPos, 'female')
+                    $return = {
                         'number': 'singular',
                         'things': things_word,
-                        'val': get_it_in_Lingala(jsonObject, wordPos, 'female')
+                        'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                        'val': val
                     }
                 } else if(male.slice(-3) === 'eur'){ // for the word like heureux who its female is heureuse
                     let _male = male.slice(0, -3) + 'eux';
                     wordPos    = binarySearch(keys, _male, true);
-                    return {
+                    let val    =  get_it_in_Lingala(jsonObject, wordPos, 'female')
+                    $return = {
                         'number': 'singular',
                         'things': things_word,
-                        'val': get_it_in_Lingala(jsonObject, wordPos, 'female')
+                        'metadata': get_metadata(jsonObject, wordPos, posInPhrase, val, str),
+                        'val': val
                     }
                 }
             } else {
-                return -1;
+                $return = {};
             }
         }
     }
+    return $return;
 }
 
-exports.findVerb = function findVerb(str) {
-    var firstChar   = str.charAt(0);
-    var jsonObject  = dictionnary[firstChar];
-    var keys        = Object.keys(jsonObject);
-    var wordPos     = binarySearch(keys, str, false);
-    let verbs_arr   = [];
+const findVerb = function findVerb(str) {
+    let $return,
+    firstChar   = str.charAt(0),
+    jsonObject  = dictionnary[firstChar],
+    keys        = Object.keys(jsonObject),
+    wordPos     = binarySearch(keys, str, false),
+    verbs_arr   = [];
 
     if(wordPos !== -1) {
         let _wordPos_toBig = wordPos,
@@ -240,10 +257,12 @@ exports.findVerb = function findVerb(str) {
         //if there is not object from array then use the first one wordPos
         let _pos = typeof min_obj === 'object' ? min_obj["order"] : wordPos;
 
-        return get_it_in_Lingala(jsonObject, _pos, 'singular');
+        $return = get_it_in_Lingala(jsonObject, _pos, 'singular');
     } else {
-        return -1
+        $return = {}
     }
+
+    return $return;
 }
 
 function guess_sing_from_plu(str) {
@@ -321,13 +340,57 @@ function get_it_in_Lingala(jsonObject, index, accord /*,context*/){
 
         } else if(accord === 'female') {
             //TODO accord
-            _word    = _word + '' /*' ya mwÉasí'*/;
+            _word    = _word + ' (ya mwÉasí) ';
         } else {
             return _word;
         }
         return _word;
     }
     return -1;
+}
+
+// index = wordPos = source word
+function get_metadata(jsonObject, index, posInPhrase, translatedWord, sourceWord /*,context*/){
+    // accord => ['female', 'plural']
+    let jsonArr  = Object.values(jsonObject), //TODO !important
+    o            = jsonArr[index];
+    if(o) {
+        var _lings = o['lingala']; //arr of target content
+
+        var sourceMeta          = {};
+        sourceMeta['defs']      = o.def;
+        sourceMeta['word']     = Object.keys(jsonObject)[index];
+        sourceMeta['exemples']  = o.ex;
+
+        var targetMeta          = {};
+        targetMeta['defs']      = [];
+        targetMeta['word']     = [];
+        targetMeta['exemples']  = [];
+
+        for (var i = 0; i < _lings.length; i++) {
+            let currWord  = Object.keys(_lings[i])[0];
+            let currValue = Object.values(_lings[i])[0]
+
+            targetMeta['word'].push(currWord);
+            targetMeta['defs'].push(currValue.def)
+            targetMeta['exemples'].push(currValue.ex)
+        }
+
+        var $return = {
+            sourceMeta,
+            targetMeta, 
+            sourceWord,
+            translatedWord
+        };
+
+
+        return $return;
+    } else {
+        console.log('teeeet');
+
+        return {};
+    }
+
 }
 
 /**
@@ -342,4 +405,8 @@ function writeInFile() {
     jsonfile.writeFile(file, obj, {flag: 'a'}, function (err) {
       console.error(err)
     })
+}
+
+export { 
+    findWord, findVerb
 }

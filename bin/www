@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var { translatePhrase, translatePhraseStr } = require('../server/translate');
+var translatePhraseStr = require('../server/translate').translatePhraseStr;
 var debug = require('debug')('react:server');
 var http = require('http');
 var fs = require('fs');

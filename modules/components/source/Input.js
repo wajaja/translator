@@ -4,12 +4,6 @@ import MyLoadable    from '../MyLoadable'
 const Editor = MyLoadable({
     loader: () => import('./Editor'),
 });
-const Suggestions = MyLoadable({
-    loader: () => import('./Suggestions'),
-});
-const DicoWord = MyLoadable({
-    loader: () => import('./DicoWord'),
-});
 
 class Input extends React.PureComponent{
     constructor(props) {
@@ -17,7 +11,7 @@ class Input extends React.PureComponent{
     }
 
     render() {
-        const { text, results } = this.props
+        const { text, results, metadatas } = this.props
 
         let result = results && results[0] ? results[0] : {}; //array
         let metadata = {};
@@ -41,22 +35,6 @@ class Input extends React.PureComponent{
                         inputChange={this.props.inputChange}
                         onCaretPositionChange={this.props.onCaretPositionChange}
                         />
-                </div>
-                <div className="inp-othr">
-                    <div className="inp-mdl">
-                        <Suggestions
-                            {...this.props}
-                            text={text}
-                            handleClick={this.props.handleSuggestionClick}
-                            />
-                    </div>
-                    <div className="inp-btm">
-                        <DicoWord
-                            {...this.props}
-                            text={text}
-                            metadata={metadata}
-                            />
-                    </div>
                 </div>
             </div>
         )

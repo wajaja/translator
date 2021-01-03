@@ -1,18 +1,21 @@
 {
     "presets": [
-        "es2015",
-        "stage-0",
-        "react"
+        ["@babel/preset-env"],
+        ["@babel/preset-react"]
     ],
     "plugins": [
-          "transform-runtime",
-          "transform-decorators-legacy",
-          "transform-es2015-block-scoping",
-          "transform-es2015-constants",
-          "syntax-dynamic-import",
+          ["@babel/plugin-transform-block-scoping"],
+          ["transform-es2015-constants"],
+          ["@babel/plugin-syntax-dynamic-import"],
+          ["@babel/plugin-proposal-export-default-from"],
           "dynamic-import-node",
-          ["import-inspector", {
-              "serverSideRequirePath": true
-          }]
+          [
+            "@babel/plugin-proposal-decorators",
+            {
+              "legacy": true
+            }
+          ],
+          ["@babel/plugin-proposal-class-properties",  { "loose": true }],
+          ["@babel/transform-runtime"]
       ]
 }

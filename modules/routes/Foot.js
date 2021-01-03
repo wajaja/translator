@@ -3,20 +3,12 @@ import { Link }     from 'react-router-dom'
 import {
   FacebookShareCount,
   GooglePlusShareCount,
-  LinkedinShareCount,
-  RedditShareCount,
 
   FacebookShareButton,
-  GooglePlusShareButton,
-  LinkedinShareButton,
   TwitterShareButton,
-  RedditShareButton,
 
   FacebookIcon,
-  TwitterIcon,
-  GooglePlusIcon,
-  LinkedinIcon,
-  RedditIcon,
+  TwitterIcon
 } from 'react-share';
 
 const Foot = ({}) => {
@@ -71,52 +63,6 @@ const Foot = ({}) => {
                                     <div className="clss-network__share-count">
                                         &nbsp;
                                     </div>
-                                </div>
-                                <div className="clss-network">
-                                    <LinkedinShareButton
-                                        url={shareUrl}
-                                        title={title}
-                                        windowWidth={750}
-                                        windowHeight={600}
-                                        className="clss-network__share-button">
-                                        <LinkedinIcon
-                                            size={32}
-                                            round />
-                                    </LinkedinShareButton>
-                                    <LinkedinShareCount
-                                        url={shareUrl}
-                                        className="clss-network__share-count">
-                                        {count => count}
-                                    </LinkedinShareCount>
-                                </div>
-                                <div className="clss-network">
-                                    <GooglePlusShareButton
-                                        url={shareUrl}
-                                        className="clss-network__share-button">
-                                        <GooglePlusIcon
-                                          size={32}
-                                          round />
-                                    </GooglePlusShareButton>
-                                    <GooglePlusShareCount
-                                        url={shareUrl}
-                                        className="clss-network__share-count">
-                                        {count => count}
-                                      </GooglePlusShareCount>
-                                </div>
-                                <div className="clss-network">
-                                    <RedditShareButton
-                                        url={shareUrl}
-                                        title={title}
-                                        windowWidth={660}
-                                        windowHeight={460}
-                                        className="clss-network__share-button">
-                                        <RedditIcon
-                                            size={32}
-                                            round />
-                                  </RedditShareButton>
-
-                                  <RedditShareCount url={shareUrl}
-                                    className="clss-network__share-count" />
                                 </div>
                             </div>
                         }
