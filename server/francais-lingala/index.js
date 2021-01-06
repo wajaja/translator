@@ -477,23 +477,23 @@ function francais_lingala(str, order, uniqueString) {
                     if(typeof word_val === 'string') {
                         if(word_val.startsWith('-a ')) {
                             word_val = (currWord.pos === 0 || currWord.pos === 1) 
-                            ? "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val.slice(3) + "</span>"
-                            : 'ya ' + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val.slice(3) + "</span>"
+                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(3) + "</span>"
+                            : 'ya ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(3) + "</span>"
                         } else if(word_val.startsWith('-')) {
                             word_val = (currWord.pos === 0 || currWord.pos === 1) 
-                            ? "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val.slice(1) + "</span>"
-                            : 'na ' + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val.slice(1) + "</span>"; //remove "-"
+                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(1) + "</span>"
+                            : 'na ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(1) + "</span>"; //remove "-"
                         } else {
-                            word_val = "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val + "</span>"
+                            word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val + "</span>"
                         }
                     } else {
-                        word_val = "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + word_val + "</span>";
+                        word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val + "</span>";
                     }
 
                     prefixVerbal = pure_val.number === 'singular' ? 'a' : 'ba';
                     prefixVerbal = !!pure_val.things ? 'e' : prefixVerbal;         //make prefixVerbalfor things
                 } else {
-                    word_val = "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + pure_val + "</span>";
+                    word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + pure_val + "</span>";
                 }
 
                 //prefixVerbal = currWord.prefixVerbal ? prefixVerbal : '' //apply prefixVerbal after right word
@@ -510,9 +510,9 @@ function francais_lingala(str, order, uniqueString) {
                 prefixVerbal = 'a';
                 let $return;
                 if(demonstratif !== '') //if demonstratif
-                    $return = _phrase + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
+                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
                 else
-                    $return = _phrase + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + currWord.val + "</span>" + currWord.attach + ' ';
+                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ';
 
                 demonstratif = '';
                 return $return;
@@ -520,20 +520,20 @@ function francais_lingala(str, order, uniqueString) {
 
             else if(!!currWord && currWord.word_type === 'noum') {
                 prefixVerbal = 'a';
-                let $return = _phrase + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
                 demonstratif = '';
                 return $return;
             }
 
             else if(!!currWord && currWord.word_type === 'pref_pronominal') {
                 // prefixVerbal = 'a';
-                let $return = _phrase + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + currWord.val + "</span>" + ' ' + demonstratif + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + ' ' + demonstratif + ' ';
                 demonstratif = '';
                 return $return;
             }
 
             else if(!!currWord && currWord.word_type === 'prep') {
-                let $return = _phrase + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + currWord.val + "</span>" + currWord.attach + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ';
                 return $return;
             }
 
@@ -546,7 +546,7 @@ function francais_lingala(str, order, uniqueString) {
                     return  _phrase + ' ';
                 }
 
-                return _phrase + ' '  + prefixVerbal + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
+                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
             }
             //TODO
             else if(!!currWord && currWord.word_type === 'pp') {
@@ -558,14 +558,14 @@ function francais_lingala(str, order, uniqueString) {
                     composed_verb = false;
                     return  _phrase + ' ';
                 }
-                return _phrase + ' '  + prefixVerbal + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
+                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
             }
 
             let __val = (typeof currWord === 'object') ? currWord.val : '';
 
             return idx == 0 
-                ? "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + __val + "</span>"
-                : _phrase + ' ' + "<span contenteditable id="+ idx +" source-word="+ sourceWord +" tabIndex='0'>" + __val + "</span>" + ' ';
+                ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + __val + "</span>"
+                : _phrase + ' ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + __val + "</span>" + ' ';
         }, '_____');
 
 

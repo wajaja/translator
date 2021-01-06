@@ -1,0 +1,99 @@
+<VirtualHost *:80>
+    ServerName     www.agromwinda.com
+    ServerAlias    *.agromwinda.com
+    RewriteEngine  On
+    RewriteCond %{HTTP_HOST} ^(.+)\.agromwinda\.com$
+    RewriteRule ^(.*)$ https://%1.agromwinda.com$1 [R=302,L]
+    RewriteRule    ^(.*)$   https://%{HTTP_HOST}%{REQUEST_URI}
+</VirtualHost>
+<VirtualHost *:80>
+    ServerName    agromwinda.com
+    ServerAlias   www.agromwinda.com
+    RewriteEngine  On
+    RewriteCond %{HTTP_HOST} agromwinda\.com$
+    RewriteRule ^(.*)$ https://agromwinda.com$1 [R=302,L]
+    RewriteRule    ^(.*)$   https://%{HTTP_HOST}%{REQUEST_URI}
+</VirtualHost>
+
+
+
+
+
+
+<VirtualHost *:443>
+    ServerName academy.agromwinda.com
+
+    DocumentRoot /var/www/academy/public
+    DirectoryIndex /index.php
+
+    <Directory /var/www/academy/public>
+        AllowOverride None
+        Order Allow,Deny
+        Allow from All
+
+        FallbackResource /index.php
+    </Directory>
+
+    # uncomment the following lines if you install assets as symlinks
+    # or run into problems when compiling LESS/Sass/CoffeeScript assets
+    # <Directory /var/www/project>
+    #     Options FollowSymlinks
+    # </Directory>
+
+    # optionally disable the fallback resource for the asset directories
+    # which will allow Apache to return a 404 error when files are
+
+    <Directory /var/www/academy/public/bundles>
+        FallbackResource disabled
+    </Directory>
+    ErrorLog /var/log/apache2/academy_error.log
+    CustomLog /var/log/apache2/academy_access.log combined
+    Include /etc/letsencrypt/options-ssl-apache.conf
+    SSLCertificateFile /etc/letsencrypt/live/academy.agromwinda.com/fullchain.pem
+    SSLCertificateKeyFile /etc/letsencrypt/live/academy.agromwinda.com/privkey.pem
+</VirtualHost>
+
+
+
+
+<VirtualHost *:443>
+    ServerName agromwinda.com
+    ServerAlias *.agromwinda.com
+
+    DocumentRoot /var/www/plateform-V3/public
+
+     #https://github.com/dunglas/mercure/issues/157#issuecomment-550032153
+    ProxyRequests Off
+    ProxyPass /hub http://localhost:3006
+    ProxyPassReverse /hub http://localhost:3006
+
+    <Directory /var/www/plateform-V3/public>
+        # enable the errorDocument directive
+        AllowOverride All
+        Require all granted
+
+        DirectoryIndex index.php
+        FallbackResource /index.php
+    </Directory>
+
+    <Directory /var/www/plateform-V3/public/bundles>
+        FallbackResource disabled
+    </Directory>
+
+    # uncomment the following lines if you install assets as symlinks
+    # or run into problems when compiling LESS/Sass/CoffeeScript assets
+    # <Directory /var/www/project>
+    #     Options FollowSymlinks
+    # </Directory>
+
+    ErrorLog /var/log/apache2/api_agromwinda_error.log
+    CustomLog /var/log/apache2/api_agromwinda_access.log combined
+
+</VirtualHost>
+
+
+
+
+
+
+
