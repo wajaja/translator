@@ -1,6 +1,5 @@
 var serialize = require('serialize-javascript');
 import { BASE_PATH }       from 'config/api'
-var css = process.env.NODE_ENV == 'production' ? BASE_PATH + '/build/css/styles.min.css' : BASE_PATH + '/build/css/styles.css';
 
 export default ({ body, title, bundles, helmet, preloadedState }) => {
     return `
@@ -12,7 +11,7 @@ export default ({ body, title, bundles, helmet, preloadedState }) => {
             ${helmet.link.toString()}
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
             <link href="https://fonts.googleapis.com/css?family=Assistant:300&subset=all" rel="stylesheet">
-            <link rel="stylesheet" href="${css}" />
+            <link rel="stylesheet" href="${BASE_PATH}/build/css/styles.css" />
         </head>
         <body ${helmet.bodyAttributes.toString()}>
             <div id="app">${body}</div>
