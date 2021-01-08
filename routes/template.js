@@ -12,7 +12,7 @@ export default ({ body, title, bundles, helmet, preloadedState }) => {
             ${helmet.link.toString()}
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
             <link href="https://fonts.googleapis.com/css?family=Assistant:300&subset=all" rel="stylesheet">
-            <link rel="stylesheet" href=${css} />
+            <link rel="stylesheet" href="${css}" />
         </head>
         <body ${helmet.bodyAttributes.toString()}>
             <div id="app">${body}</div>
@@ -25,12 +25,12 @@ export default ({ body, title, bundles, helmet, preloadedState }) => {
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
             <script type="text/javascript" src=${BASE_PATH}/build/js/vendor.bundle.js></script>
             ${bundles.map(bundle => {
-                return `<script src=${BASE_PATH}/build/js/${bundle.file}></script>`
+                return `<script src="${BASE_PATH}/build/js/${bundle.file}"></script>`
                 // alternatively if you are using publicPath option in webpack config
                 // you can use the publicPath value from bundle, e.g:
                 // return `<script src="${bundle.publicPath}"></script>`
             }).join('\n')}
-            <script src=${BASE_PATH}/build/js/app.js></script>
+            <script src="${BASE_PATH}/build/js/app.js"></script>
         </body>
     </html>
   `;
