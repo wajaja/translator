@@ -23,10 +23,10 @@ class Signup extends React.Component{
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>Inscription</title>
-                    <link rel="canonical" href="https://traduction.xyz/signup" />
+                    <link rel="canonical" href="https://civiliser.com/signup" />
                     <meta name="description" content="Inscrivez-vous sur XYZ - Traduction" />
                     <meta property="og:title" content="Inscrivez-vous sur XYZ - Traduction" />
-                    <meta property="og:url" content="https://traduction.xyz/signup" />
+                    <meta property="og:url" content="https://civiliser.com/signup" />
                     <meta property="og:description" content="Inscrivez-vous sur XYZ - Traduction" />
                 </Helmet>
                 <div className="hm-ctnr-a">

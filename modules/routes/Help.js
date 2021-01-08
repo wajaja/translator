@@ -9,10 +9,10 @@ const  Help = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Aide</title>
-                <link rel="canonical" href="https://traduction.xyz/help" />
+                <link rel="canonical" href="https://civiliser.com/help" />
                 <meta name="description" content="Besoin d'aide ? contactez nous" />
                 <meta property="og:title" content="Contactez XYZ - traduction" />
-                <meta property="og:url" content="https://traduction.xyz/help" />
+                <meta property="og:url" content="https://civiliser.com/help" />
                 <meta property="og:description" content="XYZ - Traduction propose la traduction instantanée des textes en lingala" />
             </Helmet>
             <div className="hm-ctnr-a">

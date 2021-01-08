@@ -20,10 +20,10 @@ class Profil extends React.Component{
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>{this.props.user.firstname}</title>
-                    <link rel="canonical" href={`https://traduction.xyz/${username}`} />
+                    <link rel="canonical" href={`https://civiliser.com/${username}`} />
                     <meta name="description" content={`Profile de ${username}`} />
                     <meta property="og:title" content={`Profile de ${this.props.user.firstname} sur XYZ - traduction`} />
-                    <meta property="og:url" content={`https://traduction.xyz/${username}`} />
+                    <meta property="og:url" content={`https://civiliser.com/${username}`} />
                     <meta property="og:description" content="XYZ - Traduction" />
                 </Helmet>
                 <div className="hm-ctnr-a">

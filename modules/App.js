@@ -93,7 +93,7 @@ class App extends Component {
             <div id="root" suppressHydrationWarning={true}>
                 <Helmet
                     encodeSpecialCharacters={true}
-                    titleTemplate="traduction.xyz - %s"
+                    titleTemplate="civiliser.com - %s"
                     defaultTitle="Traduction. Français - lingala">
                         <html lang="fr-FR" />
                         <body />
@@ -103,7 +103,7 @@ class App extends Component {
                         <meta http-equiv="Content-Type" content="text/html" />
                         <meta name="viewport" content="initial-scale=1.0" />
                         <meta property="og:type" content="website" />
-                        <meta property="og:image" content="https://traduction.xyz/images/xyztraduction.png" />
+                        <meta property="og:image" content="https://civiliser.com/images/xyztraduction.png" />
                         <meta property="og:site_name" content="XYZ Traduction" />
                 </Helmet>
                 <AppHeader

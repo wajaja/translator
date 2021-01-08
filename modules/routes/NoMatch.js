@@ -9,10 +9,10 @@ const  NoMatch = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Page introuvable</title>
-                <link rel="canonical" href={`https://traduction.xyz/${match.url}`} />
+                <link rel="canonical" href={`https://civiliser.com/${match.url}`} />
                 <meta name="description" content="Page introuvable" />
                 <meta property="og:title" content="Page introuvable sur XYZ - Traduction" />
-                <meta property="og:url" content={`https://traduction.xyz/${match.url}`} />
+                <meta property="og:url" content={`https://civiliser.com/${match.url}`} />
                 <meta property="og:description" content="Page introuvable sur XYZ - Traduction" />
             </Helmet>
             <div className="hm-ctnr-a">

@@ -8,10 +8,10 @@ const  Privacy = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Conditions et politique d'utilisation du traducteur</title>
-                <link rel="canonical" href="https://traduction.xyz/privacy" />
+                <link rel="canonical" href="https://civiliser.com/privacy" />
                 <meta name="description" content="Notre politique d'utilisation" />
                 <meta property="og:title" content="Condition XYZ - Traduction" />
-                <meta property="og:url" content="https://traduction.xyz/privacy" />
+                <meta property="og:url" content="https://civiliser.com/privacy" />
                 <meta property="og:description" content="Les conditions et la politique d'utilisation de nos services" />
             </Helmet>
             <div className="hm-ctnr-a">

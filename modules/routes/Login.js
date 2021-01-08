@@ -28,10 +28,10 @@ class Login extends React.Component{
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>Login</title>
-                    <link rel="canonical" href="http://traduction.xyz/login" />
+                    <link rel="canonical" href="http://civiliser.com/login" />
                     <meta name="description" content="Connectez-vous et apprenez aux internautes votre langue" />
                     <meta property="og:title" content="Connexion à XYZ - traduction" />
-                    <meta property="og:url" content="https://traduction.xyz/login" />
+                    <meta property="og:url" content="https://civiliser.com/login" />
                     <meta property="og:description" content="Connectez-vous et apprenez aux internautes votre langue" />
                 </Helmet>
                 <div className="hm-ctnr-a">

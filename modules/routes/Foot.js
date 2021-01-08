@@ -12,7 +12,7 @@ import {
 } from 'react-share';
 
 const Foot = ({}) => {
-    const shareUrl = "https://traduction.xyz";
+    const shareUrl = "https://civiliser.com";
     const title="Traduction";
     return (
         <div className="foo">

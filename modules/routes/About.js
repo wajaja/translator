@@ -9,10 +9,10 @@ const  About = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>A propos de XYZ - traduction</title>
-                <link rel="canonical" href="https://traduction.xyz/about" />
+                <link rel="canonical" href="https://civiliser.com/about" />
                 <meta name="description" content="A propos de XYZ-Traduction" />
                 <meta property="og:title" content="A propos de XYZ - traduction" />
-                <meta property="og:url" content="https://traduction.xyz/about" />
+                <meta property="og:url" content="https://civiliser.com/about" />
                 <meta property="og:description" content="XYZ - Traduction propose la traduction instantanée des textes en lingala" />
             </Helmet>
             <div className="hm-ctnr-a">

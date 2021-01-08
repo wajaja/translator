@@ -11,10 +11,10 @@ const  Interveners = ({ match, location }) => {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Activités de Traduction</title>
-                <link rel="canonical" href="https://traduction.xyz/interveners" />
+                <link rel="canonical" href="https://civiliser.com/interveners" />
                 <meta name="description" content="XYZ-Traduction - une traduction interactive" />
                 <meta property="og:title" content="Vos activités de traduction" />
-                <meta property="og:url" content="https://traduction.xyz/interveners" />
+                <meta property="og:url" content="https://civiliser.com/interveners" />
                 <meta property="og:description" content="XYZ-Traduction - une traduction interactive" />
             </Helmet>
             <div className="hm-ctnr-a">
