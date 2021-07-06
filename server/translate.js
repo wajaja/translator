@@ -1,5 +1,9 @@
 var transFuncs = {};
+
+
 transFuncs.francais_lingala = require('./francais-lingala').default;
+transFuncs.anglais_francais = require('./seq2seq/anglais-francais').default;  //app
+
 
 /**
  * [endsWithAny description]
@@ -13,6 +17,7 @@ transFuncs.francais_lingala = require('./francais-lingala').default;
 //     });
 // }
 function translatePhraseStr(str, order, uniqueString, source, target) {
+
     const _func = transFuncs[(source + '_' + target)];
 
     return (typeof _func === 'function') ? _func(str, order, uniqueString)
@@ -23,6 +28,8 @@ function translatePhraseStr(str, order, uniqueString, source, target) {
                                              'alertMsg': 'translation unavailable'
                                          }));
 }
+
+
 export {
 	translatePhraseStr
 }

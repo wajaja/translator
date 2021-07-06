@@ -5,7 +5,7 @@ import { Helmet }       from 'react-helmet'
 
 const  Help = ({ match, location }) => {
     return(
-        <div className="hm-ctnr">
+        <div className="hm-ctnr container">
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Aide</title>

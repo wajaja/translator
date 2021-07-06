@@ -1,0 +1,10046 @@
+{
+	"ka": {
+		"francais": [{
+				"la manière, la façon,la nature,plaider son droit": {
+					"def": "",
+					"ex": "plaider une affaire"
+				}
+			},
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muka",
+			""
+		]
+	},
+
+	"kaba, kabas": {
+		"francais": [{
+				"la robe longue": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kadi, kala": {
+		"francais": [{
+				"aussi": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kafe": {
+		"francais": [{
+				"le café": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kaikai": {
+		"francais": [{
+				"est très serré": {
+					"def": "",
+					"ex": "d'une façon très serré"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kaka na",
+			""
+		]
+	},
+
+	"kaise": {
+		"francais": [{
+				"engager, juger": {
+					"def": "",
+					"ex": "juger une affaire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwambo",
+			""
+		]
+	},
+
+	"kaka": {
+		"francais": [{
+				"s'engager à quelque chose, engager, louer, lier, attacher": {
+					"def": "",
+					"ex": "engager des ouvriers"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"baboledi",
+			""
+		]
+	},
+
+	"kakai": {
+		"francais": [{
+				"la manière inquiète d'attendre quelque chose": {
+					"def": "",
+					"ex": "pourquoi etes-vous assis là d'une manière si inquiète?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"neni lo jaino na nika e?",
+			""
+		]
+	},
+
+	"kakaka": {
+		"francais": [{
+				"une attitude fermée, sévère, un alignement pour attendre quelque chose": {
+					"def": "",
+					"ex": "le maitre a une attitude très fermée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango e jita",
+			""
+		]
+	},
+
+	"kakakaka": {
+		"francais": [{
+				"un agrincement": {
+					"def": "",
+					"ex": "la machine grince, elle n'a plus d'huile"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"masin ma matopo na, ma si ben pe mula",
+			""
+		]
+	},
+
+	"kakako": {
+		"francais": [{
+				"le durcissement, la vérité": {
+					"def": "",
+					"ex": "cet homme a un coeur dur"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a mulema",
+			""
+		]
+	},
+
+	"kakale": {
+		"francais": [{
+				"un tel, un homme,quelconque": {
+					"def": "",
+					"ex": "allez en ville chez un tel"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bino ala o mundi omundi omboa seme",
+			""
+		]
+	},
+
+	"kakame": {
+		"francais": [{
+				"etre liié, attaché, etre inquièt": {
+					"def": "",
+					"ex": "nos coeurs sont inquièt"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"milema masu mi kakam",
+			""
+		]
+	},
+
+	"kakane": {
+		"francais": [{
+				"lier, s'engager avec quelquechose": {
+					"def": "",
+					"ex": "on attache les batons de manioc avec fiebre du palmier"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma  myondo m'bai",
+			""
+		]
+	},
+
+	"kakata bwem": {
+		"francais": [{
+				"une démarche lourde et pesente": {
+					"def": "",
+					"ex": "la tortue a une démarche lourde"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"wudu e madangwa",
+			""
+		]
+	},
+
+	"kakea": {
+		"francais": [{
+				"engager pour quelqu'un, fixer pour quelqu'un,attacher pour quelqu'un": {
+					"def": "",
+					"ex": "préparer des paquets à des malades"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"baboedi mabomba",
+			""
+		]
+	},
+
+	"kakokoko": {
+		"francais": [{
+				"il a bu de l'eau qui faisait glouglou": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a nodi madiba na",
+			""
+		]
+	},
+
+	"kala": {
+		"francais": [{
+				"la petite épine de la noix de palme qui se trouve à l'extremité du régime, fixer, ": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kalakasi": {
+		"francais": [{
+				"le biscuit, la biscote": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kalambanja": {
+		"francais": [{
+				"un lit en bambous": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kalane": {
+		"francais": [{
+				"préparer la charpente avec quelque chose": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"misoea nde bato ba makalaneno munua",
+			""
+		]
+	},
+
+	"kalasin": {
+		"francais": [{
+				"le pétrole": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kalati": {
+		"francais": [{
+				"le papier, la lettre, le cahier, le livre": {
+					"def": "",
+					"ex": "le passe port"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a londo",
+			""
+		]
+	},
+
+	"kalokalo": {
+		"francais": [{
+				"la dureté, la fermeté": {
+					"def": "",
+					"ex": "quelque est très dur"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lambo lémbam na",
+			""
+		]
+	},
+
+	"kakam": {
+		"francais": [{
+				"expulser, expectorer": {
+					"def": "",
+					"ex": "expulser une arete de la gorge"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"awesé o nigo",
+			""
+		]
+	},
+
+	"kamba": {
+		"francais": [{
+				"il est très sévère": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kambame": {
+		"francais": [{
+				"etrès noué, etrès lié, faire mal": {
+					"def": "",
+					"ex": "le ventre me fait mal"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dibum di kambam mba",
+			""
+		]
+	},
+
+	"kambea": {
+		"francais": [{
+				"faire un barrage, c-à-d. planter des nervures de palmes dans la rievière pour y attacherle filet": {
+					"def": "",
+					"ex": "ils barrent la rievière"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma m'be",
+			""
+		]
+	},
+
+	"kanga": {
+		"francais": [{
+				"ils mettent un piège-palissade": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kambe": {
+		"francais": [{
+				"pressr, harceler": {
+					"def": "",
+					"ex": "pourquoi me harcèles-tu?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nje o kambeno mba e?",
+			""
+		]
+	},
+
+	"kambekambe": {
+		"francais": [{
+				"le harcèlement": {
+					"def": "",
+					"ex": "pourquoi harcèles-tu tellement?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nje o kambeno mba na?",
+			""
+		]
+	},
+
+	"kambilane": {
+		"francais": [{
+				"obliger, forcer, presser quelqu'un": {
+					"def": "",
+					"ex": "il m'a obligé à aller nous promener"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mba na jale o muyenga",
+			""
+		]
+	},
+
+	"kombo": {
+		"francais": [{
+				"un oiseau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kamel": {
+		"francais": [{
+				"le chameau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kamkam": {
+		"francais": [{
+				"le regard sévère, faché": {
+					"def": "",
+					"ex": "il me jette un regard faché"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mombwa mba miso na ",
+			""
+		]
+	},
+
+	"kapita": {
+		"francais": [{
+				"le charpentier": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kamse": {
+		"francais": [{
+				"casser, briser": {
+					"def": "",
+					"ex": "la forte lumière a cassé le verre de lampe"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mwenen ma ngina mu",
+			""
+		]
+	},
+
+	"kana": {
+		"francais": [{
+				"comme, pendant que, car, faire un serment": {
+					"def": "",
+					"ex": "comme tu ne m'as pas obei, je te punis"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kana o si senganno mba, na makokise wa ",
+			""
+		]
+	},
+
+	"kandane": {
+		"francais": [{
+				"faire très rarement quelque chose, etre longtemps privé, séparé": {
+					"def": "",
+					"ex": "il ya longtemps que nous ne nous sommes pas vus"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"da jeuner; di kandan jita",
+			""
+		]
+	},
+
+	"kanea": {
+		"francais": [{
+				"jurer à quelqu'un": {
+					"def": "",
+					"ex": "je te jure par le Diue vivant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na makanea wa songo a Loba la longe na",
+			""
+		]
+	},
+
+	"kane": {
+		"francais": [{
+			"plaider contre quelqu'un, défendre sa cause contre quelqu'un": {
+				"def": "",
+				"ex": "la prière du seigneur"
+			},
+
+
+			"": {
+				"def": "",
+				"ex": ""
+			}
+		}],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"la sango",
+			""
+		]
+	},
+	"kango": {
+		"francais": [{
+				"la bonne odeur de quelque chose": {
+					"def": "",
+					"ex": "l'odeur de ce roti est très bonne"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"enumb a nin nama ye jita",
+			""
+		]
+	},
+
+	"kanja": {
+		"francais": [{
+				" une corbeille": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kanjame": {
+		"francais": [{
+				"etre couché les jambes ecartées": {
+					"def": "",
+					"ex": "il est couché sur le lit les jambes écartées"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kanjam o nongo",
+			""
+		]
+	},
+
+	"kanje": {
+		"francais": [{
+				"lever les jambes en les écartant": {
+					"def": "",
+					"ex": "la maladie l'oblige à couché sur le lit les jambes écartées "
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dibao di mo o nongo",
+			""
+		]
+	},
+
+	"kanjo": {
+		"francais": [{
+				"la hauteur,": {
+					"def": "",
+					"ex": "le grand fillet pour la peche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"epese endene ya bepa e mabela na",
+			""
+		]
+	},
+
+	"kanse": {
+		"francais": [{
+				"faire preter un serment, faire jurer": {
+					"def": "",
+					"ex": "si tu dévoiles notre projet nous sommes libérés du serment que tu nous as fait preter"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o kulo te mwano masu, ke di mabe wonja na songo o kanseno biso",
+			""
+		]
+	},
+
+	"kansel": {
+		"francais": [{
+				"la chaire": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kanta": {
+		"francais": [{
+				"le comptoir, le rayon": {
+					"def": "",
+					"ex": "le rayon du magasin"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o a sapi",
+			""
+		]
+	},
+
+	"kan": {
+		"francais": [{
+				"la fermeté": {
+					"def": "",
+					"ex": "tenir quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			"o a ka"
+		]
+	},
+
+	"kanane": {
+		"francais": [{
+				"retenir, détourner, soutenir": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a kinan dongo",
+			""
+		]
+	},
+
+	"kaponda": {
+		"francais": [{
+				"cet homme a retenu une partie de l'argent qu'il devait apporter": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kankane": {
+		"francais": [{
+				"frustrer quelqu'un, retenir, omettre": {
+					"def": "",
+					"ex": "il a omis certaines chose dans le récit qu'il a fait"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a karitan mambo mo o myango a langono",
+			""
+		]
+	},
+
+	"kanam": {
+		"francais": [{
+				"la variole, la petite vérole": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kanena": {
+		"francais": [{
+				"de sorte que, ce qui fait que": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kapa": {
+		"francais": [{
+				"le centiment, etre très occupé, etre embrouillé": {
+					"def": "",
+					"ex": "dans toute cette agitation"
+				}
+			},
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"oteten a din",
+			""
+		]
+	},
+
+	"kapekape": {
+		"francais": [{
+				"etre occupé, débordé de travail": {
+					"def": "",
+					"ex": "nous sommes débordés de travail"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ebolo ye wase na",
+			""
+		]
+	},
+
+	"kapise": {
+		"francais": [{
+				"rendre tres occupé": {
+					"def": "",
+					"ex": "la peche rend les gens tres occupé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"musombo mu ma bato n'ebolo jita",
+			""
+		]
+	},
+
+	"kapitane": {
+		"francais": [{
+				"s'approprier, s'emparer de quelque chose": {
+					"def": "",
+					"ex": "des voleurs ont pris mon paquet"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba jiba ba kapita muna mam",
+			""
+		]
+	},
+
+	"kapitikapiti": {
+		"francais": [{
+				"l'embrouillement": {
+					"def": "",
+					"ex": "tous les fils sont extremement embrouillé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"misinga mese mi tobi na",
+			""
+		]
+	},
+	"kapo": {
+		"francais": [{
+				"égal, indifférent, le meme": {
+					"def": "",
+					"ex": "cela est égal"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ye nde mba",
+			""
+		]
+	},
+
+	"karabot": {
+		"francais": [{
+				"planche du parasolier, tallées à la hache": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kasa": {
+		"francais": [{
+				"accepté, acceillir, recevoir, casser, briser, arracher": {
+					"def": "",
+					"ex": "j'ai accepté le cadeau que tu m'as donné"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na kasi jabea o bolino mba",
+			""
+		]
+	},
+
+	"kasakasane": {
+		"francais": [{
+				"accepter n'importe quoi": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kasamanga": {
+		"francais": [{
+				"de grande fruits comestible": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kasane": {
+		"francais": [{
+				"accepter, recevoir quelque chose": {
+					"def": "",
+					"ex": "accepte de ma part des salutations"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kasane mba masoma",
+			""
+		]
+	},
+
+	"kasea": {
+		"francais": [{
+				"accepter pour quelqu'un, recevoir, attraper, se casser": {
+					"def": "",
+					"ex": "reçois pour ta mère"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango masoma man",
+			""
+		]
+	},
+
+	"kasilane": {
+		"francais": [{
+				"commencer à attaquer, presser, serrer quelqu'un de près": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto bwemba ",
+			""
+		]
+	},
+
+	"kasise": {
+		"francais": [{
+				"faire accepter quelque chose": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kaskas": {
+		"francais": [{
+				"un craquement": {
+					"def": "",
+					"ex": "le manioc durci fait un bruit de craquement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"makwamba ma ndoki ma matopo o mudumbu na",
+			""
+		]
+	},
+
+	"kaso": {
+		"francais": [{
+				"une plante": {
+					"def": "",
+					"ex": "casser la noix dans la bouche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwq o mudumbu o mudumbu na",
+			""
+		]
+	},
+
+	"kata": {
+		"francais": [{
+				"le contre, le voilier, frchir, tranverser, sauter": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kedi": {
+		"francais": [{
+				"excessivement": {
+					"def": "",
+					"ex": "il a passé par-dessus sa tete"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kati mo mulopo ma mbo",
+			""
+		]
+	},
+
+	"katakata": {
+		"francais": [{
+				"des sauts rapides, la fraude, la tromperie": {
+					"def": "",
+					"ex": "le signe gripe en faisant des sauts rapides"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kema e malanda na",
+			""
+		]
+	},
+
+	"katane": {
+		"francais": [{
+				"tranverser avec quelque chose, passer par déssus l'un l'autre": {
+					"def": "",
+					"ex": "on ne passe pas par-dessus le sang de la famille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di si ma maya ma mbia",
+			""
+		]
+	},
+
+	"kate": {
+		"francais": [{
+				"la torche, le flambeau": {
+					"def": "",
+					"ex": "faire un flambeau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"doma",
+			""
+		]
+	},
+
+	"katise": {
+		"francais": [{
+				"faire tranverser": {
+					"def": "",
+					"ex": "bato le passeur d'homme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mukatise",
+			""
+		]
+	},
+
+	"kaye": {
+		"francais": [{
+				"plaider pour quelu'un, défendre quelqu'un": {
+					"def": "",
+					"ex": "les femme ont plaider pour leurs maries devant le tribunal du pays"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bito ta ba bome babu o m'boko m'ekombo",
+			""
+		]
+	},
+
+	"kayekaye": {
+		"francais": [{
+				"la carte, la franchise": {
+					"def": "",
+					"ex": "il a parlé très clairement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a topi bwambo na",
+			""
+		]
+	},
+
+	"kebele": {
+		"francais": [{
+				"qu'on simule l'innocence, le non-engagement": {
+					"def": "",
+					"ex": "etre assis en simple qu'on n'est pas simpliqué dans une affaire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"keka": {
+		"francais": [{
+				"gouter, déguster, essayer, tenter, risquer": {
+					"def": "",
+					"ex": "j'ai gouté de cette nouriture"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na keki bola yen ebolo",
+			""
+		]
+	},
+
+	"kekea": {
+		"francais": [{
+				"gouter, essayer": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kekele": {
+		"francais": [{
+				"une tranverse": {
+					"def": "",
+					"ex": "les tranverses du lit sur les quelles repose le malade"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kekise": {
+		"francais": [{
+				"faire assayer,examiner": {
+					"def": "",
+					"ex": "l'examen de passage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"la jondea",
+			""
+		]
+	},
+
+	"kele": {
+		"francais": [{
+				"se retire de quelqu'un, boycotter quelqu'un, exclure du groupe": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kelekele": {
+		"francais": [{
+				"la grande dureté": {
+					"def": "",
+					"ex": "la noix de palme est tres dure quand elle est sèche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"m'banga ma mbia myembam na",
+			""
+		]
+	},
+
+	"kelele": {
+		"francais": [{
+				"rougeatre": {
+					"def": "",
+					"ex": "la peau est d'un blanc rougeatre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kelenkelen": {
+		"francais": [{
+				"un légume, que quelque chose brille": {
+					"def": "",
+					"ex": "cet habit brille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin mboti ne na",
+			""
+		]
+	},
+
+	"kem": {
+		"francais": [{
+				"la forçe et la rapidité": {
+					"def": "",
+					"ex": "le léopard sauta sur lui d'u seul coup"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"njo e ko mo o nolo na",
+			""
+		]
+	},
+
+	"kema": {
+		"francais": [{
+				"le singe, manifester par des cris": {
+					"def": "",
+					"ex": "ho! oh! oh! oh! pendant la réunion publique"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kemea": {
+		"francais": [{
+				"faire une ovation à quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kendai": {
+		"francais": [{
+				"la fière insouciance": {
+					"def": "",
+					"ex": "il est assis fièrement dans sa maison sans se soucier de quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a maja o ndabo",
+			""
+		]
+	},
+
+	"kendakenda": {
+		"francais": [{
+				"la marche vacillante": {
+					"def": "",
+					"ex": "tu marche donc maintenat en vacillant ainsi?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			"o nidangwa pe nika e?"
+		]
+	},
+
+	"kendame": {
+		"francais": [{
+				"etre assis, troner, fièrement sans soucis": {
+					"def": "",
+					"ex": "il est assis bien tranquillement au premier étage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kendam omon a ndabo",
+			""
+		]
+	},
+
+	"kende": {
+		"francais": [{
+				"etre fier, méprisant": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kenja": {
+		"francais": [{
+				"hardi, éveillé, agréable, de bon gout": {
+					"def": "",
+					"ex": "la viade de mouton n'est pas aussi agréable à la bouche que celle de boeuf"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nam'a mudongi e si kenji o mudumbu ka na naka",
+			""
+		]
+	},
+
+	"kenjako": {
+		"francais": [{
+				"la vivacité, la hardisse": {
+					"def": "",
+					"ex": "cet homme est tres vif"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun moto e jita",
+			""
+		]
+	},
+
+	"kenjisane": {
+		"francais": [{
+				"etre stimulant, réjouissant": {
+					"def": "",
+					"ex": "les voix des enfants vous rejouissent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"madoi ma bautu ma ma nolo",
+			""
+		]
+	},
+
+	"kenjise": {
+		"francais": [{
+				"rendre vif, hardi, stimuler": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kenki": {
+		"francais": [{
+				"le gateau, la galette": {
+					"def": "",
+					"ex": "elle en fond des galettes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kena": {
+		"francais": [{
+				"barrer, obstruer, séparer, voiler": {
+					"def": "",
+					"ex": "faire un barrage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"m'bembe, mukidi",
+			""
+		]
+	},
+
+	"kenken": {
+		"francais": [{
+				"la dureté, la raideur": {
+					"def": "",
+					"ex": "cette viande est tres dure"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin namo nembam na",
+			""
+		]
+	},
+
+	"ke": {
+		"francais": [{
+				"couper, tracher, abattres, introduire une propos, vacciner": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"keketi": {
+		"francais": [{
+				"je ne resterai pas danns votre maison, à moins que vous vous occupiez bien de moi": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"keise": {
+		"francais": [{
+				"faire couper": {
+					"def": "",
+					"ex": "cette manière de faire fait qu'habituellement certains se coupent les doit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin nai a bola e mabe e keise dongo la bato mine",
+			""
+		]
+	},
+
+	"keke": {
+		"francais": [{
+				"plaisenter, railler, couvert,pousser,tailler": {
+					"def": "",
+					"ex": "on ne coupe pas une noix dans la main d'une autre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba si ma wula o dia la nupepe",
+			""
+		]
+	},
+
+	"kekemeye": {
+		"francais": [{
+				"tousser discrètement": {
+					"def": "",
+					"ex": "si quelqu'un veut sortir la nuit, il toussette d'abord un peu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto a mapula te busa pond a bula a masele",
+			""
+		]
+	},
+
+	"kekene": {
+		"francais": [{
+				"se railler mutuellement, blaisser n'importe comment": {
+					"def": "",
+					"ex": "l'administration a fini par arreter la coupe inconsidérée des arbres de la foret"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"janea di timbi tonse la bebongo b'eyidi",
+			""
+		]
+	},
+
+	"kekese": {
+		"francais": [{
+				"une méchante maniérée, à petit pas": {
+					"def": "",
+					"ex": "il ya des femmes qui font des manières en faisant de petit pas"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bito bo ba mapongo eyaye o ka dangwa na",
+			""
+		]
+	},
+	"keki": {
+		"francais": [{
+				"une mesure de capacité": {
+					"def": "",
+					"ex": "l'ensemblée du peuple de Douala a établi une masure de capacité pour le commerçe appelée le Mukuri"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngond'a Duala e ta e pongo dimene la nunga di mabélabe  ",
+			""
+		]
+	},
+
+	"kekitane": {
+		"francais": [{
+				"parler de quelqu'un en dessous": {
+					"def": "",
+					"ex": "la femme raconte en dessous des histoires sur une autre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango a ma mambo onola nupépe",
+			""
+		]
+	},
+	"kembele": {
+		"francais": [{
+				"parler facilement une langue": {
+					"def": "",
+					"ex": "nous avons racontré à l'interieur une femme qui savait bien parler le douala, ce qui nous a beaucoup étonnés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di boman muto mo o bayon nu ta nu - bwambo ba duala nai moto a tano manaka  ",
+			""
+		]
+	},
+
+	"kembele-kembele": {
+		"francais": [{
+				"qu'on parle facilement une langue": {
+					"def": "",
+					"ex": "il parle tres facilement un langue"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kene": {
+		"francais": [{
+				"couper avec quelqu'un": {
+					"def": "",
+					"ex": "on a coupe l'arbre avec la hanche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma bwele ewondo",
+			""
+		]
+	},
+
+	"kengele-kengele": {
+		"francais": [{
+				"une façon manièrée": {
+					"def": "",
+					"ex": "marcher d'une façon manièrée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dangwa na",
+			""
+		]
+	},
+
+	"kengenge": {
+		"francais": [{
+				"la perfection, la pureté": {
+					"def": "",
+					"ex": "la pureté de cette eau m'attire pour la boire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a man madiba e malondo mba o no mo",
+			""
+		]
+	},
+
+	"kenekenene": {
+		"francais": [{
+				"se défiler, faire semblant de ne pas etre melé dans une affaire": {
+					"def": "",
+					"ex": "cet homme a fait semblant de n'y etre pour rien lorseque l'autre a parlé de lui"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a timbi niponda enno nupepe a topino onol'ao",
+			""
+		]
+	},
+
+	"kesea": {
+		"francais": [{
+				"se briser en moreux, s'émietter": {
+					"def": "",
+					"ex": "la bouteille s'est cassée en morceaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kesekes": {
+		"francais": [{
+				"l'émiettement": {
+					"def": "",
+					"ex": "se briser en mille morceaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"buea na",
+			""
+		]
+	},
+
+	"kesene": {
+		"francais": [{
+				"règler de comptes": {
+					"def": "",
+					"ex": "nous nous sommes arrangés en ce qui concerne nos affaire d'argent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di kese onola bekwali basu ba moni",
+			""
+		]
+	},
+
+	"kete": {
+		"francais": [{
+				"faire de sa main un geste à quelqu'un": {
+					"def": "",
+					"ex": "pourquoi me fais-tu grise mine?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nje o maketeno mba?",
+			""
+		]
+	},
+
+	"ketele": {
+		"francais": [{
+				"couper en petits morceaux, tondre, tailler": {
+					"def": "",
+					"ex": "couper les plantains en petits morceaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"besungu ba myele",
+			""
+		]
+	},
+
+	"ketiketi": {
+		"francais": [{
+				"le desséchement": {
+					"def": "",
+					"ex": "le sol est complètement desséchée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"minangadu myanji na",
+			""
+		]
+	},
+
+	"keto": {
+		"francais": [{
+				"le desséchement immédiat": {
+					"def": "",
+					"ex": "en saison sèche le sol se dessèche immédiatement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o pond'a loe minangadu mi manja na",
+			""
+		]
+	},
+
+	"keye": {
+		"francais": [{
+				"couper pour quelqu'un": {
+					"def": "",
+					"ex": "je lui ai coupé un régime de palme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ta na mo mbia",
+			""
+		]
+	},
+
+	"kidikidi": {
+		"francais": [{
+				"l'agitation, le bruit joyeux d'une foule": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"bato ba matomba na",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kidikoto": {
+		"francais": [{
+				"quelque chose est environné de tous cotés": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kidim": {
+		"francais": [{
+				"le quel de pecheurs frappent l'eau pour faire entrer les poissons dans le filet": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kiele": {
+		"francais": [{
+				"le jour avant ou apres": {
+					"def": "",
+					"ex": "le lendemain"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bone ba",
+			""
+		]
+	},
+
+	"kika": {
+		"francais": [{
+				"graver, tailler, sculper": {
+					"def": "",
+					"ex": "faire des tabourets"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kike": {
+		"francais": [{
+				"etre taillé, avoir une en taille": {
+					"def": "",
+					"ex": "le corps des insectes se divise en trois parties"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nol a betanda e o ngeka ilalo",
+			""
+		]
+	},
+
+	"kikilo": {
+		"francais": [{
+				"quelque chose tres lourde": {
+					"def": "",
+					"ex": "cette chose tres lourde"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kikimeye": {
+		"francais": [{
+				"bégayer, bredouiller": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kila": {
+		"francais": [{
+				"faire quelque chose avec force": {
+					"def": "",
+					"ex": "marcher de façon à ce qu'on entende le bruit des pas"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kilo": {
+		"francais": [{
+				"le poids, la balance": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kilometa": {
+		"francais": [{
+				"le kilomètre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kiloki": {
+		"francais": [{
+				"la montre, l'horloge, le réveil": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kima": {
+		"francais": [{
+				"gronder, quereller, blamer, menancer": {
+					"def": "",
+					"ex": "il a beaucoup gronder"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a jita",
+			""
+		]
+	},
+
+	"kingan": {
+		"francais": [{
+				"la plante qui donne cette épice": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kinin": {
+		"francais": [{
+				"la quinine": {
+					"def": "",
+					"ex": "généralement pour n'importe quel comprimé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kinakinane": {
+		"francais": [{
+				"hésiter, lambiner": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kine": {
+		"francais": [{
+				"le chef, le roi": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kita": {
+		"francais": [{
+				"jeter quelqu'un violement": {
+					"def": "",
+					"ex": "il a jeté la charge violement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muna wase",
+			""
+		]
+	},
+
+	"kitea": {
+		"francais": [{
+				"etre jeter par, tomber avec force": {
+					"def": "",
+					"ex": "la charge est tombée par terre avec force"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muna mu kitedi wase",
+			""
+		]
+	},
+
+	"kitikiti": {
+		"francais": [{
+				"la grande qualité": {
+					"def": "",
+					"ex": "les poisons sont attrapés en grande qualité"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sue i mawo na",
+			""
+		]
+	},
+
+	"kitrl": {
+		"francais": [{
+				"la bouilloire": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kiye": {
+		"francais": [{
+				"avoir beaucoup de respect pour quelqu'un": {
+					"def": "",
+					"ex": "avoir beaucoup de respect pour cet homme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na nun moto jita",
+			""
+		]
+	},
+
+	"klaki": {
+		"francais": [{
+				"le clerc, emploiyé": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"klama": {
+		"francais": [{
+				"la parenthèse": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"klase": {
+		"francais": [{
+				"la classe": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"klima": {
+		"francais": [{
+				"le climat": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ko": {
+		"francais": [{
+				"le grand rat": {
+					"def": "",
+					"ex": "les grand rats mangent des patates"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"i mada ndoko",
+			""
+		]
+	},
+
+	"koo": {
+		"francais": [{
+				"emploi par le vendeur de poisson": {
+					"def": "",
+					"ex": "les pecheurs passent dans le village avec des poissons en criant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba musombo ba mayombone sue o mundi na mbwabo na sue na moni",
+			""
+		]
+	},
+
+	"koa": {
+		"francais": [{
+				"le choeur, le chant, accepter, consantir": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koba": {
+		"francais": [{
+				"jadis, autrefois": {
+					"def": "",
+					"ex": "dans le temps ancins"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o na ngidi",
+			""
+		]
+	},
+
+	"kobako": {
+		"francais": [{
+				"un billot, un bloc": {
+					"def": "",
+					"ex": "il a poussé la nervure de palme avec un bloc"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"obele yongo na",
+			""
+		]
+	},
+
+	"kobakoba": {
+		"francais": [{
+				"le dindon, la dinde": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kobati": {
+		"francais": [{
+				"l'amoire, la commande": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kobi": {
+		"francais": [{
+				"des coups": {
+					"def": "",
+					"ex": "il a eu beaucoup de coups"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kusi jita",
+			""
+		]
+	},
+
+	"kobisan": {
+		"francais": [{
+				"provoquanr, aimant se mesurer avec quelqu'un": {
+					"def": "",
+					"ex": "cet homme aime beaucoups se mesurer avec d'autres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun moto e jita",
+			""
+		]
+	},
+
+	"kobom": {
+		"francais": [{
+				"le bruit qu'on fait en frappant l'eau avec les mains": {
+					"def": "",
+					"ex": "quand les enfants s'amusent dans l'eau, ils donne des coups bruyants sur l'eau avec les mains"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bautu ba moka te loko o madiba, ba mumba madiba na",
+			""
+		]
+	},
+
+	"kodi": {
+		"francais": [{
+				"un moullusque potamide": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koka": {
+		"francais": [{
+				"un oiseau à crete, secher, durcir, grandir, croitre, se développer": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokame": {
+		"francais": [{
+				"etre étroit, restreint": {
+					"def": "",
+					"ex": "ce chemin est étroit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokane": {
+		"francais": [{
+				"croitre, grandir avec quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"l'enfant a aussi grandi en sagesse",
+			""
+		]
+	},
+
+	"kokea": {
+		"francais": [{
+				"un étant ou une habitude": {
+					"def": "",
+					"ex": "il a grandi chez moi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kokedi ombo'am",
+			""
+		]
+	},
+
+	"koke": {
+		"francais": [{
+				"rendre étroit": {
+					"def": "",
+					"ex": "ils ont rendu cette pirgue tres étroite"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba bolo jita",
+			""
+		]
+	},
+
+	"kokise": {
+		"francais": [{
+				"élever": {
+					"def": "",
+					"ex": "élever des enfants"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokitane": {
+		"francais": [{
+				"faire quelque chose avec peine": {
+					"def": "",
+					"ex": "il fait effort pour manger ce qui reste aux arretes du poisson"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma ewes'a sue",
+			""
+		]
+	},
+
+	"koko": {
+		"francais": [{
+				"le cacao": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokoko": {
+		"francais": [{
+				"la manière de chanter des piroguiers": {
+					"def": "",
+					"ex": "chanter comme les piroguiers"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kokumeye na",
+			""
+		]
+	},
+
+	"kokowidie": {
+		"francais": [{
+				"un poisson d'une espèce voisine des carangues vraies": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokumeye": {
+		"francais": [{
+				"chanter": {
+					"def": "",
+					"ex": "chose des mélopées"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokwa": {
+		"francais": [{
+				"ramasser, accumuler, grappiller": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": "mon père a vécu de longues années"
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokwako": {
+		"francais": [{
+				"le papillage": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kola": {
+		"francais": [{
+				"detacher,etre greand avec acces, décortiquer, couper ": {
+					"def": "",
+					"ex": "la pirogue de commerce a un grand volume pour le chargement des marchandises"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bolo ba nunga bo kolo mukuku onola pele la myuna",
+			""
+		]
+	},
+
+	"kolakolane": {
+		"francais": [{
+				"devenir, etre tres grand, enlever l'écorce de l'arbre n'importe comment": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolane": {
+		"francais": [{
+				"détacher avec quelque chose": {
+					"def": "",
+					"ex": "un arbre meurt si on enlève son écorce"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwele bo mawo ke o kolan mo diwendi",
+			""
+		]
+	},
+
+	"kole": {
+		"francais": [{
+				"se détacher": {
+					"def": "",
+					"ex": "quand l'huitre s'attache à une pièrre elle ne peut plus s'en détacher"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ekanjo e bomedi te nolo o dale e si mabene pe ngudi o kole oten",
+			""
+		]
+	},
+
+	"kolea": {
+		"francais": [{
+				"se détacher, se découller": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolisane": {
+		"francais": [{
+				"mesurer, comparer": {
+					"def": "",
+					"ex": "en comparaison avec quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolise": {
+		"francais": [{
+				"agrandir, augmenter, exagérer": {
+					"def": "",
+					"ex": "les lunettes agrandissent les lettres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mané ma ma litera",
+			""
+		]
+	},
+
+	"kolkis": {
+		"francais": [{
+				"le ciseau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolokolo": {
+		"francais": [{
+				"la dureté": {
+					"def": "",
+					"ex": "la pièrre set dure"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dale le na",
+			""
+		]
+	},
+
+	"kolokoto": {
+		"francais": [{
+				"le crabe coureur ou le tourlourou": {
+					"def": "",
+					"ex": "ta tete est dure"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mulopo mongo mwe",
+			""
+		]
+	},
+
+	"kolokwazi": {
+		"francais": [{
+				"brusque": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolondo": {
+		"francais": [{
+				"espèce d'écureuil": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kolondondo": {
+		"francais": [{
+				"la grandeur": {
+					"def": "",
+					"ex": "un grand animal est manjestueusement de l'eau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nama nindene e busi o madiba na",
+			""
+		]
+	},
+
+	"kolon": {
+		"francais": [{
+				"la rapidité": {
+					"def": "",
+					"ex": "il set sorti de la maison en courant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a busi o ndabo na",
+			""
+		]
+	},
+
+	"koma": {
+		"francais": [{
+				"la virgule": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"komba": {
+		"francais": [{
+				"pousser tres vite, etre emboussaillé": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kombe": {
+		"francais": [{
+				"conserver, garder, maintenir en état, épargner, économiser": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kombepaka": {
+		"francais": [{
+				"nom d'un poisson": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kombombo": {
+		"francais": [{
+				"économe, ménanger, conservateur": {
+					"def": "",
+					"ex": "la femme qui prend soin de ses affaires est économe"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muto nu bi kombe mambo mao ndé e",
+			""
+		]
+	},
+
+	"kombwa": {
+		"francais": [{
+				"prendre et manger des petits bouts avec les doigts, gouter": {
+					"def": "",
+					"ex": "cet Européen a seulement gouté notre nouriture, il n'en a que peu mangé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun mukala a kombo nde da lasu, a si deli mo ndango",
+			""
+		]
+	},
+
+	"komea": {
+		"francais": [{
+				"se répandre, déborder, se jeter": {
+					"def": "",
+					"ex": "la femme porte une cuvette d'eau sur la tete sans en répandre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muto a mambambe pan a madiba o mulopo esibe",
+			""
+		]
+	},
+
+	"kome": {
+		"francais": [{
+				"l'impot, la taxe": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kona": {
+		"francais": [{
+				"inciter, provoqueur, divilgeur": {
+					"def": "",
+					"ex": "ne rélève de cette chose à personne"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o si to moto onola din lambo",
+			""
+		]
+	},
+
+	"konda": {
+		"francais": [{
+				"la chaise, le fauteuil, le trone": {
+					"def": "",
+					"ex": "le fauteuil en rotin"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kondam": {
+		"francais": [{
+				"grand et haute": {
+					"def": "",
+					"ex": "une grande et haute chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kondon": {
+		"francais": [{
+				"le bruit de quelque chose qui tombe lourdement": {
+					"def": "",
+					"ex": "la pierre est tombée par terre avec bruit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dale di kwedi wase na",
+			""
+		]
+	},
+
+	"kongame": {
+		"francais": [{
+				"etreincliné, penché, courbé": {
+					"def": "",
+					"ex": "le varan a une longue queue courbée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngombe e ben mondo ma bwamba mu kongam",
+			""
+		]
+	},
+
+	"konge": {
+		"francais": [{
+				"incliner, pencher": {
+					"def": "",
+					"ex": "j'incline le baton"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma ebongo",
+			""
+		]
+	},
+
+	"kongongo": {
+		"francais": [{
+				"le bruit d'une pirogue qui s'échoue": {
+					"def": "",
+					"ex": "la pirogue s'est échouee bruyamment sur un rocher"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bolo bondedi o dale na",
+			""
+		]
+	},
+
+	"konjame": {
+		"francais": [{
+				"etre tombé, étendu comme une grande masse": {
+					"def": "",
+					"ex": "le cadavre de la baleine est étandu comme une grande masse au rivage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbimba ma njonji mu konjam o sawa",
+			""
+		]
+	},
+
+	"konje": {
+		"francais": [{
+				"faire tomber, étandre": {
+					"def": "",
+					"ex": "nous avons étendu le cadavre de l'animal sur le chemin"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di mbimba ma nama o ngea",
+			""
+		]
+	},
+
+	"konjo": {
+		"francais": [{
+				"la violence, le meurtre": {
+					"def": "",
+					"ex": "la violente qui ne mène pas chez les ancetres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kontrak": {
+		"francais": [{
+				"le contrat": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"konakonane": {
+		"francais": [{
+				"vangabonder": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"konse": {
+		"francais": [{
+				"faire ronder, trainer quelqu'un": {
+					"def": "",
+					"ex": "le père traine son enfant dans tout le village"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango a ma mun'ao o mundi mwese",
+			""
+		]
+	},
+	"konkon": {
+		"francais": [{
+				"le rouge forcé": {
+					"def": "",
+					"ex": "etre rouge forcé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kopa": {
+		"francais": [{
+				"le tonnelier": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kosa": {
+		"francais": [{
+				"peler, éplucher": {
+					"def": "",
+					"ex": "les femmes pèlent le manioc"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bito ba ma byobo ba ma kwamba",
+			""
+		]
+	},
+
+	"kosakosané": {
+		"francais": [{
+				"peler beaucoup": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kosea": {
+		"francais": [{
+				"se peler": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kota": {
+		"francais": [{
+				"nettoyer en coupant": {
+					"def": "",
+					"ex": "cet homme a nettoyé le palmier"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kotako": {
+		"francais": [{
+				"le nettoyage": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kotakotané": {
+		"francais": [{
+				"faire avec peine, se débrouiller": {
+					"def": "",
+					"ex": "nous avons pu pour recevoir notre hote"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di ta di o kasa mwen asu",
+			""
+		]
+	},
+
+	"kotele": {
+		"francais": [{
+				"épargner, économiser, ménanger, nettoyer, tailler": {
+					"def": "",
+					"ex": "menanger sa voix"
+				}
+			},
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koti": {
+		"francais": [{
+				"la veste": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kotokoto": {
+		"francais": [{
+				"une action d'ensemble": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"un travail en commun",
+			""
+		]
+	},
+
+	"kotumeye": {
+		"francais": [{
+				"faire une action en commun, tomber sur quelqu'un pour le frapper": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kobise": {
+		"francais": [{
+				"faire trébucher": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kobo": {
+		"francais": [{
+				"apercevoir, trébucher, heurter, accrocher": {
+					"def": "",
+					"ex": "quand le crapaud aperçoit un insecte, il fait un grand saut"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbomboka i weli te etanda na diso, i masobele elapat'a mukati",
+			""
+		]
+	},
+
+	"kobokobo": {
+		"francais": [{
+				"ce qui heurte": {
+					"def": "",
+					"ex": "des choses qui heurtent, des obstacles, des intrigues"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kobone": {
+		"francais": [{
+				"heurter avec quelque chose": {
+					"def": "",
+					"ex": "j'ai heurté l'enfant avec la main"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kobon": {
+		"francais": [{
+				"la grande maingreur": {
+					"def": "",
+					"ex": "il est dévenu très maigre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kwedi mukoti na",
+			""
+		]
+	},
+
+	"kobot": {
+		"francais": [{
+				"l'armoir, la commonde": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kofi": {
+		"francais": [{
+				"le café": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koikoi": {
+		"francais": [{
+				"quelque chose est lié tres fort,important, le bruit des talons": {
+					"def": "",
+					"ex": "lier, ficeler tres fort"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koise": {
+		"francais": [{
+				"ajouter": {
+					"def": "",
+					"ex": "quand tu achètes des aloses, on t'en ajoute souvent une ou deux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"wandi te bepa ba yoki",
+			""
+		]
+	},
+	"koki": {
+		"francais": [{
+				"le cordon ombilical": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kokoi": {
+		"francais": [{
+				"le complet écrasement": {
+					"def": "",
+					"ex": "il a complètement pilé le mais"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a koki mbasi na",
+			""
+		]
+	},
+
+	"kokoloko": {
+		"francais": [{
+				"le chant du coq": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kokone": {
+		"francais": [{
+				"tomber continuellement, écraser, piler avec quelque chose": {
+					"def": "",
+					"ex": "cet enfant tombe tout le temps"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu muna a mbei jita",
+			""
+		]
+	},
+
+	"kokoti": {
+		"francais": [{
+				"la grande veillesse, la fin": {
+					"def": "",
+					"ex": "etre tres vieux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"duna na",
+			""
+		]
+	},
+	"kolo": {
+		"francais": [{
+				"démailler les poissons du fillet épervier,jalouser quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kolokon": {
+		"francais": [{
+				"la dureté, la constipation": {
+					"def": "",
+					"ex": "cet enfant est constipé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu muna e",
+			""
+		]
+	},
+
+	"kolokosi": {
+		"francais": [{
+				"le glouteron, la bardane": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kolongone": {
+		"francais": [{
+				"etre habitué, avoir des relations avec quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di wala muyenga",
+			""
+		]
+	},
+
+	"kombea": {
+		"francais": [{
+				"procurer à quelqu'un, acquérir pour quelqu'un": {
+					"def": "",
+					"ex": "le père acquiert des biens pour ses"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango a ma bana masango",
+			""
+		]
+	},
+	"kombolo": {
+		"francais,": [{
+				"un arbre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"komele": {
+		"francais": [{
+				"donner un coup": {
+					"def": "",
+					"ex": "donner une chiquenaude"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"m'bomboto",
+			""
+		]
+	},
+
+	"komo": {
+		"francais": [{
+				"tirer avec force": {
+					"def": "",
+					"ex": "il a tiré avec force d'un seul coup"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kom mo ngedi po na ngina",
+			""
+		]
+	},
+
+	"komon": {
+		"francais": [{
+				"vulgaire, ordinaire": {
+					"def": "",
+					"ex": "une étoffe ordinaire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dibato la",
+			""
+		]
+	},
+
+	"kondele": {
+		"francais": [{
+				"une pagne fait de pièces de différentes couleurs": {
+					"def": "",
+					"ex": "porter une pagne de différentes couleurs"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kondo": {
+		"francais": [{
+				"parler correctement,l'honneur, le respect,etrès arrivé à maturité": {
+					"def": "",
+					"ex": "cet homme sait parler correctement le douala"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwambo ba Douala",
+			""
+		]
+	},
+
+	"kone": {
+		"francais": [{
+				"tomber avec quelque chose": {
+					"def": "",
+					"ex": "tombé avec eux dans l'étang"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"babo o ebudu",
+			""
+		]
+	},
+	"kongo": {
+		"francais": [{
+				"la poutre faitière": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kongome": {
+		"francais": [{
+				"etre couché, prostré": {
+					"def": "",
+					"ex": "j'ai trouvé mon ami étendu comme cadavre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na baman dikom lam a kongom mbimba",
+			""
+		]
+	},
+	"konji": {
+		"francais": [{
+				"la pureté, la chasteté, la décence": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"konone": {
+		"francais": [{
+				"jalouser quelqu'un, envier quelqu'un, convoiter": {
+					"def": "",
+					"ex": "ne convoiter rien de personne"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o si moto lambo",
+			""
+		]
+	},
+
+	"kon": {
+		"francais": [{
+				"le bruit d'un coup": {
+					"def": "",
+					"ex": "il ma donné un coup de poing"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a dom mba isilo na",
+			""
+		]
+	},
+
+	"konsi": {
+		"francais": [{
+				"un notable": {
+					"def": "",
+					"ex": "de vrais notables"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a bato ya mbale",
+			""
+		]
+	},
+
+	"konkonkembe": {
+		"francais": [{
+				"un arbuste": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kono": {
+		"francais": [{
+				"ronfler, lier, ficeler": {
+					"def": "",
+					"ex": "cette femme est en train de reler et mourir"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o ningo wala o wala o kwedi",
+			""
+		]
+	},
+
+	"kopedi": {
+		"francais": [{
+				"le fer blanc": {
+					"def": "",
+					"ex": "il ya pas de rondelles pour les clous de ces toles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"tona a ben bebene i si ben",
+			""
+		]
+	},
+
+	"kopitane": {
+		"francais": [{
+				"envelopper, embrouiller, s'entrelancer": {
+					"def": "",
+					"ex": "j'ai embrouillé les ficelles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na kopitane misinga",
+			""
+		]
+	},
+
+	"kopo": {
+		"francais": [{
+				"s'embrouiller": {
+					"def": "",
+					"ex": "les ficelles s'embrouillent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"misinga mi ma",
+			""
+		]
+	},
+
+	"kopea": {
+		"francais": [{
+				"etre embrouillé": {
+					"def": "",
+					"ex": "les ficelles sont embrouiller"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"misinga mi kopedi",
+			""
+		]
+	},
+
+	"kopone": {
+		"francais": [{
+				"s'embrouiller": {
+					"def": "",
+					"ex": "les ficelles s'embrouillent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"misinga mi ma",
+			""
+		]
+	},
+
+	"koroti": {
+		"francais": [{
+				"le bruit d'un objet en fer qu'on tire par terre": {
+					"def": "",
+					"ex": "il traine la chaine par terre "
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mongo ngokobi owase na",
+			""
+		]
+	},
+
+	"kos": {
+		"francais": [{
+				"le coup": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kosi": {
+		"francais": [{
+				"le cano": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koso": {
+		"francais": [{
+				"une société secrète": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kotekote": {
+		"francais": [{
+				"accidenté": {
+					"def": "",
+					"ex": "le chemin est raboteux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngea ne",
+			""
+		]
+	},
+	"kotin": {
+		"francais": [{
+				"le coton, le kapok": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koktot": {
+		"francais": [{
+				"la grande société": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"koto": {
+		"francais": [{
+				"la haie, la cloture, racheter, payer une rançon": {
+					"def": "",
+					"ex": "une femme acquise par rachat"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mut'a makoto",
+			""
+		]
+	},
+
+	"kotome": {
+		"francais": [{
+				"etre réuni, etre rassemblé": {
+					"def": "",
+					"ex": "nous sommes réunis dans cette maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di kotome o nin ndabo",
+			""
+		]
+	},
+
+	"kotomea": {
+		"francais": [{
+				"": {
+					"def": "",
+					"ex": "ils se réunissent chez le chef"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma omboa mwanedi",
+			""
+		]
+	},
+
+	"kotene": {
+		"francais": [{
+				"se réunir, se rassembler": {
+					"def": "",
+					"ex": "ils s'étaient réunis pour un entretiien"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba onol'ekwali",
+			""
+		]
+	},
+
+	"koye": {
+		"francais": [{
+				"tomber sur quelqu'un, se jeter sur quelqu'un": {
+					"def": "",
+					"ex": "quand le faucon voit un poisson il pique droit sur lui"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbela nen te sue e makoye mo omon",
+			""
+		]
+	},
+
+	"kristen": {
+		"francais": [{
+				"chrétien": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kruman": {
+		"francais": [{
+				"l'équipage d'appooint des bateaux": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kubisane": {
+		"francais": [{
+				"etre purgatif": {
+					"def": "",
+					"ex": "un purgatif"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwanga bo ma ",
+			""
+		]
+	},
+
+	"kubise": {
+		"francais": [{
+				"pour quelqu'un": {
+					"def": "",
+					"ex": "la mère a donné une purge à son enfant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango a ta a muna",
+			""
+		]
+	},
+
+	"kubu": {
+		"francais": [{
+				"une marmite en argile": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kubwa": {
+		"francais": [{
+				"avoir la diarrhée, évacuer": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kubwea": {
+		"francais": [{
+				"etre percé, avoir un trou": {
+					"def": "",
+					"ex": "la pirogue a un trou"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kolo bo kubwedi",
+			""
+		]
+	},
+
+	"kubwele": {
+		"francais": [{
+				"percer, révéler, ronger": {
+					"def": "",
+					"ex": "un troc d'arbre dans le flueve a percé la pirogue"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mukoko ma mopi mu bolo",
+			""
+		]
+	},
+
+	"kuca": {
+		"francais": [{
+				"l'éponge": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kudukenge": {
+		"francais": [{
+				"une mesure de capacité": {
+					"def": "",
+					"ex": "une mesure d'huile"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kudukudu": {
+		"francais": [{
+				"l'agitation": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kudumane": {
+		"francais": [{
+				"couvrir": {
+					"def": "",
+					"ex": "le toit la maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"munua mu ma ndabo",
+			""
+		]
+	},
+
+	"kuka": {
+		"francais": [{
+				"un paravent, un rideau": {
+					"def": "",
+					"ex": "le pecheurs font de paravents avec des tges de raphia pour que le feu soit protégé du vent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba mapongo na byengenge o jeka ngo oboso ba diyo",
+			""
+		]
+	},
+
+	"kukame": {
+		"francais": [{
+				"se fermer, etre fermé": {
+					"def": "",
+					"ex": "les paupières se ferme quand un petitobjet les touche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bepopo ba miso be makukame yetena son a lambo i tapi mo",
+			""
+		]
+	},
+
+	"kuke": {
+		"francais": [{
+				"fermer, le duisinier": {
+					"def": "",
+					"ex": "fermé la porte"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kukudu-kukudu": {
+		"francais": [{
+				"un bruit léger": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kukulane": {
+		"francais": [{
+				"faire un bruit léger": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kukutete": {
+		"francais": [{
+				"un héros": {
+					"def": "",
+					"ex": "David ayant tué Goliat été considéré comme un héros"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ponda David a bono Goliat a timbisongobele ka",
+			""
+		]
+	},
+
+	"kukutane": {
+		"francais": [{
+				"essayer de porter": {
+					"def": "",
+					"ex": "l'homme essaye de porter la caisse, mais il n'en est pas capable"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto a ma elimbi nde a si donga men",
+			""
+		]
+	},
+
+	"kukutu": {
+		"francais": [{
+				"le silence de consternation": {
+					"def": "",
+					"ex": "le village est dans la consternation, car le chef est décédé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mundi mu mundi na onolona mwanedi a wédi",
+			""
+		]
+	},
+
+	"kukwa": {
+		"francais": [{
+				"mordre, piquer": {
+					"def": "",
+					"ex": "le chien mord l'étranger"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbo e ma mwen a moto",
+			""
+		]
+	},
+
+	"kukwane": {
+		"francais": [{
+				"mordre avec quelque chose": {
+					"def": "",
+					"ex": "le callianasse pince chaque object avec deux forte pinces"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbeatoe mu ma lambo te mpendu ma ngina miba",
+			""
+		]
+	},
+
+	"kula": {
+		"francais": [{
+				"divulguer, calomnier publiquement": {
+					"def": "",
+					"ex": "divulguer dse secrets"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kulama": {
+		"francais": [{
+				"etre courbeé, vouté": {
+					"def": "",
+					"ex": "son dos est vouté"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbusa e kulam mo",
+			""
+		]
+	},
+
+	"kulane": {
+		"francais": [{
+				"se dénoncer": {
+					"def": "",
+					"ex": "hommes se dénoncent mutuellement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kulekule": {
+		"francais": [{
+				"quelque chose est fait avec force et jusqu'au bout": {
+					"def": "",
+					"ex": "ils sont dedant jusqu'au cou"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"be oten na",
+			""
+		]
+	},
+
+	"kulubémbé": {
+		"francais": [{
+				"le gonflement": {
+					"def": "",
+					"ex": "il est gonflé parcequ'il a beaucoup mangé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kwedi onola da la jita",
+			""
+		]
+	},
+
+	"kuloto": {
+		"francais": [{
+				"le bruit du tambour de guerre": {
+					"def": "",
+					"ex": "le tambour de guerre grondé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"elimb'a bwemba e topi na",
+			""
+		]
+	},
+
+	"kuma": {
+		"francais": [{
+				"amuser, divertir,": {
+					"def": "",
+					"ex": "les denseurs divertissent les gens"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"basé ngomo ba ma bato",
+			""
+		]
+	},
+
+	"kumba": {
+		"francais": [{
+				"l'orgueil, frapper, l'arrogance, la la présomption": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kumbé": {
+		"francais": [{
+				"les coups rythmé que donnent les femmes sur l'eau pour s'amuser en se baignant": {
+					"def": "",
+					"ex": "les femmes frappent l'eau avec leurs mains pour s'amuser"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bito ba madipa madiba na ma mabu",
+			""
+		]
+	},
+
+	"kumbulane": {
+		"francais": [{
+				"avoir une rechute": {
+					"def": "",
+					"ex": "il a de nouveau eu une rechute"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nolo e kumbulan pete mo",
+			""
+		]
+	},
+
+	"kume": {
+		"francais": [{
+				"le cumin": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kumkum": {
+		"francais": [{
+				"le bruit de pas, la grande qualité": {
+					"def": "",
+					"ex": "il a beaucoup de cheveux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mulopo mwe mo na",
+			""
+		]
+	},
+
+	"kumwa": {
+		"francais": [{
+				"etre juste en train de faire, commencer": {
+					"def": "",
+					"ex": "ils étaient juste en train d'aller à la peche "
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba kumo wala o musombo",
+			""
+		]
+	},
+
+	"kumwele": {
+		"francais": [{
+				"commencer, reprende": {
+					"def": "",
+					"ex": "nous avions terminé cette affaire, mais le patron l'a recommencée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di ta di domse bon bwmbo, nde sango a pete mo",
+			""
+		]
+	},
+
+	"kuna": {
+		"francais": [{
+				"venger quelqu'un": {
+					"def": "",
+					"ex": "je venge mon père de son ennemi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma tete tengene musinged'ao",
+			""
+		]
+	},
+
+	"kunda": {
+		"francais": [{
+				"croitre, grandir, devenir gros et gras": {
+					"def": "",
+					"ex": "ce jeune homme est devenu tres gros"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"yen esomb'a moto e kundi jita",
+			""
+		]
+	},
+
+	"kunea": {
+		"francais": [{
+				"venger pour quelqu'un": {
+					"def": "",
+					"ex": "le père s'est vengé pour moi dans mon affaire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango a kunedi mba bwambo bam",
+			""
+		]
+	},
+
+	"kunga": {
+		"francais": [{
+				"la chaloupe, la pinasse, la péniche": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"kungan": {
+		"francais": [{
+				"nom d'une société secrète": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kurungundu": {
+		"francais": [{
+				"une maladie contagieuse, la rougeole": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kusa": {
+		"francais": [{
+				"recevoir, obtenir": {
+					"def": "",
+					"ex": "avoir un malheur, une perte, de la peine"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kusame": {
+		"francais": [{
+				"avoir les cheveux en désordre, etre courbé": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kusane": {
+		"francais": [{
+				"obtenir de quelqu'un": {
+					"def": "",
+					"ex": "j'ai reçu un cadeau de lui"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na kusan mo jobea",
+			""
+		]
+	},
+
+	"kuse": {
+		"francais": [{
+				"laiser les cheveux en désordre": {
+					"def": "",
+					"ex": "ne lassez pas les cheveux de votre tete en désordre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lo si no o milopo manu",
+			""
+		]
+	},
+
+	"kusea": {
+		"francais": [{
+				"obtenir pour quelqu'un": {
+					"def": "",
+					"ex": "il obtenait pour moi l'autorisation d'aller en voyage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a kusea mba wonja o wala o londo",
+			""
+		]
+	},
+
+	"kusise": {
+		"francais": [{
+				"faire obtenir quelque chose, procurer quelque chose": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kusu": {
+		"francais": [{
+				"le fruit d'une liane": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kutakuta": {
+		"francais": [{
+				"qu'on fait un effort pour se cacher": {
+					"def": "",
+					"ex": "marcher courbé pour ne pas etre vu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kutakutané": {
+		"francais": [{
+				"cacher": {
+					"def": "",
+					"ex": "cet homme cache des affaires"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a ma mambo",
+			""
+		]
+	},
+
+	"kwa": {
+		"francais": [{
+				"un arbre aromatique": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwabulu": {
+		"francais": [{
+				"un arbre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwai": {
+		"francais": [{
+				"la calme réflexion": {
+					"def": "",
+					"ex": "etre assis en réfléchissant calmement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwakarat": {
+		"francais": [{
+				"le bruit d'une noix qu'on craque avec ses dents": {
+					"def": "",
+					"ex": "quand tu craques une noix dans ta bouche, elle fait crac"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o mabwa te kaso o mudumbu, e matopo",
+			""
+		]
+	},
+
+	"kwakasa": {
+		"francais": [{
+				"une action brusque": {
+					"def": "",
+					"ex": "il s'est tout à coup levé brusquement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a tem omon ngedi po na",
+			""
+		]
+	},
+
+	"kwakwa": {
+		"francais": [{
+				"gratter, déchirer": {
+					"def": "",
+					"ex": "la mendiante se gratter la gorge"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mut'a njako na la mabe",
+			""
+		]
+	},
+
+	"kwakwakwa": {
+		"francais": [{
+				"un fort tremblement": {
+					"def": "",
+					"ex": "l'enfant a commencé à trembler tres fort à cause d'une forte fièvre "
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"onola nga a jita muna a kuma soa na",
+			""
+		]
+	},
+
+	"kwakwé": {
+		"francais": [{
+				"un société secrète": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwekwea": {
+		"francais": [{
+				"se déchirer": {
+					"def": "",
+					"ex": "l'habit s'est déchiré"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mboti e ta e",
+			""
+		]
+	},
+
+	"kwala": {
+		"francais": [{
+				"parler, dire": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwalakwala": {
+		"francais": [{
+				"un genre de nattes": {
+					"def": "",
+					"ex": "avec l'interieur des tiges de palme comme nattes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba malongane byengenge ka bebumbu",
+			""
+		]
+	},
+
+	"kwalane": {
+		"francais": [{
+				"parler avec quelqu'un": {
+					"def": "",
+					"ex": "il a dit a son père que ..."
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a sango na",
+			""
+		]
+	},
+
+	"kwalea": {
+		"francais": [{
+				"s'entretenir, une habitude": {
+					"def": "",
+					"ex": "nous nous sommes entretenus de cette question"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di ta di onola mi myuedi",
+			""
+		]
+	},
+
+	"kwalisane": {
+		"francais": [{
+				"parler avec quelq'un": {
+					"def": "",
+					"ex": "je lui ai parlé ainsi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ta na mo nika",
+			""
+		]
+	},
+
+	"kwalo": {
+		"francais": [{
+				"la hauteur, haut": {
+					"def": "",
+					"ex": "la construction est très haute"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bolongi bwe",
+			""
+		]
+	},
+
+	"kwama": {
+		"francais": [{
+				"s'allumer brusquement": {
+					"def": "",
+					"ex": "l'allumette s'est allumer brusquement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngob'a wea e kwam",
+			""
+		]
+	},
+
+	"kwamba": {
+		"francais": [{
+				"faire disparaitre par mangie": {
+					"def": "",
+					"ex": "le soucier a fait disparaitre l'enfant de cet homme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mot'a lemba a kwambi mun'a num moto",
+			""
+		]
+	},
+
+	"kwambai": {
+		"francais": [{
+				"quelque chose n'est pas solide, affaibli": {
+					"def": "",
+					"ex": "il a monté la charpente d'une petite case peu solide"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a kwambe son a bolongi na",
+			""
+		]
+	},
+
+	"kwambame": {
+		"francais": [{
+				"etre peu solide, peu ajusté": {
+					"def": "",
+					"ex": "le toit est encore peu ajusté"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"munua mu dia mu kwambam",
+			""
+		]
+	},
+
+	"kwambane": {
+		"francais": [{
+				"ravir à quelqu'un, faire disparaitre par mangie à quelqu'un": {
+					"def": "",
+					"ex": "soit par vol, soit par meurtre, le soucier lui a ravi son enfant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"jiba to ebwan, mot'a lemba a kwamban mo muna",
+			""
+		]
+	},
+
+	"kwambe": {
+		"francais": [{
+				"la clarté, la luminosité": {
+					"def": "",
+					"ex": "il ya un beau clair d lune"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"modi mu mapana na",
+			""
+		]
+	},
+
+	"kwamse": {
+		"francais": [{
+				"allumer, ouvrir quelque chose": {
+					"def": "",
+					"ex": "allumer une allumette"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngob'a wéa",
+			""
+		]
+	},
+
+	"kwanda": {
+		"francais": [{
+				"chasser, se séparer de": {
+					"def": "",
+					"ex": "l'homme chasse la femme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto a ma muto",
+			""
+		]
+	},
+
+	"kwandame": {
+		"francais": [{
+				"avoir le dos courbé": {
+					"def": "",
+					"ex": "le chat fait le gros dos"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"singi e kwandam",
+			""
+		]
+	},
+
+	"kwandane": {
+		"francais": [{
+				"se quereller avec quelqu'un, se séparer": {
+					"def": "",
+					"ex": "les gens du village et le maitre d'école se sont querellés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba mundi na muled'esukulu ba ta ba",
+			""
+		]
+	},
+
+	"kwande": {
+		"francais": [{
+				"faire le gros dos, courber": {
+					"def": "",
+					"ex": "le chat a fait le gros dos"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"singi e mongo mao",
+			""
+		]
+	},
+
+	"kwandeki": {
+		"francais": [{
+				"ce qui est élevé, l'estrade, l'": {
+					"def": "",
+					"ex": "ils font un échafaudage pour construire un grand batiment"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o longa bolongi bwasam",
+			""
+		]
+	},
+
+	"kwangwa": {
+		"francais": [{
+				"avoir chaud": {
+					"def": "",
+					"ex": "son corps n'était pas chaud"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nolo e si ta e mo",
+			""
+		]
+	},
+
+	"kwangwele": {
+		"francais": [{
+				"réchauffer": {
+					"def": "",
+					"ex": "le soleil nous réchauffe le corps"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"wei i ma biso manolo",
+			""
+		]
+	},
+
+	"kwanjai": {
+		"francais": [{
+				"quelque chose est posé séparement sans fixé": {
+					"def": "",
+					"ex": "il a posé les poutres sur la maison sans etre fixées"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a nenge bebongo omon a bolongi na",
+			""
+		]
+	},
+
+	"kwanjame": {
+		"francais": [{
+				"etre posé lourdement sans etre fixé": {
+					"def": "",
+					"ex": "les toits des Menengouba sont lourdament posés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"minua ma Mwanenguba mi kwanjam na kwanjai",
+			""
+		]
+	},
+
+	"kwan": {
+		"francais": [{
+				"le passé, le temps ancien, jadis, autrefois": {
+					"def": "",
+					"ex": "les anciens, les hommes d'autrefois"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba",
+			""
+		]
+	},
+
+	"kwankwan": {
+		"francais": [{
+				"le lointain passé, léger, instable": {
+					"def": "",
+					"ex": "celui qui n'a pas d'attitude ferme est instable"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto un matemetemene",
+			""
+		]
+	},
+
+	"kwana": {
+		"francais": [{
+				"etre firieux, méchant, sauvage": {
+					"def": "",
+					"ex": "les betes sauvages"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nama i kwan",
+			""
+		]
+	},
+
+	"kwanane": {
+		"francais": [{
+				"retenir furieusement quelque chose": {
+					"def": "",
+					"ex": "j'ai firieusement retenu ce qu'il m'a donné"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na kwanan lambo a mba",
+			""
+		]
+	},
+
+	"kwanea": {
+		"francais": [{
+				"etre furieux contre quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"cet homme furieux",
+			""
+		]
+	},
+
+	"kwanse": {
+		"francais": [{
+				"rendre fort, furieux": {
+					"def": "",
+					"ex": "ne rend pas le chien furieux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o si mbo",
+			""
+		]
+	},
+
+	"kwas": {
+		"francais": [{
+				"une action brusque": {
+					"def": "",
+					"ex": "le fusil a tonné brusquement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngadi e bum na",
+			""
+		]
+	},
+
+	"kwasa": {
+		"francais": [{
+				"briser, fracturer, ravir, arracher, détacher": {
+					"def": "",
+					"ex": "la mort a arraché un jeune homme au milieu de nous"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kwedi e kwasi esomb'a moto oteten asu",
+			""
+		]
+	},
+
+	"kwasane": {
+		"francais": [{
+				"arracher à quelqu'un": {
+					"def": "",
+					"ex": "la mort nous a arraché celui que aimions"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kwedi e kwasan biso nu di tondino",
+			""
+		]
+	},
+
+	"kwasea": {
+		"francais": [{
+				"etre cassé, brisé, fracturé": {
+					"def": "",
+					"ex": "la poigné est cassé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dikakasa di kwasedi",
+			""
+		]
+	},
+
+	"kwasekwase": {
+		"francais": [{
+				"l'état non raboté, grossier, négligé": {
+					"def": "",
+					"ex": "cette planche est-non rabotée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"yen ebambu ye na",
+			""
+		]
+	},
+
+	"kwata": {
+		"francais": [{
+				"griffer, écorcher, racler": {
+					"def": "",
+					"ex": "il veut me griffer avec les ongles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mapula mba nandi",
+			""
+		]
+	},
+
+	"kwatakwata": {
+		"francais": [{
+				"la manière de s'agripper": {
+					"def": "",
+					"ex": "le singe grimpe à l'arbre en s'agrippant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kema e malanda o ebongo na",
+			""
+		]
+	},
+
+	"kwatakwatane": {
+		"francais": [{
+				"griffer, gratter, racler sans raison": {
+					"def": "",
+					"ex": "le chat gratte à la porte la nuit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"singi e ma o jombe bulu",
+			""
+		]
+	},
+
+	"kwatame": {
+		"francais": [{
+				"s'agripper à quelque chose en tombant": {
+					"def": "",
+					"ex": "le porc-épic"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngombe e wamse ngubu o mongo",
+			""
+		]
+	},
+
+	"kwele": {
+		"francais": [{
+				"s'grippa vite au dos de l'hippopotame": {
+					"def": "",
+					"ex": "j'ai failli tomber, mais je me suis agrippé à des habres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na wusa ko o bewud",
+			""
+		]
+	},
+
+	"kwatane": {
+		"francais": [{
+				"se quereller, s'entredéchirer": {
+					"def": "",
+					"ex": "les villageois et les chefs se sont querellés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato b'ekombo na banedi ba ta ba",
+			""
+		]
+	},
+
+	"kwayame": {
+		"francais": [{
+				"se trouver quelque part sans y etre fixé": {
+					"def": "",
+					"ex": "ce n'est pas mon chez moi ici, je n'y suis que de passage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"seto mbo'am nin, na kwayam nde owan",
+			""
+		]
+	},
+
+	"kwaye": {
+		"francais": [{
+				"poser, installer quelque chose": {
+					"def": "",
+					"ex": "l'oiseau installe son nid dans les branches de l'arbre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"inon i ma dumbu lao oteten a mikanjo ma bwele",
+			""
+		]
+	},
+
+	"kwédi": {
+		"francais": [{
+				"la mort, le deuil, l'entterrement, les funérailles": {
+					"def": "",
+					"ex": "la mort subite"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwelane": {
+		"francais": [{
+				"réfléchir, penser, calculer": {
+					"def": "",
+					"ex": "la réunion a réfléchi sur les paroles de l'ancien"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ndongamen e kwelan bwambo ba mutudu",
+			""
+		]
+	},
+
+	"kwelea": {
+		"francais": [{
+				"tomber sur quelqu'un, atteindre": {
+					"def": "",
+					"ex": "un malheur m'est arrivé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ndutu e kweledi mba",
+			""
+		]
+	},
+
+	"kwelen": {
+		"francais": [{
+				"un bond rapide": {
+					"def": "",
+					"ex": "le léopard a sauté d'un seul bond"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"njo nangwe ngedi po na",
+			""
+		]
+	},
+	"kwesame": {
+		"francais": [{
+				"etre fermé": {
+					"def": "",
+					"ex": "un livre est conservé par deux couvertures qui s'ouvrent et se ferment"
+				}
+			},
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kalati e makombabe na ngut'ao iba i matelame na",
+			""
+		]
+	},
+
+	"kwesane": {
+		"francais": [{
+				"fermer avec quelque chose": {
+					"def": "",
+					"ex": "on ferme la porte avec un cadenas"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba makwesane jombe dale",
+			""
+		]
+	},
+
+	"kwese": {
+		"francais": [{
+				"faire tomber, faire échouer, fermer, terminer": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwe": {
+		"francais": [{
+				"saisir, prendre, arreter, boutonner": {
+					"def": "",
+					"ex": "prend ma main"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dia lam",
+			""
+		]
+	},
+
+	"kwedikwedi": {
+		"francais": [{
+				"une attention": {
+					"def": "",
+					"ex": "pendant la conversation cet homme est assis en écoutant attentivement pour savoir se qu'on dit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu sango a maja o ekwali na o bia nje bato ba makwalano ",
+			""
+		]
+	},
+
+	"kwei": {
+		"francais": [{
+				"la termitière": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kweise": {
+		"francais": [{
+				"faire saisir": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwekwe": {
+		"francais": [{
+				"faire un geste de blame de sa main": {
+					"def": "",
+					"ex": "l'homme fait à sa femme un de blame"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango a ma munj'ao",
+			""
+		]
+	},
+
+	"kwelekwele": {
+		"francais": [{
+				"l'incostance, l'irrésolution": {
+					"def": "",
+					"ex": "celui qui n'a pas une attitude ferme est un incostant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto nu si bake betemedi nde e mot'a",
+			""
+		]
+	},
+	"kwelesen": {
+		"francais": [{
+				"le cri de la perdrix": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwem": {
+		"francais": [{
+				"les feuilles de manioc cuites à l'eau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwéme": {
+		"francais": [{
+				"mépriser, dédaigner, désobéir": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kweme": {
+		"francais": [{
+				"s'accrocher, etre accroché": {
+					"def": "",
+					"ex": "ils se sont accrochés à des planches, comme ils ne savaient pas nanger"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba o bebambu, kana ba si tano ba bia noi",
+			""
+		]
+	},
+
+	"kwemene": {
+		"francais": [{
+				"s'accrocher, se cramponner avec quelque chose": {
+					"def": "",
+					"ex": "le singe se cramponne à la branche avec la main"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kéma e ma dikanjo dia",
+			""
+		]
+	},
+
+	"kwene": {
+		"francais": [{
+				"saisir avec quelque chose, saisir de quelqu'un": {
+					"def": "",
+					"ex": "l'éléphant saisit les choses avec la trompe comme main"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"njou e ma mambo yodu ka dia",
+			""
+		]
+	},
+
+	"kwengelen": {
+		"francais": [{
+				"un bruit métallique": {
+					"def": "",
+					"ex": "les fourchettes et les cuillères font un bruit métallique sur la table"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"myaso na to ba matopo o tébedi na",
+			""
+		]
+	},
+
+	"kwenkwen": {
+		"francais": [{
+				"le regard sévère, faché": {
+					"def": "",
+					"ex": "le père a regardé son enfant désobeissant avec des yeux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango ombo mun'ao na pamo na miso ma",
+			""
+		]
+	},
+
+	"kwes": {
+		"francais": [{
+				"l'éternuement": {
+					"def": "",
+					"ex": "il a bruyamment éternué devant moi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a sime oboso bam na",
+			""
+		]
+	},
+
+	"kwesén": {
+		"francais": [{
+				"la luminosité, le clarté": {
+					"def": "",
+					"ex": "c'est aujourd'hui un jour tres lumineux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"buna bo majesele na",
+			""
+		]
+	},
+
+	"kwete": {
+		"francais": [{
+				"une piece d'igname": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"kwetikweti": {
+		"francais": [{
+				"le regard a vide": {
+					"def": "",
+					"ex": "il regarde avidement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a makwete miso na",
+			""
+		]
+	},
+
+	"kweye": {
+		"francais": [{
+				"saisir pou quelqu'un": {
+					"def": "",
+					"ex": "prends ce paquet pour moi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mba din dibomba",
+			""
+		]
+	},
+
+	"kwi": {
+		"francais": [{
+				"la courte taille": {
+					"def": "",
+					"ex": "cet homme a unne petite taille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto e isungu na",
+			""
+		]
+	},
+
+	"kwiyame": {
+		"francais": [{
+				"etre ébourriffé": {
+					"def": "",
+					"ex": "les cheveux qui n'ont pas été peignés sont ébourriffés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"no i si swaswabe i kweyam",
+			""
+		]
+	},
+
+	"kweyi": {
+		"francais": [{
+				"laiser les cheveux sans etre peignés, rester ébouriffé": {
+					"def": "",
+					"ex": "cette femme a dse cheveux très ébouriffés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a no jita",
+			""
+		]
+	}
+}

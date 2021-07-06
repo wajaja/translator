@@ -1,0 +1,5362 @@
+{
+	"laba": {
+		"francais": [{
+				"morde, piquer": {
+					"def": "",
+					"ex": "un serpent m'a mordu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nama-bwaba e labi mba",
+			""
+		]
+	},
+
+	"labalabane": {
+		"francais": [{
+				"intens": {
+					"def": "",
+					"ex": "parler à tord et à travers"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwabo bo si bake",
+			""
+		]
+	},
+
+	"labane": {
+		"francais": [{
+				"morden avec quelque chose": {
+					"def": "",
+					"ex": "les serpent mordent avec les dents"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nama myab i ma masonga",
+			""
+		]
+	},
+
+	"labele": {
+		"francais": [{
+				"commencer quelque chose brusquement avec quelqu'un": {
+					"def": "",
+					"ex": "il a brusquement commencé une querelle avec lui"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"labu": {
+		"francais": [{
+				"adjectif indépendent": {
+					"def": "",
+					"ex": "leur nom"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dina ",
+			""
+		]
+	},
+
+	"laine": {
+		"francais": [{
+				"le plafond": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"laita": {
+		"francais": [{
+				"le chaland": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"laka": {
+		"francais": [{
+				"remettre, céder quelque chose à quelqu'un, preter, avancer": {
+					"def": "",
+					"ex": "il m'a preté un chapeau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a laki mba tamba",
+			""
+		]
+	},
+
+	"lakalakane": {
+		"francais": [{
+				"parler à tort et à travers": {
+					"def": "",
+					"ex": "il parle à tort et à travers dans son procès"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma mudumbu onola muka moa",
+			""
+		]
+	},
+
+	"lakame": {
+		"francais": [{
+				"faire quelque chose sans arret": {
+					"def": "",
+					"ex": "l'homme fait continuellement dens palabres à sa femme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sango a ma munj'ao bwambo",
+			""
+		]
+	},
+
+	"lakamale": {
+		"francais": [{
+				"harceler quelqu'un": {
+					"def": "",
+					"ex": "il me harcèle de palabres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mba bwambo o nolo",
+			""
+		]
+	},
+
+	"lakae": {
+		"francais": [{
+				"emprunter pour quelqu'un": {
+					"def": "",
+					"ex": "emprunte pour moi un peu d'argent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mba son a moni",
+			""
+		]
+	},
+
+	"lakisane": {
+		"francais": [{
+				"confier, avoir confiance": {
+					"def": "",
+					"ex": "avoir confiance dans quelqu'un concernant quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto onola lambo",
+			""
+		]
+	},
+
+	"lakise": {
+		"francais": [{
+				"remettre, céder totalement": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lambo": {
+		"francais": [{
+				"pardonner, excuser": {
+					"def": "",
+					"ex": "nous sommes pardonnés concernant nos fautes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"son lakise mba",
+			""
+		]
+	},
+
+	"lala": {
+		"francais": [{
+				"couvrir, recouvrir, revetir quelque chose avec sens passif": {
+					"def": "",
+					"ex": "les pieds du crocodile sont couverts d'une peau comme ceux du canard"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"n'eyobo ka mine m'elela",
+			""
+		]
+	},
+
+	"lam": {
+		"francais": [{
+				"mon, ma": {
+					"def": "",
+					"ex": "mon nom"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dina lam",
+			""
+		]
+	},
+
+	"lama": {
+		"francais": [{
+				"les branchies, les ouies": {
+					"def": "",
+					"ex": "les poissons respirent par les ouies"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sue i masoea nde wei la malama",
+			""
+		]
+	},
+
+	"lamalamane": {
+		"francais": [{
+				"agir d'une manière désordonnée": {
+					"def": "",
+					"ex": "dans la conversation il parle d'une manière désordonnée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma bwambo o ekwali",
+			""
+		]
+	},
+
+	"lamba": {
+		"francais": [{
+				"tendre, dresser un piège, attraper avec un piège, dresser une embuscade": {
+					"def": "",
+					"ex": "une petite nasse n'est pas posée au milieu du fleuve"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbe nisadi e si ma muteta",
+			""
+		]
+	},
+
+	"lambame": {
+		"francais": [{
+				"etre tendu, etre pret, décidé à faire quelque chose": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma o dipa wa",
+			""
+		]
+	},
+	"lambe": {
+		"francais": [{
+				"tendre, dresser": {
+					"def": "",
+					"ex": "dresser les oreilles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lambi": {
+		"francais": [{
+				"le piège, l'embuche, la tentation": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"landa": {
+		"francais": [{
+				"griper, gravir, monter": {
+					"def": "",
+					"ex": "les singes grimpent sur l'arbre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kema i ma o bwele",
+			""
+		]
+	},
+
+	"landalandane": {
+		"francais": [{
+				"grimper sans but": {
+					"def": "",
+					"ex": "le perroquet grimpe partout"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngoso e ma wuma na wuma",
+			""
+		]
+	},
+
+	"landise": {
+		"francais": [{
+				"faire dresser": {
+					"def": "",
+					"ex": "faire dresser les cheveux sur la tete de quelqu'un"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto no o mulopo",
+			""
+		]
+	},
+
+	"langa": {
+		"francais": [{
+				"primit, considérer, lire": {
+					"def": "",
+					"ex": "je lis un livre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"langalangane": {
+		"francais": [{
+				"lire n'importe quoi, comment": {
+					"def": "",
+					"ex": "il ne faut pas lire n'importe quoi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto a s'angamen",
+			""
+		]
+	},
+
+	"langan": {
+		"francais": [{
+				"n'est-ce pas, certainement": {
+					"def": "",
+					"ex": "ce livre n'est-il pas bel et bien à moi?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin kalati e titi nam e?",
+			""
+		]
+	},
+
+	"langane": {
+		"francais": [{
+				"lire avec quelque chose": {
+					"def": "",
+					"ex": "je lis le livre avec des lunettes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma kalati mene",
+			""
+		]
+	},
+
+	"langea": {
+		"francais": [{
+				"lire à quelqu'un, faire la lecture à quelqu'un": {
+					"def": "",
+					"ex": "la lettre m'a été lue"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma kalati mené",
+			""
+		]
+	},
+
+	"langisane": {
+		"francais": [{
+				"comparer quelque chose": {
+					"def": "",
+					"ex": "on peut comparer cette chose avec l'autre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di mawele din lambo na dine",
+			""
+		]
+	},
+
+	"langise": {
+		"francais": [{
+				"faire lire": {
+					"def": "",
+					"ex": "le maitre fait lire un livre aux enfants"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"langwa": {
+		"francais": [{
+				"dire, raconter, precher": {
+					"def": "",
+					"ex": "raconter une histoire"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"langwabele": {
+		"francais": [{
+				"la parole de Dieu nous a été annoncée": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"langwane": {
+		"francais": [{
+				"se raconter réciproquement": {
+					"def": "",
+					"ex": "ces hommes se racontent des histoires"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ban bato ba ma myungo",
+			""
+		]
+	},
+
+	"langwea": {
+		"francais": [{
+				"dire, raconter, narrer à quelqu'un": {
+					"def": "",
+					"ex": "l'évangile est annoncé aux pauvres"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"myango ma bwam mi languabele batuedi",
+			""
+		]
+	},
+
+	"lanta": {
+		"francais": [{
+				"la lanterne": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lanamele": {
+		"francais": [{
+				"se faire honneur à soi-meme concernant quelque chose": {
+					"def": "",
+					"ex": "frapper sur les épaules"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"lanlan": {
+		"francais": [{
+				"la chaleur,l'ardeur": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"lanse": {
+		"francais": [{
+				"répendre quelque chose": {
+					"def": "",
+					"ex": "répendre ton plan de paix sur cette terre "
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lanse mwano ma musango mongo omon a nin wase",
+			""
+		]
+	},
+
+	"lanu": {
+		"francais": [{
+				"votre,vos": {
+					"def": "",
+					"ex": "votre nom"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lodubwan",
+			""
+		]
+	},
+
+	"lao": {
+		"francais": [{
+				"son, sa,ses": {
+					"def": "",
+					"ex": "ses clés"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lasi": {
+		"francais": [{
+				"le verre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lasu": {
+		"francais": [{
+				"notre, nos": {
+					"def": "",
+					"ex": "notre nom"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dina lasu",
+			""
+		]
+	},
+
+	"lasumeye": {
+		"francais": [{
+				"se lever brusquement, s'emporter": {
+					"def": "",
+					"ex": "il est levé brusquement de son siège"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a laye o konda na bo",
+			""
+		]
+	},
+
+	"lata": {
+		"francais": [{
+				"unir, mettre ensemble, joindre": {
+					"def": "",
+					"ex": "le jour décline"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"buna bo lati",
+			""
+		]
+	},
+
+	"latame": {
+		"francais": [{
+				"etre étendu": {
+					"def": "",
+					"ex": "d'habitude un tapis couvre la table"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dibato di mabe di omon a tebedi",
+			""
+		]
+	},
+
+	"latane": {
+		"francais": [{
+				"unir avec quelque chose": {
+					"def": "",
+					"ex": "nous unissons avec amour"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di malatane ndolo",
+			""
+		]
+	},
+
+	"latele": {
+		"francais": [{
+				"étendre, étaler, répendre": {
+					"def": "",
+					"ex": "ils ont mis un tapis sur la table"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba latele dibato omon a tebedi",
+			""
+		]
+	},
+
+	"latise": {
+		"francais": [{
+				"faire unir": {
+					"def": "",
+					"ex": "unir un mariage"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"le": {
+		"francais": [{
+				"de": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"leane": {
+		"francais": [{
+				"s'instruir mutuellement": {
+					"def": "",
+					"ex": "unis-les pourqu'il s'entr'aident et s'instruisent mutuellement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lata babo wuma iwo na ba swanele na",
+			""
+		]
+	},
+
+	"lebla": {
+		"francais": [{
+				"le manoeuvre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lée": {
+		"francais": [{
+				"montrer, faire voir, présenter, inviter, offrir": {
+					"def": "",
+					"ex": "le maitre enseigne les élèves"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muledi a ma bautu",
+			""
+		]
+	},
+
+	"leele": {
+		"francais": [{
+				"montrer, enseigner, témoigner quelque chose à quelqu'un": {
+					"def": "",
+					"ex": "les parents doivents montrer de la pitié à leurs enfants"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bayedi bangamen ban babu ndedi",
+			""
+		]
+	},
+
+	"lema": {
+		"francais": [{
+				"etre sot, stupide, ignorant, méchant": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lemaiemane": {
+		"francais": [{
+				"agir stupidement": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lemba": {
+		"francais": [{
+				"la sorcellerie, la mangie": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lémbalémbané": {
+		"francais": [{
+				"faire un effort inutile": {
+					"def": "",
+					"ex": "n'essaye pas de montrer que tu es riche"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o si o lée na we m'bwan",
+			""
+		]
+	},
+
+	"lembame": {
+		"francais": [{
+				"se dresser, etre dressé": {
+					"def": "",
+					"ex": "la tribu se dresse comme un lion"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"tumba di ma ka ngila",
+			""
+		]
+	},
+
+	"lembe": {
+		"francais": [{
+				"faire un effort, essayr de faire quelque chose,poisson de la famille des Hydrocyonnes": {
+					"def": "",
+					"ex": "fais un effort pour porter cette caisse"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o bambe yen elimbi",
+			""
+		]
+	},
+
+	"lembelembe": {
+		"francais": [{
+				"l'asssurance, le courage, la décision": {
+					"def": "",
+					"ex": "dresser la tete tout droit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"tese mulopo na",
+			""
+		]
+	},
+
+	"lembitane": {
+		"francais": [{
+				"porter quelque chose avec peine": {
+					"def": "",
+					"ex": "je fais tous les efforts pour porter cette caisse"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma nolo o bambe mun muna",
+			""
+		]
+	},
+
+	"lemsane": {
+		"francais": [{
+				"etre trompeur": {
+					"def": "",
+					"ex": "l'aspect du basilic est trompeur"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"jenene l'ewedi di ma",
+			""
+		]
+	},
+
+	"lemse": {
+		"francais": [{
+				"rendre stupide=séduire, duper, tromper; tricher": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lena": {
+		"francais": [{
+				"qui, que, procurer, amener": {
+					"def": "",
+					"ex": "la chose que je t'ai donnée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lambo na bolino wa",
+			""
+		]
+	},
+
+	"lenda": {
+		"francais": [{
+				"faire des incisions": {
+					"def": "",
+					"ex": "les femmes incisent les poissons pour y mettre du sel"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bito ba ma sue o tuka mo wanga",
+			""
+		]
+	},
+
+	"lendalenda": {
+		"francais": [{
+				"l'agitation": {
+					"def": "",
+					"ex": "il se promène d'une manière agitée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma yongo na",
+			""
+		]
+	},
+
+	"lendalendane": {
+		"francais": [{
+				"bondir à gauche et à droite, s'agiter vainement": {
+					"def": "",
+					"ex": "tu t'agites toute la journée pour rien"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o ma buna bwese tete",
+			""
+		]
+	},
+	"lenea": {
+		"francais": [{
+				"amener, procurer, attirer quelque chose à quelqu'un": {
+					"def": "",
+					"ex": "la colère de Dieu nous attire la condamnation et la mort"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"malinga ma Loba ma ma",
+			""
+		]
+	},
+
+	"lenlen": {
+		"francais": [{
+				"ce qui brille": {
+					"def": "",
+					"ex": "les étoiles brillent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngengeti i mapana na",
+			""
+		]
+	},
+
+	"lési": {
+		"francais": [{
+				"les dentelles": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"leta": {
+		"francais": [{
+				"la lettre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"lebe": {
+		"francais": [{
+				"porter le deuil de quelqu'un, faire les cérémonies de deuil": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"labelebe": {
+		"francais": [{
+				"morne, sans force, le portage en commun": {
+					"def": "",
+					"ex": "ils portent la caisse ensemble"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba mabambe elimbi",
+			""
+		]
+	},
+
+	"leke": {
+		"francais": [{
+				"tendre, dresser, montrer, désigner": {
+					"def": "",
+					"ex": "désigner avec le doigt"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lende": {
+		"francais": [{
+				"il a été visé avec le fusil": {
+					"def": "",
+					"ex": "prendre la responsabilité d'une affirmation"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bwanga onol'ekwali",
+			""
+		]
+	},
+
+	"lekeleke": {
+		"francais": [{
+				"quelque chose est très bas": {
+					"def": "",
+					"ex": "la pirogue est enfoncée jusqu'au bord"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bolo bo lekemedi na",
+			""
+		]
+	},
+
+	"lekeme": {
+		"francais": [{
+				"etre tourné, dirigé vers quelque chose": {
+					"def": "",
+					"ex": "la porte de notre maison est tournée vers la mer"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"jombe la ndabo asu di lekem jombwa munja",
+			""
+		]
+	},
+
+	"lekemeye": {
+		"francais": [{
+				"etre bas": {
+					"def": "",
+					"ex": "la pirogue est très basse, elle est vite remplie de chares"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bolo bo lekemedi, bo mawamse londa muna",
+			""
+		]
+	},
+
+	"lekeye": {
+		"francais": [{
+				"tendre quelque chose à quelqu'un": {
+					"def": "",
+					"ex": "il a tendu la joue à ceux qui le frappaient"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta bena ba ta ba dipa mo lama",
+			""
+		]
+	},
+
+	"lele": {
+		"francais": [{
+				"tendre, dresser, choyer, dorloter": {
+					"def": "",
+					"ex": "la mere dorlote son enfant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango a ma muna",
+			""
+		]
+	},
+
+	"lelema": {
+		"francais": [{
+				"tenir quelque chose pret": {
+					"def": "",
+					"ex": "je suis pret à te servir"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na lelem o bolea wa",
+			""
+		]
+	},
+	"lembulembu": {
+		"francais": [{
+				"quelque chose est tendre, mou, léger": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"léndé": {
+		"francais": [{
+				"le palmier": {
+					"def": "",
+					"ex": "le jeune palmier"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"eso a",
+			""
+		]
+	},
+
+	"lénda": {
+		"francais": [{
+				"couper, prendre par petitsbouts, enlever": {
+					"def": "",
+					"ex": "quand quelqu'un est en train de manger, il enlève bien tous du poisson"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			"mote e te o da, a ma sue bwam jita"
+		]
+	},
+
+	"lenge": {
+		"francais": [{
+				"le guet du serpent": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lenga": {
+		"francais": [{
+				"le vin de palme, l'ordeur particulière des boissons": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lengelenge": {
+		"francais": [{
+				"la fraicheur": {
+					"def": "",
+					"ex": "le lait de coco est très rafraichissant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"madib ma m'banga ma pongo me na",
+			""
+		]
+	},
+
+	"lengene": {
+		"francais": [{
+				"extraire de quelque chose": {
+					"def": "",
+					"ex": "on a l'habitude d'extraire du vin du palmier-raphia"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba mabe ba lengene tutu mao",
+			""
+		]
+	},
+
+	"lengeye": {
+		"francais": [{
+				"extraire pour quelqu'un": {
+					"def": "",
+					"ex": "ils extrait du vin de palme pour leur famille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba bona batu mao",
+			""
+		]
+	},
+
+	"lepe": {
+		"francais": [{
+				"poisson de la famille des Anabantidés, genre Anabas,user": {
+					"def": "",
+					"ex": "il use ses ses habits très vite"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mawamse mboti",
+			""
+		]
+	},
+
+	"lepeme": {
+		"francais": [{
+				"etre vieux, user": {
+					"def": "",
+					"ex": "cet homme est vieux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a lepem",
+			""
+		]
+	},
+
+	"lese": {
+		"francais": [{
+				"seul": {
+					"def": "",
+					"ex": "c'est là sa seul maladie"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"diboa lao din",
+			""
+		]
+	},
+
+	"lewe": {
+		"francais": [{
+				"lécher, lécher, laper": {
+					"def": "",
+					"ex": "le chien lape l'eau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbo e ma madiba",
+			""
+		]
+	},
+
+	"lewene": {
+		"francais": [{
+				"lécher, laper avec quelque chose": {
+					"def": "",
+					"ex": "le chien lape l'eau avec la langue"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbo e ma madiba eyeme",
+			""
+		]
+	},
+
+	"libon": {
+		"francais": [{
+				"le ruban": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"libono": {
+		"francais": [{
+				"un arbre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"linda": {
+		"francais": [{
+				"faire de petiets incisions": {
+					"def": "",
+					"ex": "on fait une incision dans les hévéas pour en retirer le lait de caoutchouc"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma ebango o eyobo a bwele ba manongo o pond'a mumbwa",
+			""
+		]
+	},
+
+	"linga": {
+		"francais": [{
+				"etre faché, irrité, se facher, etre en colère": {
+					"def": "",
+					"ex": "l'administrateur était faché dans ses paroles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"gobina a lingi bwambo",
+			""
+		]
+	},
+
+	"lingane": {
+		"francais": [{
+				"etre facher contre quelqu'un": {
+					"def": "",
+					"ex": "je suis faché contre cet homme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ma moto",
+			""
+		]
+	},
+
+	"lingea": {
+		"francais": [{
+				"défendre quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"linge": {
+		"francais": [{
+				"faire quelque chose avec persévérance": {
+					"def": "",
+					"ex": "sois persévérant dans la prière"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o muka",
+			""
+		]
+	},
+
+	"lingisane": {
+		"francais": [{
+				"etre facheux, ennuyeux": {
+					"def": "",
+					"ex": "cette chose est très enneuse"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"din lambo di ma",
+			""
+		]
+	},
+
+	"lingise": {
+		"francais": [{
+				"facher, offenser, blesser quelqu'un": {
+					"def": "",
+					"ex": "il a péché contre Dieu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a boli bobe Loba",
+			""
+		]
+	},
+
+	"linenge": {
+		"francais": [{
+				"une laine": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lita": {
+		"francais": [{
+				"le litre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"la lettre": {
+		"francais": [{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lo": {
+		"francais": [{
+				"vous avez donné, donc, bien, n'est-ce pas": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lo boli",
+			""
+		]
+	},
+
+	"loa": {
+		"francais": [{
+				"maudire, injurier, insulter, outrager": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"loane": {
+		"francais": [{
+				"injurier avec ou par quelque chose": {
+					"def": "",
+					"ex": "c'est avec le tambour parlant qu'on insulte"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"elimbi nde bato ba maloaneno bane",
+			""
+		]
+	},
+
+	"loba": {
+		"francais": [{
+				"deux, le ciel": {
+					"def": "",
+					"ex": "deux oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"lobane": {
+		"francais": [{
+				"les deux": {
+					"def": "",
+					"ex": "les deux oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonom",
+			""
+		]
+	},
+
+	"lobango": {
+		"francais": [{
+				"le mensonge": {
+					"def": "",
+					"ex": "le menteur"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mot'a",
+			""
+		]
+	},
+
+	"lobi": {
+		"francais": [{
+				"les excrèment, la fiente, le fumier": {
+					"def": "",
+					"ex": "j'ai besoin d'évacuer"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"labledi mba",
+			""
+		]
+	},
+
+	"loe": {
+		"francais": [{
+				"la saison sèche": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lokeloka": {
+		"francais": [{
+				"un grand désir": {
+					"def": "",
+					"ex": "quand un affamé voit de la nourriture, il est pris d'un grand désir"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mot'a njai en te da, mulema moa mwe na",
+			""
+		]
+	},
+
+	"loki": {
+		"francais": [{
+				"le manteau, le pardessus": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lokiloki": {
+		"francais": [{
+				"l'asssurance": {
+					"def": "",
+					"ex": "comment te comportes-tu avec une telle asssurance dans cette affaire?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nje o y'ekwali na, o bi mo e?",
+			""
+		]
+	},
+
+	"loko": {
+		"francais": [{
+				"le jeu, l'amusement, la plaisanterie": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lolalo": {
+		"francais": [{
+				"trois": {
+					"def": "",
+					"ex": "trois oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"loma": {
+		"francais": [{
+				"envoyer": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lombai": {
+		"francais": [{
+				"quelque chose est dressé": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lombame": {
+		"francais": [{
+				"etre élevé, dressé, assis majestueusement": {
+					"def": "",
+					"ex": "les deux oreilles dressées du lion sont cachées dans sa crinière"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"matoi ma ngila ma lombam mabane ma wutam oteten a no ao ya mulopo",
+			""
+		]
+	},
+
+	"lombe": {
+		"francais": [{
+				"élever, dresser": {
+					"def": "",
+					"ex": "il a levé ses époules"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a makata na lombai",
+			""
+		]
+	},
+
+	"lombitane": {
+		"francais": [{
+				"etre présomptueux": {
+					"def": "",
+					"ex": "enlève l'orgueil et le savoir présomptueux qui sont en nous"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"sumwaane biso kumba na debei di ma",
+			""
+		]
+	},
+
+	"lombwa": {
+		"francais": [{
+				"changer de quelque chose ": {
+					"def": "",
+					"ex": "le chef charge un de ses sous-chfs d'exécuter cet ordre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"kine e ma nde mo na banedi bao ba mbusa o londe nin ndaki",
+			""
+		]
+	},
+
+	"lomea": {
+		"francais": [{
+				"etre plein, rempli": {
+					"def": "",
+					"ex": "je suis rempli de colère"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na malinga",
+			""
+		]
+	},
+
+	"lon": {
+		"francais": [{
+				"ces, ceux-ci": {
+					"def": "",
+					"ex": "ces oiseaux-ci"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lon lonon",
+			""
+		]
+	},
+
+	"londa": {
+		"francais": [{
+				"etre plein, rempli, etre muni de pouvoir mangiques": {
+					"def": "",
+					"ex": "je suis rempli de colère"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na malinga",
+			""
+		]
+	},
+
+	"londe": {
+		"francais": [{
+				"remplir": {
+					"def": "",
+					"ex": "nous avons rempli le tonneau d'huil"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"di ta di ponji na mula",
+			""
+		]
+	},
+
+	"londene": {
+		"francais": [{
+				"grands": {
+					"def": "",
+					"ex": "les grands oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"londise": {
+		"francais": [{
+				"remplir, exécuter": {
+					"def": "",
+					"ex": "ils ont exécuté l'ordre reçu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba ndaki ba kusino",
+			""
+		]
+	},
+
+	"londo": {
+		"francais": [{
+				"le gonflement": {
+					"def": "",
+					"ex": "le gonflement du ventre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"la dibum",
+			""
+		]
+	},
+
+	"londomeye": {
+		"francais": [{
+				"etre gonflé, bouffi": {
+					"def": "",
+					"ex": "mon ventre est gonflé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dibum di londomedi mba",
+			""
+		]
+	},
+
+	"lone": {
+		"francais": [{
+				"ceux-là, les autres": {
+					"def": "",
+					"ex": "les autres oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lone lonon",
+			""
+		]
+	},
+
+	"lonei": {
+		"francais": [{
+				"quatre": {
+					"def": "",
+					"ex": "quatre oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lone lonon",
+			""
+		]
+	},
+
+	"longa": {
+		"francais": [{
+				"batir, construire, édifier": {
+					"def": "",
+					"ex": "construire un pont"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"briki",
+			""
+		]
+	},
+
+	"longalongane": {
+		"francais": [{
+				"construire n'importe comment, lambiner, prendre son temps dans l'inaction": {
+					"def": "",
+					"ex": "cet enfant traine toute la journée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu muna a ma buna bwese",
+			""
+		]
+	},
+
+	"longane": {
+		"francais": [{
+				"construire, batir, tresser avec quelque chose": {
+					"def": "",
+					"ex": "certaines maisons sont construites"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mandabo mo ma longa piyo",
+			""
+		]
+	},
+
+	"logea": {
+		"francais": [{
+				"construire pour quelqu'un": {
+					"def": "",
+					"ex": "il m'a construit une maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a longedi mba bolongi",
+			""
+		]
+	},
+
+	"longe": {
+		"francais": [{
+				"la vie": {
+					"def": "",
+					"ex": "etre en vie"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"be",
+			""
+		]
+	},
+
+	"longele": {
+		"francais": [{
+				"passer, perdre son temps": {
+					"def": "",
+					"ex": "ces enfants passent leur temps à jouer"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ban bautu ba ma ponda na maloko",
+			""
+		]
+	},
+
+	"longisane": {
+		"francais": [{
+				"etre constructif, édifiant": {
+					"def": "",
+					"ex": "l'unissons est édifiante"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"jalatane di ma",
+			""
+		]
+	},
+
+	"longise": {
+		"francais": [{
+				"faire construire": {
+					"def": "",
+					"ex": "le chef fait construire une résidence à ses gens"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mwanedi a malongise bato bao ndabo a baja",
+			""
+		]
+	},
+
+	"longo": {
+		"francais": [{
+				"la vente, le commence": {
+					"def": "",
+					"ex": "j'ai des livres, mais ils ne sont pas en vente"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ben kalati, nde i titi o longo",
+			""
+		]
+	},
+
+	"longo panga": {
+		"francais": [{
+				"poisson de la famille de Ichthyoborinés": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"longo samba": {
+		"francais": [{
+				"poisson de la famille des Ichthyoborinés": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"longwa": {
+		"francais": [{
+				"appreter, arranger": {
+					"def": "",
+					"ex": "la mère arrange ses cheveux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango a ma mulopo mao",
+			""
+		]
+	},
+
+	"longwele": {
+		"francais": [{
+				"changer, éviter": {
+					"def": "",
+					"ex": "je lui ai posé des questions, mais il les a évitées"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"na ta na baise mo myuedi, nde a mo",
+			""
+		]
+	},
+
+	"loninga": {
+		"francais": [{
+				"combien?": {
+					"def": "",
+					"ex": "combien d'oiseaux?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"lonlon": {
+		"francais": [{
+				"l'ardeur": {
+					"def": "",
+					"ex": "il le désire ardemment"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a te mulema olol'ao na",
+			""
+		]
+	},
+
+	"lonengen": {
+		"francais": [{
+				"les baies, les fruits doux": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lonono": {
+		"francais": [{
+				"le dégout, l'aversion": {
+					"def": "",
+					"ex": "des choses dégoutant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mambo ma",
+			""
+		]
+	},
+
+	"lopa": {
+		"francais": [{
+				"mettre en avant": {
+					"def": "",
+					"ex": "cet homme se met en avant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a ma momene",
+			""
+		]
+	},
+
+	"lopalopa": {
+		"francais": [{
+				"quelqu'un est imbu de soi-meme": {
+					"def": "",
+					"ex": "cet enfant est imbu de lui-meme, car il fait comme s'il était quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muna e na, onolana a leele momene biana e lambo",
+			""
+		]
+	},
+
+	"lopame": {
+		"francais": [{
+				"etre imbu de lui-meme": {
+					"def": "",
+					"ex": "cet homme est imbu de lui-meme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a lopam",
+			""
+		]
+	},
+
+	"lopepe": {
+		"francais": [{
+				"les autres": {
+					"def": "",
+					"ex": "d'autres oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"losa": {
+		"francais": [{
+				"faire des incantations, parler fort": {
+					"def": "",
+					"ex": "pourquoi cette femme parle-t-elle tellement fort?"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nje nu muto a malosano bwambo nika e?",
+			""
+		]
+	},
+
+	"losadi": {
+		"francais": [{
+				"petits": {
+					"def": "",
+					"ex": "les petits oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"losalosa": {
+		"francais": [{
+				"une voix criarde": {
+					"def": "",
+					"ex": "ils ont crié fort"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba toise na",
+			""
+		]
+	},
+
+	"losalosane": {
+		"francais": [{
+				"parler très fort, crier, hurler": {
+					"def": "",
+					"ex": "cette femme crie énormément"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun nango a ma",
+			""
+		]
+	},
+
+	"losinga": {
+		"francais": [{
+				"une maladie de nouveau-né": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lotanu": {
+		"francais": [{
+				"cinq": {
+					"def": "",
+					"ex": "cinq oiseaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lonon",
+			""
+		]
+	},
+
+	"lou,ma": {
+		"francais": [{
+				"la malédiction, l'injure, l'insulte": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lousane": {
+		"francais": [{
+				"etre capable de discréditer, de décrier": {
+					"def": "",
+					"ex": "le travail en commun n'est pas considéré comme paresse"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dia nongo dia nongo a si ma bwala",
+			""
+		]
+	},
+
+	"louse": {
+		"francais": [{
+				"faire décrier, discréditer": {
+					"def": "",
+					"ex": "leurs mouvaises manières d'agir ont fait discréditer notre armée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"beboledi babu ba bobe be mulon masu",
+			""
+		]
+	},
+	"lobe": {
+		"francais": [{
+				"une épice": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lobinda": {
+		"francais": [{
+				"la lavende, le parfum": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lobolobome": {
+		"francais": [{
+				"tromper, ruser, cacher": {
+					"def": "",
+					"ex": "il m'a trompé dans la conversation"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma mba o ekwadi",
+			""
+		]
+	},
+
+	"lodi": {
+		"francais": [{
+				"quelqu'un s'est enduit de haut en bas": {
+					"def": "",
+					"ex": "il s'est complètement enduit d'huile"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a lole joki na",
+			""
+		]
+	},
+
+	"loise": {
+		"francais": [{
+				"plonger, engloutir": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lokea": {
+		"francais": [{
+				"calmer, pour quelqu'un": {
+					"def": "",
+					"ex": "calme-moi cet enfant"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mba nun muna",
+			""
+		]
+	},
+	"lokoloko": {
+		"francais": [{
+				"le calme, l'indiffernce, la fraicheur": {
+					"def": "",
+					"ex": "la mer est calme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"munja mwe na",
+			""
+		]
+	},
+
+	"lokolokone": {
+		"francais": [{
+				"circonvenir": {
+					"def": "",
+					"ex": "ils l'ont circonvenu dans la conversation"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba mo o ekwali ",
+			""
+		]
+	},
+
+	"lokomea": {
+		"francais": [{
+				"le rafraichissement, la consolation": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lokomeye": {
+		"francais": [{
+				"se calmer, s'apprivoiser": {
+					"def": "",
+					"ex": "il était faché hier, mais il s'est calmé aujourd'hui"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a linga kiele, nde a lokomedi wenge",
+			""
+		]
+	},
+
+	"lokone": {
+		"francais": [{
+				"consoler, se consoler mutuellement": {
+					"def": "",
+					"ex": "le marie et la femme s'entr'aider et se consoler mutuellement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mome na muto bangamen suanele na pe mo na nune",
+			""
+		]
+	},
+
+	"lolea": {
+		"francais": [{
+				"se faner": {
+					"def": "",
+					"ex": "quand les feuilles se fanent"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o ponda byadi be maloleano",
+			""
+		]
+	},
+
+	"lole": {
+		"francais": [{
+				"enduire": {
+					"def": "",
+					"ex": "il a enduit tout son corps d'huile"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a joki na lodi o nolo",
+			""
+		]
+	},
+
+	"lolone": {
+		"francais": [{
+				"fouler constamment, etre toujours à la meme place": {
+					"def": "",
+					"ex": "les enfants sont toujours dans ma cour"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bautu ba ma o eboko am",
+			""
+		]
+	},
+
+	"lombea": {
+		"francais": [{
+				"regarder quelqu'un d'une manière reveuse, étonnée": {
+					"def": "",
+					"ex": "le lamantin a regardé reveusement le harpon et a trouvé la mort"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"manga ma lombedisolo, ma di kwedi",
+			""
+		]
+	},
+
+	"lombi": {
+		"francais": [{
+				"huit": {
+					"def": "",
+					"ex": "huit personnes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato",
+			""
+		]
+	},
+
+	"lombilombi": {
+		"francais": [{
+				"quelqu'un est élancé, mince, svelte, quelque chose brillant": {
+					"def": "",
+					"ex": "certaines personnes ont un corps svelte"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato bo ba ben manolo me na",
+			""
+		]
+	},
+
+	"lombinda": {
+		"francais": [{
+				"un arbre avec une écorce aromatique": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lombise": {
+		"francais": [{
+				"faire briller, rendre brillant": {
+					"def": "",
+					"ex": "rendre une maison belle"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ndabo",
+			""
+		]
+	},
+
+	"iombo": {
+		"francais": [{
+				"tourner, tournoyer régulièrement, regarder d'une reveuse": {
+					"def": "",
+					"ex": "la toupie tourne très vite"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngeke e ma na tininini",
+			""
+		]
+	},
+	"londone": {
+		"francais": [{
+				"attirer avec quelque chose": {
+					"def": "",
+					"ex": "on attire les poissons avec un hameçon"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma sue jobi",
+			""
+		]
+	},
+	"longea": {
+		"francais": [{
+				"chanter à quelqu'un ": {
+					"def": "",
+					"ex": "chantez un cantique à Dieu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"Loba mwenge",
+			""
+		]
+	},
+	"lopelope": {
+		"francais": [{
+				"la manière soigneuse avec laquelle on fait ou on ramasse quelque chose": {
+					"def": "",
+					"ex": "il a soigneusement balayé la maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a papi ndabo na",
+			""
+		]
+	},
+
+	"lopise": {
+		"francais": [{
+				"cueillir soigneusement": {
+					"def": "",
+					"ex": "il a fait soigneusement cueillir les fruits dans le champ"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a mbasi o manda",
+			""
+		]
+	},
+
+	"lopo": {
+		"francais": [{
+				"cueillir, ramasser": {
+					"def": "",
+					"ex": "ne cueille pas ce qui reste sur les braches"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"o si nje e madie o mikanjo",
+			""
+		]
+	},
+
+	"lopolopone": {
+		"francais": [{
+				"ramasser, recueillir soigneusement": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"loya": {
+		"francais": [{
+				"l'avocat, le juriste": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"loye": {
+		"francais": [{
+				"s'enfoncer": {
+					"def": "",
+					"ex": "il s'enfonce dans l'eau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma o madiba",
+			""
+		]
+	},
+	"lulane": {
+		"francais": [{
+				"forger avec quelque chose": {
+					"def": "",
+					"ex": "les forgerons ont forgé des instruments avec des barres de fer"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba boluli ba ta ba mikoko",
+			""
+		]
+	},
+
+	"lule, na": {
+		"francais": [{
+				"la luminosité": {
+					"def": "",
+					"ex": "la lune brille d'une façon très lumineuse"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"luleye": {
+		"francais": [{
+				"forger pour quelqu'un": {
+					"def": "",
+					"ex": "il m'a forgé des grelots"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a mba mangongo",
+			""
+		]
+	},
+
+	"lule": {
+		"francais": [{
+				"forger, former": {
+					"def": "",
+					"ex": "ils forgent des grelots"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ma mangongo",
+			""
+		]
+	},
+
+	"lumalumane": {
+		"francais": [{
+				"trembler, etre agité, excité": {
+					"def": "",
+					"ex": "ils étaient tout excités de joie"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta ba onola munenge",
+			""
+		]
+	},
+
+	"lumaluma": {
+		"francais": [{
+				"l'agitation, l'exitation": {
+					"def": "",
+					"ex": "ton agitation te tuera"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ango e mende bwese wa",
+			""
+		]
+	},
+
+	"lumbe": {
+		"francais": [{
+				"l'immobilité, tenir immobile, tranquille": {
+					"def": "",
+					"ex": "l'homme tient l'enfant tranquille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto a ma muna",
+			""
+		]
+	},
+
+	"lumwa": {
+		"francais": [{
+				"remuer, fouiller, soulever": {
+					"def": "",
+					"ex": "le cochon fouille le sol"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngoa e ma minangadu",
+			""
+		]
+	},
+
+	"lumwalumwane": {
+		"francais": [{
+				"fouiller": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lunda": {
+		"francais": [{
+				"partir en colère": {
+					"def": "",
+					"ex": "il part en colère"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma na malinga",
+			""
+		]
+	},
+
+	"lundane": {
+		"francais": [{
+				"s'emporter avec la colère": {
+					"def": "",
+					"ex": "il s'emporte avec la colère"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ma malinga",
+			""
+		]
+	},
+
+	"lunga": {
+		"francais": [{
+				"maigrir, dépérir": {
+					"def": "",
+					"ex": "le malade est dévenu très maigre à cause de la maladie"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"m'boedi mu lungi jita onola diboa",
+			""
+		]
+	},
+
+	"lupai": {
+		"francais": [{
+				"quelque chose est assombri, accroupi, abattu": {
+					"def": "",
+					"ex": "le ciel est couvert"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"buna bwe na",
+			""
+		]
+	},
+
+	"lupame": {
+		"francais": [{
+				"etre assombri, abattu, accroupi": {
+					"def": "",
+					"ex": "le ciel est couvert"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muboedi a lupam o konda",
+			""
+		]
+	},
+
+	"lupe": {
+		"francais": [{
+				"assombrir, abattre, recroqueviller": {
+					"def": "",
+					"ex": "les nuages ont assombri le ciel"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mawindi ma buna",
+			""
+		]
+	},
+
+	"lupwa": {
+		"francais": [{
+				"toucher, ramasser quelque chose de répugnant": {
+					"def": "",
+					"ex": "toucher les excréments"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"lusa": {
+		"francais": [{
+				"écraser, émietter": {
+					"def": "",
+					"ex": "l'enfant émiette le taro"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muna a ma dikabo",
+			""
+		]
+	},
+
+	"lusalusane": {
+		"francais": [{
+				"etre faible, maladif": {
+					"def": "",
+					"ex": "cet enfant est maladif"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu muna a ma onola diboa",
+			""
+		]
+	},
+
+	"lusea": {
+		"francais": [{
+				"s'émietter, etre faible, dépérir": {
+					"def": "",
+					"ex": "le taro s'est émietté"
+				}
+			},
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dikabo di lusedi",
+			""
+		]
+	}
+}

@@ -1,0 +1,3399 @@
+{
+	"ia": {
+		"francais": [{
+				"éviter, s'abstenir, refuser": {
+					"def": "",
+					"ex": "s'abstenir de nourriture, jeuner"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iane": {
+		"francais": [{
+				"refuser à quelqu'un": {
+					"def": "",
+					"ex": "refuser d'accepter de la nourriture de quelqu'un"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto da",
+			""
+		]
+	},
+
+	"iba": {
+		"francais": [{
+				"voler, dérober": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibabo, lo": {
+		"francais": [{
+				"la tranverse de la charpente du toit faite avec des nervures de palmes": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibabu, lo": {
+		"francais": [{
+				"un genre de tresse": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibane": {
+		"francais": [{
+				"voler à quelqu'un": {
+					"def": "",
+					"ex": "ce garçon a volé un crayon à son ami"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun mutu iban dikom lao diwindi",
+			""
+		]
+	},
+
+	"ibanga, lo": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibankoro": {
+		"francais": [{
+				"un homme adulte ayant une petite taille": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iban, lo": {
+		"francais": [{
+				"la résine, la poix": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibea": {
+		"francais": [{
+				"voler pour quelqu'un": {
+					"def": "",
+					"ex": "ce garçon a volé un livre pour son ami"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun mutu ibedi dikom lao",
+			""
+		]
+	},
+
+	"ibe": {
+		"francais": [{
+				"s'éloigner furtivement, s'esquiver": {
+					"def": "",
+					"ex": "ce voleur s'éloigne furtivement et partit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu mot'a jita ibe na yo ala",
+			""
+		]
+	},
+
+	"ibete, lo": {
+		"francais": [{
+				"chétif, de petite taille": {
+					"def": "",
+					"ex": "Zachée était un homme de petite taille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"Sakeo a ta nde a moto",
+			""
+		]
+	},
+
+	"ibilabila, lo": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibina, lo": {
+		"francais": [{
+				"un homme de petite taille": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibinako, lo": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iboka, lo": {
+		"francais": [{
+				"de petite taille, faible, le nain": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibombe, lo": {
+		"francais": [{
+				"une maisonnette": {
+					"def": "",
+					"ex": "un petit jeune homme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mpesa",
+			""
+		]
+	},
+
+	"ibope, lo": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibodu, lo": {
+		"francais": [{
+				"le menton": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ibon, lo": {
+		"francais": [{
+				"la balle, la cartouche": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idetu, lu": {
+		"francais": [{
+				"très court": {
+					"def": "",
+					"ex": "quelque chose de très petite taille"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a moto",
+			""
+		]
+	},
+
+	"idekese, lo": {
+		"francais": [{
+				"petit, court, pas haut sur patte": {
+					"def": "",
+					"ex": "un oiseau avec de courte pattes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			"a inon"
+		]
+	},
+
+	"idiba, lo": {
+		"francais": [{
+				"le matin, de bonne heure": {
+					"def": "",
+					"ex": "l'aurore, de très bonne heure"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mesanedi ma",
+			""
+		]
+	},
+
+	"idika": {
+		"francais": [{
+				"le manque de générosité": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idimbe": {
+		"francais": [{
+				"oublieux, ignorant": {
+					"def": "",
+					"ex": "n'oubliez pas que..."
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lo si be na...",
+			""
+		]
+	},
+
+	"idipa, lo": {
+		"francais": [{
+				"un sous-vetement de femme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ido, lo": {
+		"francais": [{
+				"la tourterelle": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idodi, lo": {
+		"francais": [{
+				"un petit ver, la filaire": {
+					"def": "",
+					"ex": "il a une filaire dans l'oeil"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ye mo o diso",
+			""
+		]
+	},
+
+	"idoma, lo": {
+		"francais": [{
+				"une ancienne messure de capacité": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idubwan, lo": {
+		"francais": [{
+				"la clé": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idumb'a njou": {
+		"francais": [{
+				"nom d'un arbre, plante médicale": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"idun, lo": {
+		"francais": [{
+				"vieux, le million": {
+					"def": "",
+					"ex": "trois millions de gens habitent dans notre pays"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"lodun la bato lolalo lo maja o ekombo asu",
+			""
+		]
+	},
+
+	"ifidi": {
+		"francais": [{
+				"rusé": {
+					"def": "",
+					"ex": "cet homme est rusé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun moto e nde",
+			""
+		]
+	},
+
+	"ika": {
+		"francais": [{
+				"s'étouffer, s'asphyxier, suffoquer, s'étrangler": {
+					"def": "",
+					"ex": "il s'étranglé en buvant de l'eau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"iki ponda a nodino madiba",
+			""
+		]
+	},
+
+	"iken, lo": {
+		"francais": [{
+				"la nuque d'un animal": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikise": {
+		"francais": [{
+				"étouffer, asphyxier quelqu'un": {
+					"def": "",
+					"ex": "l'eau ne peut pas étouffer le crocodile"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"madiba ma si mawele jikise ngando",
+			""
+		]
+	},
+
+	"ikoki": {
+		"francais": [{
+				"la terre glaise": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikokondo, lo": {
+		"francais": [{
+				"un poissson ": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikoli, lo": {
+		"francais": [{
+				"nombre cardinal-mille": {
+					"def": "",
+					"ex": "mille franc"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a frank",
+			""
+		]
+	},
+
+	"ikom, lo": {
+		"francais": [{
+				"l'esclave": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikoma": {
+		"francais": [{
+				"la cendre noire des racines de l'arbre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikoro": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikokewese, lo": {
+		"francais": [{
+				"le martin-pecheur, l'alcyon": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"ikole, lo": {
+		"francais": [{
+				"un petit pot rond": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikom, lom": {
+		"francais": [{
+				"l'ami": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikongo, lo": {
+		"francais": [{
+				"une balle": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikulembusa, lo": {
+		"francais": [{
+				"la courbature, le lumbango, la bosse": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikuna, lo": {
+		"francais": [{
+				"devenir bossu": {
+					"def": "",
+					"ex": "cet homme avait une maladie de la colonne vertébrale, il est devenu bossu"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto a ta a boa ewes'a mongo, a kwedi",
+			""
+		]
+	},
+
+	"ikwale, le": {
+		"francais": [{
+				"la perdrix": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ikwea": {
+		"francais": [{
+				"avere": {
+					"def": "",
+					"ex": "cet homme est très avere"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto e jita",
+			""
+		]
+	},
+
+	"ila": {
+		"francais": [{
+				"avoir l'habitude de quelque chose": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ilalo": {
+		"francais": [{
+				"un plurieul, longument": {
+					"def": "",
+					"ex": "trois chiens"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbo",
+			""
+		]
+	},
+
+	"ilalola": {
+		"francais": [{
+				"le manque de concision": {
+					"def": "",
+					"ex": "il aime les longs discours"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a tondi o bekwadi",
+			""
+		]
+	},
+
+	"ilane": {
+		"francais": [{
+				"etre très habitué à quelque chose": {
+					"def": "",
+					"ex": "il est ivrogne"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"soki",
+			""
+		]
+	},
+
+	"ilema": {
+		"francais": [{
+				"la gloutonnerie, la voracité": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iligne, lo": {
+		"francais": [{
+				"la persévérance": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ilomba, lo": {
+		"francais": [{
+				"une nasse pour la peche": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ilonda": {
+		"francais": [{
+				"le vent de la mer, la mousson": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ilondi": {
+		"francais": [{
+				"ce qui attire, tente": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ima": {
+		"francais": [{
+				"refuser, retenir": {
+					"def": "",
+					"ex": "refuser un pret"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"imane": {
+		"francais": [{
+				"refuser à quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"imbanga": {
+		"francais": [{
+				"expert, compétent": {
+					"def": "",
+					"ex": "quelqu'un qui est compétent dans son métier est un expert"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto nu moe o boso bao b'ebolo e",
+			""
+		]
+	},
+
+	"imbea, edi": {
+		"francais": [{
+				"lancer, jeter quelque chose à quelqu'un": {
+					"def": "",
+					"ex": "il m'a lancé le ballon"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"imbedi mba bol",
+			""
+		]
+	},
+
+	"imea": {
+		"francais": [{
+				"etre frusté, etre privé": {
+					"def": "",
+					"ex": "mon ami a été frusté de nourriture"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"dikom lam imedi da",
+			""
+		]
+	},
+
+	"inanga": {
+		"francais": [{
+				"le jeune pou": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inda": {
+		"francais": [{
+				"médire, calomnier, durer, tarder": {
+					"def": "",
+					"ex": "celui qui est devenu agé a eu une longue existance"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto nu poi o bodun indi o loba",
+			""
+		]
+	},
+
+	"indane": {
+		"francais": [{
+				"sombrer avec quelque chose, durer avec quelque chose": {
+					"def": "",
+					"ex": "ce vieillard a gardé toute sa force"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nun mudun a moto indan ngin'ao nese",
+			""
+		]
+	},
+
+	"indea": {
+		"francais": [{
+				"s'attarder, etre en retard": {
+					"def": "",
+					"ex": "ilest venu en retard à la réunion"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"indedi jukea o ndongamen",
+			""
+		]
+	},
+
+	"indene": {
+		"francais": [{
+				"un signe": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"indese": {
+		"francais": [{
+				"faire chavirer, sombrer, retarder, retenir en longueur": {
+					"def": "",
+					"ex": "l'hippportame essaye souvent de faire chavirer les pirogues"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngubu e yoki keka o jindise myolo",
+			""
+		]
+	},
+
+	"indondon,lo": {
+		"francais": [{
+				"un petit oiseau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"indon": {
+		"francais": [{
+				"quelque chose de très petit, minuscule": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inel": {
+		"francais": [{
+				"plurieul": {
+					"def": "",
+					"ex": "quantre animeaux"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inele": {
+		"francais": [{
+				"donner quelque chose de force à quelqu'un": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ignane": {
+		"francais": [{
+				"entrer avec quelque chose, introduire, importer": {
+					"def": "",
+					"ex": "on a amené beaucoup de vin de la palme sur la place de fete"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta bingane mao jita o m'boko ma ngando",
+			""
+		]
+	},
+
+	"ingea": {
+		"francais": [{
+				"entrer": {
+					"def": "",
+					"ex": "la mère est entrée dans la maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nango ingedi o ndabo",
+			""
+		]
+	},
+
+	"ingele": {
+		"francais": [{
+				"faire entrer, introduire": {
+					"def": "",
+					"ex": "il a fait entrer l'homme dans la maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ingele moto o ndabo",
+			""
+		]
+	},
+
+	"ingerete": {
+		"francais": [{
+				"un petit homme": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ingilane": {
+		"francais": [{
+				"s'adonner à quelque chose, avoir l'habitude de faire quelque chose": {
+					"def": "",
+					"ex": "s'oublier en faisant quelque chose"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ingis": {
+		"francais": [{
+				"la charnière": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ingise": {
+		"francais": [{
+				"faire entrer": {
+					"def": "",
+					"ex": "quelqu'un du gouvernement a fait entrer cet enfant à l'école"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mot'a janea nu muna o esukulu",
+			""
+		]
+	},
+
+	"ingwangwala": {
+		"francais": [{
+				"léger": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inila": {
+		"francais": [{
+				"interrogation se rappelle a un plurieul, combien?": {
+					"def": "",
+					"ex": "combien de folle"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ngondedi",
+			""
+		]
+	},
+
+	"injanga": {
+		"francais": [{
+				"le pinson": {
+					"def": "",
+					"ex": "jeu d'enfants"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"injango": {
+		"francais": [{
+				"l'avidité": {
+					"def": "",
+					"ex": "cet homme est très avide de poissson"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nu moto e jita onola sue",
+			""
+		]
+	},
+
+	"injin": {
+		"francais": [{
+				"la machine": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inono": {
+		"francais": [{
+				"ce qui dure, qui est éternel": {
+					"def": "",
+					"ex": "nom propre donné dans les légendes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"inangala": {
+		"francais": [{
+				"qui est rapide à tenir sa promesse, qui est zélé": {
+					"def": "",
+					"ex": "celui qui tient rapidement sa promesse est ..."
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto nu mawamse londise dikaki e",
+			""
+		]
+	},
+
+	"inano": {
+		"francais": [{
+				"la verge, la paule, l'aurore": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ini": {
+		"francais": [{
+				"ma mère": {
+					"def": "",
+					"ex": "sa propre mère et, pae extension et affectivement, n'importe quelle femme agée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"insadi": {
+		"francais": [{
+				"la tante maternelle": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ipalo": {
+		"francais": [{
+				"un affluent, une crique latérale": {
+					"def": "",
+					"ex": "le fleuve Wouri a beaucoup d'affluents"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mopi m'Ewodi mu ben lopalo jita",
+			""
+		]
+	},
+
+	"ipane": {
+		"francais": [{
+				"cuire dans ou avec quelque chose": {
+					"def": "",
+					"ex": "on cuit le poissson avec un soupe faite de l'huile de palme"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba mipane sue musu",
+			""
+		]
+	},
+
+	"ipanga": {
+		"francais": [{
+				"le panaris": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ipe": {
+		"francais": [{
+				"cuire": {
+					"def": "",
+					"ex": "la cuisine"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mwebe ma j",
+			""
+		]
+	},
+
+	"ipisi, lo": {
+		"francais": [{
+				"le fourou": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ipudu, lo": {
+		"francais": [{
+				"le creux, l'enfocement, la profondeur": {
+					"def": "",
+					"ex": "cette place a l'air d'etre plus profonde que la peau"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"yen epolo e menene buka eyobo a nolo",
+			""
+		]
+	},
+
+	"ipwele, lo": {
+		"francais": [{
+				"une petite chose": {
+					"def": "",
+					"ex": "un petit fruit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"epuma",
+			""
+		]
+	},
+
+	"isadi": {
+		"francais": [{
+				"la petitesse": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isango, lo": {
+		"francais": [{
+				"la société secrète en général": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"isango, lo",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isese, lo": {
+		"francais": [{
+				"le fifre, la flute, le sifflet": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ise": {
+		"francais": [{
+				"faire s'abstenir quelqu'un, unir, mélanger": {
+					"def": "",
+					"ex": "mets du sel dans la nourriture"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"wanga o da",
+			""
+		]
+	},
+
+	"isengesengen, lo": {
+		"francais": [{
+				"un parasite": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+	"isilo, lo": {
+		"francais": [{
+				"le poing, le coup de poing": {
+					"def": "",
+					"ex": "donner brusquement un coup de poing"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"papwa",
+			""
+		]
+	},
+
+	"isinga": {
+		"francais": [{
+				"l'inanition": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isokolo, lo": {
+		"francais": [{
+				"un oiseau": {
+					"def": "",
+					"ex": "un oiseau de la meme espèce avec d'autres couleurs"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isokoloko, lo": {
+		"francais": [{
+				"la mouette": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isolo, lo": {
+		"francais": [{
+				"le secret": {
+					"def": "",
+					"ex": "il est entré dans ma maison en secret"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ingedi nde na o ndabo om",
+			""
+		]
+	},
+
+	"ison": {
+		"francais": [{
+				"la honte, la pudeur, la gene": {
+					"def": "",
+					"ex": "des choses honteuses"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mambo ma mabwesane",
+			""
+		]
+	},
+
+	"isududu, lo": {
+		"francais": [{
+				"un oiseau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isuke, lo": {
+		"francais": [{
+				"le soutien, le tuteur": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isuna, lo": {
+		"francais": [{
+				"une mouche rouge": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"isungu, lo": {
+		"francais": [{
+				"la brièveté": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ita": {
+		"francais": [{
+				"etre nombreux": {
+					"def": "",
+					"ex": "il y a beaucoup de gens au marché"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba ta bita o don",
+			""
+		]
+	},
+
+	"itaba": {
+		"francais": [{
+				"l'étranglement": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itane": {
+		"francais": [{
+				"employer beaucoup": {
+					"def": "",
+					"ex": "employer beaucoup de paroles"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"itane byala",
+			""
+		]
+	},
+
+	"itenu": {
+		"francais": [{
+				"plurieul, cinq": {
+					"def": "",
+					"ex": "cinq vaches"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itedi, lo": {
+		"francais": [{
+				"une poudre fait avec du bois du mwenge devenat rouge mélangée avec de l'eau": {
+					"def": "",
+					"ex": "s'enduire de cette poudre"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ite": {
+		"francais": [{
+				"va-t-en": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itise": {
+		"francais": [{
+				"multiplier": {
+					"def": "",
+					"ex": "ils ont multiplié les conversations"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ta b bekwali",
+			""
+		]
+	},
+
+	"ititele": {
+		"francais": [{
+				"les convusions": {
+					"def": "",
+					"ex": "les petits enfants ont souvent des convulsions"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bana basadi ba yoki boa",
+			""
+		]
+	},
+
+	"ito lo": {
+		"francais": [{
+				"la sève d'une liane, la poix, le goudron": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itonge, lo": {
+		"francais": [{
+				"celui qui veille à ce que personnene prenne ce qui lui revient": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itudu": {
+		"francais": [{
+				"ancien, plus agé": {
+					"def": "",
+					"ex": "un oiseau agé"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ituedi": {
+		"francais": [{
+				"le pauvre": {
+					"def": "",
+					"ex": "laissez le pauvre diable aller en paix"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"itumbu, lo": {
+		"francais": [{
+				"la houlette, le baton, le screptre": {
+					"def": "",
+					"ex": "le chasse-mouche était autrefois l'insigne de l'autorité"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"janjo di ta nde ka a janea o pond'a kwan",
+			""
+		]
+	},
+
+	"itune, lo": {
+		"francais": [{
+				"une plaie inguérissable": {
+					"def": "",
+					"ex": "cette plaie est devenue inguérissable"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin pola nako nde",
+			""
+		]
+	},
+
+	"ituta": {
+		"francais": [{
+				"une plaie inguérissable": {
+					"def": "",
+					"ex": "cette plaie est devenue inguérissable"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"nin pola nako nde",
+			""
+		]
+	},
+
+	"ituta, lo": {
+		"francais": [{
+				"un bonnet avec des plumes de perroquets": {
+					"def": "",
+					"ex": "les anciens mettaient un bonnet avec des plumes de perroquets, quand ils allaient au combat, appelé..."
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bato ba kwan ba ta ba boto nai a ekoto ni songe besao ba ngoso, ke ba mala o bwemba, ni mabela na",
+			""
+		]
+	},
+
+	"iwewe": {
+		"francais": [{
+				"ce qui doit bien se passer": {
+					"def": "",
+					"ex": "que ce voyage se passe bien pour toi"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"londo di be nde",
+			""
+		]
+	},
+
+	"iwei ou iwiye": {
+		"francais": [{
+				"le sérieux, la gravité, la vérité": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iwo": {
+		"francais": [{
+				"un, une": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iya": {
+		"francais": [{
+				"inusité": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iyabedi": {
+		"francais": [{
+				"un petit demi-libre": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"iyane": {
+		"francais": [{
+				"etre uni, intime": {
+					"def": "",
+					"ex": "les deux amis sont très intimes"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"makom maba m jita",
+			""
+		]
+	},
+
+	"iyo": {
+		"francais": [{
+				"la mère, le sommeil": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	}
+}

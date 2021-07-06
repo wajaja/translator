@@ -35,7 +35,7 @@ class Output extends React.Component{
                     <Result
                         {...this.props}
                         results={results}
-
+                        editTranslated={this.props.editTranslated   }
                         />
                 </div>
                 <div className="inp-mdl">

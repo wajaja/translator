@@ -7,7 +7,7 @@ import { Helmet }           from 'react-helmet'
 const  Interveners = ({ match, location }) => {
     const is_auth = false;
     return(
-        <div className="hm-ctnr">
+        <div className="hm-ctnr container">
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Activités de Traduction</title>

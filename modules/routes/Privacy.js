@@ -4,7 +4,7 @@ import { Helmet }       from 'react-helmet'
 
 const  Privacy = ({ match, location }) => {
     return(
-        <div className="hm-ctnr">
+        <div className="hm-ctnr container">
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Conditions et politique d'utilisation du traducteur</title>

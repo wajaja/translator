@@ -21,7 +21,10 @@ var express      = require('express'),
     client      = redis.createClient();
 
 
+//load all data
 require('./server/francais-lingala/manager');
+require('./server/seq2seq/anglais-francais/index');   //TODO:: resolve duplicated data
+
 
 var config = require('./config/dev'); // get our config file
 var User   = require('./app/models/user'); // get our mongoose model
@@ -46,6 +49,7 @@ app.use(helmet.xssFilter()) // Sets "X-XSS-Protection: 1; mode=block".
 
 app.use(
     csp({
+        useDefaults: true,
         directives: {
             defaultSrc: [`'self'`],
             scriptSrc: [`'self'`, `'unsafe-inline'`, `code.jquery.com`, `stackpath.bootstrapcdn.com`, `fonts.googleapis.com`],
@@ -81,7 +85,7 @@ app.use(express.static(path.join(projectRoot, '/public')));
 app.use(morgan('dev'));
 //The session middleware won't get called for any requests that get handled by router
 app.use(session({
-    secret: '91005translator',
+    secret: config.secret,
     resave: false,
     saveUninitialized: true,
     store: new RedisStore({

@@ -17,7 +17,7 @@ class Home extends Component{
     render() {
 
         return(
-            <div className="hm-ctnr">
+            <div className="hm-ctnr container">
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>XZY . traduction français - lingala</title>
@@ -29,7 +29,8 @@ class Home extends Component{
                 </Helmet>
                 <div className="hm-ctnr-a">
                     <Page
-                        {...this.props} />
+                        {...this.props}
+                        editTranslated={this.props.editTranslated} />
                 </div>
                 <Foot
                     location={this.props.location}

@@ -259,7 +259,7 @@ const findVerb = function findVerb(str) {
 
         $return = get_it_in_Lingala(jsonObject, _pos, 'singular');
     } else {
-        $return = {}
+        $return = str
     }
 
     return $return;

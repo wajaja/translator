@@ -19,7 +19,7 @@ class Signup extends React.Component{
     render() {
 
         return(
-            <div className="hm-ctnr">
+            <div className="hm-ctnr container">
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>Inscription</title>

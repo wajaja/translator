@@ -30,11 +30,13 @@ const Suggestions = MyLoadable({
 const socket = io.connect(BASE_PATH);
 
 const sourceOptions = [
-  { value: 'francais', label: 'Français' }
+  { value: 'francais', label: 'Français' },
+  { value: 'anglais', label: 'Anglais' }
 ];
 
 const targetOptions = [
-  { value: 'lingala', label: 'Lingala' }
+  { value: 'lingala', label: 'Lingala' },
+  { value: 'francais', label: 'Français' }
   // ,{ value: 'sango', label: 'Sango' }
   // ,{ value: 'tshiluba', label: 'Tshiluba' }
 ];
@@ -178,6 +180,10 @@ class Page extends Component {
         }
         // console.log('Done')
         this.setState({translating: false})
+    }
+
+    editTranslated = (type, source, target) => {
+        this.props.editTranslated(type, source, target, this.state.sourceLang.value, this.state.targetLang.value)
     }
 
     onCut = () => {
@@ -378,6 +384,7 @@ class Page extends Component {
                                 inputChange={this.inputChange}
                                 toggleImprove={this.toggleImprove}
                                 submitImproved={this.improveSentence}
+                                editTranslated={this.editTranslated}
                                 handleSuggestionClick={this.handleSuggestionClick}
                                 />
                         </div>

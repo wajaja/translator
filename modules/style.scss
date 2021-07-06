@@ -4,15 +4,21 @@
     height: 100%;
 }
 nav{
-    background: #d5d9e6;
-    border-bottom: 1px solid #bcbdbf;
-    height: 50px;
+    background: #f3f4f7;
+    border-bottom: 1px solid #dee2e8;
+    height: 70px;
+    padding: 0px !important;
     .container{
-        position: absolute;
+        position: relative;
         width: 100%;
         left: 0;
         right: 0;
         margin: 0 auto;
+    }
+    .navbar-rght{
+        position: absolute;
+        right: 0;
+        bottom: -4px;
     }
 }
 .global-nav-right-in{
@@ -54,9 +60,12 @@ nav{
     vertical-align: top;
     letter-spacing: .3px;
     margin-right: 50px;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 13px;
     top: 5px;
+    a{
+        color: #41454a;
+    }
     &:last-child{
         margin-right: 0px !important;
     }
@@ -71,20 +80,20 @@ body{
 .hm-ctnr{
     margin-left: auto;
     margin-right: auto;
-    width: 1050px;
+    // width: 1050px;
     position: relative;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .alert-msg{
     color: red;
 }
 .hm-ctnr-a{
-    position: absolute;
+    // position: absolute;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 1050px;
+    // width: 1050px;
     margin-bottom: 50px;
     .frm-msg-ttl{
         font-size: 20px;
@@ -235,6 +244,11 @@ textarea{
     padding: 0 10px;
     min-height: 158px;
     background: #f6f6fe;
+    .inlined{
+        span{
+            display: inline-block;
+        }
+    }
 }
 .inlined{
     display: inline;
@@ -325,7 +339,7 @@ textarea{
     background: transparent url("http://127.0.0.1:3000/images/296923-128.png") 50% 50% no-repeat;
     background-size: cover;
     width: 30px !important;
-    height: 30px !important;
+    height: 28px !important;
     position: relative;
     border: none;
     font-size: 20px;

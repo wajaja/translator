@@ -11,10 +11,26 @@ class Result extends Component {
 
     onKeyPressed = (e) => {
         console.log('onKeyPressed', e.target, e.currentTarget);
-        if(e.keyCode == 13)
-        {
-           e.preventDefault();
+        if(e.keyCode == 13){
+            e.preventDefault();
+            console.log(e.target.innerText)
+            const type = e.target.getAttribute('data-type')
+            const translated = e.target.innerText
+            const source = e.target.getAttribute('source-phrase') || e.target.getAttribute('source-word')
+            this.props.editTranslated(type, source, translated)
+            e.target.blur()
         }
+    }
+
+    onFocus = (e) => {
+        console.log('onKeyPressed', e.target, e.currentTarget);
+        e.preventDefault();
+        console.log(e.target.innerText)
+        const editableWpr = e.target;
+        const editableMeta =e.target.getElementsByClassName('editable-meta')[0];
+
+        const source = e.target.getAttribute('source-phrase') || e.target.getAttribute('source-word')
+        console.log(editableMeta)
     }
 
     // shouldComponentUpdate(nextProps, nextState) {
@@ -37,8 +53,9 @@ class Result extends Component {
                                                 <Fragment key={__i}>
                                                     <span 
                                                         tabIndex="0"
+                                                        onFocus={ this.onFocus } 
                                                         onKeyDown={this.onKeyPressed}
-                                                        onDoubleClick={(e) => this.handlePhraseDbClick(e)}
+                                                        onDoubleClick={(e) => this.handlePhraseDbClick(e, item, )}
                                                         dangerouslySetInnerHTML={{__html: item}} /> 
                                                     {((results[key].split('\n').length - 1) === __i) &&
                                                         translating &&

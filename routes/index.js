@@ -9,6 +9,7 @@ var LanguageSchema      = require('../app/models/language'); // get our mongoose
 var translatePhraseStr  = require('../server/translate').translatePhraseStr;
 var renderFullPage      = require('./renderFullPage').default;
 var verifyToken         = require('./verifyToken').default;
+var ankiFileWriter      = require('../server/ankiFileWriter').default
 var redis               = require("redis"),
 redisClient             = redis.createClient();
 
@@ -140,15 +141,34 @@ router.post('/api/translate', function(req, res) {
     uniqueString = body.uniqueString,
     phrase_str   = phrase[1];
 
+    console.log(source_lang, target_lang)
+
     var translated = translatePhraseStr(phrase_str, order, uniqueString, source_lang, target_lang);
     return translated.then(function(data) {
-            console.log(data);
+            // console.log(data);
             return res.json(data);
         }, function(err) {
             console.log('noooooooooooooooo', err);
             return res.json(err);
     });
 
+});
+
+router.post('/api/save-translated', function(req, res) {
+    //
+    const body   = req.body,
+    userId       = req.query.user_id,
+    { type, source, target, sourceLang, targetLang } = body;
+
+
+    // var translated = translatePhraseStr(phrase_str, order, uniqueString, source_lang, target_lang);
+
+    const path = sourceLang + '_' + targetLang;
+    const metadata  = "CC-BY 2.0 (France) Attribution: civiliser.com (" +  userId + ")";
+
+    return ankiFileWriter(path, source, target, metadata, function(data) {
+        return res.json(data)
+    })
 });
 
 router.get('/api/users/me', verifyToken, function(req, res) {

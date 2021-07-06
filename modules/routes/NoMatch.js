@@ -5,7 +5,7 @@ import { Helmet }       from 'react-helmet'
 
 const  NoMatch = ({ match, location }) => {
     return(
-        <div className="hm-ctnr">
+        <div className="hm-ctnr container">
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>Page introuvable</title>

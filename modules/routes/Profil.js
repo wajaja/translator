@@ -16,7 +16,7 @@ class Profil extends React.Component{
     render() {
         const username = 'test';
         return(
-            <div className="hm-ctnr">
+            <div className="hm-ctnr container">
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>{this.props.user.firstname}</title>

@@ -76,6 +76,7 @@ class Suggestion extends Component {
             	<div className="metadatas-bd">
 	            	<div>
 	            		{!!metadatas && metadatas
+	            			.filter((_meta) => !!_meta === true)
 	            			.filter((_meta) => !!_meta.sourceMeta === true)
 	            			.map((meta, i) => {
 		            			return <Item 

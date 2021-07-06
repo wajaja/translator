@@ -14,14 +14,18 @@ import {
     preposition_vals, preposition_keys
 }                           from './utils/modalites';
 
-require('./../utils/String.prototype.allReplace');
+require('./utils/String.prototype.allReplace');
 
 var aspectArr = ['souvent', 'habitude', 'parfois'];     //check aspect before conjugaison
 var specials_chars = ['#', '@', "+", ';', ',', '/', ':', '-', '*', '_', '↵'];
 var end_chars = ['.', '!', '?'];                        // check the end of phrase
 var composed_verb = false;                              //var that keep if verb is in composed form
 
+
+//translating phrase
 function francais_lingala(str, order, uniqueString) {
+    const sourcePhrase = str
+    const endPhrase = sourcePhrase.substr(sourcePhrase.length - 1); // => 
     str = str
              // .replace(/["']/g, "") //Be carefull !!!!!!!
              .replace(/\\/g, " ")
@@ -49,7 +53,7 @@ function francais_lingala(str, order, uniqueString) {
 
             let w = _w.toLowerCase().replace(/[.!?,;]/g, '');            //LowerCase
             if(specials_chars.indexOf(_w) >= 0) {
-                return {'word_type':'char', 'val': _w, 'translated': false, 'pos': index};
+                return {'word_type':'char', 'val': _w, 'translated': false, 'pos': index, 'source': _w};
             }
 
             if(end_chars.indexOf(_w) >= 0) {
@@ -60,7 +64,7 @@ function francais_lingala(str, order, uniqueString) {
             if(w) {
                 //check for "nom propre" starting with uppercase
                 if(aspectArr.indexOf(w) >= 0) {
-                    return {'word_type':'aspect', 'val': '', 'translated': false, 'pos': index};
+                    return {'word_type':'aspect', 'val': '', 'translated': false, 'pos': index, 'source': _w};
                 }
                 //article
                 else if(articles_keys.indexOf(w) >= 0) {
@@ -75,6 +79,7 @@ function francais_lingala(str, order, uniqueString) {
                         'val': articles_vals[articles_keys.indexOf(w)],
                         'translated': false,
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
@@ -86,6 +91,7 @@ function francais_lingala(str, order, uniqueString) {
                         'val': prefix_pronominal_vals[prefix_pronominal_keys.indexOf(w)],
                         'translated': true,
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
@@ -98,6 +104,7 @@ function francais_lingala(str, order, uniqueString) {
                         'translated': true,
                         'attach': getAttachedChar(_w),
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
@@ -105,16 +112,16 @@ function francais_lingala(str, order, uniqueString) {
 
                 else if(["q'", "que"].indexOf(w) >= 0) {
                     // verb_mod = 'conditionnel';  //// TODO:
-                    return {'word_type':'condition', 'val': '', 'translated': false, 'pos': index}
+                    return {'word_type':'condition', 'val': '', 'translated': false, 'pos': index, 'source': _w}
                 }
 
                 else if(["n'", "ne"].indexOf(w) >= 0) {
                     let phrase_form = 'negative';
-                    return {'word_type':'locution', 'val': '', 'translated': false, 'pos': index}
+                    return {'word_type':'locution', 'val': '', 'translated': false, 'pos': index, 'source': _w}
                 }
 
                 else if((["pas", "plus", "jamais"].indexOf(w)) >= (0 && phrase_form === 'negative')) {
-                    return {'word_type':'negation', 'val': 'té', 'translated': true, 'pos': index};
+                    return {'word_type':'negation', 'val': 'té', 'translated': true, 'pos': index, 'source': _w};
                 }
                 //pronom personnel
                 else if(pronon_personnel_keys.indexOf(w) >= 0) {
@@ -128,6 +135,7 @@ function francais_lingala(str, order, uniqueString) {
                             'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         }
                     }
                     prevType    = {nature: 'pron_per', nombre: '', val: w};
@@ -136,6 +144,7 @@ function francais_lingala(str, order, uniqueString) {
                         'translated': true,
                         'val': pronon_personnel_vals[pronon_personnel_keys.indexOf(w)],
                         'pos':index
+                        , 'source': _w
                     }; //TODO
                 }
 
@@ -148,6 +157,7 @@ function francais_lingala(str, order, uniqueString) {
                         'translated': true,
                         'val': demonstratifs_vals[demonstratifs_keys.indexOf(w)],
                         'pos':index
+                        , 'source': _w
                     }; //TODO
                 }
 
@@ -164,6 +174,7 @@ function francais_lingala(str, order, uniqueString) {
                         'translated': true,
                         'mode': getAuxiliareMode('etre', pos, aspect),
                         'pos': index
+                        , 'source': _w
                     };
                 }
 
@@ -180,19 +191,20 @@ function francais_lingala(str, order, uniqueString) {
                         'translated': true,
                         'mode': getAuxiliareMode('avoir', pos, aspect),
                         'pos': index
+                        , 'source': _w
                     };
                 }
 
                 //chec
                 else if(['été'].indexOf(w) >= 0) {
                     auxilVerb['verb'] = 'etre';
-                    return {'word_type':'pp', 'val': 'kozala', 'translated': true, 'pos': index};
+                    return {'word_type':'pp', 'val': 'kozala', 'translated': true, 'pos': index, 'source': _w};
                 }
 
                 //chec
                 else if(['eu'].indexOf(w) >= 0) {
                     auxilVerb['verb'] = 'avoir';
-                    return {'word_type':'pp', 'val': 'kozala na', 'translated': true, 'pos': index};
+                    return {'word_type':'pp', 'val': 'kozala na', 'translated': true, 'pos': index, 'source': _w};
                 }
 
                 //composed word  (e.g: dix-sept)
@@ -212,13 +224,14 @@ function francais_lingala(str, order, uniqueString) {
                         'word_type': 'pp',
                         'val': trans.val, //we just need a value
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
                 else if(/^[A-Z]/.test(_w) && index === 0 ) { //Noum at 0
                     return {'word_type':'noum', 'val': _w, 'translated': false, 'pos': index};
                 } else if(parseInt(_w, 10)) { //Number
-                    return {'word_type':'number', 'val': w, 'translated': false, 'pos': index};
+                    return {'word_type':'number', 'val': w, 'translated': false, 'pos': index, 'source': _w};
                 }
                 //find Word
                 else if(prevType.nature === 'article' && typeof findWord(w, index) === 'object' && findWord(w, index).val) {
@@ -231,6 +244,7 @@ function francais_lingala(str, order, uniqueString) {
                         'val': !!trans ? trans : ' ' + _w, //if word not founded then return the french version
                         'attach': getAttachedChar(_w),
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
@@ -246,6 +260,7 @@ function francais_lingala(str, order, uniqueString) {
                             'attach': getAttachedChar(_w),
                             'mode': 'ákí',                      // composed_verb mode
                             'pos': index
+                            , 'source': _w
                         }
                     } else if(findWord(w, index).val) {
                         let trans = findWord(w, index);
@@ -256,6 +271,7 @@ function francais_lingala(str, order, uniqueString) {
                             'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         }
                     } else {
 
@@ -266,6 +282,7 @@ function francais_lingala(str, order, uniqueString) {
                             'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         }
                     }
                 }
@@ -282,6 +299,7 @@ function francais_lingala(str, order, uniqueString) {
                         'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                         'attach': getAttachedChar(_w),
                         'pos': index
+                        , 'source': _w
                     }
                 }
 
@@ -298,6 +316,7 @@ function francais_lingala(str, order, uniqueString) {
                             'val': val,
                             'attach': attach,
                             'pos': index
+                            , 'source': _w
                         };
                     } else {
                         return {
@@ -307,6 +326,7 @@ function francais_lingala(str, order, uniqueString) {
                             'val': w,
                             'attach': attach,
                             'pos': index
+                            , 'source': _w
                         };
                     }
                 }
@@ -323,6 +343,7 @@ function francais_lingala(str, order, uniqueString) {
                             'val': verb.trans,
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         };
                     } else {
                         return {
@@ -332,6 +353,7 @@ function francais_lingala(str, order, uniqueString) {
                             'val': w,
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         };
                     }
                 }
@@ -359,6 +381,7 @@ function francais_lingala(str, order, uniqueString) {
                         'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                         'attach': getAttachedChar(_w),
                         'pos': index
+                        , 'source': _w
                     }
                 }
                 else if(typeof findWord(w, index) === 'object' && findWord(w, index).val) {
@@ -373,6 +396,7 @@ function francais_lingala(str, order, uniqueString) {
                             'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         }
                     }
                     return {
@@ -382,6 +406,7 @@ function francais_lingala(str, order, uniqueString) {
                         'prefixVerbal': false,        //the word without (article || pronom ...) will not have a prefix verbal
                         'attach': getAttachedChar(_w),
                         'pos': index
+                        , 'source': _w
                     }
                 }
                 //peut etre un verbe conjuger
@@ -395,6 +420,7 @@ function francais_lingala(str, order, uniqueString) {
                             'word_type':'noum',
                             'translated': false,
                             'attach': getAttachedChar(_w),
+                            'source': _w
                         }
                     } else if(_guessVerb(w, index, aspect).trans !== -1) {
                         let verb = _guessVerb(w, index, aspect);
@@ -408,6 +434,7 @@ function francais_lingala(str, order, uniqueString) {
                                 'val': (typeof verb.trans === 'object') ? _w : verb.trans,
                                 'attach': getAttachedChar(_w),
                                 'pos': index
+                                , 'source': _w
                             };
                         } else {
                             prevType    = {};
@@ -417,6 +444,7 @@ function francais_lingala(str, order, uniqueString) {
                                 'val': _w, // original word
                                 'attach': getAttachedChar(_w),
                                 'pos': index
+                                , 'source': _w
                             };
                         }
                     } else {
@@ -429,6 +457,7 @@ function francais_lingala(str, order, uniqueString) {
                             'val': _w, // original word
                             'attach': getAttachedChar(_w),
                             'pos': index
+                            , 'source': _w
                         };
                     }
                 }
@@ -440,18 +469,22 @@ function francais_lingala(str, order, uniqueString) {
                     'val': _w, // original word
                     'attach': getAttachedChar(_w),
                     'pos': index
+                    , 'source': _w
                 };
             }
         })
-
-
 
         let prevWord = '',
         prefixVerbal = '',
         demonstratif = '',
         negative_phr_end = '';
         let resolved_phrase = translated_words.reduce(function(_phrase, currWord, idx){
-            let sourceWord = currWord.val.metadata ? currWord.val.metadata.sourceWord : "";
+
+            if(typeof currWord.val === 'object') {
+                console.log(currWord, currWord.val)
+            }
+
+            let sourceWord = currWord.source ? currWord.source : "";
             let $return;
             if(currWord === ' ') {
                 return _phrase + ' ';
@@ -477,23 +510,23 @@ function francais_lingala(str, order, uniqueString) {
                     if(typeof word_val === 'string') {
                         if(word_val.startsWith('-a ')) {
                             word_val = (currWord.pos === 0 || currWord.pos === 1) 
-                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(3) + "</span>"
-                            : 'ya ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(3) + "</span>"
+                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val.slice(3) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"
+                            : 'ya ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val.slice(3) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"
                         } else if(word_val.startsWith('-')) {
                             word_val = (currWord.pos === 0 || currWord.pos === 1) 
-                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(1) + "</span>"
-                            : 'na ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val.slice(1) + "</span>"; //remove "-"
+                            ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val.slice(1) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"
+                            : 'na ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val.slice(1) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"; //remove "-"
                         } else {
-                            word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val + "</span>"
+                            word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"
                         }
                     } else {
-                        word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + word_val + "</span>";
+                        word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + word_val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>";
                     }
 
                     prefixVerbal = pure_val.number === 'singular' ? 'a' : 'ba';
                     prefixVerbal = !!pure_val.things ? 'e' : prefixVerbal;         //make prefixVerbalfor things
                 } else {
-                    word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + pure_val + "</span>";
+                    word_val = "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + pure_val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>";
                 }
 
                 //prefixVerbal = currWord.prefixVerbal ? prefixVerbal : '' //apply prefixVerbal after right word
@@ -510,9 +543,9 @@ function francais_lingala(str, order, uniqueString) {
                 prefixVerbal = 'a';
                 let $return;
                 if(demonstratif !== '') //if demonstratif
-                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
+                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + currWord.val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + currWord.attach + ' ' + demonstratif + ' ';
                 else
-                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ';
+                    $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + currWord.val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + currWord.attach + ' ';
 
                 demonstratif = '';
                 return $return;
@@ -520,20 +553,20 @@ function francais_lingala(str, order, uniqueString) {
 
             else if(!!currWord && currWord.word_type === 'noum') {
                 prefixVerbal = 'a';
-                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ' + demonstratif + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + currWord.val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + currWord.attach + ' ' + demonstratif + ' ';
                 demonstratif = '';
                 return $return;
             }
 
             else if(!!currWord && currWord.word_type === 'pref_pronominal') {
                 // prefixVerbal = 'a';
-                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + ' ' + demonstratif + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + currWord.val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + ' ' + demonstratif + ' ';
                 demonstratif = '';
                 return $return;
             }
 
             else if(!!currWord && currWord.word_type === 'prep') {
-                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + currWord.val + "</span>" + currWord.attach + ' ';
+                let $return = _phrase + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + currWord.val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + currWord.attach + ' ';
                 return $return;
             }
 
@@ -546,7 +579,7 @@ function francais_lingala(str, order, uniqueString) {
                     return  _phrase + ' ';
                 }
 
-                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
+                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + _conjuguer('', verbVal, fullMode) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + ' ';
             }
             //TODO
             else if(!!currWord && currWord.word_type === 'pp') {
@@ -558,15 +591,15 @@ function francais_lingala(str, order, uniqueString) {
                     composed_verb = false;
                     return  _phrase + ' ';
                 }
-                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + _conjuguer('', verbVal, fullMode) + "</span>" + ' ';
+                return _phrase + ' '  + prefixVerbal + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + _conjuguer('', verbVal, fullMode) + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + ' ';
             }
 
             let __val = (typeof currWord === 'object') ? currWord.val : '';
 
             return idx == 0 
-                ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + __val + "</span>"
-                : _phrase + ' ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +">" + __val + "</span>" + ' ';
-        }, '_____');
+                ? "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + __val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>"
+                : _phrase + ' ' + "<span contenteditable tabIndex='0' id="+ idx +" source-word="+ sourceWord +" class='editable-wpr'><span>" + __val + "</span><span source-word="+ sourceWord +" class='editable-meta'></span></span>" + ' ';
+        }, '');
 
 
 
@@ -576,8 +609,8 @@ function francais_lingala(str, order, uniqueString) {
         });
 
 
-        resolved_phrase = resolved_phrase + negative_phr_end + end_phrase;
-        resolved_phrase = resolved_phrase.slice(0, -1)
+        resolved_phrase = resolved_phrase + negative_phr_end;
+        resolved_phrase = resolved_phrase
                    .allReplace({
                        //http://sites.psu.edu/symbolcodes/ipavowels/
                        //https://stackoverflow.com/questions/44116800/how-to-show-html-entity-using-react
@@ -597,7 +630,7 @@ function francais_lingala(str, order, uniqueString) {
                    })
                            
         resolve({
-            'phrase' : resolved_phrase.slice(0, -1),  //remove the end point
+            'phrase' : "<span contenteditable tabIndex='0' data-type='phrase' class='editable-wpr' id="+ order +" source-phrase='"+ sourcePhrase.replace(/'/g, " ") +"'><span>" + resolved_phrase + endPhrase + "&nbsp;<span source-phrase="+ sourcePhrase +" class='editable-meta'></span></span>",  
             'uniqueString': uniqueString,
             'order': order,
             'metadatas': metadatas
@@ -814,12 +847,14 @@ function getAuxiliareMode(auxi, pos, aspect) {
  */
 function _conjuguer(prefix, verbVal, mode) {
     if(typeof verbVal === 'string') {
-        let _arr    = verbVal.split(' ');      // e.g: kozala na => get kozala
+        let _arr    = verbVal.split(' ');      // e.g: kozala na => get "kozala"
         let _val    = _arr[0];
-        let radical = _val.slice(2); //remove 'ko' at the start
+
+        let radical = _val.startsWith('ko') ? _val.slice(2) : _val.slice(0, -1); //remove 'ko' at the start or bring original ... 
+
         let $return = '';
         let builded = (
-            prefix +
+            prefix + ' ' + 
             radical.slice(0, -1) +  //remove last char before appling conjugaison
             mode
         );

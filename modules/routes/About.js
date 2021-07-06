@@ -5,7 +5,7 @@ import { Helmet }       from 'react-helmet'
 
 const  About = ({ match, location }) => {
     return(
-        <div className="hm-ctnr">
+        <div className="hm-ctnr container">
             <Helmet>
                 <meta charSet="utf-8" />
                 <title>A propos de XYZ - traduction</title>

@@ -1,0 +1,51 @@
+{
+	"rent": {
+		"francais": [{
+				"prendre à loyer, louer": {
+					"def": "",
+					"ex": "il m'a loué une maison"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a mba ndabo",
+			""
+		]
+	},
+
+	"roba": {
+		"francais": [{
+				"l'élastique": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	}
+}

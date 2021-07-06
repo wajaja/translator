@@ -39,7 +39,13 @@ class AppHeader extends Component {
  */
 class App extends Component {
 
+    constructor(props) {
+        super(props)
 
+        this.state = {
+
+        }
+    }
 
     componentWillMount () {
         const { dispatch, access_token } = this.props;
@@ -84,11 +90,38 @@ class App extends Component {
         return this.props !== nextProps
     }
 
+    editTranslated = (type, source, target, sourceLang, targetLang) => {
+
+        const values = { type, source, target, sourceLang, targetLang }
+        const { dispatch, user } = this.props;
+        axios.post( BASE_PATH + '/api/save-translated?user_id=' + user.id, values).then(
+            res => {
+                //dispatch(TranslatorActions.TranslatedSaved(''));
+                console.log('everything goods')
+                console.log(res)
+            },
+            err => {
+                console.log('error', err)
+        })
+
+    }
+
     /**
      * render
      * @returns markup
      */
     render() {
+
+        const { children }      = this.props
+        const childrenWithProps = React.Children.map(children, child =>
+            React.cloneElement(child, {
+                editTranslated: this.editTranslated,
+                ...this.state,
+                ...this.props,
+            })
+        )
+
+
         return (
             <div id="root" suppressHydrationWarning={true}>
                 <Helmet
@@ -111,7 +144,7 @@ class App extends Component {
                     user={this.props.user}
                     isAuthenticated={this.props.isAuthenticated}
                     />
-                {this.props.children}
+                {childrenWithProps}
             </div>
         )
     }

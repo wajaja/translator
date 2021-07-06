@@ -88,3 +88,40 @@ export const PUSH_SENTENCE = 'TRANSLATOR::PUSH_SENTENCE'
  * @private
  */
 export const _pushSentence = (sentence) => ({ type: PUSH_SENTENCE, sentence, })
+
+
+export const EDIT_TRANSLATED_REQUEST  = 'TRANSLATOR::EDIT_TRANSLATED_REQUEST'
+
+const editTranslatedReq = () => ({type: EDIT_TRANSLATED_REQUEST, submitting: true,})
+
+export const EDIT_TRANSLATED_RESPONSE  = 'TRANSLATOR::EDIT_TRANSLATED_RESPONSE'
+
+export const editTranslatedRes = (data) => ({type: EDIT_TRANSLATED_RESPONSE, data })
+
+export function editTranslated(data) {
+    return (dispatch, getState) => {
+        dispatch(editTranslatedReq())
+        return new Promise((resolve, reject) => {
+            axios.post(`${BASE_PATH}/api/places/new`, data).then(
+                (res) => {
+                    console.log(res.data)
+                    const { data } = res.data;
+                    dispatch(editTranslatedRes(data));
+                    resolve(data)
+                },
+                (error) => {
+                    if(error.response) {
+                        console.log(error.response.data);
+                        console.log(error.response.status);
+                        console.log(error.response.headers);
+                    } else if(error.request) {
+                        console.log(error.request);
+                    } else {
+                        console.log(error.message);
+                    }
+                    console.log(error.config);
+                    reject(error)
+                })
+        })
+    }
+}

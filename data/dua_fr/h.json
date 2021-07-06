@@ -1,0 +1,576 @@
+{
+	"ha": {
+		"francais": [{
+				"l'alcool très fort": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"haihai": {
+		"francais": [{
+				"une action pressante, importune": {
+					"def": "",
+					"ex": "il l'a pressévd'une manière très serrée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a walamen mo na",
+			""
+		]
+	},
+
+	"ham": {
+		"francais": [{
+				"le jambon, l'avidité": {
+					"def": "",
+					"ex": "il a avidement avalé une bouchée"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a min tambu na",
+			""
+		]
+	},
+
+	"hama": {
+		"francais": [{
+				"le marteau": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"hapapa": {
+		"francais": [{
+				"le bruit forte pluie": {
+					"def": "",
+					"ex": "l'eau tombe sur les pierres en faisant un grand bruit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"madiba ma mako o madale na",
+			""
+		]
+	},
+
+	"hawa": {
+		"francais": [{
+				"l'heure": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"hayan": {
+		"francais": [{
+				"le fer à repasser": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"hayane": {
+		"francais": [{
+				"repasser": {
+					"def": "",
+					"ex": "il repassait le vetement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"a ta a mboti",
+			""
+		]
+	},
+
+	"hedman": {
+		"francais": [{
+				"le contre-maitre, le chef": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"heft": {
+		"francais": [{
+				"le cahier": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"hekaheka": {
+		"francais": [{
+				"la rapidité": {
+					"def": "",
+					"ex": "la nouvelle de la mort l'a amené très rapidement"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"musea ma kwedi mu wan mo na",
+			""
+		]
+	},
+
+	"hebem": {
+		"francais": [{
+				"la force avec la quelle on saute": {
+					"def": "",
+					"ex": "il a sauté en faisanr un grand bond"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"moto angwe na",
+			""
+		]
+	},
+
+	"hem": {
+		"francais": [{
+				"l'ourlet": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"heme, hem": {
+		"francais": [{
+				"ourler": {
+					"def": "",
+					"ex": "la femme a ourlé l'habit"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"muto a hem mboti",
+			""
+		]
+	},
+
+	"hiho": {
+		"francais": [{
+				"pour approuver tous ensemble quelque chose": {
+					"def": "",
+					"ex": "disons tous ensemble"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"biso bese di kwale na",
+			""
+		]
+	},
+
+	"ho": {
+		"francais": [{
+				"la monquerie": {
+					"def": "",
+					"ex": "aha notre pirogue a gagné"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ho bolo basu bo buki baku aha",
+			""
+		]
+	},
+
+	"hom": {
+		"francais": [{
+				"le rugissement du lion ou l'aboiement du chien": {
+					"def": "",
+					"ex": "le chien aboie fort"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"mbo e madoma na",
+			""
+		]
+	},
+
+	"homhom": {
+		"francais": [{
+				"quelque chose est fait rapidement": {
+					"def": "",
+					"ex": "faire quelque chose en hate"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"bola lambo na",
+			""
+		]
+	},
+
+	"hospital": {
+		"francais": [{
+				"l'hopital": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"ho-i-ho": {
+		"francais": [{
+				"acclamer un vainquer dans les luttes": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	},
+
+	"hoi": {
+		"francais": [{
+				"quelque chose est fait continuellement, sans arret": {
+					"def": "",
+					"ex": "ils ont couru sans arret"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ba ni mila na",
+			""
+		]
+	},
+
+	"holololo": {
+		"francais": [{
+				"le bruit d'une foule": {
+					"def": "",
+					"ex": "il y a un grand bruit de foule dans le village"
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"ye o mundi jita",
+			""
+		]
+	},
+
+	"holkat": {
+		"francais": [{
+				"la cale": {
+					"def": "",
+					"ex": ""
+				}
+			},
+
+			{
+				"": {
+					"def": "",
+					"ex": ""
+				}
+			}
+		],
+		"def": [
+			"",
+			""
+		],
+		"ex": [
+			"",
+			""
+		]
+	}
+}
